@@ -1,0 +1,49 @@
+name: Hunt NZ jobs
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may delay scheduled runs by a few minutes.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hunt
+  cancel-in-progress: false
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: python -m unittest discover -s tests -q
+
+      - name: Hunt
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m hunter.run
+
+      - name: Save results
+        run: |
+          git config user.name "nz-job-hunter"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -q -m "hunt: $(python -c 'import json;m=json.load(open("data/meta.json"));print(m["new_this_run"],"new,",m["visa_ready_this_run"],"visa-ready")')"
+          git pull -q --rebase
+          git push -q

@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NZ Visa Jobs</title>
+<meta name="robots" content="noindex">
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --ink: #14171c; --muted: #5d6673; --line: #e3e6ea;
+    --accent: #0b6bcb; --good: #127a43; --good-bg: #e5f5ec; --warn: #9a5b00; --warn-bg: #fff3dc;
+    --bad: #b42318; --bad-bg: #fde9e7; --chip: #eef1f4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1216; --panel: #171b21; --ink: #e8ebef; --muted: #98a2ae; --line: #2a3038;
+      --accent: #5aa8ff; --good: #52c98a; --good-bg: #12301f; --warn: #f0b44c; --warn-bg: #33260d;
+      --bad: #ff8a80; --bad-bg: #3a1714; --chip: #222831;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--accent); }
+  header { padding: 20px 16px 8px; max-width: 1180px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px 40px; display: grid; grid-template-columns: 1fr 300px; gap: 20px; }
+  @media (max-width: 860px) { .wrap { grid-template-columns: 1fr; } aside { order: -1; } }
+  .stats { display: flex; gap: 10px; flex-wrap: wrap; margin: 12px 0; }
+  .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; min-width: 110px; }
+  .stat b { display: block; font-size: 20px; }
+  .stat span { color: var(--muted); font-size: 12px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 4px 0 14px; }
+  .bar input[type=search] { flex: 1 1 220px; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); font-size: 14px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .seg button { border: 0; background: var(--panel); color: var(--ink); padding: 7px 11px; font-size: 13px; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.on { background: var(--accent); color: #fff; }
+  .job { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 10px; }
+  .job.ready { border-left: 4px solid var(--good); }
+  .job.done { opacity: .55; }
+  .top { display: flex; gap: 10px; justify-content: space-between; align-items: flex-start; }
+  .title { font-weight: 600; font-size: 16px; text-decoration: none; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+  .b { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: var(--chip); white-space: nowrap; }
+  .b.good { background: var(--good-bg); color: var(--good); }
+  .b.warn { background: var(--warn-bg); color: var(--warn); }
+  .b.bad { background: var(--bad-bg); color: var(--bad); }
+  .score { font-variant-numeric: tabular-nums; font-weight: 700; font-size: 18px; text-align: right; }
+  .score small { display: block; font-weight: 400; font-size: 11px; color: var(--muted); }
+  .quote { font-size: 12.5px; color: var(--muted); margin: 6px 0 0; padding-left: 8px; border-left: 2px solid var(--line); }
+  .actions { display: flex; gap: 6px; margin-top: 10px; flex-wrap: wrap; }
+  .actions button { font-size: 12px; padding: 5px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); cursor: pointer; }
+  .actions button.on { background: var(--ink); color: var(--panel); }
+  details summary { cursor: pointer; font-size: 13px; color: var(--muted); margin-top: 8px; }
+  details p { font-size: 13px; white-space: pre-wrap; }
+  aside .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 12px; font-size: 13.5px; }
+  aside h2 { font-size: 15px; margin: 0 0 8px; }
+  aside ul { margin: 0; padding-left: 18px; }
+  aside li { margin-bottom: 6px; }
+  label.chk { display: flex; gap: 8px; align-items: flex-start; margin-bottom: 6px; cursor: pointer; }
+  .empty { color: var(--muted); padding: 30px; text-align: center; background: var(--panel); border-radius: 12px; border: 1px dashed var(--line); }
+  .err { color: var(--bad); font-size: 12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>NZ jobs for the India Skilled Work Visa</h1>
+  <div class="sub" id="sub">Loading…</div>
+  <div class="stats" id="stats"></div>
+</header>
+<div class="wrap">
+  <main>
+    <div class="bar">
+      <div class="seg" id="view">
+        <button data-v="ready" class="on">Visa-ready</button>
+        <button data-v="open">All in scope</button>
+        <button data-v="blocked">Blocked</button>
+        <button data-v="applied">Applied</button>
+      </div>
+      <input type="search" id="q" placeholder="Search title, company, skill…">
+      <div class="seg" id="src">
+        <button data-s="" class="on">All</button>
+        <button data-s="Seek">Seek</button>
+        <button data-s="LinkedIn">LinkedIn</button>
+      </div>
+    </div>
+    <div id="list"></div>
+  </main>
+  <aside>
+    <div class="card" id="quota"><h2>Visa places</h2><div class="sub">Checking…</div></div>
+    <div class="card">
+      <h2>Your visa checklist</h2>
+      <div id="checklist"></div>
+    </div>
+    <div class="card">
+      <h2>What the badges mean</h2>
+      <ul>
+        <li><b>Visa-ready</b>: employer is on the INZ accredited list, or the ad offers sponsorship, and nothing in the ad rules out visa holders. Only these are emailed.</li>
+        <li><b>Agency</b>: a recruiter posted it. Ask who the employer is and whether they are AEWV accredited.</li>
+        <li><b>Not on public list</b>: employers can hide from the INZ list, so ask before ruling it out.</li>
+      </ul>
+    </div>
+  </aside>
+</div>
+<script>
+const CHECKLIST = [
+  ["english", "English test booked/passed in person (results under 2 years old)"],
+  ["iqa", "NZQA IQA started for B.Tech (needed unless the programme is Washington Accord accredited)"],
+  ["evidence", "5+ years of evidence (Apr 2021 onward, no gaps): experience letters, payslips, Form 16 from Octro, Gameskraft, Paytm, MediBuddy"],
+  ["police", "Police certificate (India + anywhere lived 12+ months)"],
+  ["medical", "Medical + chest X-ray booked once an offer lands (must be within 3 months)"],
+  ["passport", "Indian passport valid for the whole stay"],
+  ["cv", "NZ-style CV: 2 pages, no photo/DOB, says 'India Skilled Work Visa eligible'"],
+  ["fee", "NZD 1,355+ ready for the application (form INZ 1402)"],
+];
+const ACC = {
+  accredited: ["good", "✅ Accredited"],
+  expired: ["bad", "Accreditation expired"],
+  not_listed: ["warn", "Not on public INZ list"],
+  unknown: ["", "Accreditation not checked yet"],
+};
+const store = {
+  get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+};
+let JOBS = [], META = {}, view = "ready", src = "", q = "";
+let marks = store.get("marks", {});
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function ago(iso) {
+  if (!iso) return "";
+  const h = (Date.now() - new Date(iso)) / 36e5;
+  if (h < 1) return "just now";
+  if (h < 24) return `${Math.round(h)}h ago`;
+  return `${Math.round(h / 24)}d ago`;
+}
+async function load(name) {
+  for (const p of [name, `../data/${name}`]) {
+    try { const r = await fetch(p, { cache: "no-store" }); if (r.ok) return await r.json(); } catch {}
+  }
+  return null;
+}
+
+function card(j) {
+  const m = marks[j.id];
+  const acc = j.recruiter && j.accreditation?.status !== "accredited"
+    ? ["warn", "Agency: ask the employer's name"]
+    : (ACC[j.accreditation?.status] || ACC.unknown);
+  const accText = acc[1] + (j.accreditation?.status === "accredited" && j.accreditation.expiry ? ` · to ${j.accreditation.expiry}` : "");
+  const badges = [
+    `<span class="b ${acc[0]}" title="${esc(j.accreditation?.legal_name || "")}">${esc(accText)}</span>`,
+    ...(j.positives || []).map(p => `<span class="b good">👍 ${esc(p.why)}</span>`),
+    ...(j.hard_blockers || []).map(p => `<span class="b bad">⛔ ${esc(p.why)}</span>`),
+    ...(j.soft_blockers || []).map(p => `<span class="b warn">⚠️ ${esc(p.why)}</span>`),
+    j.work_type ? `<span class="b">${esc(j.work_type)}</span>` : "",
+    j.salary ? `<span class="b">${esc(j.salary)}</span>` : "",
+    ...(j.skills || []).map(s => `<span class="b">${esc(s)}</span>`),
+  ].join("");
+  const quotes = [...(j.hard_blockers || []), ...(j.soft_blockers || []), ...(j.positives || [])]
+    .slice(0, 3).map(p => `<p class="quote">“${esc(p.quote)}”</p>`).join("");
+  const also = (j.also_on || []).map(a => ` · <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a>`).join("");
+  return `<article class="job ${j.visa_ready ? "ready" : ""} ${m ? "done" : ""}">
+    <div class="top">
+      <div>
+        <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        <div class="meta">${esc(j.company)} · ${esc(j.location)} · ${esc(j.source)}${also} · posted ${ago(j.posted_at)} · found ${ago(j.first_seen)}</div>
+      </div>
+      <div class="score">${j.score}<small>${j.visa_ready ? "visa-ready" : esc(j.tier === "blocked" ? "blocked" : "tier " + j.tier)}</small></div>
+    </div>
+    <div class="badges">${badges}</div>
+    ${quotes}
+    ${j.summary ? `<details><summary>Summary</summary><p>${esc(j.summary)}…</p></details>` : ""}
+    <div class="actions">
+      <button data-id="${esc(j.id)}" data-m="applied" class="${m === "applied" ? "on" : ""}">Applied</button>
+      <button data-id="${esc(j.id)}" data-m="skip" class="${m === "skip" ? "on" : ""}">Not for me</button>
+    </div>
+  </article>`;
+}
+
+function render() {
+  const needle = q.toLowerCase();
+  const list = JOBS.filter(j => {
+    const m = marks[j.id];
+    if (view === "applied") { if (m !== "applied") return false; }
+    else if (m === "skip" && view !== "blocked") return false;
+    else if (view === "ready" && !j.visa_ready) return false;
+    else if (view === "open" && j.tier === "blocked") return false;
+    else if (view === "blocked" && j.tier !== "blocked") return false;
+    if (src && j.source !== src) return false;
+    if (needle && !`${j.title} ${j.company} ${j.location} ${(j.skills || []).join(" ")}`.toLowerCase().includes(needle)) return false;
+    return true;
+  });
+  document.getElementById("list").innerHTML = list.length
+    ? list.map(card).join("")
+    : `<div class="empty">${view === "ready" ? "No visa-ready jobs yet. New ones are emailed as soon as they are found." : "Nothing here."}</div>`;
+}
+
+function renderSide() {
+  const done = store.get("checklist", {});
+  document.getElementById("checklist").innerHTML = CHECKLIST.map(([k, t]) =>
+    `<label class="chk"><input type="checkbox" data-c="${k}" ${done[k] ? "checked" : ""}> <span>${esc(t)}</span></label>`).join("");
+  const qd = META.quota;
+  document.getElementById("quota").innerHTML = `<h2>Visa places</h2>` + (qd
+    ? `<ul>${qd.lines.slice(0, 4).map(l => `<li>${esc(l)}</li>`).join("")}</ul><div class="sub">Checked ${ago(qd.checked_at)} · <a href="https://www.immigration.govt.nz/visas/india-skilled-work-visa/" target="_blank" rel="noopener">INZ page</a></div>`
+    : `<div class="sub">Not checked yet.</div>`);
+}
+
+function renderHeader() {
+  const ready = JOBS.filter(j => j.visa_ready && !marks[j.id]).length;
+  const applied = Object.values(marks).filter(v => v === "applied").length;
+  const today = JOBS.filter(j => (Date.now() - new Date(j.first_seen)) < 864e5).length;
+  document.getElementById("sub").innerHTML =
+    `Seek + LinkedIn, checked every 15 minutes. Last run ${ago(META.last_run) || "never"}.` +
+    (META.errors?.length ? ` <span class="err">${META.errors.length} source error(s) last run.</span>` : "");
+  document.getElementById("stats").innerHTML = [
+    [ready, "visa-ready, to review"], [today, "found in last 24h"],
+    [JOBS.filter(j => j.tier !== "blocked").length, "in scope"], [applied, "applied"],
+  ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  if (b.dataset.v) { view = b.dataset.v; setOn("view", b); render(); }
+  if (b.dataset.s !== undefined && b.parentElement.id === "src") { src = b.dataset.s; setOn("src", b); render(); }
+  if (b.dataset.m) {
+    const id = b.dataset.id;
+    marks[id] = marks[id] === b.dataset.m ? undefined : b.dataset.m;
+    if (!marks[id]) delete marks[id];
+    store.set("marks", marks); render(); renderHeader();
+  }
+});
+document.addEventListener("change", e => {
+  if (e.target.dataset.c) { const d = store.get("checklist", {}); d[e.target.dataset.c] = e.target.checked; store.set("checklist", d); }
+});
+document.getElementById("q").addEventListener("input", e => { q = e.target.value; render(); });
+function setOn(id, btn) { document.querySelectorAll(`#${id} button`).forEach(x => x.classList.toggle("on", x === btn)); }
+
+(async () => {
+  const [jobs, meta] = await Promise.all([load("jobs.json"), load("meta.json")]);
+  JOBS = jobs?.jobs || []; META = meta || {};
+  renderHeader(); renderSide(); render();
+})();
+</script>
+</body>
+</html>

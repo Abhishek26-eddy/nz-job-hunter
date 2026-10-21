@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "mkdir -p public && cp site/index.html public/ && cp data/jobs.json data/meta.json public/",
+  "outputDirectory": "public",
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- data/jobs.json site vercel.json",
+  "headers": [
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }] },
+    { "source": "/(.*).json", "headers": [{ "key": "Cache-Control", "value": "no-store" }] }
+  ]
+}

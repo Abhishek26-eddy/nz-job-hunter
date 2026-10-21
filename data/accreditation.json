@@ -1,0 +1,674 @@
+{
+ "absolute it": {
+  "checked_at": "2026-10-21T14:38:02.442362+00:00",
+  "status": "not_listed"
+ },
+ "accenture": {
+  "checked_at": "2026-10-21T14:27:48.011680+00:00",
+  "expiry": "2028-07-30",
+  "legal_name": "ACCENTURE NZ LIMITED",
+  "nzbn": "9429036900138",
+  "status": "accredited"
+ },
+ "aderant": {
+  "checked_at": "2026-10-21T14:31:15.560629+00:00",
+  "status": "not_listed"
+ },
+ "adviser platform": {
+  "checked_at": "2026-10-21T14:38:42.088530+00:00",
+  "status": "not_listed"
+ },
+ "afi": {
+  "checked_at": "2026-10-21T14:38:34.967964+00:00",
+  "status": "not_listed"
+ },
+ "alstef": {
+  "checked_at": "2026-10-21T14:38:34.030861+00:00",
+  "status": "not_listed"
+ },
+ "amazon web": {
+  "checked_at": "2026-10-21T14:32:06.363881+00:00",
+  "expiry": "2028-06-05",
+  "legal_name": "AMAZON WEB SERVICES NEW ZEALAND LIMITED",
+  "nzbn": "9429030252417",
+  "status": "accredited"
+ },
+ "aofrio": {
+  "checked_at": "2026-10-21T14:29:26.949165+00:00",
+  "expiry": "2028-07-20",
+  "legal_name": "AOFRIO LIMITED",
+  "nzbn": "9429039715586",
+  "status": "accredited"
+ },
+ "arinco": {
+  "checked_at": "2026-10-21T14:38:03.411101+00:00",
+  "status": "not_listed"
+ },
+ "arthur d riley": {
+  "checked_at": "2026-10-21T14:28:09.152258+00:00",
+  "expiry": "2026-10-24",
+  "legal_name": "ARTHUR D. RILEY AND COMPANY LIMITED",
+  "nzbn": "9429040827773",
+  "status": "accredited"
+ },
+ "asb bank": {
+  "checked_at": "2026-10-21T14:29:04.445895+00:00",
+  "expiry": "2028-05-01",
+  "legal_name": "ASB BANK LIMITED",
+  "nzbn": "9429039435743",
+  "status": "accredited"
+ },
+ "atlassian": {
+  "checked_at": "2026-10-21T14:32:17.867597+00:00",
+  "expiry": "2028-05-29",
+  "legal_name": "ATLASSIAN NEW ZEALAND",
+  "nzbn": "9429048747158",
+  "status": "accredited"
+ },
+ "auckland university of": {
+  "checked_at": "2026-10-21T14:27:13.258939+00:00",
+  "expiry": "2028-08-04",
+  "legal_name": "Auckland University of Technology",
+  "nzbn": "9429041901069",
+  "status": "accredited"
+ },
+ "basis": {
+  "checked_at": "2026-10-21T14:26:57.015174+00:00",
+  "expiry": "2027-04-16",
+  "legal_name": "BASIS NZ LIMITED",
+  "nzbn": "9429047603479",
+  "status": "accredited"
+ },
+ "beyond recruitment": {
+  "checked_at": "2026-10-21T14:38:19.384738+00:00",
+  "status": "not_listed"
+ },
+ "brightspark recruitment": {
+  "checked_at": "2026-10-21T14:38:04.422685+00:00",
+  "status": "not_listed"
+ },
+ "carbonscape": {
+  "checked_at": "2026-10-21T14:38:26.394752+00:00",
+  "status": "not_listed"
+ },
+ "centrapay": {
+  "checked_at": "2026-10-21T14:31:24.824923+00:00",
+  "expiry": "2027-08-07",
+  "legal_name": "CENTRAPAY LIMITED",
+  "nzbn": "9429046246448",
+  "status": "accredited"
+ },
+ "cognizant": {
+  "checked_at": "2026-10-21T14:27:41.231121+00:00",
+  "expiry": "2028-07-22",
+  "legal_name": "COGNIZANT NEW ZEALAND LIMITED",
+  "nzbn": "9429034650264",
+  "status": "accredited"
+ },
+ "collada": {
+  "checked_at": "2026-10-21T14:38:39.441717+00:00",
+  "status": "not_listed"
+ },
+ "comspek international": {
+  "checked_at": "2026-10-21T14:38:40.926166+00:00",
+  "status": "not_listed"
+ },
+ "consult recruitment": {
+  "checked_at": "2026-10-21T14:26:33.085852+00:00",
+  "expiry": "2028-08-27",
+  "legal_name": "CONSULT RECRUITMENT LIMITED",
+  "nzbn": "9429047259775",
+  "status": "accredited"
+ },
+ "convergence partners": {
+  "checked_at": "2026-10-21T14:38:09.239132+00:00",
+  "status": "not_listed"
+ },
+ "crescent consulting": {
+  "checked_at": "2026-10-21T14:38:37.453677+00:00",
+  "status": "not_listed"
+ },
+ "cybercx": {
+  "checked_at": "2026-10-21T14:37:05.446300+00:00",
+  "status": "not_listed"
+ },
+ "datacom": {
+  "checked_at": "2026-10-21T14:29:30.384126+00:00",
+  "expiry": "2028-08-03",
+  "legal_name": "DATACOM NEW ZEALAND LIMITED",
+  "nzbn": "9429032698626",
+  "status": "accredited"
+ },
+ "dds it": {
+  "checked_at": "2026-10-21T14:29:34.376447+00:00",
+  "expiry": "2028-06-12",
+  "legal_name": "DIGITAL DATA SYSTEMS LIMITED",
+  "nzbn": "9429036076642",
+  "status": "accredited"
+ },
+ "deloitte": {
+  "checked_at": "2026-10-21T14:31:46.203891+00:00",
+  "expiry": "2028-07-14",
+  "legal_name": "Deloitte Trading Trust",
+  "nzbn": "9429050617173",
+  "status": "accredited"
+ },
+ "desktop": {
+  "checked_at": "2026-10-21T14:26:19.578588+00:00",
+  "expiry": "2028-09-18",
+  "legal_name": "DESKTOP TECHNOLOGY SERVICES LIMITED",
+  "nzbn": "9429038173691",
+  "status": "accredited"
+ },
+ "dms progrowers": {
+  "checked_at": "2026-10-21T14:38:36.003579+00:00",
+  "status": "not_listed"
+ },
+ "dxc": {
+  "checked_at": "2026-10-21T14:27:31.304474+00:00",
+  "expiry": "2028-08-18",
+  "legal_name": "DXC TECHNOLOGY NZ LIMITED",
+  "nzbn": "9429035677499",
+  "status": "accredited"
+ },
+ "edmi": {
+  "checked_at": "2026-10-21T14:38:14.563269+00:00",
+  "status": "not_listed"
+ },
+ "emrec": {
+  "checked_at": "2026-10-21T14:26:21.474978+00:00",
+  "expiry": "2027-02-23",
+  "legal_name": "EMREC LIMITED",
+  "nzbn": "9429042052814",
+  "status": "accredited"
+ },
+ "environment canterbury": {
+  "checked_at": "2026-10-21T14:27:15.099971+00:00",
+  "expiry": "2028-05-11",
+  "legal_name": "Canterbury Regional Council",
+  "nzbn": "9429041900130",
+  "status": "accredited"
+ },
+ "equinox it": {
+  "checked_at": "2026-10-21T14:38:44.995650+00:00",
+  "status": "not_listed"
+ },
+ "eroad": {
+  "checked_at": "2026-10-21T14:30:36.167854+00:00",
+  "expiry": "2028-08-10",
+  "legal_name": "EROAD LIMITED",
+  "nzbn": "9429037254377",
+  "status": "accredited"
+ },
+ "evercommerce": {
+  "checked_at": "2026-10-21T14:38:05.408417+00:00",
+  "status": "not_listed"
+ },
+ "evolve recruitment": {
+  "checked_at": "2026-10-21T14:38:08.280032+00:00",
+  "status": "not_listed"
+ },
+ "findit recruitment": {
+  "checked_at": "2026-10-21T14:37:54.173287+00:00",
+  "status": "not_listed"
+ },
+ "fisher and paykel healthcare": {
+  "checked_at": "2026-10-21T14:28:02.761885+00:00",
+  "expiry": "2028-03-12",
+  "legal_name": "FISHER & PAYKEL HEALTHCARE LIMITED",
+  "nzbn": "9429040555720",
+  "status": "accredited"
+ },
+ "fonterra": {
+  "checked_at": "2026-10-21T14:26:52.260488+00:00",
+  "expiry": "2028-08-06",
+  "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
+  "nzbn": "9429036748471",
+  "status": "accredited"
+ },
+ "frogparking": {
+  "checked_at": "2026-10-21T14:38:31.191927+00:00",
+  "status": "not_listed"
+ },
+ "fujifilm business innovation": {
+  "checked_at": "2026-10-21T14:27:44.655310+00:00",
+  "expiry": "2028-06-25",
+  "legal_name": "FUJIFILM BUSINESS INNOVATION NEW ZEALAND LIMITED",
+  "nzbn": "9429040663906",
+  "status": "accredited"
+ },
+ "fujitsu": {
+  "checked_at": "2026-10-21T14:28:54.947456+00:00",
+  "expiry": "2028-09-09",
+  "legal_name": "FUJITSU NEW ZEALAND LIMITED",
+  "nzbn": "9429040786070",
+  "status": "accredited"
+ },
+ "fuse it recruitment": {
+  "checked_at": "2026-10-21T14:38:25.385214+00:00",
+  "status": "not_listed"
+ },
+ "fusion networks": {
+  "checked_at": "2026-10-21T14:26:55.185325+00:00",
+  "expiry": "2028-06-16",
+  "legal_name": "FUSION NETWORKS LIMITED",
+  "nzbn": "9429032260694",
+  "status": "accredited"
+ },
+ "fusion5": {
+  "checked_at": "2026-10-21T14:32:18.650925+00:00",
+  "expiry": "2028-06-12",
+  "legal_name": "FUSION5 LIMITED",
+  "nzbn": "9429037566043",
+  "status": "accredited"
+ },
+ "future secure ai": {
+  "checked_at": "2026-10-21T14:37:59.044184+00:00",
+  "status": "not_listed"
+ },
+ "global dairy trade": {
+  "checked_at": "2026-10-21T14:37:58.091398+00:00",
+  "status": "not_listed"
+ },
+ "global wave": {
+  "checked_at": "2026-10-21T14:30:42.407278+00:00",
+  "expiry": "2026-11-21",
+  "legal_name": "GLOBAL WAVE GROUP LIMITED",
+  "nzbn": "9429041216323",
+  "status": "accredited"
+ },
+ "government communications security bureau": {
+  "checked_at": "2026-10-21T14:38:43.065671+00:00",
+  "status": "not_listed"
+ },
+ "halter": {
+  "checked_at": "2026-10-21T14:32:20.496467+00:00",
+  "expiry": "2028-04-28",
+  "legal_name": "HALTER LIMITED",
+  "nzbn": "9429042479222",
+  "status": "accredited"
+ },
+ "hewlett packard enterprise": {
+  "checked_at": "2026-10-21T14:37:43.710175+00:00",
+  "status": "not_listed"
+ },
+ "hr contracting": {
+  "checked_at": "2026-10-21T14:38:29.301920+00:00",
+  "status": "not_listed"
+ },
+ "ignite spark": {
+  "checked_at": "2026-10-21T14:38:27.343915+00:00",
+  "status": "not_listed"
+ },
+ "industrial marine electrical": {
+  "checked_at": "2026-10-21T14:27:49.555639+00:00",
+  "expiry": "2027-08-12",
+  "legal_name": "INDUSTRIAL MARINE ELECTRICAL LIMITED",
+  "nzbn": "9429036967971",
+  "status": "accredited"
+ },
+ "iph": {
+  "checked_at": "2026-10-21T14:27:17.297546+00:00",
+  "status": "not_listed"
+ },
+ "jade software": {
+  "checked_at": "2026-10-21T14:28:45.401289+00:00",
+  "expiry": "2028-05-13",
+  "legal_name": "JADE SOFTWARE CORPORATION LIMITED",
+  "nzbn": "9429039604873",
+  "status": "accredited"
+ },
+ "jigsaw staffing": {
+  "checked_at": "2026-10-21T14:38:20.278530+00:00",
+  "status": "not_listed"
+ },
+ "k inga ora homes and communities": {
+  "checked_at": "2026-10-21T14:38:17.463084+00:00",
+  "status": "not_listed"
+ },
+ "kainga ora": {
+  "checked_at": "2026-10-21T14:27:42.943427+00:00",
+  "status": "not_listed"
+ },
+ "kiwibank": {
+  "checked_at": "2026-10-21T14:28:25.322330+00:00",
+  "expiry": "2028-06-12",
+  "legal_name": "KIWIBANK LIMITED",
+  "nzbn": "9429036917211",
+  "status": "accredited"
+ },
+ "kordia": {
+  "checked_at": "2026-10-21T14:26:28.749469+00:00",
+  "expiry": "2027-05-15",
+  "legal_name": "KORDIA LIMITED",
+  "nzbn": "9429039352439",
+  "status": "accredited"
+ },
+ "kpmg": {
+  "checked_at": "2026-10-21T14:37:15.474988+00:00",
+  "status": "not_listed"
+ },
+ "lab3": {
+  "checked_at": "2026-10-21T14:37:56.614944+00:00",
+  "status": "not_listed"
+ },
+ "letterboxd": {
+  "checked_at": "2026-10-21T14:30:19.135710+00:00",
+  "expiry": "2027-03-04",
+  "legal_name": "LETTERBOXD LIMITED",
+  "nzbn": "9429030900288",
+  "status": "accredited"
+ },
+ "lightspeed commerce": {
+  "checked_at": "2026-10-21T14:38:07.328167+00:00",
+  "status": "not_listed"
+ },
+ "ltimindtree": {
+  "checked_at": "2026-10-21T14:38:44.035966+00:00",
+  "status": "not_listed"
+ },
+ "massey university": {
+  "checked_at": "2026-10-21T14:26:16.403479+00:00",
+  "expiry": "2028-07-14",
+  "legal_name": "Massey University",
+  "nzbn": "9429041911723",
+  "status": "accredited"
+ },
+ "massey university te kunenga ki p rehuroa": {
+  "checked_at": "2026-10-21T14:31:40.595838+00:00",
+  "status": "not_listed"
+ },
+ "mckechnie aluminium": {
+  "checked_at": "2026-10-21T14:28:30.137230+00:00",
+  "expiry": "2028-05-05",
+  "legal_name": "MCKECHNIE ALUMINIUM SOLUTIONS LIMITED",
+  "nzbn": "9429035559429",
+  "status": "accredited"
+ },
+ "mg fresh produce": {
+  "checked_at": "2026-10-21T14:38:32.127989+00:00",
+  "status": "not_listed"
+ },
+ "momentum consulting": {
+  "checked_at": "2026-10-21T14:29:36.189942+00:00",
+  "expiry": "2027-04-15",
+  "legal_name": "MOMENTUM CONSULTING GROUP LIMITED",
+  "nzbn": "9429038335914",
+  "status": "accredited"
+ },
+ "northpower": {
+  "checked_at": "2026-10-21T14:27:46.513521+00:00",
+  "expiry": "2028-05-28",
+  "legal_name": "NORTHPOWER LIMITED",
+  "nzbn": "9429039052339",
+  "status": "accredited"
+ },
+ "nzist whitireia and weltec": {
+  "checked_at": "2026-10-21T14:38:30.244107+00:00",
+  "status": "not_listed"
+ },
+ "one": {
+  "checked_at": "2026-10-21T14:31:37.418385+00:00",
+  "expiry": "2028-06-26",
+  "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
+  "nzbn": "9429037753115",
+  "status": "accredited"
+ },
+ "partly": {
+  "checked_at": "2026-10-21T14:31:53.492944+00:00",
+  "expiry": "2028-08-12",
+  "legal_name": "PARTLY GROUP LIMITED",
+  "nzbn": "9429048482516",
+  "status": "accredited"
+ },
+ "pegasus health": {
+  "checked_at": "2026-10-21T14:26:24.816610+00:00",
+  "expiry": "2028-05-16",
+  "legal_name": "PEGASUS HEALTH (CHARITABLE) LIMITED",
+  "nzbn": "9429038495540",
+  "status": "accredited"
+ },
+ "peoplelogic": {
+  "checked_at": "2026-10-21T14:38:33.064953+00:00",
+  "status": "not_listed"
+ },
+ "placeme it recruitment": {
+  "checked_at": "2026-10-21T14:28:59.685341+00:00",
+  "expiry": "2027-10-16",
+  "legal_name": "PLACEME IT RECRUITMENT LIMITED",
+  "nzbn": "9429032461664",
+  "status": "accredited"
+ },
+ "potentia": {
+  "checked_at": "2026-10-21T14:27:54.190670+00:00",
+  "status": "not_listed"
+ },
+ "powerco": {
+  "checked_at": "2026-10-21T14:28:13.608385+00:00",
+  "expiry": "2028-07-09",
+  "legal_name": "POWERCO LIMITED",
+  "nzbn": "9429037332174",
+  "status": "accredited"
+ },
+ "precision farming": {
+  "checked_at": "2026-10-21T14:38:11.154651+00:00",
+  "status": "not_listed"
+ },
+ "presto resourcing": {
+  "checked_at": "2026-10-21T14:38:06.377630+00:00",
+  "status": "not_listed"
+ },
+ "propellerhead": {
+  "checked_at": "2026-10-21T14:26:48.163179+00:00",
+  "expiry": "2028-04-15",
+  "legal_name": "PROPELLERHEAD LIMITED",
+  "nzbn": "9429038205231",
+  "status": "accredited"
+ },
+ "pulse energy": {
+  "checked_at": "2026-10-21T14:38:16.450060+00:00",
+  "status": "not_listed"
+ },
+ "punchbowl packco": {
+  "checked_at": "2026-10-21T14:29:51.212112+00:00",
+  "expiry": "2027-05-11",
+  "legal_name": "PUNCHBOWL PACKCO LIMITED",
+  "nzbn": "9429031763752",
+  "status": "accredited"
+ },
+ "quantifi photonics": {
+  "checked_at": "2026-10-21T14:28:18.793062+00:00",
+  "expiry": "2026-11-20",
+  "legal_name": "QUANTIFI PHOTONICS LIMITED",
+  "nzbn": "9429030566651",
+  "status": "accredited"
+ },
+ "randstad": {
+  "checked_at": "2026-10-21T14:37:55.637663+00:00",
+  "status": "not_listed"
+ },
+ "reannz": {
+  "checked_at": "2026-10-21T14:38:01.437818+00:00",
+  "status": "not_listed"
+ },
+ "recruit i t": {
+  "checked_at": "2026-10-21T14:31:21.363271+00:00",
+  "expiry": "2027-05-25",
+  "legal_name": "RECRUIT IT GROUP LIMITED",
+  "nzbn": "9429033818122",
+  "status": "accredited"
+ },
+ "red hat": {
+  "checked_at": "2026-10-21T14:38:13.630888+00:00",
+  "status": "not_listed"
+ },
+ "robert half": {
+  "checked_at": "2026-10-21T14:29:44.858126+00:00",
+  "expiry": "2028-05-21",
+  "legal_name": "ROBERT HALF NEW ZEALAND LIMITED",
+  "nzbn": "9429037089917",
+  "status": "accredited"
+ },
+ "robert walters": {
+  "checked_at": "2026-10-21T14:28:23.668006+00:00",
+  "expiry": "2028-03-31",
+  "legal_name": "ROBERT WALTERS NEW ZEALAND LIMITED",
+  "nzbn": "9429036154180",
+  "status": "accredited"
+ },
+ "rocket lab": {
+  "checked_at": "2026-10-21T14:28:52.543706+00:00",
+  "expiry": "2026-11-30",
+  "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
+  "nzbn": "9429046593054",
+  "status": "accredited"
+ },
+ "rwa people": {
+  "checked_at": "2026-10-21T14:26:37.531128+00:00",
+  "expiry": "2026-11-20",
+  "legal_name": "RWA PEOPLE LIMITED",
+  "nzbn": "9429033198132",
+  "status": "accredited"
+ },
+ "salesforce": {
+  "checked_at": "2026-10-21T14:38:23.640956+00:00",
+  "status": "not_listed"
+ },
+ "salt": {
+  "checked_at": "2026-10-21T14:29:11.403877+00:00",
+  "status": "not_listed"
+ },
+ "scenic hotel": {
+  "checked_at": "2026-10-21T14:37:12.273701+00:00",
+  "expiry": "2028-08-03",
+  "legal_name": "SCENIC HOTEL GROUP LIMITED",
+  "nzbn": "9429040289786",
+  "status": "accredited"
+ },
+ "showtime consulting": {
+  "checked_at": "2026-10-21T14:38:22.705179+00:00",
+  "status": "not_listed"
+ },
+ "skypoint": {
+  "checked_at": "2026-10-21T14:28:26.839101+00:00",
+  "expiry": "2027-01-16",
+  "legal_name": "SKYPOINT TECHNOLOGIES LIMITED",
+  "nzbn": "9429041038444",
+  "status": "accredited"
+ },
+ "socialite recruitment": {
+  "checked_at": "2026-10-21T14:37:53.169534+00:00",
+  "status": "not_listed"
+ },
+ "softwareone": {
+  "checked_at": "2026-10-21T14:38:15.500932+00:00",
+  "status": "not_listed"
+ },
+ "sourced it recruitment specialists": {
+  "checked_at": "2026-10-21T14:37:51.739511+00:00",
+  "status": "not_listed"
+ },
+ "south taranaki district council": {
+  "checked_at": "2026-10-21T14:27:21.452805+00:00",
+  "expiry": "2028-02-25",
+  "legal_name": "South Taranaki District Council",
+  "nzbn": "9429041915707",
+  "status": "accredited"
+ },
+ "southern cross health insurance": {
+  "checked_at": "2026-10-21T14:32:24.292158+00:00",
+  "expiry": "2027-03-24",
+  "legal_name": "SOUTHERN CROSS BENEFITS LIMITED",
+  "nzbn": "9429032102338",
+  "status": "accredited"
+ },
+ "southern cross health society": {
+  "checked_at": "2026-10-21T14:28:56.750279+00:00",
+  "expiry": "2028-06-19",
+  "legal_name": "SOUTHERN CROSS MEDICAL CARE SOCIETY",
+  "nzbn": "9429043036400",
+  "status": "accredited"
+ },
+ "southern cross travel insurance": {
+  "checked_at": "2026-10-21T14:27:36.206219+00:00",
+  "expiry": "2027-03-24",
+  "legal_name": "SOUTHERN CROSS BENEFITS LIMITED",
+  "nzbn": "9429032102338",
+  "status": "accredited"
+ },
+ "spark": {
+  "checked_at": "2026-10-21T14:26:39.749573+00:00",
+  "status": "not_listed"
+ },
+ "staffroom": {
+  "checked_at": "2026-10-21T14:38:38.446520+00:00",
+  "status": "not_listed"
+ },
+ "stats": {
+  "checked_at": "2026-10-21T14:38:10.183903+00:00",
+  "status": "not_listed"
+ },
+ "sunstone talent": {
+  "checked_at": "2026-10-21T14:38:12.609938+00:00",
+  "status": "not_listed"
+ },
+ "supahuman ai": {
+  "checked_at": "2026-10-21T14:32:22.290166+00:00",
+  "expiry": "2027-04-23",
+  "legal_name": "SUPAHUMAN LIMITED",
+  "nzbn": "9429051746551",
+  "status": "accredited"
+ },
+ "super fund": {
+  "checked_at": "2026-10-21T14:38:21.260455+00:00",
+  "status": "not_listed"
+ },
+ "synechron": {
+  "checked_at": "2026-10-21T14:37:59.987031+00:00",
+  "status": "not_listed"
+ },
+ "talent": {
+  "checked_at": "2026-10-21T14:38:28.327918+00:00",
+  "status": "not_listed"
+ },
+ "timescapes": {
+  "checked_at": "2026-10-21T14:37:47.266939+00:00",
+  "status": "not_listed"
+ },
+ "tribe": {
+  "checked_at": "2026-10-21T14:27:29.493328+00:00",
+  "expiry": "2028-06-18",
+  "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+  "nzbn": "9429030268715",
+  "status": "accredited"
+ },
+ "ultra it": {
+  "checked_at": "2026-10-21T14:28:35.110984+00:00",
+  "expiry": "2027-05-01",
+  "legal_name": "ULTRA IT LIMITED",
+  "nzbn": "9429042391593",
+  "status": "accredited"
+ },
+ "verkada": {
+  "checked_at": "2026-10-21T14:37:50.817753+00:00",
+  "status": "not_listed"
+ },
+ "workday": {
+  "checked_at": "2026-10-21T14:30:38.926969+00:00",
+  "expiry": "2028-07-07",
+  "legal_name": "WORKDAY (NZ) UNLIMITED",
+  "nzbn": "9429041438817",
+  "status": "accredited"
+ },
+ "younity": {
+  "checked_at": "2026-10-21T14:38:18.455391+00:00",
+  "status": "not_listed"
+ },
+ "zuru": {
+  "checked_at": "2026-10-21T14:28:33.535783+00:00",
+  "expiry": "2028-06-08",
+  "legal_name": "ZURU NEW ZEALAND LIMITED",
+  "nzbn": "9429046587152",
+  "status": "accredited"
+ }
+}
