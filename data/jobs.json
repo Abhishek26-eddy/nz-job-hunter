@@ -2215,7 +2215,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4482460921/"
+    }
+   ]
   },
   {
    "id": "seek:95272328",
@@ -6701,6 +6707,52 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4481325301",
+   "source": "LinkedIn",
+   "title": "Senior Technical Trainer \u2014 AI / DevOps",
+   "company": "Jobgether",
+   "advertiser": "Jobgether",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481325301/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T12:27:24+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T12:31:55.168153+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Trainer \u2014 AI / DevOps based in New Zealand.\n\n As a Senior Technical Trainer, you will combine hands-on DevOps expertise with a passion for teaching to develop practical, engaging courses on AI-powered engineering workflows. You will help engineers under",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "linux"
+     ],
+     "score": 48,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
+   "tier": "B"
+  },
+  {
    "id": "seek:94825196",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -7944,53 +7996,6 @@
      "reasons": []
     }
    }
-  },
-  {
-   "id": "seek:95380861",
-   "source": "Seek",
-   "title": "Project Manager",
-   "company": "Likemind",
-   "advertiser": "Likemind",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95380861",
-   "posted_at": "2026-10-20T07:21:23Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "A great opportunity for a capable project coordinator who aspires to be a project manager. Fixed-term -12 months Deliver meaningful mahi across NZ Fabulous hiring manager",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T15:00:55.153721+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Likemind works with people who share our approach to work and living \u2026\n We are about adding value, connecting the dots, and delivering a solution to take the pain away.\u00a0 We believe that when the right connections are made, amazing things can happen.\n \n Our client is seeking a Project Manager for a 12 month fixed term starting in 2027.\u00a0 Important role, working within a\u00a0public sector organisation fo",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "data",
-      "risk",
-      "stakeholders"
-     ],
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
   },
   {
    "id": "seek:94817031",
@@ -9400,6 +9405,55 @@
    }
   },
   {
+   "id": "seek:95438491",
+   "source": "Seek",
+   "title": "Software & AI Engineer Specialist",
+   "company": "AIA",
+   "advertiser": "AIA New Zealand",
+   "location": "Takapuna, Auckland",
+   "url": "https://www.seek.co.nz/job/95438491",
+   "posted_at": "2026-10-22T08:52:21Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Design, build and optimise secure, AI-powered technology solutions, using modern engineering and automation to enhance business performance. A strong culture of innovation with health and wellbeing at its heart Join a high performing team that feels like a family We celebrate the diversity of our people and champion diverse thinking",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T12:27:24+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T12:31:50.391093+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Your Role with Us\n As a Software & AI Engineer Specialist within Core Platforms, you will help shape the technology solutions that keep AIA running smoothly, securely and efficiently. Working closely with engineers, business stakeholders and technology partners, you will design, build, support and continuously improve applications that enable reliable business operations. This role combines modern",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "bash",
+      "jenkins",
+      "python",
+      "security",
+      "sre"
+     ],
+     "score": 33,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 33,
+   "tier": "C"
+  },
+  {
    "id": "seek:94894046",
    "source": "Seek",
    "title": "Data Platform Engineer",
@@ -9678,6 +9732,53 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95380861",
+   "source": "Seek",
+   "title": "Project Manager",
+   "company": "Likemind",
+   "advertiser": "Likemind",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95380861",
+   "posted_at": "2026-10-20T07:21:23Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "A great opportunity for a capable project coordinator who aspires to be a project manager. Fixed-term -12 months Deliver meaningful mahi across NZ Fabulous hiring manager",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-21T15:00:55.153721+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Likemind works with people who share our approach to work and living \u2026\n We are about adding value, connecting the dots, and delivering a solution to take the pain away.\u00a0 We believe that when the right connections are made, amazing things can happen.\n \n Our client is seeking a Project Manager for a 12 month fixed term starting in 2027.\u00a0 Important role, working within a\u00a0public sector organisation fo",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
   },
   {
    "id": "seek:94906808",
