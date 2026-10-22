@@ -2345,6 +2345,53 @@
    "tier": "A"
   },
   {
+   "id": "seek:95446006",
+   "source": "Seek",
+   "title": "Power Platform Engineer",
+   "company": "Vitaco Health",
+   "advertiser": "Vitaco Health Group",
+   "location": "Manukau & East Auckland, Auckland",
+   "url": "https://www.seek.co.nz/job/95446006",
+   "posted_at": "2026-10-22T22:19:49Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Business applications | Automation | Data & analytics | AI Competitive salary, yearly review and flexible work arrangements A day off on your birthday & Great discounts on our products such as Musashi Subsidised on-site caf\u00e9, Free Parking & Access to discounted health insurance",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T23:37:18+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-22T23:41:37.298766+00:00",
+    "legal_name": "VITACO HEALTH (NZ) LIMITED",
+    "nzbn": "9429033702520",
+    "expiry": "2028-10-07"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The role: \n We are seeking an\nexperienced Power Platform Developer to help build secure, scalable business\nsolutions across the wider Microsoft ecosystem. Power Platform is the core of\nthis role, but the opportunity extends beyond apps and workflows into Microsoft\nFabric, Power BI, Azure, enterprise integration and AI-enabled solutions. You\nwill connect applications, trusted data and intelligent a",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai"
+     ],
+     "score": 78,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 78,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4474572643",
    "source": "LinkedIn",
    "title": "Core Network DevOps Engineer",
@@ -3994,60 +4041,6 @@
    }
   },
   {
-   "id": "seek:95390329",
-   "source": "Seek",
-   "title": "Security Systems Engineer",
-   "company": "Emrec",
-   "advertiser": "Emrec Limited",
-   "location": "East Tamaki, Auckland",
-   "url": "https://www.seek.co.nz/job/95390329",
-   "posted_at": "2026-10-20T21:31:27Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Senior Security Engineer roles across Microsoft Defender, Sentinel/SIEM, Purview and SOC operations. Auckland CBD & South Auckland. Work with Microsoft Defender, Sentinel/SIEM and Purview. Hands-on enterprise security engineering and SOC leadership. Permanent opportunities across Auckland CBD and South Auckland.",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "python",
-    "sre"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:21.474978+00:00",
-    "legal_name": "EMREC LIMITED",
-    "nzbn": "9429042052814",
-    "expiry": "2027-02-23"
-   },
-   "has_description": true,
-   "summary": "The Opportunity\n Emrec Recruitment is recruiting experienced Senior Security Engineers for multiple opportunities across established cybersecurity service providers and large enterprise environments, with positions based in Auckland CBD and South Auckland.\n We are seeking hands-on engineers with strong technical expertise across Microsoft Security, enterprise security implementations, SIEM enginee",
-   "score": 66,
-   "tier": "A",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "python",
-      "sre"
-     ],
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "linkedin:4480298538",
    "source": "LinkedIn",
    "title": "Platform Engineer",
@@ -4670,108 +4663,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95390184",
-   "source": "Seek",
-   "title": "DIGITAL INFRASTRUCTURE PROGRAMME LEAD",
-   "company": "Absolute IT",
-   "advertiser": "Absolute IT Limited",
-   "location": "Hamilton, Waikato",
-   "url": "https://www.seek.co.nz/job/95390184",
-   "posted_at": "2026-10-20T21:05:07Z",
-   "work_type": "Full time",
-   "salary": "$130K",
-   "teaser": "Senior Linux infrastructure leader with expertise in RHEL, automation, cloud, security, migrations and operations, delivering resilient platforms well Strategic Influence Across the Organisation 5 Weeks Annual Leave Permanent Opportunity, Based Full Time In Hamilton",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4481790253/"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:02.442362+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Strategic Influence Across the Organisation\n 5 weeks annual leave\n Permanent opportunity, based full time in Hamilton\n \n ABOUT THE COMPANY \n Our client is a leading organisation and have over 2000 staff. They are focused on a better future for New Zealand.\n \n ABOUT THE ROLE \n The Digital Infrastructure Programme Lead (full time on-site role) plays a critical role in supporting the organisations di",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "cloud",
-      "data",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 60,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95391134",
-   "source": "Seek",
-   "title": "ICT Senior Systems Engineer (L3)",
-   "company": "Desktop Technology Services",
-   "advertiser": "Desktop Technology Services Ltd",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95391134",
-   "posted_at": "2026-10-20T22:45:01Z",
-   "work_type": "Full time",
-   "salary": "$120,000 \u2013 $150,000 per year",
-   "teaser": "We\u2019re on the lookout for an experienced Senior Systems Engineer\u00a0to join our growing team in\u00a0Wellington (Level 3). Great team environment Exciting and growing business New clients and technologies every week.",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:19.578588+00:00",
-    "legal_name": "DESKTOP TECHNOLOGY SERVICES LIMITED",
-    "nzbn": "9429038173691",
-    "expiry": "2028-09-18"
-   },
-   "has_description": true,
-   "summary": "ICT Senior Systems Engineer (L3) - Wellington \n DTSL Group\n ABOUT THE ROLE: \u00a0\n We\u2019re on the lookout for an experienced Senior Systems Engineer\u00a0to join our growing team in\u00a0 Wellington (Level 3).\n In this role, you'll play a key part in supporting our managed services clients while also working on exciting infrastructure projects in the start-up of our growth orientated new Professional Services tea",
-   "score": 60,
-   "tier": "A",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:94937299",
    "source": "Seek",
    "title": "Lead DevOps Engineer",
@@ -5186,6 +5077,60 @@
      "fit": "adjacent",
      "skills": [
       "linux",
+      "sre"
+     ],
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seek:95390329",
+   "source": "Seek",
+   "title": "Security Systems Engineer",
+   "company": "Emrec",
+   "advertiser": "Emrec Limited",
+   "location": "East Tamaki, Auckland",
+   "url": "https://www.seek.co.nz/job/95390329",
+   "posted_at": "2026-10-20T21:31:27Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Senior Security Engineer roles across Microsoft Defender, Sentinel/SIEM, Purview and SOC operations. Auckland CBD & South Auckland. Work with Microsoft Defender, Sentinel/SIEM and Purview. Hands-on enterprise security engineering and SOC leadership. Permanent opportunities across Auckland CBD and South Auckland.",
+   "first_seen": "2026-10-21T14:22:29+00:00",
+   "last_seen": "2026-10-21T14:22:29+00:00",
+   "needs_detail": false,
+   "fit": "adjacent",
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "skills": [
+    "python",
+    "sre"
+   ],
+   "recruiter": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T14:26:21.474978+00:00",
+    "legal_name": "EMREC LIMITED",
+    "nzbn": "9429042052814",
+    "expiry": "2027-02-23"
+   },
+   "has_description": true,
+   "summary": "The Opportunity\n Emrec Recruitment is recruiting experienced Senior Security Engineers for multiple opportunities across established cybersecurity service providers and large enterprise environments, with positions based in Auckland CBD and South Auckland.\n We are seeking hands-on engineers with strong technical expertise across Microsoft Security, enterprise security implementations, SIEM enginee",
+   "score": 56,
+   "tier": "B",
+   "reasons": [
+    "accredited employer"
+   ],
+   "visa_ready": true,
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "python",
       "sre"
      ],
      "score": 56,
@@ -6641,6 +6586,108 @@
    },
    "has_description": true,
    "summary": "Imagine Tomorrow with Us |\u00a0 Ata whakaarohia t\u014d \u0101p\u014dp\u014d At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves.\u00a0 \n Whether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution.\u00a0 \n Owned by New Zealand dairy farmers and supported by a dedicated team, we ",
+   "score": 50,
+   "tier": "B",
+   "reasons": [
+    "accredited employer"
+   ],
+   "visa_ready": true,
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seek:95390184",
+   "source": "Seek",
+   "title": "DIGITAL INFRASTRUCTURE PROGRAMME LEAD",
+   "company": "Absolute IT",
+   "advertiser": "Absolute IT Limited",
+   "location": "Hamilton, Waikato",
+   "url": "https://www.seek.co.nz/job/95390184",
+   "posted_at": "2026-10-20T21:05:07Z",
+   "work_type": "Full time",
+   "salary": "$130K",
+   "teaser": "Senior Linux infrastructure leader with expertise in RHEL, automation, cloud, security, migrations and operations, delivering resilient platforms well Strategic Influence Across the Organisation 5 Weeks Annual Leave Permanent Opportunity, Based Full Time In Hamilton",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4481790253/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-10-21T14:38:02.442362+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Strategic Influence Across the Organisation\n 5 weeks annual leave\n Permanent opportunity, based full time in Hamilton\n \n ABOUT THE COMPANY \n Our client is a leading organisation and have over 2000 staff. They are focused on a better future for New Zealand.\n \n ABOUT THE ROLE \n The Digital Infrastructure Programme Lead (full time on-site role) plays a critical role in supporting the organisations di",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 50,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95391134",
+   "source": "Seek",
+   "title": "ICT Senior Systems Engineer (L3)",
+   "company": "Desktop Technology Services",
+   "advertiser": "Desktop Technology Services Ltd",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95391134",
+   "posted_at": "2026-10-20T22:45:01Z",
+   "work_type": "Full time",
+   "salary": "$120,000 \u2013 $150,000 per year",
+   "teaser": "We\u2019re on the lookout for an experienced Senior Systems Engineer\u00a0to join our growing team in\u00a0Wellington (Level 3). Great team environment Exciting and growing business New clients and technologies every week.",
+   "first_seen": "2026-10-21T14:22:29+00:00",
+   "last_seen": "2026-10-21T14:22:29+00:00",
+   "needs_detail": false,
+   "fit": "adjacent",
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "skills": [],
+   "recruiter": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T14:26:19.578588+00:00",
+    "legal_name": "DESKTOP TECHNOLOGY SERVICES LIMITED",
+    "nzbn": "9429038173691",
+    "expiry": "2028-09-18"
+   },
+   "has_description": true,
+   "summary": "ICT Senior Systems Engineer (L3) - Wellington \n DTSL Group\n ABOUT THE ROLE: \u00a0\n We\u2019re on the lookout for an experienced Senior Systems Engineer\u00a0to join our growing team in\u00a0 Wellington (Level 3).\n In this role, you'll play a key part in supporting our managed services clients while also working on exciting infrastructure projects in the start-up of our growth orientated new Professional Services tea",
    "score": 50,
    "tier": "B",
    "reasons": [
@@ -12219,6 +12266,48 @@
    "tier": "C"
   },
   {
+   "id": "seek:95447088",
+   "source": "Seek",
+   "title": "Control Systems Engineer",
+   "company": "Joyn",
+   "advertiser": "DRE Systems Limited",
+   "location": "Petone, Wellington",
+   "url": "https://www.seek.co.nz/job/95447088",
+   "posted_at": "2026-10-22T23:24:06Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead control systems design with cutting-edge PLC/SCADA tech. Flexible work, great benefits, career growth.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-22T23:37:18+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T23:41:39.761137+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the role \n DRE Systems Limited is seeking a talented Control Systems Engineer to join our dynamic team in Petone, Wellington. As a Control Systems Engineer, you will play a crucial role in designing, developing, and maintaining cutting-edge control systems that power our innovative products. This full-time position offers the opportunity to contribute to the strategic objectives of our compa",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "score": 15,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 15,
+   "tier": "C"
+  },
+  {
    "id": "seek:95335864",
    "source": "Seek",
    "title": "Wellington-Engineer Level 1-Automation Engineering",
@@ -13992,6 +14081,60 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95446370",
+   "source": "Seek",
+   "title": "Product Owner / Project Manager - Geospatial",
+   "company": "Expert360",
+   "advertiser": "Expert360",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95446370",
+   "posted_at": "2026-10-22T22:47:10Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Lead Agile delivery of geospatial products in a SAFe environment for a large public sector organisation Contract role starting ASAP Hybrid working in Wellington CBD TSV security clearance required",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T23:37:18+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:00:24.943777+00:00",
+    "expiry": "2027-07-21",
+    "legal_name": "LPS NEW ZEALAND LIMITED",
+    "nzbn": "9429032841794",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026blic sector organisation Contract role starting ASAP Hybrid working in Wellington CBD TSV security clearance required About Expert360:    Expert360 empowers more than 60,000 (and growing!) elite pro\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Expert360:\n \n Expert360 empowers more than 60,000 (and growing!) elite professionals around the world to find great work and be successful. Expert360 was founded in 2013 with a simple but powerful mission - to connect amazing people with great companies to get important work done.\n We believe in choice, flexibility and empowerment. We believe if you can change the world of work, you can chan",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "stakeholders"
+     ],
+     "score": 68,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 68,
+   "tier": "blocked"
   },
   {
    "id": "seek:95251652",

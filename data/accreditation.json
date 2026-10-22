@@ -622,6 +622,10 @@
   "checked_at": "2026-10-22T06:50:54.369469+00:00",
   "status": "not_listed"
  },
+ "joyn": {
+  "checked_at": "2026-10-22T23:41:39.761137+00:00",
+  "status": "not_listed"
+ },
  "k inga ora homes and communities": {
   "checked_at": "2026-10-21T14:38:17.463084+00:00",
   "status": "not_listed"
@@ -1204,6 +1208,13 @@
  "vip structural steel": {
   "checked_at": "2026-10-22T06:50:59.836424+00:00",
   "status": "not_listed"
+ },
+ "vitaco health": {
+  "checked_at": "2026-10-22T23:41:37.298766+00:00",
+  "expiry": "2028-10-07",
+  "legal_name": "VITACO HEALTH (NZ) LIMITED",
+  "nzbn": "9429033702520",
+  "status": "accredited"
  },
  "walker smith": {
   "checked_at": "2026-10-21T15:00:41.714447+00:00",
