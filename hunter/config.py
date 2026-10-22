@@ -181,3 +181,117 @@ INZ_EMPLOYER_COLLECTION = "2"
 DROP_AFTER_DAYS = 45
 # Full descriptions fetched per run; the rest are fetched on the next run.
 MAX_DETAILS_PER_RUN = 150
+
+# --- Your wife: ICT / IT project manager ------------------------------------
+#
+# 5+ years managing IT projects as a tech consultant; B.Tech Mechanical + MBA,
+# IIT Bombay. Visa route: ICT Project Manager (an engineering bachelor's plus
+# 5 years in the field). She needs her own offer and her own visa.
+
+SEEK_ICT = "6281"  # Seek's "Information & Communication Technology" category
+
+PM_SEEK_KEYWORDS = [  # each searched inside the ICT category only
+    "project manager",
+    "programme manager",
+    "program manager",
+    "delivery manager",
+    "delivery lead",
+    "scrum master",
+    "pmo",
+    "iteration manager",
+]
+PM_LINKEDIN_QUERIES = [
+    '"IT project manager" OR "ICT project manager" OR "technical project manager" OR "digital project manager"',
+    '"delivery manager" OR "programme manager" OR "technical program manager" OR "scrum master"',
+]
+PM_CORE_TITLE = re.compile(
+    r"(project|programme|program|delivery|portfolio)\s+(manager|lead|director)|"
+    r"\bscrum master\b|\biteration manager\b|\bpmo\b|\btpm\b",
+    re.I,
+)
+PM_ADJACENT_TITLE = re.compile(
+    r"release manager|implementation manager|service delivery manager|engagement manager|"
+    r"change manager|transition manager|agile coach",
+    re.I,
+)
+PM_EXCLUDE_TITLE = re.compile(
+    r"\bintern(ship)?\b|graduate|junior|assistant|coordinator|administrator|"
+    r"construction|building|civil|property|marketing|event|interior|fit[- ]?out|mechanical|"
+    r"electrical|roading|water|landscap|architectural|clinical|health and safety|\bhse\b|"
+    r"retail|store|warehouse|manufactur|mining|energy|solar|hvac|fire|plumb|sales|"
+    r"tender|estimat|quantity survey|horticulture|freight|logistics",
+    re.I,
+)
+# Outside Seek's ICT category, the ad must read as an IT project. Strong IT
+# words count 2, general tech words 1, construction/engineering words -2;
+# a total of 4 or more counts as IT.
+ICT_STRONG = re.compile(
+    r"\b(software|IT|ICT|erp|crm|saas|cloud|cyber\s?security|sdlc|devops|salesforce|servicenow|"
+    r"sap|dynamics 365|d365|microsoft 365|m365|power platform|it systems|tech stack|"
+    r"software development|system implementation|digital transformation)\b",
+)
+ICT_WEAK = re.compile(
+    r"\b(technology|digital|systems?|data|platforms?|agile|scrum|integration|applications?|"
+    r"technical|solution|vendors?|jira|uat|go-live|migration)\b",
+    re.I,
+)
+NON_ICT = re.compile(
+    r"\b(construction|roading|road|civil|crews?|site works|building|fit-?out|earthworks|"
+    r"health and safety|plant|waste|water|wastewater|consent|architect(ure|s)? and engineering|"
+    r"capital works|minor works|physical works)\b",
+    re.I,
+)
+ICT_TITLE_WORDS = re.compile(
+    r"\b(IT|ICT|technical|technology|digital|software|cloud|erp|crm|data|cyber|network|"
+    r"systems|application|platform|d365|sap|salesforce|servicenow)\b",
+    re.I,
+)
+PM_SKILLS = {
+    "agile": r"\bagile\b|\bscrum\b|kanban|\bsafe\b",
+    "methods": r"prince2|\bpmp\b|pmbok|waterfall|hybrid delivery",
+    "stakeholders": r"stakeholder",
+    "budget": r"budget|forecast|financial management|cost control",
+    "vendors": r"vendor|supplier|third[- ]party|contract management",
+    "sdlc": r"\bsdlc\b|software development|release",
+    "cloud": r"cloud|migration|\baws\b|azure",
+    "tools": r"\bjira\b|confluence|ms project|smartsheet|azure devops",
+    "risk": r"\brisk\b|\braid\b|governance|steering",
+    "enterprise": r"\berp\b|\bcrm\b|\bsap\b|salesforce|dynamics|oracle",
+    "consulting": r"consult|client[- ]facing|customer[- ]facing",
+    "business": r"\bmba\b|business case|benefits realisation|roi",
+    "data": r"\bdata\b|analytics|reporting",
+}
+PM_TOO_SENIOR_TITLE = re.compile(r"\b(head of|director|chief|vp|general manager)\b", re.I)
+
+# --- Who the hunter works for -----------------------------------------------
+# Each person gets their own title rules, skills, scores and emails.
+# Emails go to the address in `email_env`, or to ALERT_TO when that is unset.
+
+PROFILES = {
+    "abhishek": {
+        "label": "Abhishek",
+        "role": "DevOps / SRE / Platform (Software Engineer)",
+        "email_env": "ALERT_TO",
+        "seek": [(k, None) for k in SEEK_KEYWORDS],
+        "linkedin": LINKEDIN_QUERIES,
+        "core": CORE_TITLE,
+        "adjacent": ADJACENT_TITLE,
+        "exclude": EXCLUDE_TITLE,
+        "skills": SKILLS,
+        "too_senior": TOO_SENIOR_TITLE,
+        "needs_ict": False,
+    },
+    "wife": {
+        "label": "Wife",
+        "role": "IT Project Manager (ICT Project Manager)",
+        "email_env": "ALERT_TO_WIFE",
+        "seek": [(k, SEEK_ICT) for k in PM_SEEK_KEYWORDS],
+        "linkedin": PM_LINKEDIN_QUERIES,
+        "core": PM_CORE_TITLE,
+        "adjacent": PM_ADJACENT_TITLE,
+        "exclude": PM_EXCLUDE_TITLE,
+        "skills": PM_SKILLS,
+        "too_senior": PM_TOO_SENIOR_TITLE,
+        "needs_ict": True,
+    },
+}

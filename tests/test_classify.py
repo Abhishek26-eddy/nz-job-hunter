@@ -1,7 +1,10 @@
 import unittest
 
-from hunter import classify
+from hunter import classify, config
 from hunter.accreditation import _match, normalise
+
+ME = config.PROFILES["abhishek"]
+WIFE = config.PROFILES["wife"]
 
 
 def job(title="Senior DevOps Engineer", company="Xero", work_type="Full time", **kw):
@@ -18,13 +21,55 @@ class TitleFit(unittest.TestCase):
         for t in ["Senior DevOps Engineer", "Site Reliability Engineer", "SRE Lead", "Platform Engineer",
                   "Cloud Engineer - AWS", "Forward Deployed Engineer", "AI Platform Engineer",
                   "Software Specialist (Developer Platforms)", "Kubernetes Engineer"]:
-            self.assertEqual(classify.title_fit(t), "core", t)
+            self.assertEqual(classify.title_fit(t, ME), "core", t)
 
     def test_out_of_scope(self):
         for t in [".Net Developer", "Graduate DevOps Engineer", "DevOps Intern", "Account Manager - Cloud",
                   "Senior API Developer", "Registered Nurse", "ITSM Platform Specialist",
                   "DevOps Product Manager", "DevOps Engineer - Mandarin Speaking"]:
-            self.assertIsNone(classify.title_fit(t), t)
+            self.assertIsNone(classify.title_fit(t, ME), t)
+
+
+class WifeProfile(unittest.TestCase):
+    def test_ict_pm_titles(self):
+        for t in ["IT Project Manager", "Senior Project Manager", "Delivery Manager - Digital",
+                  "Technical Program Manager", "Scrum Master", "Programme Manager, Cloud Migration"]:
+            self.assertEqual(classify.title_fit(t, WIFE), "core", t)
+
+    def test_non_it_pm_titles(self):
+        for t in ["Construction Project Manager", "Project Manager - Civil and Land Development",
+                  "Marketing Project Manager", "Project Coordinator", "Fit-out Project Manager"]:
+            self.assertIsNone(classify.title_fit(t, WIFE), t)
+
+    def test_generic_pm_needs_an_it_context(self):
+        j = job(title="Project Manager", company="Xero")
+        classify.analyse(j, "Deliver our ERP and cloud data platform migration using agile.", ACC)
+        self.assertIn("wife", j["for"])
+        self.assertNotIn("abhishek", j["for"])
+        k = job(title="Project Manager", company="Xero")
+        classify.analyse(k, "Run our new warehouse fit and staff rosters.", ACC)
+        self.assertEqual(k["for"], {})
+
+    def test_roading_and_engineering_pm_rejected(self):
+        for desc in [
+            "Senior Project Manager with strong experience in road stabilisation. Lead crews across the "
+            "region on infrastructure programmes; use our application to apply.",
+            "At Jacobs we deliver infrastructure for thriving cities, with digital tools and data. "
+            "Lead multi-disciplinary engineering projects.",
+        ]:
+            j = job(title="Senior Project Manager", company="Higgins")
+            classify.analyse(j, desc, ACC)
+            self.assertNotIn("wife", j["for"], desc[:40])
+
+    def test_seek_ict_category_counts_as_it(self):
+        j = job(title="Senior Project Manager", seek_class=["6281"])
+        classify.analyse(j, "Lead a team.", ACC)
+        self.assertIn("wife", j["for"])
+
+    def test_each_person_has_own_score(self):
+        j = job(title="DevOps Engineer")
+        classify.analyse(j, "AWS Terraform Kubernetes", ACC)
+        self.assertEqual(list(j["for"]), ["abhishek"])
 
 
 class VisaReady(unittest.TestCase):
@@ -34,7 +79,7 @@ class VisaReady(unittest.TestCase):
     def test_accredited_clean_ad_is_emailed(self):
         j = self.analyse("We run AWS EKS with Terraform and ArgoCD.")
         self.assertTrue(j["visa_ready"])
-        self.assertIn("terraform", j["skills"])
+        self.assertIn("terraform", j["for"]["abhishek"]["skills"])
 
     def test_not_listed_employer_is_not_emailed(self):
         self.assertFalse(self.analyse("Great team, AWS.", acc=NOT_LISTED)["visa_ready"])

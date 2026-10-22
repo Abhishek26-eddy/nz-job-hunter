@@ -66,6 +66,10 @@
 </head>
 <body>
 <header>
+  <div class="seg" id="person" style="margin-bottom:10px">
+    <button data-p="abhishek" class="on">Abhishek · DevOps/SRE</button>
+    <button data-p="wife">Wife · IT Project Manager</button>
+  </div>
   <h1>NZ jobs for the India Skilled Work Visa</h1>
   <div class="sub" id="sub">Loading…</div>
   <div class="stats" id="stats"></div>
@@ -105,16 +109,29 @@
   </aside>
 </div>
 <script>
-const CHECKLIST = [
+const COMMON = [
   ["english", "English test booked/passed in person (results under 2 years old)"],
-  ["iqa", "NZQA IQA started for B.Tech (needed unless the programme is Washington Accord accredited)"],
-  ["evidence", "5+ years of evidence (Apr 2021 onward, no gaps): experience letters, payslips, Form 16 from Octro, Gameskraft, Paytm, MediBuddy"],
   ["police", "Police certificate (India + anywhere lived 12+ months)"],
   ["medical", "Medical + chest X-ray booked once an offer lands (must be within 3 months)"],
   ["passport", "Indian passport valid for the whole stay"],
-  ["cv", "NZ-style CV: 2 pages, no photo/DOB, says 'India Skilled Work Visa eligible'"],
   ["fee", "NZD 1,355+ ready for the application (form INZ 1402)"],
 ];
+const CHECKLIST = {
+  abhishek: [
+    ["iqa", "NZQA IQA started for B.Tech CSE (JECRC)"],
+    ["evidence", "5+ years of evidence (Apr 2021 onward, no gaps): experience letters, payslips, Form 16 from Octro, Gameskraft, Paytm, MediBuddy"],
+    ["cv", "NZ-style CV: 2 pages, no photo/DOB, 'India Skilled Work Visa eligible'; remove the [cite: 10] leftovers"],
+    ["aewv", "Ask each employer: India Skilled Work Visa, or AEWV so your partner gets a partner work visa?"],
+    ...COMMON,
+  ],
+  wife: [
+    ["iqa", "NZQA IQA started for B.Tech Mechanical + MBA (IIT Bombay)"],
+    ["evidence", "5+ years managing IT projects: letters naming her PM role, projects, team size; payslips, Form 16"],
+    ["cv", "NZ-style CV leading with IT project delivery (methods, budgets, stakeholders); 'India Skilled Work Visa eligible'"],
+    ["cert", "Optional boost: PMP, PRINCE2 or Scrum certification (NZ ads ask for these often)"],
+    ...COMMON,
+  ],
+};
 const ACC = {
   accredited: ["good", "✅ Accredited"],
   expired: ["bad", "Accreditation expired"],
@@ -126,7 +143,9 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
 };
 let JOBS = [], META = {}, view = "ready", src = "", q = "";
+let person = (location.hash.slice(1) in { abhishek: 1, wife: 1 }) ? location.hash.slice(1) : store.get("person", "abhishek");
 let marks = store.get("marks", {});
+const markKey = id => `${person}:${id}`;
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function ago(iso) {
@@ -144,7 +163,8 @@ async function load(name) {
 }
 
 function card(j) {
-  const m = marks[j.id];
+  const m = marks[markKey(j.id)];
+  const mine = j.for[person];
   const acc = j.recruiter && j.accreditation?.status !== "accredited"
     ? ["warn", "Agency: ask the employer's name"]
     : (ACC[j.accreditation?.status] || ACC.unknown);
@@ -156,7 +176,7 @@ function card(j) {
     ...(j.soft_blockers || []).map(p => `<span class="b warn">⚠️ ${esc(p.why)}</span>`),
     j.work_type ? `<span class="b">${esc(j.work_type)}</span>` : "",
     j.salary ? `<span class="b">${esc(j.salary)}</span>` : "",
-    ...(j.skills || []).map(s => `<span class="b">${esc(s)}</span>`),
+    ...(mine.skills || []).map(s => `<span class="b">${esc(s)}</span>`),
   ].join("");
   const quotes = [...(j.hard_blockers || []), ...(j.soft_blockers || []), ...(j.positives || [])]
     .slice(0, 3).map(p => `<p class="quote">“${esc(p.quote)}”</p>`).join("");
@@ -167,7 +187,7 @@ function card(j) {
         <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
         <div class="meta">${esc(j.company)} · ${esc(j.location)} · ${esc(j.source)}${also} · posted ${ago(j.posted_at)} · found ${ago(j.first_seen)}</div>
       </div>
-      <div class="score">${j.score}<small>${j.visa_ready ? "visa-ready" : esc(j.tier === "blocked" ? "blocked" : "tier " + j.tier)}</small></div>
+      <div class="score">${mine.score}<small>${j.visa_ready ? "visa-ready" : esc(mine.tier === "blocked" ? "blocked" : "tier " + mine.tier)}</small></div>
     </div>
     <div class="badges">${badges}</div>
     ${quotes}
@@ -179,17 +199,21 @@ function card(j) {
   </article>`;
 }
 
+const mineOf = () => JOBS.filter(j => j.for && j.for[person])
+  .sort((a, b) => b.for[person].score - a.for[person].score);
+
 function render() {
   const needle = q.toLowerCase();
-  const list = JOBS.filter(j => {
-    const m = marks[j.id];
+  const list = mineOf().filter(j => {
+    const m = marks[markKey(j.id)];
+    const tier = j.for[person].tier;
     if (view === "applied") { if (m !== "applied") return false; }
     else if (m === "skip" && view !== "blocked") return false;
     else if (view === "ready" && !j.visa_ready) return false;
-    else if (view === "open" && j.tier === "blocked") return false;
-    else if (view === "blocked" && j.tier !== "blocked") return false;
+    else if (view === "open" && tier === "blocked") return false;
+    else if (view === "blocked" && tier !== "blocked") return false;
     if (src && j.source !== src) return false;
-    if (needle && !`${j.title} ${j.company} ${j.location} ${(j.skills || []).join(" ")}`.toLowerCase().includes(needle)) return false;
+    if (needle && !`${j.title} ${j.company} ${j.location} ${(j.for[person].skills || []).join(" ")}`.toLowerCase().includes(needle)) return false;
     return true;
   });
   document.getElementById("list").innerHTML = list.length
@@ -198,8 +222,8 @@ function render() {
 }
 
 function renderSide() {
-  const done = store.get("checklist", {});
-  document.getElementById("checklist").innerHTML = CHECKLIST.map(([k, t]) =>
+  const done = store.get(`checklist:${person}`, {});
+  document.getElementById("checklist").innerHTML = CHECKLIST[person].map(([k, t]) =>
     `<label class="chk"><input type="checkbox" data-c="${k}" ${done[k] ? "checked" : ""}> <span>${esc(t)}</span></label>`).join("");
   const qd = META.quota;
   document.getElementById("quota").innerHTML = `<h2>Visa places</h2>` + (qd
@@ -208,32 +232,37 @@ function renderSide() {
 }
 
 function renderHeader() {
-  const ready = JOBS.filter(j => j.visa_ready && !marks[j.id]).length;
-  const applied = Object.values(marks).filter(v => v === "applied").length;
-  const today = JOBS.filter(j => (Date.now() - new Date(j.first_seen)) < 864e5).length;
+  const mine = mineOf();
+  const ready = mine.filter(j => j.visa_ready && !marks[markKey(j.id)]).length;
+  const applied = mine.filter(j => marks[markKey(j.id)] === "applied").length;
+  const today = mine.filter(j => (Date.now() - new Date(j.first_seen)) < 864e5).length;
   document.getElementById("sub").innerHTML =
     `Seek + LinkedIn, checked every 15 minutes. Last run ${ago(META.last_run) || "never"}.` +
     (META.errors?.length ? ` <span class="err">${META.errors.length} source error(s) last run.</span>` : "");
   document.getElementById("stats").innerHTML = [
     [ready, "visa-ready, to review"], [today, "found in last 24h"],
-    [JOBS.filter(j => j.tier !== "blocked").length, "in scope"], [applied, "applied"],
+    [mine.filter(j => j.for[person].tier !== "blocked").length, "in scope"], [applied, "applied"],
   ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
 }
 
 document.addEventListener("click", e => {
   const b = e.target.closest("button");
   if (!b) return;
+  if (b.dataset.p) {
+    person = b.dataset.p; store.set("person", person); history.replaceState(null, "", `#${person}`);
+    setOn("person", b); renderHeader(); renderSide(); render();
+  }
   if (b.dataset.v) { view = b.dataset.v; setOn("view", b); render(); }
   if (b.dataset.s !== undefined && b.parentElement.id === "src") { src = b.dataset.s; setOn("src", b); render(); }
   if (b.dataset.m) {
-    const id = b.dataset.id;
+    const id = markKey(b.dataset.id);
     marks[id] = marks[id] === b.dataset.m ? undefined : b.dataset.m;
     if (!marks[id]) delete marks[id];
     store.set("marks", marks); render(); renderHeader();
   }
 });
 document.addEventListener("change", e => {
-  if (e.target.dataset.c) { const d = store.get("checklist", {}); d[e.target.dataset.c] = e.target.checked; store.set("checklist", d); }
+  if (e.target.dataset.c) { const k = `checklist:${person}`; const d = store.get(k, {}); d[e.target.dataset.c] = e.target.checked; store.set(k, d); }
 });
 document.getElementById("q").addEventListener("input", e => { q = e.target.value; render(); });
 function setOn(id, btn) { document.querySelectorAll(`#${id} button`).forEach(x => x.classList.toggle("on", x === btn)); }
@@ -241,6 +270,7 @@ function setOn(id, btn) { document.querySelectorAll(`#${id} button`).forEach(x =
 (async () => {
   const [jobs, meta] = await Promise.all([load("jobs.json"), load("meta.json")]);
   JOBS = jobs?.jobs || []; META = meta || {};
+  setOn("person", document.querySelector(`#person [data-p="${person}"]`));
   renderHeader(); renderSide(); render();
 })();
 </script>

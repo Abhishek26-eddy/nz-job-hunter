@@ -1,4 +1,8 @@
-"""Decide whether a job is in scope, and how good a shot it is for the visa."""
+"""Decide whether a job is in scope for each person, and how good a shot it is.
+
+Visa checks (accreditation, blockers) belong to the job. Title fit, skills and
+score belong to each person in config.PROFILES.
+"""
 
 import re
 from datetime import datetime, timezone
@@ -9,18 +13,37 @@ from .accreditation import ACCREDITED, EXPIRED, NOT_LISTED
 _HARD = [(re.compile(p, re.I), why) for p, why in config.HARD_BLOCKERS]
 _SOFT = [(re.compile(p, re.I), why) for p, why in config.SOFT_BLOCKERS]
 _POS = [(re.compile(p, re.I), why) for p, why in config.POSITIVES]
-_SKILLS = {name: re.compile(p, re.I) for name, p in config.SKILLS.items()}
+_SKILLS = {
+    key: {name: re.compile(p, re.I) for name, p in prof["skills"].items()}
+    for key, prof in config.PROFILES.items()
+}
 
 
-def title_fit(title):
-    """'core', 'adjacent' or None (out of scope)."""
-    if config.EXCLUDE_TITLE.search(title):
+def title_fit(title, profile):
+    """'core', 'adjacent' or None (out of scope) for one person."""
+    if profile["exclude"].search(title):
         return None
-    if config.CORE_TITLE.search(title):
+    if profile["core"].search(title):
         return "core"
-    if config.ADJACENT_TITLE.search(title):
+    if profile["adjacent"].search(title):
         return "adjacent"
     return None
+
+
+def fits_anyone(title):
+    return any(title_fit(title, p) for p in config.PROFILES.values())
+
+
+def _is_ict(job, text):
+    if config.SEEK_ICT in (job.get("seek_class") or []):
+        return True
+    if config.ICT_TITLE_WORDS.search(job.get("title", "")) and not config.NON_ICT.search(job["title"]):
+        return True
+    def distinct(rx):
+        return len({m.group(0).lower() for m in rx.finditer(text)})
+
+    points = 2 * distinct(config.ICT_STRONG) + distinct(config.ICT_WEAK) - 2 * distinct(config.NON_ICT)
+    return points >= 4
 
 
 def _snippet(text, m, width=90):
@@ -43,17 +66,26 @@ def is_recruiter(job):
 
 
 def analyse(job, description, accreditation):
-    """Attach visa-fit findings and a score to the job dict (in place)."""
+    """Attach visa findings and per-person scores to the job (in place).
+
+    Leaves job["for"] empty when the job suits nobody; the caller drops it.
+    """
     text = f"{job.get('title', '')}\n{job.get('teaser', '')}\n{description or ''}"
-    job["fit"] = title_fit(job["title"]) or "adjacent"
     job["hard_blockers"] = _scan(_HARD, text)
     job["soft_blockers"] = _scan(_SOFT, text)
     job["positives"] = _scan(_POS, text)
-    job["skills"] = sorted(name for name, rx in _SKILLS.items() if rx.search(text))
     job["recruiter"] = is_recruiter(job)
     job["accreditation"] = accreditation
     job["has_description"] = bool(description)
     job["summary"] = (description or job.get("teaser") or "")[:400]
+
+    job["for"] = {}
+    for key, prof in config.PROFILES.items():
+        fit = title_fit(job["title"], prof)
+        if not fit or (prof["needs_ict"] and not _is_ict(job, text)):
+            continue
+        skills = sorted(name for name, rx in _SKILLS[key].items() if rx.search(text))
+        job["for"][key] = {"fit": fit, "skills": skills}
     score(job)
     return job
 
@@ -62,7 +94,8 @@ def visa_ready(job):
     """Worth an email: the employer can sponsor, and the ad does not rule it out.
 
     Sponsor-capable means on the INZ accredited list, or the ad itself offers
-    sponsorship (employers may hide themselves from the public list).
+    sponsorship (employers may hide themselves from the public list). An
+    agency's own accreditation says nothing about its client.
     """
     if job.get("hard_blockers") or job.get("soft_blockers"):
         return False
@@ -73,7 +106,8 @@ def visa_ready(job):
     return accredited or offers
 
 
-def score(job):
+def _visa_points(job):
+    """The part of the score that is the same for everyone."""
     s, reasons = 0, []
     acc = (job.get("accreditation") or {}).get("status")
     if job.get("recruiter"):
@@ -88,16 +122,6 @@ def score(job):
     elif acc == NOT_LISTED:
         s -= 5
         reasons.append("not on public INZ list")
-
-    if job["fit"] == "core":
-        s += 20
-    else:
-        s += 5
-    if config.TOO_SENIOR_TITLE.search(job["title"]):
-        s -= 10
-        reasons.append("title above your level")
-
-    s += min(len(job.get("skills") or []), 8) * 3
 
     if job.get("positives"):
         s += 25
@@ -122,15 +146,33 @@ def score(job):
                 s += 10
         except ValueError:
             pass
+    return s, reasons
 
-    if job.get("hard_blockers"):
-        tier = "blocked"
-    elif s >= config.TIER_A:
-        tier = "A"
-    elif s >= config.TIER_B:
-        tier = "B"
-    else:
-        tier = "C"
-    job["score"], job["tier"], job["reasons"] = s, tier, reasons
+
+def score(job):
+    base, base_reasons = _visa_points(job)
     job["visa_ready"] = visa_ready(job)
+    best = None
+    for key, mine in job.get("for", {}).items():
+        prof = config.PROFILES[key]
+        s, reasons = base, list(base_reasons)
+        s += 20 if mine["fit"] == "core" else 5
+        if prof["too_senior"].search(job["title"]):
+            s -= 10
+            reasons.append("title above current level")
+        s += min(len(mine["skills"]), 8) * 3
+        if job.get("hard_blockers"):
+            tier = "blocked"
+        elif s >= config.TIER_A:
+            tier = "A"
+        elif s >= config.TIER_B:
+            tier = "B"
+        else:
+            tier = "C"
+        mine.update(score=s, tier=tier, reasons=reasons)
+        if best is None or s > best["score"]:
+            best = mine
+    # Best across people, used for ordering.
+    job["score"] = best["score"] if best else 0
+    job["tier"] = best["tier"] if best else "C"
     return job

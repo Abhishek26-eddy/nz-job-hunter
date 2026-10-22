@@ -30,7 +30,7 @@ SEEK_DETAIL_QUERY = (
 )
 
 
-def seek_search(keyword, days, max_pages=3):
+def seek_search(keyword, days, classification=None, max_pages=3):
     jobs = []
     for page in range(1, max_pages + 1):
         params = {
@@ -42,6 +42,8 @@ def seek_search(keyword, days, max_pages=3):
             "sortmode": "ListedDate",
             "daterange": days,
         }
+        if classification:
+            params["classification"] = classification
         data = get_json(f"{SEEK_SEARCH}?{urllib.parse.urlencode(params)}")
         rows = data.get("data") or []
         for row in rows:
@@ -58,6 +60,7 @@ def seek_search(keyword, days, max_pages=3):
                 "work_type": ", ".join(row.get("workTypes") or []),
                 "salary": row.get("salaryLabel") or "",
                 "teaser": " ".join([row.get("teaser") or ""] + (row.get("bulletPoints") or [])).strip(),
+                "seek_class": [str((c.get("classification") or {}).get("id", "")) for c in row.get("classifications") or []],
             })
         if len(rows) < 100:
             break
@@ -151,15 +154,18 @@ def search_all(first_run):
     days = 31 if first_run else 7
     found, errors = {}, []
 
-    for kw in config.SEEK_KEYWORDS:
+    seek = dict.fromkeys(s for p in config.PROFILES.values() for s in p["seek"])
+    linkedin = dict.fromkeys(q for p in config.PROFILES.values() for q in p["linkedin"])
+
+    for kw, classification in seek:
         try:
-            for job in seek_search(kw, days):
+            for job in seek_search(kw, days, classification):
                 found.setdefault(job["id"], job)
         except (FetchError, ValueError, KeyError) as exc:
             errors.append(f"Seek '{kw}': {exc}")
         time.sleep(1)
 
-    for q in config.LINKEDIN_QUERIES:
+    for q in linkedin:
         try:
             for job in linkedin_search(q, days * 86400):
                 found.setdefault(job["id"], job)

@@ -29,15 +29,16 @@ def _acc(job):
     return label
 
 
-def _row(job):
+def _row(job, person):
     e = html.escape
+    mine = job["for"][person]
     warn = "; ".join(b["why"] for b in job.get("soft_blockers") or [])
     good = "; ".join(p["why"] for p in job.get("positives") or [])
     notes = " · ".join(x for x in [good and f"👍 {good}", warn and f"⚠️ {warn}"] if x)
     return (
         "<tr>"
-        f"<td style='padding:6px;border-bottom:1px solid #eee'><b>{e(TIER_LABEL[job['tier']])}</b><br>"
-        f"<small>{job['score']}</small></td>"
+        f"<td style='padding:6px;border-bottom:1px solid #eee'><b>{e(TIER_LABEL[mine['tier']])}</b><br>"
+        f"<small>{mine['score']}</small></td>"
         f"<td style='padding:6px;border-bottom:1px solid #eee'><a href='{e(job['url'])}'><b>{e(job['title'])}</b></a><br>"
         f"{e(job['company'])} · {e(job.get('location') or '')} · {e(job['source'])}"
         f"{' · ' + e(job['work_type']) if job.get('work_type') else ''}"
@@ -48,14 +49,14 @@ def _row(job):
     )
 
 
-def render_jobs_email(jobs, site_url, held_back, errors):
+def render_jobs_email(jobs, person, site_url, held_back, errors):
     head = (
         f"<p>{len(jobs)} new NZ job(s) where the employer can sponsor the India Skilled Work Visa."
         f"{f' {held_back} other new match(es) are on the dashboard only (employer not accredited, agency ad, or the ad rules out visa holders).' if held_back else ''}</p>"
     )
     if site_url:
-        head += f"<p><a href='{html.escape(site_url)}'>Open the dashboard</a></p>"
-    rows = "".join(_row(j) for j in jobs[:MAX_ROWS])
+        head += f"<p><a href='{html.escape(site_url)}#{person}'>Open the dashboard</a></p>"
+    rows = "".join(_row(j, person) for j in jobs[:MAX_ROWS])
     more = f"<p>…and {len(jobs) - MAX_ROWS} more on the dashboard.</p>" if len(jobs) > MAX_ROWS else ""
     errs = ""
     if errors:
@@ -71,14 +72,14 @@ def render_jobs_email(jobs, site_url, held_back, errors):
     )
 
 
-def send(subject, html_body, out_path=None):
+def send(subject, html_body, out_path=None, to=None):
     """Send the email. Without SMTP settings, write it to out_path instead."""
     if out_path:
         with open(out_path, "w") as fh:
             fh.write(f"<h3>{html.escape(subject)}</h3>{html_body}")
     user = os.environ.get("SMTP_USER")
     password = os.environ.get("SMTP_PASSWORD")
-    to = os.environ.get("ALERT_TO") or user
+    to = to or os.environ.get("ALERT_TO") or user
     if not (user and password and to):
         log.warning("SMTP_USER/SMTP_PASSWORD not set; email not sent (saved to %s)", out_path)
         return False

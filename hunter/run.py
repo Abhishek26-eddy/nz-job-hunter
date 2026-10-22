@@ -51,12 +51,19 @@ def _sort_key(job):
     return (TIER_ORDER[job["tier"]], -job["score"], job.get("posted_at") or "")
 
 
-def hunt(send_email=True):
+def _sort_key_for(job, person):
+    mine = job["for"][person]
+    return (TIER_ORDER[mine["tier"]], -mine["score"], job.get("posted_at") or "")
+
+
+def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
     DATA.mkdir(exist_ok=True)
     jobs = {j["id"]: j for j in _load(DATA / "jobs.json", {"jobs": []})["jobs"]}
+    descriptions = _load(DATA / "descriptions.json", {})
     meta = _load(DATA / "meta.json", {})
     cache = AccreditationCache(DATA / "accreditation.json")
-    first_run = not jobs
+    # A person added to PROFILES gets a 31-day backfill on their first run.
+    first_run = not jobs or bool(set(config.PROFILES) - set(meta.get("profiles", [])))
     now = _now().isoformat(timespec="seconds")
 
     found, errors = sources.search_all(first_run)
@@ -65,9 +72,7 @@ def hunt(send_email=True):
     by_key = {_dedup_key(j): j for j in jobs.values()}
     new_ids = []
     for job in found:
-        if job["id"] in jobs:
-            continue
-        if not classify.title_fit(job["title"]):
+        if job["id"] in jobs or not classify.fits_anyone(job["title"]):
             continue
         twin = by_key.get(_dedup_key(job))
         if twin:
@@ -80,34 +85,29 @@ def hunt(send_email=True):
         by_key[_dedup_key(job)] = job
         new_ids.append(job["id"])
 
-    # Descriptions: new jobs first, then any left over from earlier runs.
-    pending = [i for i in new_ids] + [i for i, j in jobs.items() if j.get("needs_detail") and i not in new_ids]
-    details = 0
-    for jid in pending:
+    # Descriptions: new jobs first, then any still missing from earlier runs.
+    pending = new_ids + [i for i, j in jobs.items() if i not in new_ids and (j.get("needs_detail") or i not in descriptions)]
+    for n, jid in enumerate(pending):
+        if n >= max_details:
+            break
         job = jobs[jid]
-        description = ""
-        if details < config.MAX_DETAILS_PER_RUN:
-            details += 1
-            try:
-                description, extra = sources.fetch_description(job)
-                job.update({k: v for k, v in extra.items() if v})
-                job["needs_detail"] = False
-            except (FetchError, ValueError, KeyError) as exc:
-                log.info("No description for %s: %s", jid, exc)
-            time.sleep(1.5 if job["source"] == "LinkedIn" else 0.5)
-        classify.analyse(job, description, cache.check(job["company"]))
+        try:
+            descriptions[jid], extra = sources.fetch_description(job)
+            job.update({k: v for k, v in extra.items() if v})
+            job["needs_detail"] = False
+        except (FetchError, ValueError, KeyError) as exc:
+            log.info("No description for %s: %s", jid, exc)
+        time.sleep(1.5 if job["source"] == "LinkedIn" else 0.5)
 
-    # Apply today's rules to everything stored: drop titles now out of scope,
-    # re-check employers whose lookup failed, and re-score.
-    jobs = {i: j for i, j in jobs.items() if classify.title_fit(j["title"])}
-    for job in jobs.values():
-        job["recruiter"] = classify.is_recruiter(job)
-        if (job.get("accreditation") or {}).get("status") in (None, UNKNOWN):
+    # Re-analyse everything with today's rules, so a rule change applies to old jobs too.
+    for jid, job in list(jobs.items()):
+        if (job.get("accreditation") or {}).get("status") in (None, UNKNOWN) or jid in new_ids:
             job["accreditation"] = cache.check(job["company"])
-        classify.score(job)
+        classify.analyse(job, descriptions.get(jid, ""), job["accreditation"])
+        if not job["for"] or _too_old(job):
+            del jobs[jid]
+            descriptions.pop(jid, None)
     cache.save()
-
-    jobs = {i: j for i, j in jobs.items() if not _too_old(j)}
     ordered = sorted(jobs.values(), key=_sort_key)
 
     # Quota watch.
@@ -116,49 +116,59 @@ def hunt(send_email=True):
     if status:
         meta["quota"] = {**status, "checked_at": now}
 
-    fresh = sorted((jobs[i] for i in new_ids if i in jobs), key=_sort_key)
-    to_send = [j for j in fresh if classify.visa_ready(j)]
-    held_back = len(fresh) - len(to_send)
-    site_url = os.environ.get("SITE_URL", "")
-
     if send_email and quota_changed:
         body = "<p>The India Skilled Work Visa page changed what it says about places:</p><ul>"
         body += "".join(f"<li>{line}</li>" for line in status["lines"]) + "</ul>"
         body += f"<p><a href='{config.VISA_PAGE}'>{config.VISA_PAGE}</a></p>"
         notify.send("⚠️ India Skilled Work Visa: places update", body, str(DATA / "last_quota_email.html"))
 
-    if send_email and to_send:
-        top_a = [j for j in to_send if j["tier"] == "A"]
-        lead = to_send[0]
+    # One email per person, only jobs whose employer can sponsor.
+    fresh = [jobs[i] for i in new_ids if i in jobs]
+    site_url = os.environ.get("SITE_URL", "")
+    sent = {}
+    for key, prof in config.PROFILES.items():
+        theirs = sorted((j for j in fresh if key in j["for"]), key=lambda j: _sort_key_for(j, key))
+        ready = [j for j in theirs if j["visa_ready"]]
+        sent[key] = len(ready)
+        if not (send_email and ready):
+            continue
+        lead = ready[0]
+        top_a = sum(1 for j in ready if j["for"][key]["tier"] == "A")
         subject = (
-            f"🔥 {len(top_a)} apply-now NZ job(s): {lead['title']} @ {lead['company']}"
+            f"🔥 {prof['label']}: {top_a} apply-now NZ job(s) — {lead['title']} @ {lead['company']}"
             if top_a
-            else f"NZ jobs: {len(to_send)} new — {lead['title']} @ {lead['company']}"
+            else f"{prof['label']}: {len(ready)} new NZ job(s) — {lead['title']} @ {lead['company']}"
         )
-        notify.send(subject, notify.render_jobs_email(to_send, site_url, held_back, errors), str(DATA / "last_email.html"))
+        to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
+        html_body = notify.render_jobs_email(ready, key, site_url, len(theirs) - len(ready), errors)
+        notify.send(subject, html_body, str(DATA / f"last_email_{key}.html"), to=to)
 
     meta.update(
         last_run=now,
         first_run_at=meta.get("first_run_at") or now,
+        profiles=sorted(config.PROFILES),
         new_this_run=len(fresh),
-        visa_ready_this_run=len(to_send),
-        emailed_this_run=len(to_send) if send_email else 0,
+        visa_ready_this_run=sum(sent.values()),
+        visa_ready_by_person=sent,
         totals={t: sum(1 for j in ordered if j["tier"] == t) for t in TIER_ORDER},
         errors=errors,
         accreditation_lookups=cache.lookups,
     )
     (DATA / "jobs.json").write_text(json.dumps({"jobs": ordered}, indent=1))
+    (DATA / "descriptions.json").write_text(json.dumps(descriptions, sort_keys=True))
     (DATA / "meta.json").write_text(json.dumps(meta, indent=1))
-    log.info("New: %d (visa-ready %d, held back %d). Total tracked: %d", len(fresh), len(to_send), held_back, len(ordered))
+    log.info("New: %d, visa-ready by person: %s. Total tracked: %d", len(fresh), sent, len(ordered))
     return meta
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--no-email", action="store_true", help="update data without sending email")
+    parser.add_argument("--max-details", type=int, default=config.MAX_DETAILS_PER_RUN,
+                        help="job descriptions to fetch this run")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-    hunt(send_email=not args.no_email)
+    hunt(send_email=not args.no_email, max_details=args.max_details)
 
 
 if __name__ == "__main__":
