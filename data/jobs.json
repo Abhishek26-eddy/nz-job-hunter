@@ -2220,6 +2220,10 @@
     {
      "source": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4482460921/"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4482481050/"
     }
    ]
   },
@@ -2632,60 +2636,6 @@
    "visa_ready": true,
    "score": 76,
    "tier": "A"
-  },
-  {
-   "id": "seek:95389992",
-   "source": "Seek",
-   "title": "Infrastructure Cloud Engineer",
-   "company": "Pegasus Health",
-   "advertiser": "Pegasus Health",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/95389992",
-   "posted_at": "2026-10-20T20:26:15Z",
-   "work_type": "Casual/Vacation",
-   "salary": "",
-   "teaser": "Use your Azure, cloud and networking expertise to deliver secure, modern infrastructure that makes an impact. Work across Azure, cloud, networks and modern infrastructure technologies Annual wellbeing subsidy to invest in your health and wellbeing Grow your expertise across Azure, cloud, networking and security",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "core",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "aws",
-    "sre"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:24.816610+00:00",
-    "legal_name": "PEGASUS HEALTH (CHARITABLE) LIMITED",
-    "nzbn": "9429038495540",
-    "expiry": "2028-05-16"
-   },
-   "has_description": true,
-   "summary": "Make a difference through technology that supports better health outcomes \u00a0\n At Pegasus Health, we support primary care and better health outcomes across Waitaha Canterbury. We\u2019re looking for an experienced Infrastructure Cloud Engineer to join our Business Information Services team and help keep our technology environment secure, reliable and future-ready.\u00a0\n This fixed-term role suits an infrastr",
-   "score": 76,
-   "tier": "A",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "aws",
-      "sre"
-     ],
-     "score": 76,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
   },
   {
    "id": "seek:95218503",
@@ -3982,6 +3932,60 @@
       "sre"
      ],
      "score": 68,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   }
+  },
+  {
+   "id": "seek:95389992",
+   "source": "Seek",
+   "title": "Infrastructure Cloud Engineer",
+   "company": "Pegasus Health",
+   "advertiser": "Pegasus Health",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95389992",
+   "posted_at": "2026-10-20T20:26:15Z",
+   "work_type": "Casual/Vacation",
+   "salary": "",
+   "teaser": "Use your Azure, cloud and networking expertise to deliver secure, modern infrastructure that makes an impact. Work across Azure, cloud, networks and modern infrastructure technologies Annual wellbeing subsidy to invest in your health and wellbeing Grow your expertise across Azure, cloud, networking and security",
+   "first_seen": "2026-10-21T14:22:29+00:00",
+   "last_seen": "2026-10-21T14:22:29+00:00",
+   "needs_detail": false,
+   "fit": "core",
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "skills": [
+    "aws",
+    "sre"
+   ],
+   "recruiter": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T14:26:24.816610+00:00",
+    "legal_name": "PEGASUS HEALTH (CHARITABLE) LIMITED",
+    "nzbn": "9429038495540",
+    "expiry": "2028-05-16"
+   },
+   "has_description": true,
+   "summary": "Make a difference through technology that supports better health outcomes \u00a0\n At Pegasus Health, we support primary care and better health outcomes across Waitaha Canterbury. We\u2019re looking for an experienced Infrastructure Cloud Engineer to join our Business Information Services team and help keep our technology environment secure, reliable and future-ready.\u00a0\n This fixed-term role suits an infrastr",
+   "score": 66,
+   "tier": "A",
+   "reasons": [
+    "accredited employer"
+   ],
+   "visa_ready": true,
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "sre"
+     ],
+     "score": 66,
      "tier": "A",
      "reasons": [
       "accredited employer"
@@ -6753,6 +6757,50 @@
    "tier": "B"
   },
   {
+   "id": "seek:95444021",
+   "source": "Seek",
+   "title": "Senior DevOps Engineer - Remote",
+   "company": "Talent Army",
+   "advertiser": "Talent Army \u2013 Winner of Medium Recruitment Agency of the Year 2025",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95444021",
+   "posted_at": "2026-10-22T18:07:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join a fast growing startup and help build a scalable, reliable platform for global growth. Hands-on role with genuine ownership and influence Join a well-funded, high-growth SaaS scale-up expanding internationally Remote role (NZ based)",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T20:42:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:11.854033+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Our client is a fast-growing SaaS company expanding across international markets. They're entering an exciting phase of growth, and are investing heavily in their technology, infrastructure and engineering capabilities.\n \n About the Role\n \nWe're looking for a Senior DevOps Engineer to build infrastructure that supports continued global growth.\n \nThis is a predominantly hands-on role that also requ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins"
+     ],
+     "score": 48,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
+   "tier": "B"
+  },
+  {
    "id": "seek:94825196",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -7996,6 +8044,50 @@
      "reasons": []
     }
    }
+  },
+  {
+   "id": "linkedin:4480064926",
+   "source": "LinkedIn",
+   "title": "DevOps Engineer (AI Training)",
+   "company": "DataAnnotation",
+   "advertiser": "DataAnnotation",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480064926/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T20:42:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T20:47:02.485809+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Overview\n\n A model will hand you a pipeline and an infrastructure change that apply cleanly and quietly leave a security group open to the world, a state file that will corrupt on the next run, and a rollback path that does not exist. In production those mistakes page someone at 3am. Reasoning about the whole system is the job.\n\nAs a DevOps Engineer you'll evaluate how models handle CI/CD, infrast",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "terraform"
+     ],
+     "score": 42,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 42,
+   "tier": "B"
   },
   {
    "id": "seek:94817031",
