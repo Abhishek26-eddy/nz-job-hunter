@@ -68,6 +68,13 @@
   "nzbn": "9429046357724",
   "status": "accredited"
  },
+ "archway recruitment": {
+  "checked_at": "2026-10-22T06:51:01.507463+00:00",
+  "expiry": "2028-05-05",
+  "legal_name": "ARCHWAY CONSULTING LIMITED",
+  "nzbn": "9429047220874",
+  "status": "accredited"
+ },
  "arinco": {
   "checked_at": "2026-10-21T14:38:03.411101+00:00",
   "status": "not_listed"
@@ -139,6 +146,13 @@
   "nzbn": "9429047603479",
   "status": "accredited"
  },
+ "bastion security": {
+  "checked_at": "2026-10-22T06:50:38.435249+00:00",
+  "expiry": "2028-10-08",
+  "legal_name": "BASTION SECURITY GROUP LIMITED",
+  "nzbn": "9429051214081",
+  "status": "accredited"
+ },
  "beyond recruitment": {
   "checked_at": "2026-10-21T14:38:19.384738+00:00",
   "status": "not_listed"
@@ -207,6 +221,10 @@
   "checked_at": "2026-10-21T15:01:42.925475+00:00",
   "status": "not_listed"
  },
+ "corde": {
+  "checked_at": "2026-10-22T06:50:48.464576+00:00",
+  "status": "not_listed"
+ },
  "crescent consulting": {
   "checked_at": "2026-10-21T14:38:37.453677+00:00",
   "status": "not_listed"
@@ -247,6 +265,13 @@
   "nzbn": "9429050617173",
   "status": "accredited"
  },
+ "department of conservation": {
+  "checked_at": "2026-10-22T06:51:03.993475+00:00",
+  "expiry": "2028-09-29",
+  "legal_name": "Department of Conservation",
+  "nzbn": "9429000028295",
+  "status": "accredited"
+ },
  "department of prime minister and cabinet": {
   "checked_at": "2026-10-21T15:01:38.043942+00:00",
   "status": "not_listed"
@@ -266,6 +291,10 @@
   "checked_at": "2026-10-21T14:38:36.003579+00:00",
   "status": "not_listed"
  },
+ "dot loves data": {
+  "checked_at": "2026-10-22T06:50:37.256326+00:00",
+  "status": "not_listed"
+ },
  "douglas": {
   "checked_at": "2026-10-21T15:01:05.437355+00:00",
   "status": "not_listed"
@@ -277,6 +306,17 @@
   "nzbn": "9429040671437",
   "status": "accredited"
  },
+ "downer": {
+  "checked_at": "2026-10-22T06:50:51.221078+00:00",
+  "expiry": "2028-06-12",
+  "legal_name": "DOWNER NEW ZEALAND LIMITED",
+  "nzbn": "9429039194114",
+  "status": "accredited"
+ },
+ "dunedin city council": {
+  "checked_at": "2026-10-22T06:50:46.484353+00:00",
+  "status": "not_listed"
+ },
  "dxc": {
   "checked_at": "2026-10-21T14:27:31.304474+00:00",
   "expiry": "2028-08-18",
@@ -286,6 +326,14 @@
  },
  "edmi": {
   "checked_at": "2026-10-21T14:38:14.563269+00:00",
+  "status": "not_listed"
+ },
+ "egis in anz": {
+  "checked_at": "2026-10-22T06:51:02.704698+00:00",
+  "status": "not_listed"
+ },
+ "eit": {
+  "checked_at": "2026-10-22T06:50:52.415031+00:00",
   "status": "not_listed"
  },
  "electro optic systems": {
@@ -360,6 +408,10 @@
   "legal_name": "FARMLANDS CO-OPERATIVE SOCIETY LIMITED",
   "nzbn": "9429042618577",
   "status": "accredited"
+ },
+ "fde times": {
+  "checked_at": "2026-10-22T06:50:57.359414+00:00",
+  "status": "not_listed"
  },
  "findit recruitment": {
   "checked_at": "2026-10-21T14:37:54.173287+00:00",
@@ -447,6 +499,13 @@
   "checked_at": "2026-10-21T14:37:59.044184+00:00",
   "status": "not_listed"
  },
+ "gallagher": {
+  "checked_at": "2026-10-22T06:50:58.635922+00:00",
+  "expiry": "2028-09-23",
+  "legal_name": "ARTHUR J. GALLAGHER & CO (NZ) LIMITED",
+  "nzbn": "9429035470076",
+  "status": "accredited"
+ },
  "genesis recruitment": {
   "checked_at": "2026-10-21T15:01:02.420526+00:00",
   "status": "not_listed"
@@ -484,6 +543,13 @@
   "nzbn": "9429043031801",
   "status": "accredited"
  },
+ "health te whatu ora": {
+  "checked_at": "2026-10-22T06:50:55.443219+00:00",
+  "expiry": "2028-05-11",
+  "legal_name": "Health New Zealand",
+  "nzbn": "9429050678402",
+  "status": "accredited"
+ },
  "hewlett packard enterprise": {
   "checked_at": "2026-10-21T14:37:43.710175+00:00",
   "status": "not_listed"
@@ -497,6 +563,10 @@
  },
  "hr contracting": {
   "checked_at": "2026-10-21T14:38:29.301920+00:00",
+  "status": "not_listed"
+ },
+ "icm asia pacific": {
+  "checked_at": "2026-10-22T06:50:39.561090+00:00",
   "status": "not_listed"
  },
  "ignite spark": {
@@ -534,6 +604,10 @@
  },
  "jigsaw staffing": {
   "checked_at": "2026-10-21T14:38:20.278530+00:00",
+  "status": "not_listed"
+ },
+ "johnson": {
+  "checked_at": "2026-10-22T06:50:54.369469+00:00",
   "status": "not_listed"
  },
  "k inga ora homes and communities": {
@@ -610,6 +684,10 @@
   "checked_at": "2026-10-21T15:00:53.970893+00:00",
   "status": "not_listed"
  },
+ "madison recruitment": {
+  "checked_at": "2026-10-22T06:51:08.524546+00:00",
+  "status": "not_listed"
+ },
  "manawanui": {
   "checked_at": "2026-10-21T15:00:52.741256+00:00",
   "status": "not_listed"
@@ -676,6 +754,13 @@
   "nzbn": "9429046196057",
   "status": "accredited"
  },
+ "oranga tamariki ministry for children": {
+  "checked_at": "2026-10-22T06:51:05.758674+00:00",
+  "expiry": "2028-06-29",
+  "legal_name": "Oranga Tamariki \u2014 Ministry for Children",
+  "nzbn": "9429046196057",
+  "status": "accredited"
+ },
  "orion health": {
   "checked_at": "2026-10-21T15:01:39.774134+00:00",
   "expiry": "2028-07-06",
@@ -715,11 +800,22 @@
   "nzbn": "9429032461664",
   "status": "accredited"
  },
+ "planit testing": {
+  "checked_at": "2026-10-22T06:50:43.036328+00:00",
+  "status": "not_listed"
+ },
  "podcom": {
   "checked_at": "2026-10-21T15:01:07.490021+00:00",
   "expiry": "2027-07-14",
   "legal_name": "PODCOM LIMITED",
   "nzbn": "9429036921249",
+  "status": "accredited"
+ },
+ "polished concrete": {
+  "checked_at": "2026-10-22T06:50:44.202575+00:00",
+  "expiry": "2027-01-19",
+  "legal_name": "POLISHED CONCRETE CARE LIMITED",
+  "nzbn": "9429046840639",
   "status": "accredited"
  },
  "potentia": {
@@ -770,6 +866,10 @@
   "nzbn": "9429030566651",
   "status": "accredited"
  },
+ "qube": {
+  "checked_at": "2026-10-22T06:50:41.868176+00:00",
+  "status": "not_listed"
+ },
  "randstad": {
   "checked_at": "2026-10-21T14:37:55.637663+00:00",
   "status": "not_listed"
@@ -794,6 +894,10 @@
  },
  "red hat": {
   "checked_at": "2026-10-21T14:38:13.630888+00:00",
+  "status": "not_listed"
+ },
+ "redpath partners": {
+  "checked_at": "2026-10-22T06:51:07.015793+00:00",
   "status": "not_listed"
  },
  "robert half": {
@@ -862,6 +966,17 @@
   "expiry": "2027-03-04",
   "legal_name": "SCHICK CIVIL CONSTRUCTION LIMITED",
   "nzbn": "9429037500924",
+  "status": "accredited"
+ },
+ "serverworks": {
+  "checked_at": "2026-10-22T06:50:35.461955+00:00",
+  "status": "not_listed"
+ },
+ "sheffield": {
+  "checked_at": "2026-10-22T06:50:50.059119+00:00",
+  "expiry": "2028-07-14",
+  "legal_name": "SHEFFIELD NZ LIMITED",
+  "nzbn": "9429032325355",
   "status": "accredited"
  },
  "showtime consulting": {
@@ -1015,6 +1130,10 @@
   "nzbn": "9429039911582",
   "status": "accredited"
  },
+ "treasury of": {
+  "checked_at": "2026-10-22T06:50:45.340912+00:00",
+  "status": "not_listed"
+ },
  "tribe": {
   "checked_at": "2026-10-21T14:27:29.493328+00:00",
   "expiry": "2028-06-18",
@@ -1068,6 +1187,10 @@
  },
  "vertiv": {
   "checked_at": "2026-10-21T15:00:20.434438+00:00",
+  "status": "not_listed"
+ },
+ "vip structural steel": {
+  "checked_at": "2026-10-22T06:50:59.836424+00:00",
   "status": "not_listed"
  },
  "walker smith": {

@@ -2789,7 +2789,13 @@
       "mentions accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4481189808/"
+    }
+   ]
   },
   {
    "id": "seek:94931388",
@@ -3717,6 +3723,60 @@
    },
    "visa_ready": true,
    "score": 71,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95419211",
+   "source": "Seek",
+   "title": "Cloud Security Specialist",
+   "company": "Bastion Security Group",
+   "advertiser": "Bastion Security Group",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95419211",
+   "posted_at": "2026-10-21T23:03:15Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "\u2018cloudies\u2019 and cloud security specialists check out Bastion! Fast-paced, varied consulting role, with an exciting range of clients across NZ and afar Advise our clients on how to improve their cloud security posture Surround yourself with some of the best cyber security minds in New Zealand Further develop your technical and consulting skills",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-22T06:50:38.435249+00:00",
+    "legal_name": "BASTION SECURITY GROUP LIMITED",
+    "nzbn": "9429051214081",
+    "expiry": "2028-10-08"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026njoys engaging with clients and consistently delivers exceptional value. Ideally, you are already based in New Zealand, with a permanent right to work or a valid work visa.  Someone supportive and collaborati\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Advise our clients on how to improve their cloud security posture\n\n Surround yourself with some of the best cyber security minds in New Zealand\n\n Further develop your technical and consulting skills\n\n \n\n Calling for \u2018cloudies\u2019 and cloud security specialists to check out Bastion Security Group!\n Our Offensive Security Services (OSS) team is integral to the successful running of our busy cybersecuri",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "docker",
+      "sre"
+     ],
+     "score": 69,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 69,
    "tier": "A"
   },
   {
@@ -5295,6 +5355,58 @@
    "tier": "B"
   },
   {
+   "id": "seek:95418034",
+   "source": "Seek",
+   "title": "Service Delivery Manager - Data",
+   "company": "ICM Asia Pacific",
+   "advertiser": "Adaptiv Integration",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95418034",
+   "posted_at": "2026-10-21T21:04:21Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead data and technology projects, build client relationships and coordinate delivery teams at Adaptiv. Auckland-based with hybrid working Own client delivery across data, cloud and integration projects. Work alongside experienced architects, engineers and consultants. Help shape delivery practices as Adaptiv\u2019s Data Practice grows.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:39.561090+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Join Adaptiv\u2019s Data Practice \n\n At Adaptiv, we help enterprise organisations across Australia and New Zealand connect systems, modernise technology and unlock the value of their data.\n\n We\u2019re looking for a Service Delivery Manager (Data) who enjoys working with clients and technical teams to deliver agreed outcomes.\n\n Why join Adaptiv? \n\n You\u2019ll work alongside experienced consultants, architects a",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "consulting",
+      "data",
+      "methods",
+      "risk",
+      "tools",
+      "vendors"
+     ],
+     "score": 54,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 54,
+   "tier": "B"
+  },
+  {
    "id": "seek:94990935",
    "source": "Seek",
    "title": "MADCAP - Test Automation Engineer",
@@ -6131,6 +6243,10 @@
     {
      "source": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4480749820/"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95424220"
     }
    ],
    "accreditation": {
@@ -6934,6 +7050,54 @@
    },
    "visa_ready": false,
    "score": 46,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95425758",
+   "source": "Seek",
+   "title": "Senior Data Platform Engineer",
+   "company": "DOT loves data",
+   "advertiser": "Dot Loves Data",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95425758",
+   "posted_at": "2026-10-22T02:57:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Senior Data Platform Engineer building robust, scalable & elegant data systems from Wellington",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:37.256326+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Make your mark from day Dot. We\u2019re hiring a Senior Data Platform Engineer to shape the platforms behind our products and insights. \n About the role \n This is a Wellington-based role on the Dot Platform Team. As a Senior Data Platform Engineer you'll play a key role in delivering our mission by building and running robust, scalable and elegant data systems that embody our philosophy of simple, smar",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "jenkins",
+      "observability",
+      "python",
+      "sre"
+     ],
+     "score": 45,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 45,
    "tier": "B"
   },
   {
@@ -9021,6 +9185,51 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4480432180",
+   "source": "LinkedIn",
+   "title": "CyberCX - Service Delivery Manager",
+   "company": "CyberCX",
+   "advertiser": "CyberCX",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480432180/",
+   "posted_at": "2026-10-20T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:05.446300+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The work we do matters \n\n CyberCX, part of Accenture, protects and defends our customers and communities by providing the most comprehensive range of cyber security professional services in the region.\n\nWith more than 1,400 team members across Australia, New Zealand, the UK and US, we are a leading force in cyber security, offering services from strategy, GRC, managed security services, cloud secu",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "consulting",
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "score": 35,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 35,
+   "tier": "B"
+  },
+  {
    "id": "seek:94877989",
    "source": "Seek",
    "title": "Scrum Master",
@@ -9287,7 +9496,13 @@
    },
    "visa_ready": false,
    "score": 32,
-   "tier": "C"
+   "tier": "C",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4481150523/"
+    }
+   ]
   },
   {
    "id": "seek:95153958",
@@ -10097,6 +10312,50 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4479452160",
+   "source": "LinkedIn",
+   "title": "Senior/Principal Forward Deployed Engineer - New Zealand",
+   "company": "FDE Times",
+   "advertiser": "FDE Times",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4479452160/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:57.359414+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\n\nJob Category\n\nSoftware Engineering\n\nJob Details\n\n About Salesforce\n\n Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzwor",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "observability",
+      "python"
+     ],
+     "score": 29,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 29,
+   "tier": "C"
   },
   {
    "id": "seek:95046340",
@@ -11345,6 +11604,53 @@
    }
   },
   {
+   "id": "linkedin:4478967710",
+   "source": "LinkedIn",
+   "title": "Information Security Consultants - Cyber/Cloud",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4478967710/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "score": 20,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 20,
+   "tier": "C"
+  },
+  {
    "id": "seek:94907508",
    "source": "Seek",
    "title": "DevSecOps Subject Matter Expert (Contract)",
@@ -11519,6 +11825,94 @@
    "tier": "C"
   },
   {
+   "id": "seek:95417532",
+   "source": "Seek",
+   "title": "IT Systems Engineer - Technician",
+   "company": "Qube Holdings",
+   "advertiser": "Qube Ports NZ",
+   "location": "Mount Maunganui, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95417532",
+   "posted_at": "2026-10-21T20:02:14Z",
+   "work_type": "Full time",
+   "salary": "Competitive remuneration + Health Insurance",
+   "teaser": "System Engineer wanted to support cloud, infrastructure, and OT systems across a large national business. Work for one of Australasia's leading providers of integrated logistics Supportive, collaborative team environment across NZ & AU Exposure to modern infrastructure, cloud, and enterprise systems",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:41.868176+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "What's on offer:\n\n \n Competitive remuneration package\n\n Supportive, collaborative team environment across NZ & AU\n\n Exposure to modern infrastructure, cloud, and enterprise systems\n\n Career progression within a large, nationwide organisation\n\n \n About the Role\n\n We're looking for an experienced IT Systems Engineer - Technician to join our Platform Services team based in Tauranga.\n\n This role is id",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95429689",
+   "source": "Seek",
+   "title": "Systems Engineer",
+   "company": "ServerWorks Ltd",
+   "advertiser": "ServerWorks Ltd",
+   "location": "Riccarton, Canterbury",
+   "url": "https://www.seek.co.nz/job/95429689",
+   "posted_at": "2026-10-22T04:36:36Z",
+   "work_type": "Full time",
+   "salary": "$95,000 \u2013 $105,000 per year",
+   "teaser": "A customer facing Windows/Network engineer role in the service industry - we are looking for a proven track record. Great salary, even better company. A role where you will own and lead a number of responsibilities International travel opportunities. Gadgets included (laptop, phone), car park, awesome coffee....",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:35.461955+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are all about:\u00a0People. People always come first, not the size of a partition or number of firewall rules but people \u2013 be they our customers, suppliers or you; Ownership and commitment - we go so far out of our way to deliver that our clients keep us a secret;\u00a0Passion for service - serving others is what fills our emotional tank;\u00a0Excellence \u2013 we are proud of what we achieve and make a deal about",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
+   "tier": "C"
+  },
+  {
    "id": "seek:95336814",
    "source": "Seek",
    "title": "Lead AI Engineer",
@@ -11629,6 +12023,52 @@
    },
    "visa_ready": false,
    "score": 16,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95335864",
+   "source": "Seek",
+   "title": "Wellington-Engineer Level 1-Automation Engineering",
+   "company": "Planit Testing",
+   "advertiser": "Planit Test Management Solutions",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95335864",
+   "posted_at": "2026-10-18T21:01:55Z",
+   "work_type": "Full time",
+   "salary": "$95k - $125k p.a.",
+   "teaser": "We're looking for Automation Test Engineers to work with cutting edge tools, frameworks and AI to redefine how quality is delivered Exciting and Innovative Projects Embrace our dynamic fast paced environment Growth and development opportunities",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:43.036328+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Planit - An NRI Company \nWhere Quality Is Seen, Not Heard \nAt Planit, quality isn't a checkbox - it's a craft. As part of NRI, we combine global scale with deep local expertise to deliver quality engineering and testing services you can see, trust, and measure.\nWith 1,500+ Quality Engineering specialists and delivery models that adapt to every client's needs, Planit offers the perfect blend of rea",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "jenkins",
+      "observability"
+     ],
+     "score": 14,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 14,
    "tier": "C"
   },
   {
@@ -11867,6 +12307,52 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95288731",
+   "source": "Seek",
+   "title": "Programme Manager",
+   "company": "The Johnson Group",
+   "advertiser": "The Johnson Group",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95288731",
+   "posted_at": "2026-10-15T06:57:19Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Opportunity for an experienced programme manager to help manage 2 x key policy and regulatory programmes of work. Fixed Term contract to end of June 2027 Contribute to significant policy & regulatory change programmes Work as part of a small dynamic team",
+   "seek_class": [
+    "1210"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:54.369469+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Programme Manager \n\n Policy & Regulatory Systems | Wellington | Fixed-term Contract to June 2027 \n\n Job Reference Number: JAA6616 \n\n An exciting opportunity for an experienced Programme Manager to support significant policy and regulatory stewardship and reform initiatives within the public sector.\n\n Working across two key programmes, you\u2019ll coordinate delivery, manage risks and reporting, and wor",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "stakeholders"
+     ],
+     "score": 13,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 13,
+   "tier": "C"
   },
   {
    "id": "seek:94869900",
@@ -12732,6 +13218,10 @@
     {
      "source": "Seek",
      "url": "https://www.seek.co.nz/job/95336442"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95428359"
     }
    ],
    "fit": "adjacent",
@@ -13088,7 +13578,13 @@
    },
    "visa_ready": false,
    "score": 89,
-   "tier": "blocked"
+   "tier": "blocked",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4420226242/"
+    }
+   ]
   },
   {
    "id": "seek:95046072",
@@ -14198,6 +14694,59 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95307765",
+   "source": "Seek",
+   "title": "Project Manager",
+   "company": "The Treasury of New Zealand",
+   "advertiser": "The Treasury",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95307765",
+   "posted_at": "2026-10-16T03:33:08Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "- Delivering IT projects that support and streamline business processes - Flexible working arrangements - Collaborative team culture Scope, manage, and deliver IT projects Flexible work arrangements will help you enjoy a positive work/life balance Join our caring and collaborative team",
+   "seek_class": [
+    "1210"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:45.340912+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026oject teams.   The ability to meet the criteria required to hold a New Zealand Government security clearance.     \u00a0   Ko ng\u0101 hua | What we Offer    This is an important job and that\u2019s why we\u2019ll do a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Have you got what it takes to shape Aotearoa New Zealand\u2019s tomorrow?\u00a0 \n\n This is an exceptional opportunity to lead projects that make a tangible difference to the efficiency and effectiveness of public services in New Zealand. Joining our team will see you working in a caring and collaborative team environment, advancing your skills and career, while shaping a better tomorrow for all New Zealande",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "score": 19,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 19,
+   "tier": "blocked"
   },
   {
    "id": "seek:95298623",
