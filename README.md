@@ -54,10 +54,16 @@ Then open http://localhost:8000/site/. Run the tests with
    Only public job ads and code are committed (`.env` files are git-ignored).
 2. **Email.** Create a Gmail [app password](https://myaccount.google.com/apppasswords), then in
    the repo go to Settings → Secrets and variables → Actions and add:
-   - secrets `SMTP_USER` (your Gmail address), `SMTP_PASSWORD` (the app password), `ALERT_TO` (where alerts go)
+   - secrets `SMTP_USER` (your Gmail address), `SMTP_PASSWORD` (the app password), `ALERT_TO` (where alerts go),
+     `ALERT_TO_WIFE` (optional; her alerts go to `ALERT_TO` without it)
    - variable `SITE_URL` (the Vercel URL, once you have it)
 3. **Vercel.** Import the repo in Vercel and leave the build settings to `vercel.json`.
-4. Run the workflow once by hand (Actions → Hunt NZ jobs → Run workflow).
+4. Check email: Actions → Hunt NZ jobs → Run workflow, tick **"Only send a test email"**.
+   You should get one test email per person within a minute.
+5. Run it once more without the tick. After that it runs on its own every 15 minutes.
+
+If a run finds visa-ready jobs but cannot send email, it fails (red ✗, and GitHub
+emails you) and keeps those jobs for the next run, so nothing is lost.
 
 ## Tuning
 

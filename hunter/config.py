@@ -64,7 +64,9 @@ EXCLUDE_TITLE = re.compile(
     r"sales|account (manager|executive)|business development|recruit|"
     r"electrical|mechanical|civil|plumb|hvac|fire|security officer|"
     r"\btest(er|ing)? analyst\b|teacher|nurse|itsm|servicenow|product (manager|owner)|"
-    r"mandarin|japanese|korean speaking|help ?desk|service desk|desktop support",
+    r"mandarin|japanese|korean speaking|help ?desk|service desk|desktop support|"
+    r"power (platform|systems|apps|bi)|scada|substation|protection|control systems|"
+    r"automation and control|instrumentation|plc\b",
     re.I,
 )
 
@@ -226,9 +228,10 @@ PM_EXCLUDE_TITLE = re.compile(
 # words count 2, general tech words 1, construction/engineering words -2;
 # a total of 4 or more counts as IT.
 ICT_STRONG = re.compile(
-    r"\b(software|IT|ICT|erp|crm|saas|cloud|cyber\s?security|sdlc|devops|salesforce|servicenow|"
-    r"sap|dynamics 365|d365|microsoft 365|m365|power platform|it systems|tech stack|"
-    r"software development|system implementation|digital transformation)\b",
+    # "IT"/"ICT" must be upper case so the word "it" does not count.
+    r"\b(IT|ICT)\b|(?i:\b(software|erp|crm|saas|cloud|cyber\s?security|sdlc|devops|salesforce|"
+    r"servicenow|aws|azure|gcp|kubernetes|linux|terraform|ci/cd|sap|dynamics 365|d365|"
+    r"microsoft 365|m365|it systems|tech stack|system implementation|digital transformation)\b)",
 )
 ICT_WEAK = re.compile(
     r"\b(technology|digital|systems?|data|platforms?|agile|scrum|integration|applications?|"
@@ -238,7 +241,8 @@ ICT_WEAK = re.compile(
 NON_ICT = re.compile(
     r"\b(construction|roading|road|civil|crews?|site works|building|fit-?out|earthworks|"
     r"health and safety|plant|waste|water|wastewater|consent|architect(ure|s)? and engineering|"
-    r"capital works|minor works|physical works)\b",
+    r"capital works|minor works|physical works|electricity|distribution network|transmission|"
+    r"substations?|energy network|lines company|switchgear|high voltage)\b",
     re.I,
 )
 ICT_TITLE_WORDS = re.compile(
@@ -280,6 +284,8 @@ PROFILES = {
         "skills": SKILLS,
         "too_senior": TOO_SENIOR_TITLE,
         "needs_ict": False,
+        # Loose titles like "Systems Engineer" are often electrical/plant roles.
+        "adjacent_needs_ict": True,
     },
     "wife": {
         "label": "Wife",

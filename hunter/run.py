@@ -116,11 +116,13 @@ def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
     if status:
         meta["quota"] = {**status, "checked_at": now}
 
+    unsent = []
     if send_email and quota_changed:
         body = "<p>The India Skilled Work Visa page changed what it says about places:</p><ul>"
         body += "".join(f"<li>{line}</li>" for line in status["lines"]) + "</ul>"
         body += f"<p><a href='{config.VISA_PAGE}'>{config.VISA_PAGE}</a></p>"
-        notify.send("⚠️ India Skilled Work Visa: places update", body, str(DATA / "last_quota_email.html"))
+        if not notify.send("⚠️ India Skilled Work Visa: places update", body, str(DATA / "last_quota_email.html")):
+            unsent.append("visa places update")
 
     # One email per person, only jobs whose employer can sponsor.
     fresh = [jobs[i] for i in new_ids if i in jobs]
@@ -141,7 +143,15 @@ def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
         )
         to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
         html_body = notify.render_jobs_email(ready, key, site_url, len(theirs) - len(ready), errors)
-        notify.send(subject, html_body, str(DATA / f"last_email_{key}.html"), to=to)
+        if not notify.send(subject, html_body, str(DATA / f"last_email_{key}.html"), to=to):
+            unsent.append(f"{len(ready)} job(s) for {prof['label']}")
+
+    if unsent:
+        # Fail before saving, so these jobs stay "new" and are emailed once SMTP works.
+        raise SystemExit(
+            "Could not email: " + ", ".join(unsent) + ". Set the SMTP_USER and SMTP_PASSWORD "
+            "repository secrets (Settings > Secrets and variables > Actions)."
+        )
 
     meta.update(
         last_run=now,
@@ -161,13 +171,30 @@ def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
     return meta
 
 
+def send_test_email():
+    """Send one test message per person so you can check the SMTP secrets."""
+    for key, prof in config.PROFILES.items():
+        to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
+        body = (
+            f"<p>✅ NZ job hunter email works for <b>{prof['label']}</b> ({prof['role']}).</p>"
+            "<p>You will get an email like this whenever a new visa-ready job is found.</p>"
+        )
+        if not notify.send(f"✅ NZ job hunter: test email for {prof['label']}", body, to=to):
+            raise SystemExit("SMTP_USER and SMTP_PASSWORD are not set; no test email sent.")
+        log.info("Test email for %s sent to %s", prof["label"], to)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--no-email", action="store_true", help="update data without sending email")
     parser.add_argument("--max-details", type=int, default=config.MAX_DETAILS_PER_RUN,
                         help="job descriptions to fetch this run")
+    parser.add_argument("--test-email", action="store_true", help="send a test email to each person and exit")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+    if args.test_email:
+        send_test_email()
+        return
     hunt(send_email=not args.no_email, max_details=args.max_details)
 
 

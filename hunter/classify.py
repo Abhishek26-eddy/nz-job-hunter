@@ -34,16 +34,20 @@ def fits_anyone(title):
     return any(title_fit(title, p) for p in config.PROFILES.values())
 
 
-def _is_ict(job, text):
-    if config.SEEK_ICT in (job.get("seek_class") or []):
+def _is_ict(job, text, strict=False):
+    """Does the ad read as IT work? strict: ignore the title, need a clear IT term."""
+    if config.SEEK_ICT in (job.get("seek_class") or []) and not strict:
         return True
-    if config.ICT_TITLE_WORDS.search(job.get("title", "")) and not config.NON_ICT.search(job["title"]):
+    if not strict and config.ICT_TITLE_WORDS.search(job.get("title", "")) and not config.NON_ICT.search(job["title"]):
         return True
+
     def distinct(rx):
         return len({m.group(0).lower() for m in rx.finditer(text)})
 
-    points = 2 * distinct(config.ICT_STRONG) + distinct(config.ICT_WEAK) - 2 * distinct(config.NON_ICT)
-    return points >= 4
+    strong = distinct(config.ICT_STRONG)
+    if strict and not strong:
+        return False
+    return 2 * strong + distinct(config.ICT_WEAK) - 2 * distinct(config.NON_ICT) >= 4
 
 
 def _snippet(text, m, width=90):
@@ -82,7 +86,11 @@ def analyse(job, description, accreditation):
     job["for"] = {}
     for key, prof in config.PROFILES.items():
         fit = title_fit(job["title"], prof)
-        if not fit or (prof["needs_ict"] and not _is_ict(job, text)):
+        if not fit:
+            continue
+        if prof["needs_ict"] and not _is_ict(job, text):
+            continue
+        if fit == "adjacent" and prof.get("adjacent_needs_ict") and not _is_ict(job, text, strict=True):
             continue
         skills = sorted(name for name, rx in _SKILLS[key].items() if rx.search(text))
         job["for"][key] = {"fit": fit, "skills": skills}

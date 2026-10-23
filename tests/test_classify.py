@@ -23,6 +23,19 @@ class TitleFit(unittest.TestCase):
                   "Software Specialist (Developer Platforms)", "Kubernetes Engineer"]:
             self.assertEqual(classify.title_fit(t, ME), "core", t)
 
+    def test_power_and_plant_titles_out_of_scope(self):
+        for t in ["Power Platform Engineer", "Senior Power Systems Engineer", "SCADA Engineer",
+                  "Automation and Control Systems Engineer", "Protection Engineer"]:
+            self.assertIsNone(classify.title_fit(t, ME), t)
+
+    def test_loose_title_needs_it_context(self):
+        j = job(title="Systems Engineer")
+        classify.analyse(j, "Maintain our electricity distribution network assets and substations.", ACC)
+        self.assertNotIn("abhishek", j["for"])
+        k = job(title="Systems Engineer")
+        classify.analyse(k, "Run our AWS cloud and Linux servers; IT systems, DevOps tooling.", ACC)
+        self.assertIn("abhishek", k["for"])
+
     def test_out_of_scope(self):
         for t in [".Net Developer", "Graduate DevOps Engineer", "DevOps Intern", "Account Manager - Cloud",
                   "Senior API Developer", "Registered Nurse", "ITSM Platform Specialist",

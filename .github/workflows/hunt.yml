@@ -2,9 +2,15 @@ name: Hunt NZ jobs
 
 on:
   schedule:
-    # Every 15 minutes. GitHub may delay scheduled runs by a few minutes.
-    - cron: "*/15 * * * *"
+    # Every 15 minutes, off the busy :00/:15/:30/:45 slots that GitHub drops
+    # under load. Scheduled runs can still be late.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Only send a test email (checks the SMTP secrets)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,9 +40,10 @@ jobs:
           ALERT_TO: ${{ secrets.ALERT_TO }}
           ALERT_TO_WIFE: ${{ secrets.ALERT_TO_WIFE }}
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python -m hunter.run
+        run: python -m hunter.run ${{ inputs.test_email && '--test-email' || '' }}
 
       - name: Save results
+        if: ${{ !inputs.test_email }}
         run: |
           git config user.name "nz-job-hunter"
           git config user.email "actions@users.noreply.github.com"
