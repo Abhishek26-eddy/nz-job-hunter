@@ -81,7 +81,8 @@ def send(subject, html_body, out_path=None, to=None):
     password = os.environ.get("SMTP_PASSWORD")
     to = to or os.environ.get("ALERT_TO") or user
     if not (user and password and to):
-        log.warning("SMTP_USER/SMTP_PASSWORD not set; email not sent (saved to %s)", out_path)
+        missing = [n for n, v in (("SMTP_USER", user), ("SMTP_PASSWORD", password)) if not v]
+        log.warning("Email not sent, missing: %s (saved to %s)", ", ".join(missing), out_path)
         return False
     msg = EmailMessage()
     msg["Subject"] = subject

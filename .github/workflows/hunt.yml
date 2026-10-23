@@ -33,6 +33,26 @@ jobs:
       - name: Tests
         run: python -m unittest discover -s tests -q
 
+      - name: Check email settings
+        # Prints only whether each setting exists, never its value.
+        env:
+          SECRET_SMTP_USER: ${{ secrets.SMTP_USER != '' }}
+          SECRET_SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD != '' }}
+          SECRET_ALERT_TO: ${{ secrets.ALERT_TO != '' }}
+          SECRET_ALERT_TO_WIFE: ${{ secrets.ALERT_TO_WIFE != '' }}
+          VAR_SMTP_USER: ${{ vars.SMTP_USER != '' }}
+          VAR_SMTP_PASSWORD: ${{ vars.SMTP_PASSWORD != '' }}
+          VAR_ALERT_TO: ${{ vars.ALERT_TO != '' }}
+          VAR_ALERT_TO_WIFE: ${{ vars.ALERT_TO_WIFE != '' }}
+        run: |
+          for name in SMTP_USER SMTP_PASSWORD ALERT_TO ALERT_TO_WIFE; do
+            s="SECRET_$name"; v="VAR_$name"
+            if [ "${!s}" = "true" ]; then echo "OK       $name is a repository secret"
+            elif [ "${!v}" = "true" ]; then echo "::warning::$name is saved as a Variable, not a Secret. Delete it there and add it under Secrets."
+            else echo "MISSING  $name (not a repository secret; check the name and that it is not an Environment secret)"
+            fi
+          done
+
       - name: Hunt
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
