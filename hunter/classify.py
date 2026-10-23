@@ -93,7 +93,9 @@ def analyse(job, description, accreditation):
         if fit == "adjacent" and prof.get("adjacent_needs_ict") and not _is_ict(job, text, strict=True):
             continue
         skills = sorted(name for name, rx in _SKILLS[key].items() if rx.search(text))
-        job["for"][key] = {"fit": fit, "skills": skills}
+        # "iswv": can be framed as an India Skilled Work Visa occupation; "aewv": regular AEWV only.
+        route = "iswv" if prof["iswv_title"].search(job["title"]) else "aewv"
+        job["for"][key] = {"fit": fit, "skills": skills, "route": route}
     score(job)
     return job
 

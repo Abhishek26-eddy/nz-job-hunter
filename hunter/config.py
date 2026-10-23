@@ -184,11 +184,12 @@ DROP_AFTER_DAYS = 45
 # Full descriptions fetched per run; the rest are fetched on the next run.
 MAX_DETAILS_PER_RUN = 150
 
-# --- Your wife: ICT / IT project manager ------------------------------------
+# --- Oindrila: business analyst / product manager / IT project manager -----
 #
 # 5+ years managing IT projects as a tech consultant; B.Tech Mechanical + MBA,
-# IIT Bombay. Visa route: ICT Project Manager (an engineering bachelor's plus
-# 5 years in the field). She needs her own offer and her own visa.
+# IIT Bombay. Only ICT Project Manager is on the India Skilled Work Visa list;
+# business analyst and product roles need the regular AEWV instead. She needs
+# her own offer, or comes as your partner if you are on an AEWV.
 
 SEEK_ICT = "6281"  # Seek's "Information & Communication Technology" category
 
@@ -201,14 +202,25 @@ PM_SEEK_KEYWORDS = [  # each searched inside the ICT category only
     "scrum master",
     "pmo",
     "iteration manager",
+    "business analyst",
+    "product manager",
+    "product owner",
 ]
 PM_LINKEDIN_QUERIES = [
     '"IT project manager" OR "ICT project manager" OR "technical project manager" OR "digital project manager"',
     '"delivery manager" OR "programme manager" OR "technical program manager" OR "scrum master"',
+    '"business analyst" OR "product manager" OR "product owner" OR "technical product manager"',
 ]
 PM_CORE_TITLE = re.compile(
     r"(project|programme|program|delivery|portfolio)\s+(manager|lead|director)|"
-    r"\bscrum master\b|\biteration manager\b|\bpmo\b|\btpm\b",
+    r"\bscrum master\b|\biteration manager\b|\bpmo\b|\btpm\b|"
+    r"business (analyst|analysis lead)|\bproduct (manager|owner|lead)\b|head of product",
+    re.I,
+)
+# Titles that can be described as ICT Project Manager for the India visa.
+# Everything else she matches needs the regular AEWV.
+PM_ISWV_TITLE = re.compile(
+    r"(project|programme|program|delivery|portfolio)\s+(manager|lead|director)|\bpmo\b|\btpm\b",
     re.I,
 )
 PM_ADJACENT_TITLE = re.compile(
@@ -221,7 +233,8 @@ PM_EXCLUDE_TITLE = re.compile(
     r"construction|building|civil|property|marketing|event|interior|fit[- ]?out|mechanical|"
     r"electrical|roading|water|landscap|architectural|clinical|health and safety|\bhse\b|"
     r"retail|store|warehouse|manufactur|mining|energy|solar|hvac|fire|plumb|sales|"
-    r"tender|estimat|quantity survey|horticulture|freight|logistics",
+    r"tender|estimat|quantity survey|horticulture|freight|logistics|"
+    r"product marketing|financial|finance|payroll|credit|insurance claims|category",
     re.I,
 )
 # Outside Seek's ICT category, the ad must read as an IT project. Strong IT
@@ -264,6 +277,9 @@ PM_SKILLS = {
     "consulting": r"consult|client[- ]facing|customer[- ]facing",
     "business": r"\bmba\b|business case|benefits realisation|roi",
     "data": r"\bdata\b|analytics|reporting",
+    "requirements": r"requirements|user stor|acceptance criteria|process (mapping|improvement)|bpmn",
+    "sql": r"\bsql\b|power bi|tableau",
+    "product": r"roadmap|product discovery|backlog|prioriti[sz]|go-to-market|customer research",
 }
 PM_TOO_SENIOR_TITLE = re.compile(r"\b(head of|director|chief|vp|general manager)\b", re.I)
 
@@ -275,6 +291,7 @@ PROFILES = {
     "abhishek": {
         "label": "Abhishek",
         "role": "DevOps / SRE / Platform (Software Engineer)",
+        "iswv_title": re.compile(r".", re.S),  # all his roles fit Software Engineer
         "email_env": "ALERT_TO",
         "seek": [(k, None) for k in SEEK_KEYWORDS],
         "linkedin": LINKEDIN_QUERIES,
@@ -288,9 +305,12 @@ PROFILES = {
         "adjacent_needs_ict": True,
     },
     "wife": {
-        "label": "Wife",
-        "role": "IT Project Manager (ICT Project Manager)",
+        "label": "Oindrila",
+        "role": "Business Analyst / Product Manager / IT Project Manager",
         "email_env": "ALERT_TO_WIFE",
+        # Abhishek gets a copy of every email she gets.
+        "cc_env": "ALERT_TO",
+        "iswv_title": PM_ISWV_TITLE,
         "seek": [(k, SEEK_ICT) for k in PM_SEEK_KEYWORDS],
         "linkedin": PM_LINKEDIN_QUERIES,
         "core": PM_CORE_TITLE,

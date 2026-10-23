@@ -49,6 +49,21 @@ class WifeProfile(unittest.TestCase):
                   "Technical Program Manager", "Scrum Master", "Programme Manager, Cloud Migration"]:
             self.assertEqual(classify.title_fit(t, WIFE), "core", t)
 
+    def test_ba_and_product_titles(self):
+        for t in ["Business Analyst", "Senior Business Analyst - Digital", "Product Manager", "Product Owner",
+                  "Technical Product Manager"]:
+            self.assertEqual(classify.title_fit(t, WIFE), "core", t)
+        for t in ["Product Marketing Manager", "Financial Business Analyst", "Credit Business Analyst"]:
+            self.assertIsNone(classify.title_fit(t, WIFE), t)
+
+    def test_visa_route(self):
+        pm = job(title="IT Project Manager", seek_class=["6281"])
+        ba = job(title="Business Analyst", seek_class=["6281"])
+        classify.analyse(pm, "", ACC)
+        classify.analyse(ba, "", ACC)
+        self.assertEqual(pm["for"]["wife"]["route"], "iswv")
+        self.assertEqual(ba["for"]["wife"]["route"], "aewv")
+
     def test_non_it_pm_titles(self):
         for t in ["Construction Project Manager", "Project Manager - Civil and Land Development",
                   "Marketing Project Manager", "Project Coordinator", "Fit-out Project Manager"]:

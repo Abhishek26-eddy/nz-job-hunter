@@ -10,12 +10,24 @@
   "checked_at": "2026-10-21T14:38:02.442362+00:00",
   "status": "not_listed"
  },
+ "acc": {
+  "checked_at": "2026-10-23T07:27:45.694182+00:00",
+  "status": "not_listed"
+ },
+ "accentuate consulting": {
+  "checked_at": "2026-10-23T07:28:10.271945+00:00",
+  "status": "not_listed"
+ },
  "accenture": {
   "checked_at": "2026-10-21T14:27:48.011680+00:00",
   "expiry": "2028-07-30",
   "legal_name": "ACCENTURE NZ LIMITED",
   "nzbn": "9429036900138",
   "status": "accredited"
+ },
+ "access": {
+  "checked_at": "2026-10-23T07:28:19.547116+00:00",
+  "status": "not_listed"
  },
  "aderant": {
   "checked_at": "2026-10-21T14:31:15.560629+00:00",
@@ -53,6 +65,20 @@
   "expiry": "2028-06-05",
   "legal_name": "AMAZON WEB SERVICES NEW ZEALAND LIMITED",
   "nzbn": "9429030252417",
+  "status": "accredited"
+ },
+ "ando insurance": {
+  "checked_at": "2026-10-23T07:27:34.762274+00:00",
+  "expiry": "2028-10-12",
+  "legal_name": "ANDO INSURANCE GROUP LIMITED",
+  "nzbn": "9429041788264",
+  "status": "accredited"
+ },
+ "anz": {
+  "checked_at": "2026-10-23T07:28:37.080524+00:00",
+  "expiry": "2028-06-19",
+  "legal_name": "ANZ BANK NEW ZEALAND LIMITED",
+  "nzbn": "9429040797410",
   "status": "accredited"
  },
  "anz engineering": {
@@ -108,6 +134,17 @@
   "nzbn": "9429039435743",
   "status": "accredited"
  },
+ "asknicely": {
+  "checked_at": "2026-10-23T07:28:00.707737+00:00",
+  "expiry": "2028-08-07",
+  "legal_name": "ASK NICELY",
+  "nzbn": "9429041338933",
+  "status": "accredited"
+ },
+ "aspeq": {
+  "checked_at": "2026-10-23T07:28:04.917542+00:00",
+  "status": "not_listed"
+ },
  "asset recruitment": {
   "checked_at": "2026-10-21T15:00:23.707597+00:00",
   "status": "not_listed"
@@ -147,6 +184,13 @@
   "nzbn": "9429039214270",
   "status": "accredited"
  },
+ "bank of": {
+  "checked_at": "2026-10-23T07:28:31.202486+00:00",
+  "expiry": "2028-10-09",
+  "legal_name": "BANK OF NEW ZEALAND",
+  "nzbn": "9429039342188",
+  "status": "accredited"
+ },
  "barfoot and thompson": {
   "checked_at": "2026-10-21T15:01:15.514469+00:00",
   "expiry": "2028-08-14",
@@ -168,8 +212,19 @@
   "nzbn": "9429051214081",
   "status": "accredited"
  },
+ "bay of plenty regional council": {
+  "checked_at": "2026-10-23T07:27:48.314102+00:00",
+  "expiry": "2028-05-08",
+  "legal_name": "Bay of Plenty Regional Council",
+  "nzbn": "9429041901489",
+  "status": "accredited"
+ },
  "beyond recruitment": {
   "checked_at": "2026-10-21T14:38:19.384738+00:00",
+  "status": "not_listed"
+ },
+ "blood service": {
+  "checked_at": "2026-10-23T07:27:50.664536+00:00",
   "status": "not_listed"
  },
  "bluewater project management": {
@@ -179,6 +234,13 @@
  "bnp associates": {
   "checked_at": "2026-10-21T15:01:45.307964+00:00",
   "status": "not_listed"
+ },
+ "bnz": {
+  "checked_at": "2026-10-23T07:27:37.370083+00:00",
+  "expiry": "2028-10-09",
+  "legal_name": "BANK OF NEW ZEALAND",
+  "nzbn": "9429039342188",
+  "status": "accredited"
  },
  "boundary": {
   "checked_at": "2026-10-21T15:00:49.700938+00:00",
@@ -195,11 +257,29 @@
   "checked_at": "2026-10-21T14:38:26.394752+00:00",
   "status": "not_listed"
  },
+ "careering options": {
+  "checked_at": "2026-10-23T07:27:39.192512+00:00",
+  "status": "not_listed"
+ },
  "centrapay": {
   "checked_at": "2026-10-21T14:31:24.824923+00:00",
   "expiry": "2027-08-07",
   "legal_name": "CENTRAPAY LIMITED",
   "nzbn": "9429046246448",
+  "status": "accredited"
+ },
+ "civil aviation authority": {
+  "checked_at": "2026-10-23T07:27:41.970108+00:00",
+  "expiry": "2028-10-09",
+  "legal_name": "Civil Aviation Authority of New Zealand",
+  "nzbn": "9429041904244",
+  "status": "accredited"
+ },
+ "civil aviation authority of": {
+  "checked_at": "2026-10-23T07:28:39.669610+00:00",
+  "expiry": "2028-10-09",
+  "legal_name": "Civil Aviation Authority of New Zealand",
+  "nzbn": "9429041904244",
   "status": "accredited"
  },
  "cognizant": {
@@ -216,6 +296,13 @@
  "comspek international": {
   "checked_at": "2026-10-21T14:38:40.926166+00:00",
   "status": "not_listed"
+ },
+ "coninnova": {
+  "checked_at": "2026-10-23T07:28:28.483876+00:00",
+  "expiry": "2026-11-27",
+  "legal_name": "CONINNOVA LIMITED",
+  "nzbn": "9429049172201",
+  "status": "accredited"
  },
  "connexa": {
   "checked_at": "2026-10-21T15:01:16.743528+00:00",
@@ -289,6 +376,13 @@
   "expiry": "2028-09-29",
   "legal_name": "Department of Conservation",
   "nzbn": "9429000028295",
+  "status": "accredited"
+ },
+ "department of internal affairs": {
+  "checked_at": "2026-10-23T07:27:55.427032+00:00",
+  "expiry": "2028-09-01",
+  "legal_name": "Department of Internal Affairs",
+  "nzbn": "9429041904916",
   "status": "accredited"
  },
  "department of prime minister and cabinet": {
@@ -377,6 +471,14 @@
   "checked_at": "2026-10-21T15:01:29.230043+00:00",
   "status": "not_listed"
  },
+ "enterprise recruitment": {
+  "checked_at": "2026-10-23T07:27:27.382702+00:00",
+  "status": "not_listed"
+ },
+ "envato": {
+  "checked_at": "2026-10-23T07:28:24.864515+00:00",
+  "status": "not_listed"
+ },
  "environment canterbury": {
   "checked_at": "2026-10-21T14:27:15.099971+00:00",
   "expiry": "2028-05-11",
@@ -461,6 +563,13 @@
   "nzbn": "9429040555720",
   "status": "accredited"
  },
+ "flexitime": {
+  "checked_at": "2026-10-23T07:28:14.307514+00:00",
+  "expiry": "2027-03-26",
+  "legal_name": "FLEXITIME LIMITED",
+  "nzbn": "9429031861045",
+  "status": "accredited"
+ },
  "fonterra": {
   "checked_at": "2026-10-21T14:26:52.260488+00:00",
   "expiry": "2028-08-06",
@@ -529,6 +638,14 @@
   "nzbn": "9429035470076",
   "status": "accredited"
  },
+ "gallagher security": {
+  "checked_at": "2026-10-23T07:28:22.254325+00:00",
+  "status": "not_listed"
+ },
+ "genesis": {
+  "checked_at": "2026-10-23T07:28:29.895839+00:00",
+  "status": "not_listed"
+ },
  "genesis recruitment": {
   "checked_at": "2026-10-21T15:01:02.420526+00:00",
   "status": "not_listed"
@@ -559,12 +676,23 @@
   "nzbn": "9429042479222",
   "status": "accredited"
  },
+ "hamilton city council": {
+  "checked_at": "2026-10-23T07:27:57.885878+00:00",
+  "expiry": "2028-05-22",
+  "legal_name": "Hamilton City Council",
+  "nzbn": "9429041903582",
+  "status": "accredited"
+ },
  "hato hone st john": {
   "checked_at": "2026-10-21T15:00:45.182412+00:00",
   "expiry": "2028-09-04",
   "legal_name": "THE PRIORY IN NEW ZEALAND OF THE MOST VENERABLE ORDER OF THE HOSPITAL OF ST JOHN OF JERUSALEM",
   "nzbn": "9429043031801",
   "status": "accredited"
+ },
+ "health": {
+  "checked_at": "2026-10-23T07:28:06.232899+00:00",
+  "status": "not_listed"
  },
  "health te whatu ora": {
   "checked_at": "2026-10-22T06:50:55.443219+00:00",
@@ -592,6 +720,13 @@
   "checked_at": "2026-10-22T06:50:39.561090+00:00",
   "status": "not_listed"
  },
+ "idexx": {
+  "checked_at": "2026-10-23T07:28:18.234984+00:00",
+  "expiry": "2028-05-15",
+  "legal_name": "IDEXX LABORATORIES II (NZ) ULC",
+  "nzbn": "9429041788257",
+  "status": "accredited"
+ },
  "ignite spark": {
   "checked_at": "2026-10-21T14:38:27.343915+00:00",
   "status": "not_listed"
@@ -602,6 +737,10 @@
   "legal_name": "INDUSTRIAL MARINE ELECTRICAL LIMITED",
   "nzbn": "9429036967971",
   "status": "accredited"
+ },
+ "inside recruitment": {
+  "checked_at": "2026-10-23T07:28:08.984168+00:00",
+  "status": "not_listed"
  },
  "inugo": {
   "checked_at": "2026-10-21T15:00:40.526735+00:00",
@@ -647,6 +786,14 @@
  },
  "kainga ora": {
   "checked_at": "2026-10-21T14:27:42.943427+00:00",
+  "status": "not_listed"
+ },
+ "kernel": {
+  "checked_at": "2026-10-23T07:28:20.920417+00:00",
+  "status": "not_listed"
+ },
+ "kernel wealth": {
+  "checked_at": "2026-10-23T07:27:36.010868+00:00",
   "status": "not_listed"
  },
  "kiwibank": {
@@ -753,11 +900,25 @@
   "checked_at": "2026-10-21T15:01:13.098151+00:00",
   "status": "not_listed"
  },
+ "ministry of social development": {
+  "checked_at": "2026-10-23T07:27:22.104955+00:00",
+  "expiry": "2028-07-03",
+  "legal_name": "Ministry of Social Development",
+  "nzbn": "9429000062299",
+  "status": "accredited"
+ },
  "momentum consulting": {
   "checked_at": "2026-10-21T14:29:36.189942+00:00",
   "expiry": "2027-04-15",
   "legal_name": "MOMENTUM CONSULTING GROUP LIMITED",
   "nzbn": "9429038335914",
+  "status": "accredited"
+ },
+ "natural hazards commission toka t ake": {
+  "checked_at": "2026-10-23T07:27:40.538922+00:00",
+  "expiry": "2026-12-03",
+  "legal_name": "Toka T\u016b Ake \u2013 Natural Hazards Commission",
+  "nzbn": "9429041901618",
   "status": "accredited"
  },
  "northpower": {
@@ -785,6 +946,14 @@
   "nzbn": "9429033594316",
   "status": "accredited"
  },
+ "optimal": {
+  "checked_at": "2026-10-23T07:28:23.583190+00:00",
+  "status": "not_listed"
+ },
+ "optimate me": {
+  "checked_at": "2026-10-23T07:28:16.889107+00:00",
+  "status": "not_listed"
+ },
  "oranga tamariki": {
   "checked_at": "2026-10-21T15:00:48.479158+00:00",
   "expiry": "2028-06-29",
@@ -805,6 +974,10 @@
   "legal_name": "ORION DEVELOPMENTS LIMITED",
   "nzbn": "9429038867309",
   "status": "accredited"
+ },
+ "ospri": {
+  "checked_at": "2026-10-23T07:27:28.703863+00:00",
+  "status": "not_listed"
  },
  "paragon recruitment": {
   "checked_at": "2026-10-21T15:01:25.161407+00:00",
@@ -831,6 +1004,13 @@
   "checked_at": "2026-10-21T14:38:33.064953+00:00",
   "status": "not_listed"
  },
+ "pilot tech": {
+  "checked_at": "2026-10-23T07:28:12.974024+00:00",
+  "expiry": "2027-07-23",
+  "legal_name": "PILOT TECH LIMITED",
+  "nzbn": "9429051759568",
+  "status": "accredited"
+ },
  "placeme it recruitment": {
   "checked_at": "2026-10-21T14:28:59.685341+00:00",
   "expiry": "2027-10-16",
@@ -856,6 +1036,13 @@
   "nzbn": "9429046840639",
   "status": "accredited"
  },
+ "port of tauranga": {
+  "checked_at": "2026-10-23T07:27:20.541282+00:00",
+  "expiry": "2028-04-10",
+  "legal_name": "PORT OF TAURANGA LIMITED",
+  "nzbn": "9429039540300",
+  "status": "accredited"
+ },
  "potentia": {
   "checked_at": "2026-10-21T14:27:54.190670+00:00",
   "status": "not_listed"
@@ -873,6 +1060,10 @@
  },
  "presto resourcing": {
   "checked_at": "2026-10-21T14:38:06.377630+00:00",
+  "status": "not_listed"
+ },
+ "procare personnel": {
+  "checked_at": "2026-10-23T07:27:23.474472+00:00",
   "status": "not_listed"
  },
  "propellerhead": {
@@ -897,6 +1088,20 @@
   "nzbn": "9429031763752",
   "status": "accredited"
  },
+ "pushpay": {
+  "checked_at": "2026-10-23T07:28:15.602712+00:00",
+  "expiry": "2028-05-12",
+  "legal_name": "PUSHPAY (NEW ZEALAND) LIMITED",
+  "nzbn": "9429031007054",
+  "status": "accredited"
+ },
+ "qbe insurance": {
+  "checked_at": "2026-10-23T07:28:26.318318+00:00",
+  "expiry": "2028-08-12",
+  "legal_name": "QBE INSURANCE (AUSTRALIA) LIMITED",
+  "nzbn": "9429042054160",
+  "status": "accredited"
+ },
  "quantifi photonics": {
   "checked_at": "2026-10-21T14:28:18.793062+00:00",
   "expiry": "2026-11-20",
@@ -906,6 +1111,10 @@
  },
  "qube": {
   "checked_at": "2026-10-22T06:50:41.868176+00:00",
+  "status": "not_listed"
+ },
+ "rabobank": {
+  "checked_at": "2026-10-23T07:27:29.957033+00:00",
   "status": "not_listed"
  },
  "randstad": {
@@ -1010,6 +1219,10 @@
   "checked_at": "2026-10-23T07:10:56.884499+00:00",
   "status": "not_listed"
  },
+ "seeka": {
+  "checked_at": "2026-10-23T07:27:47.026176+00:00",
+  "status": "not_listed"
+ },
  "serverworks": {
   "checked_at": "2026-10-22T06:50:35.461955+00:00",
   "status": "not_listed"
@@ -1052,6 +1265,10 @@
   "checked_at": "2026-10-21T14:38:15.500932+00:00",
   "status": "not_listed"
  },
+ "sourced it recruitment": {
+  "checked_at": "2026-10-23T07:28:34.122054+00:00",
+  "status": "not_listed"
+ },
  "sourced it recruitment specialists": {
   "checked_at": "2026-10-21T14:37:51.739511+00:00",
   "status": "not_listed"
@@ -1092,8 +1309,24 @@
   "checked_at": "2026-10-21T14:38:38.446520+00:00",
   "status": "not_listed"
  },
+ "stand forestry": {
+  "checked_at": "2026-10-23T07:28:03.501845+00:00",
+  "status": "not_listed"
+ },
+ "starfish consulting": {
+  "checked_at": "2026-10-23T07:28:02.112623+00:00",
+  "status": "not_listed"
+ },
  "stats": {
   "checked_at": "2026-10-21T14:38:10.183903+00:00",
+  "status": "not_listed"
+ },
+ "student volunteer army": {
+  "checked_at": "2026-10-23T07:27:24.767482+00:00",
+  "status": "not_listed"
+ },
+ "suncorp": {
+  "checked_at": "2026-10-23T07:27:53.336411+00:00",
   "status": "not_listed"
  },
  "sunstone talent": {
@@ -1135,8 +1368,23 @@
   "checked_at": "2026-10-21T15:01:33.426312+00:00",
   "status": "not_listed"
  },
+ "taumata arowai": {
+  "checked_at": "2026-10-23T07:27:59.233528+00:00",
+  "status": "not_listed"
+ },
  "te nehenehenui trust": {
   "checked_at": "2026-10-21T15:01:14.324053+00:00",
+  "status": "not_listed"
+ },
+ "te runanga o toa rangatira": {
+  "checked_at": "2026-10-23T07:27:44.216436+00:00",
+  "expiry": "2026-12-18",
+  "legal_name": "TE RUNANGA O TOA RANGATIRA INCORPORATED",
+  "nzbn": "9429042850960",
+  "status": "accredited"
+ },
+ "te tumu paeroa": {
+  "checked_at": "2026-10-23T07:27:31.346303+00:00",
   "status": "not_listed"
  },
  "te wananga o": {
@@ -1175,6 +1423,10 @@
   "legal_name": "TOMRA FOOD (ANZ) LIMITED",
   "nzbn": "9429039911582",
   "status": "accredited"
+ },
+ "trade and enterprise": {
+  "checked_at": "2026-10-23T07:27:15.397734+00:00",
+  "status": "not_listed"
  },
  "treasury of": {
   "checked_at": "2026-10-22T06:50:45.340912+00:00",
@@ -1246,6 +1498,13 @@
   "checked_at": "2026-10-22T06:50:59.836424+00:00",
   "status": "not_listed"
  },
+ "vista international": {
+  "checked_at": "2026-10-23T07:27:26.121174+00:00",
+  "expiry": "2028-08-14",
+  "legal_name": "VISTA GROUP (NZ) LIMITED",
+  "nzbn": "9429038277795",
+  "status": "accredited"
+ },
  "vitaco health": {
   "checked_at": "2026-10-22T23:41:37.298766+00:00",
   "expiry": "2028-10-07",
@@ -1255,6 +1514,10 @@
  },
  "walker smith": {
   "checked_at": "2026-10-21T15:00:41.714447+00:00",
+  "status": "not_listed"
+ },
+ "woolworths": {
+  "checked_at": "2026-10-23T07:28:35.788691+00:00",
   "status": "not_listed"
  },
  "workday": {
@@ -1271,9 +1534,30 @@
   "nzbn": "9429042923046",
   "status": "accredited"
  },
+ "xero": {
+  "checked_at": "2026-10-23T07:28:32.683387+00:00",
+  "expiry": "2028-06-17",
+  "legal_name": "XERO LIMITED",
+  "nzbn": "9429034042984",
+  "status": "accredited"
+ },
  "younity": {
   "checked_at": "2026-10-21T14:38:18.455391+00:00",
   "status": "not_listed"
+ },
+ "zespri": {
+  "checked_at": "2026-10-23T07:27:32.630094+00:00",
+  "expiry": "2028-09-16",
+  "legal_name": "ZESPRI INTERNATIONAL LIMITED",
+  "nzbn": "9429038940354",
+  "status": "accredited"
+ },
+ "zespri international": {
+  "checked_at": "2026-10-23T07:28:38.364533+00:00",
+  "expiry": "2028-09-16",
+  "legal_name": "ZESPRI INTERNATIONAL LIMITED",
+  "nzbn": "9429038940354",
+  "status": "accredited"
  },
  "zuru": {
   "checked_at": "2026-10-21T14:28:33.535783+00:00",

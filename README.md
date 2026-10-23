@@ -78,6 +78,8 @@ on wake.
 3. Test: `scripts/hunt_on_mac.sh --test-email`
 4. Install the 15-minute schedule: `scripts/install_mac_schedule.sh`
 5. Watch it: `tail -f ~/Library/Logs/nz-job-hunter.log`
+6. Any time you want everyone's full current list again: `scripts/hunt_on_mac.sh --digest`
+   (Oindrila's emails Cc Abhishek.)
 
 ## Tuning
 

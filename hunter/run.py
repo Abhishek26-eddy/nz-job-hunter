@@ -56,14 +56,14 @@ def _sort_key_for(job, person):
     return (TIER_ORDER[mine["tier"]], -mine["score"], job.get("posted_at") or "")
 
 
-def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
+def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN, backfill=False):
     DATA.mkdir(exist_ok=True)
     jobs = {j["id"]: j for j in _load(DATA / "jobs.json", {"jobs": []})["jobs"]}
     descriptions = _load(DATA / "descriptions.json", {})
     meta = _load(DATA / "meta.json", {})
     cache = AccreditationCache(DATA / "accreditation.json")
     # A person added to PROFILES gets a 31-day backfill on their first run.
-    first_run = not jobs or bool(set(config.PROFILES) - set(meta.get("profiles", [])))
+    first_run = backfill or not jobs or bool(set(config.PROFILES) - set(meta.get("profiles", [])))
     now = _now().isoformat(timespec="seconds")
 
     found, errors = sources.search_all(first_run)
@@ -141,9 +141,9 @@ def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
             if top_a
             else f"{prof['label']}: {len(ready)} new NZ job(s) — {lead['title']} @ {lead['company']}"
         )
-        to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
+        to, cc = _recipients(prof)
         html_body = notify.render_jobs_email(ready, key, site_url, len(theirs) - len(ready), errors)
-        if not notify.send(subject, html_body, str(DATA / f"last_email_{key}.html"), to=to):
+        if not notify.send(subject, html_body, str(DATA / f"last_email_{key}.html"), to=to, cc=cc):
             unsent.append(f"{len(ready)} job(s) for {prof['label']}")
 
     if unsent:
@@ -171,15 +171,45 @@ def hunt(send_email=True, max_details=config.MAX_DETAILS_PER_RUN):
     return meta
 
 
+def _recipients(prof):
+    to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
+    cc = os.environ.get(prof["cc_env"]) if prof.get("cc_env") else None
+    return to, cc
+
+
+def send_digest():
+    """Email each person their full current list of visa-ready jobs."""
+    jobs = _load(DATA / "jobs.json", {"jobs": []})["jobs"]
+    site_url = os.environ.get("SITE_URL", "")
+    for key, prof in config.PROFILES.items():
+        ready = sorted((j for j in jobs if key in j["for"] and j["visa_ready"]), key=lambda j: _sort_key_for(j, key))
+        if not ready:
+            log.info("No visa-ready jobs for %s", prof["label"])
+            continue
+        iswv = sum(1 for j in ready if j["for"][key].get("route") == "iswv")
+        intro = (
+            f"<p>All {len(ready)} NZ jobs open right now for <b>{prof['label']}</b> ({prof['role']}) "
+            f"where the employer is accredited and the ad does not rule out visa holders.</p>"
+            f"<p>{iswv} can go through the India Skilled Work Visa; the other {len(ready) - iswv} need the "
+            "regular AEWV. New ones are emailed as they appear.</p>"
+        )
+        to, cc = _recipients(prof)
+        html_body = notify.render_jobs_email(ready, key, site_url, 0, [], intro=intro)
+        subject = f"📋 {prof['label']}: all {len(ready)} visa-ready NZ jobs right now"
+        if not notify.send(subject, html_body, to=to, cc=cc):
+            raise SystemExit("SMTP_USER and SMTP_PASSWORD are not set; digest not sent.")
+        log.info("Digest for %s: %d jobs to %s%s", prof["label"], len(ready), to, f" (cc {cc})" if cc and cc != to else "")
+
+
 def send_test_email():
     """Send one test message per person so you can check the SMTP secrets."""
     for key, prof in config.PROFILES.items():
-        to = os.environ.get(prof["email_env"]) or os.environ.get("ALERT_TO")
+        to, cc = _recipients(prof)
         body = (
             f"<p>✅ NZ job hunter email works for <b>{prof['label']}</b> ({prof['role']}).</p>"
             "<p>You will get an email like this whenever a new visa-ready job is found.</p>"
         )
-        if not notify.send(f"✅ NZ job hunter: test email for {prof['label']}", body, to=to):
+        if not notify.send(f"✅ NZ job hunter: test email for {prof['label']}", body, to=to, cc=cc):
             raise SystemExit("SMTP_USER and SMTP_PASSWORD are not set; no test email sent.")
         log.info("Test email for %s sent to %s", prof["label"], to)
 
@@ -190,12 +220,17 @@ def main():
     parser.add_argument("--max-details", type=int, default=config.MAX_DETAILS_PER_RUN,
                         help="job descriptions to fetch this run")
     parser.add_argument("--test-email", action="store_true", help="send a test email to each person and exit")
+    parser.add_argument("--digest", action="store_true", help="email each person their full visa-ready list and exit")
+    parser.add_argument("--backfill", action="store_true", help="search the last 31 days, not 7 (after adding searches)")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     if args.test_email:
         send_test_email()
         return
-    hunt(send_email=not args.no_email, max_details=args.max_details)
+    if args.digest:
+        send_digest()
+        return
+    hunt(send_email=not args.no_email, max_details=args.max_details, backfill=args.backfill)
 
 
 if __name__ == "__main__":

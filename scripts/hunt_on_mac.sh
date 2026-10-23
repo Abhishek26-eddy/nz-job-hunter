@@ -4,6 +4,7 @@
 #
 #   scripts/hunt_on_mac.sh               # normal run
 #   scripts/hunt_on_mac.sh --test-email  # only send a test email
+#   scripts/hunt_on_mac.sh --digest      # email everyone their full current list
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -20,8 +21,8 @@ export SMTP_PASSWORD
 
 PYTHON="${PYTHON:-$(command -v python3)}"
 
-if [ "${1:-}" = "--test-email" ]; then
-  exec "$PYTHON" -m hunter.run --test-email
+if [ "${1:-}" = "--test-email" ] || [ "${1:-}" = "--digest" ]; then
+  exec "$PYTHON" -m hunter.run "$1"
 fi
 
 echo "== $(date '+%Y-%m-%d %H:%M:%S') hunt"

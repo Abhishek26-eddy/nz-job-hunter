@@ -11,6 +11,10 @@ log = logging.getLogger(__name__)
 
 MAX_ROWS = 60
 TIER_LABEL = {"A": "Apply now", "B": "Good", "C": "Maybe", "blocked": "Blocked"}
+ROUTE_LABEL = {
+    "iswv": "🇮🇳 India Skilled Work Visa or AEWV",
+    "aewv": "AEWV only (not an India Skilled Work Visa job)",
+}
 ACC_LABEL = {
     "accredited": "✅ Accredited",
     "expired": "⚠️ Accreditation expired",
@@ -34,7 +38,8 @@ def _row(job, person):
     mine = job["for"][person]
     warn = "; ".join(b["why"] for b in job.get("soft_blockers") or [])
     good = "; ".join(p["why"] for p in job.get("positives") or [])
-    notes = " · ".join(x for x in [good and f"👍 {good}", warn and f"⚠️ {warn}"] if x)
+    route = ROUTE_LABEL.get(mine.get("route"), "")
+    notes = " · ".join(x for x in [route, good and f"👍 {good}", warn and f"⚠️ {warn}"] if x)
     return (
         "<tr>"
         f"<td style='padding:6px;border-bottom:1px solid #eee'><b>{e(TIER_LABEL[mine['tier']])}</b><br>"
@@ -49,9 +54,9 @@ def _row(job, person):
     )
 
 
-def render_jobs_email(jobs, person, site_url, held_back, errors):
-    head = (
-        f"<p>{len(jobs)} new NZ job(s) where the employer can sponsor the India Skilled Work Visa."
+def render_jobs_email(jobs, person, site_url, held_back, errors, intro=None):
+    head = intro or (
+        f"<p>{len(jobs)} new NZ job(s) where the employer is accredited to sponsor a work visa."
         f"{f' {held_back} other new match(es) are on the dashboard only (employer not accredited, agency ad, or the ad rules out visa holders).' if held_back else ''}</p>"
     )
     if site_url:
@@ -62,8 +67,9 @@ def render_jobs_email(jobs, person, site_url, held_back, errors):
     if errors:
         errs = "<p style='color:#a00'><small>Some sources failed this run: " + html.escape("; ".join(errors[:5])) + "</small></p>"
     tip = (
-        "<p><small>Before you apply: the offer must be full time (30h+), from an accredited employer, and "
-        "described as Software Engineer / Software and Applications Programmer / ICT Project Manager. "
+        "<p><small>Before you apply: the offer must be full time (30h+) from an accredited employer. "
+        "For the India Skilled Work Visa it must be described as Software Engineer, Software and "
+        "Applications Programmer or ICT Project Manager; other roles need the regular AEWV. "
         "Never pay anyone for a job offer.</small></p>"
     )
     return (
@@ -72,7 +78,7 @@ def render_jobs_email(jobs, person, site_url, held_back, errors):
     )
 
 
-def send(subject, html_body, out_path=None, to=None):
+def send(subject, html_body, out_path=None, to=None, cc=None):
     """Send the email. Without SMTP settings, write it to out_path instead."""
     if out_path:
         with open(out_path, "w") as fh:
@@ -88,6 +94,8 @@ def send(subject, html_body, out_path=None, to=None):
     msg["Subject"] = subject
     msg["From"] = user
     msg["To"] = to
+    if cc and cc != to:
+        msg["Cc"] = cc
     msg.set_content("Open this email in an HTML-capable client.")
     msg.add_alternative(html_body, subtype="html")
     host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
