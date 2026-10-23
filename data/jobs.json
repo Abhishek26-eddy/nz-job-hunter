@@ -19205,66 +19205,6 @@
    }
   },
   {
-   "id": "seek:95410288",
-   "source": "Seek",
-   "title": "Digital Project Manager | Enterprise Systems",
-   "company": "Aura Consulting",
-   "advertiser": "Aura Consulting",
-   "location": "Auckland Airport, Auckland",
-   "url": "https://www.seek.co.nz/job/95410288",
-   "posted_at": "2026-10-21T08:30:31Z",
-   "work_type": "Full time",
-   "salary": "$135,000 - $145,000",
-   "teaser": "Ready for your next step? Deliver enterprise projects at one of NZ's most critical organisations, with a leader who will back your growth. $135k-$145k + KiwiSaver, insurance & free parking Accelerate your career with a leader invested in your growth Steering committee and C-suite exposure from day one",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T15:00:17.430733+00:00",
-    "legal_name": "AURA CONSULTING LIMITED",
-    "nzbn": "9429046466082",
-    "expiry": "2027-03-19"
-   },
-   "hard_blockers": [
-    {
-     "why": "Needs NZ security clearance (usually citizens)",
-     "quote": "\u2026work rights. The successful candidate will need to pass a Ministry of Justice check and a security clearance."
-    }
-   ],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "The PM role that builds your career\n \n Our client is a high-profile NZ organisation that runs critical national infrastructure and a precinct that works like a small city. Their Digital PMO is busy, with a strong pipeline of enterprise projects to deliver by mid-2027.\n They\u2019re after a driven, intermediate Project Manager who wants to grow. You\u2019ll be coached by a Delivery Lead who started in this e",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "consulting",
-      "data",
-      "methods",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 99,
-     "tier": "blocked",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 99,
-   "tier": "blocked"
-  },
-  {
    "id": "seek:94869061",
    "source": "Seek",
    "title": "Senior Project Manager",
@@ -19413,6 +19353,66 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95410288",
+   "source": "Seek",
+   "title": "Digital Project Manager | Enterprise Systems",
+   "company": "Aura Consulting",
+   "advertiser": "Aura Consulting",
+   "location": "Auckland Airport, Auckland",
+   "url": "https://www.seek.co.nz/job/95410288",
+   "posted_at": "2026-10-21T08:30:31Z",
+   "work_type": "Full time",
+   "salary": "$135,000 - $145,000",
+   "teaser": "Ready for your next step? Deliver enterprise projects at one of NZ's most critical organisations, with a leader who will back your growth. $135k-$145k + KiwiSaver, insurance & free parking Accelerate your career with a leader invested in your growth Steering committee and C-suite exposure from day one",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T15:00:17.430733+00:00",
+    "legal_name": "AURA CONSULTING LIMITED",
+    "nzbn": "9429046466082",
+    "expiry": "2027-03-19"
+   },
+   "hard_blockers": [
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026work rights. The successful candidate will need to pass a Ministry of Justice check and a security clearance."
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The PM role that builds your career\n \n Our client is a high-profile NZ organisation that runs critical national infrastructure and a precinct that works like a small city. Their Digital PMO is busy, with a strong pipeline of enterprise projects to deliver by mid-2027.\n They\u2019re after a driven, intermediate Project Manager who wants to grow. You\u2019ll be coached by a Delivery Lead who started in this e",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "consulting",
+      "data",
+      "methods",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 89,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 89,
+   "tier": "blocked"
   },
   {
    "id": "seek:94964194",
