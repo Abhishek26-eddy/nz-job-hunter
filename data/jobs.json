@@ -19969,6 +19969,58 @@
    }
   },
   {
+   "id": "linkedin:4482813148",
+   "source": "LinkedIn",
+   "title": "Digital Project Manager",
+   "company": "Tribe Group",
+   "advertiser": "Tribe Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482813148/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T08:11:30+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:27:29.493328+00:00",
+    "expiry": "2028-06-18",
+    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+    "nzbn": "9429030268715",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u202637 8380 and quote Job ID: 1 8794 for a confidential chat.  To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "About The Opportunity\n\n Deliver a pipeline of digital/technology projects across a large, complex organisation\n Bring the right teams together to drive delivery and remove blockers\n Own timelines, risks, dependencies and reporting\n Partner with stakeholders to keep priorities clear and delivery on track\n\n\n What You\u2019ll Bring\n\n Proven experience delivering digital projects end-to-end\n Strong stakeho",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 54,
+     "tier": "blocked",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 54,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:94959639",
    "source": "Seek",
    "title": "Senior Platform Engineer",
