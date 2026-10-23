@@ -19265,64 +19265,6 @@
    "tier": "blocked"
   },
   {
-   "id": "seek:95408993",
-   "source": "Seek",
-   "title": "Delivery Lead - Operations | Digital PMO",
-   "company": "Aura Consulting",
-   "advertiser": "Aura Consulting",
-   "location": "Auckland Airport, Auckland",
-   "url": "https://www.seek.co.nz/job/95408993",
-   "posted_at": "2026-10-21T07:43:02Z",
-   "work_type": "Full time",
-   "salary": "$180,000 - $195,000",
-   "teaser": "Own the operations digital portfolio for critical NZ infrastructure. Lead and uplift a team of PMs and strengthen stakeholder partnerships. $180k-$195k + KiwiSaver, insurance & free parking Lead and uplift a team of 5 Project Managers Deliver high-impact digital change in a 24/7 critical environment",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T15:00:17.430733+00:00",
-    "legal_name": "AURA CONSULTING LIMITED",
-    "nzbn": "9429046466082",
-    "expiry": "2027-03-19"
-   },
-   "hard_blockers": [
-    {
-     "why": "Needs NZ security clearance (usually citizens)",
-     "quote": "\u2026work rights. The successful candidate will need to pass a Ministry of Justice check and a security clearance."
-    }
-   ],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "A leadership role with real purpose\n \n Our client is a high-profile NZ organisation running critical national infrastructure. Its precinct operates 24/7 and works like a small city. A large pipeline of operational transformation is underway, and they need a Delivery Lead to own it.\n\n This role isn\u2019t about keeping things ticking over. The team has been through change, and the business wants deliver",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "consulting",
-      "data",
-      "risk",
-      "sdlc",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 93,
-     "tier": "blocked",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 93,
-   "tier": "blocked"
-  },
-  {
    "id": "seek:94869061",
    "source": "Seek",
    "title": "Senior Project Manager",
@@ -19523,6 +19465,64 @@
       "risk",
       "stakeholders",
       "vendors"
+     ],
+     "route": "iswv",
+     "score": 83,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 83,
+   "tier": "blocked"
+  },
+  {
+   "id": "seek:95408993",
+   "source": "Seek",
+   "title": "Delivery Lead - Operations | Digital PMO",
+   "company": "Aura Consulting",
+   "advertiser": "Aura Consulting",
+   "location": "Auckland Airport, Auckland",
+   "url": "https://www.seek.co.nz/job/95408993",
+   "posted_at": "2026-10-21T07:43:02Z",
+   "work_type": "Full time",
+   "salary": "$180,000 - $195,000",
+   "teaser": "Own the operations digital portfolio for critical NZ infrastructure. Lead and uplift a team of PMs and strengthen stakeholder partnerships. $180k-$195k + KiwiSaver, insurance & free parking Lead and uplift a team of 5 Project Managers Deliver high-impact digital change in a 24/7 critical environment",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T15:00:17.430733+00:00",
+    "legal_name": "AURA CONSULTING LIMITED",
+    "nzbn": "9429046466082",
+    "expiry": "2027-03-19"
+   },
+   "hard_blockers": [
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026work rights. The successful candidate will need to pass a Ministry of Justice check and a security clearance."
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "A leadership role with real purpose\n \n Our client is a high-profile NZ organisation running critical national infrastructure. Its precinct operates 24/7 and works like a small city. A large pipeline of operational transformation is underway, and they need a Delivery Lead to own it.\n\n This role isn\u2019t about keeping things ticking over. The team has been through change, and the business wants deliver",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "consulting",
+      "data",
+      "risk",
+      "sdlc",
+      "stakeholders"
      ],
      "route": "iswv",
      "score": 83,
