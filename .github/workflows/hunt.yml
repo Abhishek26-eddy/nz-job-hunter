@@ -1,10 +1,11 @@
 name: Hunt NZ jobs
 
 on:
-  schedule:
-    # Every 15 minutes, off the busy :00/:15/:30/:45 slots that GitHub drops
-    # under load. Scheduled runs can still be late.
-    - cron: "7,22,37,52 * * * *"
+  # The schedule is off: hunts run on the Mac (scripts/install_mac_schedule.sh)
+  # because the SMTP secrets never reached this workflow. To move back to
+  # GitHub, add the secrets and restore:
+  # schedule:
+  #   - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       test_email:

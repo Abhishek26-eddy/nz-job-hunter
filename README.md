@@ -65,6 +65,20 @@ Then open http://localhost:8000/site/. Run the tests with
 If a run finds visa-ready jobs but cannot send email, it fails (red ✗, and GitHub
 emails you) and keeps those jobs for the next run, so nothing is lost.
 
+## Run it on your Mac instead (current setup)
+
+GitHub scheduled runs were slow (every 3-5 hours) and could not see the email
+secrets, so the hunt now runs on the Mac every 15 minutes and pushes its
+results to GitHub. It runs only while the Mac is awake; after sleep it runs
+on wake.
+
+1. Store the Gmail app password in your Keychain (it prompts; nothing is saved in a file):
+   `security add-generic-password -s nz-job-hunter -a abhishekprajapatiad@gmail.com -w`
+2. Optional, for your wife's alerts: `echo 'ALERT_TO_WIFE=her@example.com' > scripts/local.env`
+3. Test: `scripts/hunt_on_mac.sh --test-email`
+4. Install the 15-minute schedule: `scripts/install_mac_schedule.sh`
+5. Watch it: `tail -f ~/Library/Logs/nz-job-hunter.log`
+
 ## Tuning
 
 - Missing a kind of job? Add a search to `SEEK_KEYWORDS` / `LINKEDIN_QUERIES` and a title pattern to `CORE_TITLE`.

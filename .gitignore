@@ -43,3 +43,4 @@ public/
 data/last_*.html
 celerybeat-schedule
 .pytest_cache/
+scripts/local.env
