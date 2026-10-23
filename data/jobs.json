@@ -11409,6 +11409,51 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4482872069",
+   "source": "LinkedIn",
+   "title": "Forward Deployed Engineer, Frontier Engineering",
+   "company": "Snowflake",
+   "advertiser": "Snowflake",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482872069/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T12:01:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:30.469143+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individua",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "observability",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 42,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 42,
+   "tier": "B"
+  },
+  {
    "id": "seek:95447805",
    "source": "Seek",
    "title": "Senior Business Analyst- Fixed term",
