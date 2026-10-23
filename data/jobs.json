@@ -1637,62 +1637,6 @@
    "tier": "A"
   },
   {
-   "id": "linkedin:4478950438",
-   "source": "LinkedIn",
-   "title": "Software Specialist (Developer Platforms)",
-   "company": "ASB Bank",
-   "advertiser": "ASB Bank",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4478950438/",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "core",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "docker",
-    "jenkins",
-    "kubernetes"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:29:04.445895+00:00",
-    "legal_name": "ASB BANK LIMITED",
-    "nzbn": "9429039435743",
-    "expiry": "2028-05-01"
-   },
-   "has_description": true,
-   "summary": "Great engineering experiences don't happen by accident. Behind every successful deployment, automated workflow and secure code repository is a platform that helps developers do their best work.\n\nAs a Software Specialist (Developer Platforms), you'll play a key role in shaping and evolving the platforms, tooling and automation capabilities that support software delivery across ASB. You'll help engi",
-   "score": 84,
-   "tier": "A",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "docker",
-      "jenkins",
-      "kubernetes"
-     ],
-     "score": 84,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:94867939",
    "source": "Seek",
    "title": "Product Portfolio Manager",
@@ -3408,6 +3352,62 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4478950438",
+   "source": "LinkedIn",
+   "title": "Software Specialist (Developer Platforms)",
+   "company": "ASB Bank",
+   "advertiser": "ASB Bank",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4478950438/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-21T14:22:29+00:00",
+   "last_seen": "2026-10-21T14:22:29+00:00",
+   "needs_detail": false,
+   "fit": "core",
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "skills": [
+    "docker",
+    "jenkins",
+    "kubernetes"
+   ],
+   "recruiter": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-21T14:29:04.445895+00:00",
+    "legal_name": "ASB BANK LIMITED",
+    "nzbn": "9429039435743",
+    "expiry": "2028-05-01"
+   },
+   "has_description": true,
+   "summary": "Great engineering experiences don't happen by accident. Behind every successful deployment, automated workflow and secure code repository is a platform that helps developers do their best work.\n\nAs a Software Specialist (Developer Platforms), you'll play a key role in shaping and evolving the platforms, tooling and automation capabilities that support software delivery across ASB. You'll help engi",
+   "score": 74,
+   "tier": "A",
+   "reasons": [
+    "accredited employer"
+   ],
+   "visa_ready": true,
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "docker",
+      "jenkins",
+      "kubernetes"
+     ],
+     "score": 74,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   }
+  },
+  {
    "id": "seek:95199500",
    "source": "Seek",
    "title": "Delivery Lead",
@@ -4660,6 +4660,96 @@
    },
    "visa_ready": true,
    "score": 61,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95447577",
+   "source": "Seek",
+   "title": "Senior Power Systems Engineer",
+   "company": "ABB",
+   "advertiser": "ABB LTD",
+   "location": "Napier Central, Hawkes Bay",
+   "url": "https://www.seek.co.nz/job/95447577",
+   "posted_at": "2026-10-22T23:47:40Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join ABB Critical Power in Napier to engineer next-gen UPS, BESS & energy systems driving the clean energy transition Lead innovative power systems R&D projects Join ABB, a global energy technology leader Grow your career with competitive benefits",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T02:01:38.933815+00:00",
+    "legal_name": "ABB LIMITED",
+    "nzbn": "9429040970714",
+    "expiry": "2028-03-06"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "In this role, you'll help run what runs the world, by taking on meaningful work that drives real impact. You will contribute significantly to successful project outcomes within technology, product, and solution development, including associated Intellectual Property (IP). You will act as a key point of expertise in Research & Development, troubleshooting, and product engineering support. You will ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "score": 60,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 60,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95448712",
+   "source": "Seek",
+   "title": "Systems Engineer/Senior Engineer (multiple opportunities)",
+   "company": "Vector",
+   "advertiser": "Vector",
+   "location": "Newmarket, Auckland",
+   "url": "https://www.seek.co.nz/job/95448712",
+   "posted_at": "2026-10-23T00:38:14Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Shape the future of electricity networks through data, analytics and innovation, transforming how critical assets are managed. Competitive salary + free insurances + wellbeing grant + high street discounts Work/life balance - Flexible start/end times + work from home New offices alongside The Domain, subsidised public transport + car parking",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T02:01:35.635522+00:00",
+    "legal_name": "VECTOR LIMITED",
+    "nzbn": "9429039215109",
+    "expiry": "2028-05-21"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description \n\n Innovation at the core. Powering a smarter future. \n At Vector, we believe innovation is the key to a cleaner, more connected future. By embracing new ideas, forging strong partnerships and pioneering technologies that make energy more resilient and accessible, we\u2019re setting new standards for our customers, and our industry.\n Learn more about how Vector is reshaping the energy s",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "score": 60,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 60,
    "tier": "A"
   },
   {
@@ -6126,58 +6216,6 @@
    "tier": "B"
   },
   {
-   "id": "linkedin:4479402260",
-   "source": "LinkedIn",
-   "title": "Project Manager - CRM & Digital...",
-   "company": "Talent",
-   "advertiser": "Talent",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4479402260/",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:28.327918+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Wants candidates already in NZ",
-     "quote": "\u2026d CV   We are only able to consider those candidates with relevant NZ work rights who are already based in NZ."
-    }
-   ],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Project Manager \u2013 CRM & Digital Transformation\n\nAre you a capable Project Manager who enjoys delivering complex digital systems and working across business, technology and vendor teams?\n\nWe are looking for a hands-on Project Manager to join a well-known Auckland organisation and deliver a varied portfolio of customer and digital transformation initiatives. Experience delivering Salesforce CRM impl",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "cloud",
-      "data",
-      "enterprise",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "score": 51,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 51,
-   "tier": "B"
-  },
-  {
    "id": "seek:95400828",
    "source": "Seek",
    "title": "Project Manager - CRM & Digital Transformation",
@@ -6705,6 +6743,57 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95447963",
+   "source": "Seek",
+   "title": "Head of Reliability Engineering",
+   "company": "Open Country Dairy",
+   "advertiser": "Open Country Dairy",
+   "location": "East Tamaki, Auckland",
+   "url": "https://www.seek.co.nz/job/95447963",
+   "posted_at": "2026-10-23T00:09:11Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead reliability strategy, asset health governance and maintenance standards across Open Country\u2019s manufacturing sites.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T02:01:36.620680+00:00",
+    "legal_name": "OPEN COUNTRY DAIRY LIMITED",
+    "nzbn": "9429033594316",
+    "expiry": "2027-01-23"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026eduction and maintenance excellence, apply now with your CV and cover letter.\u00a0 Applicants must have the legal right to work in New Zealand.  Applications close 22 November 2026 or on appointment."
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior enterprise-wide reliability leadership role across multi-site manufacturing operations.\n Drive downtime reduction, asset performance and long-term lifecycle value.\n Lead through influence across site-based maintenance and automation teams to lift reliability standards, capability and predictive maintenance initiatives.\n About the role \n As Head of Reliability Engineering, you will lead reli",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 50,
+   "tier": "B"
   },
   {
    "id": "linkedin:4477342496",
@@ -8495,6 +8584,107 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4479402260",
+   "source": "LinkedIn",
+   "title": "Project Manager - CRM & Digital...",
+   "company": "Talent",
+   "advertiser": "Talent",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4479402260/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:38:28.327918+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026d CV   We are only able to consider those candidates with relevant NZ work rights who are already based in NZ."
+    }
+   ],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Project Manager \u2013 CRM & Digital Transformation\n\nAre you a capable Project Manager who enjoys delivering complex digital systems and working across business, technology and vendor teams?\n\nWe are looking for a hands-on Project Manager to join a well-known Auckland organisation and deliver a varied portfolio of customer and digital transformation initiatives. Experience delivering Salesforce CRM impl",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "enterprise",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4480612060",
+   "source": "LinkedIn",
+   "title": "Security Consultant -DevOps",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480612060/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
    "id": "seek:94790383",
    "source": "Seek",
    "title": "Infrastructure Engineer",
@@ -8973,6 +9163,51 @@
    "tier": "B"
   },
   {
+   "id": "seek:95449539",
+   "source": "Seek",
+   "title": "Site Reliability Engineer (SRE)",
+   "company": "Smart Glazier Software NZ Limited",
+   "advertiser": "Smart Glazier Software NZ Limited",
+   "location": "Albany, Auckland",
+   "url": "https://www.seek.co.nz/job/95449539",
+   "posted_at": "2026-10-23T01:29:02Z",
+   "work_type": "Full time",
+   "salary": "$110,000 \u2013 $125,000 per year",
+   "teaser": "Take ownership of physical and cloud infrastructure for a global SaaS platform. Partner directly with R&D in this high-impact engineering role.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T02:01:32.655002+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Site Reliability Engineer \n Excited by complex infrastructure and building scalable architecture? \nJoin our technical team and become a key infrastructure expert for a globally used SaaS platform. If you enjoy taking ownership of proprietary systems, bridging the gap between R&D and hosting, and keeping critical platforms online, this role is for you.\n About Us \nWe build specialist software for th",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "sre"
+     ],
+     "score": 36,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 36,
+   "tier": "B"
+  },
+  {
    "id": "seek:94810878",
    "source": "Seek",
    "title": "Java Fullstack AI Engineer / Developer (LLMs / RAG / MCP/ AWS)",
@@ -9366,6 +9601,53 @@
      "tier": "B",
      "reasons": [
       "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 35,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4480089905",
+   "source": "LinkedIn",
+   "title": "Cloud Security Consultant (AWS)",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480089905/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Cloud Security Consultant (AWS) \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources and solutions to ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "security",
+      "terraform"
+     ],
+     "score": 35,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -10203,51 +10485,6 @@
    }
   },
   {
-   "id": "seek:95395112",
-   "source": "Seek",
-   "title": "Milking Systems Engineer",
-   "company": "Jigsaw Staffing",
-   "advertiser": "Jigsaw Staffing Limited",
-   "location": "Hamilton, Waikato",
-   "url": "https://www.seek.co.nz/job/95395112",
-   "posted_at": "2026-10-21T01:31:06Z",
-   "work_type": "Full time",
-   "salary": "Competitive Package",
-   "teaser": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team Well Established Employer Career Advancement Opportunities Great Company Culture",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": true,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:20.278530+00:00"
-   },
-   "has_description": true,
-   "summary": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team\n\nThis is a full-time, permanent position for a hands-on technical specialist who enjoys being out on farm, solving problems and being the go-to expert for dealers and customers. You'll lead installations, commission complex milking systems and make sure every job is delivered on tim",
-   "score": 30,
-   "tier": "C",
-   "reasons": [
-    "via agency: ask who the employer is"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 30,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   }
-  },
-  {
    "id": "linkedin:4456877005",
    "source": "LinkedIn",
    "title": "Architect \u2013 Red Hat OpenShift & Cloud-Native Solutions",
@@ -10554,42 +10791,47 @@
    }
   },
   {
-   "id": "linkedin:4479452160",
-   "source": "LinkedIn",
-   "title": "Senior/Principal Forward Deployed Engineer - New Zealand",
-   "company": "FDE Times",
-   "advertiser": "FDE Times",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4479452160/",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "work_type": "Full-time",
+   "id": "seek:95449033",
+   "source": "Seek",
+   "title": "Senior Project Manager Public Safety Network \u2013 Fixed Term \u2013 Wellington",
+   "company": "Fire and Emergency New Zealand",
+   "advertiser": "Fire and Emergency New Zealand",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95449033",
+   "posted_at": "2026-10-23T00:52:40Z",
+   "work_type": "Contract/Temp",
    "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-22T06:46:08+00:00",
+   "teaser": "Be part of a unique project supporting the PSN Programme as it moves through key activities in the lead up to the implementation of the PSN solution. Exciting new role supporting the delivery of the Public Safety Network (PSN) Help deliver critical communications capability Salary range $144,532 - $160,591 (pro rata), dependent on skills & experience",
+   "seek_class": [
+    "6281",
+    "1210"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
    "needs_detail": false,
    "accreditation": {
     "status": "not_listed",
-    "checked_at": "2026-10-22T06:50:57.359414+00:00"
+    "checked_at": "2026-10-23T02:01:43.678401+00:00"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Job Description\n\n To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\n\nJob Category\n\nSoftware Engineering\n\nJob Details\n\n About Salesforce\n\n Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzwor",
+   "summary": "M\u014d t\u0113nei t\u016branga - about the role \n\n The Public Safety Network (PSN) is a new communications service being rolled out from 2025 to support New Zealand's frontline emergency services, including Fire and Emergency NZ, New Zealand Police, Hato Hone St John, and Wellington Free Ambulance, with potential expansion to other government agencies in the future.\n\n As the Senior Project Manager, you'll play ",
    "for": {
-    "abhishek": {
+    "wife": {
      "fit": "core",
      "skills": [
-      "ai",
-      "observability",
-      "python"
+      "data",
+      "risk",
+      "stakeholders",
+      "vendors"
      ],
      "score": 29,
      "tier": "C",
      "reasons": [
       "not on public INZ list",
-      "title above current level"
+      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -11844,51 +12086,49 @@
    }
   },
   {
-   "id": "linkedin:4478967710",
-   "source": "LinkedIn",
-   "title": "Information Security Consultants - Cyber/Cloud",
-   "company": "Synechron",
-   "advertiser": "Synechron",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4478967710/",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "work_type": "Contract",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-22T06:46:08+00:00",
+   "id": "seek:95395112",
+   "source": "Seek",
+   "title": "Milking Systems Engineer",
+   "company": "Jigsaw Staffing",
+   "advertiser": "Jigsaw Staffing Limited",
+   "location": "Hamilton, Waikato",
+   "url": "https://www.seek.co.nz/job/95395112",
+   "posted_at": "2026-10-21T01:31:06Z",
+   "work_type": "Full time",
+   "salary": "Competitive Package",
+   "teaser": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team Well Established Employer Career Advancement Opportunities Great Company Culture",
+   "first_seen": "2026-10-21T14:22:29+00:00",
+   "last_seen": "2026-10-21T14:22:29+00:00",
    "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:37:59.987031+00:00",
-    "status": "not_listed"
-   },
+   "fit": "adjacent",
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
-   "recruiter": false,
+   "skills": [],
+   "recruiter": true,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-21T14:38:20.278530+00:00"
+   },
    "has_description": true,
-   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "summary": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team\n\nThis is a full-time, permanent position for a hands-on technical specialist who enjoys being out on farm, solving problems and being the go-to expert for dealers and customers. You'll lead installations, commission complex milking systems and make sure every job is delivered on tim",
+   "score": 20,
+   "tier": "C",
+   "reasons": [
+    "via agency: ask who the employer is"
+   ],
+   "visa_ready": false,
    "for": {
     "abhishek": {
      "fit": "adjacent",
-     "skills": [
-      "aws",
-      "docker",
-      "jenkins",
-      "security",
-      "sre",
-      "terraform"
-     ],
+     "skills": [],
      "score": 20,
      "tier": "C",
      "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
+      "via agency: ask who the employer is"
      ]
     }
-   },
-   "visa_ready": false,
-   "score": 20,
-   "tier": "C"
+   }
   },
   {
    "id": "seek:94907508",
@@ -12065,6 +12305,50 @@
    "tier": "C"
   },
   {
+   "id": "linkedin:4479452160",
+   "source": "LinkedIn",
+   "title": "Senior/Principal Forward Deployed Engineer - New Zealand",
+   "company": "FDE Times",
+   "advertiser": "FDE Times",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4479452160/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:57.359414+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.\n\nJob Category\n\nSoftware Engineering\n\nJob Details\n\n About Salesforce\n\n Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzwor",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "observability",
+      "python"
+     ],
+     "score": 19,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 19,
+   "tier": "C"
+  },
+  {
    "id": "seek:95417532",
    "source": "Seek",
    "title": "IT Systems Engineer - Technician",
@@ -12138,6 +12422,55 @@
    "for": {
     "abhishek": {
      "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95449263",
+   "source": "Seek",
+   "title": "Senior Infrastructure Engineer - Poike or Mokoia",
+   "company": "Toi Ohomai",
+   "advertiser": "Toi Ohomai",
+   "location": "Welcome Bay, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95449263",
+   "posted_at": "2026-10-23T01:01:35Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead and modernise Toi Ohomai\u2019s cloud and on-premises infrastructure, strengthening security, reliability and performance. Senior hands-on role with genuine technical influence Work across Azure, Microsoft 365, security and automation Solve complex challenges and help grow technical capability",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:23.509342+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ed support during the application process, reach out, we\u2019re here to help.  All applicants must have the legal right to work in New Zealand. \u00a0Toi Ohomai is committed to safeguarding children and vulnerable persons\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "M\u014d t\u0113nei t\u016branga mahi | About the Role \n As Senior Infrastructure Engineer, you\u2019ll design, deliver and improve secure, reliable services that support teaching, learning and everyday operations. Bringing technical leadership and hands-on expertise to Toi Ohomai cloud and on-premises infrastructure.\n Our Digital team supports the technology that connects Toi Ohomai people and services. Working with ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
      "skills": [
       "sre"
      ],
@@ -12732,6 +13065,53 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4478967710",
+   "source": "LinkedIn",
+   "title": "Information Security Consultants - Cyber/Cloud",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4478967710/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "score": 10,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 10,
+   "tier": "C"
   },
   {
    "id": "seek:94839693",
@@ -13535,6 +13915,48 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4482199516",
+   "source": "LinkedIn",
+   "title": "Senior Machine Learning Engineer",
+   "company": "Alignerr",
+   "advertiser": "Alignerr",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482199516/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T02:01:44.879967+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior Machine Learning Engineer (AI Data Trainer)\n\n About The Role\n\n What if your deep expertise in machine learning could directly shape how the world's most advanced AI systems think, plan, and make decisions?\n\nWe're looking for Senior Machine Learning Engineers to work on one of the most intellectually challenging problems in AI right now: teaching large language models how to reason. You'll a",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai"
+     ],
+     "score": 5,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 5,
+   "tier": "C"
   },
   {
    "id": "seek:94986781",

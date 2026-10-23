@@ -1,4 +1,11 @@
 {
+ "abb": {
+  "checked_at": "2026-10-23T02:01:38.933815+00:00",
+  "expiry": "2028-03-06",
+  "legal_name": "ABB LIMITED",
+  "nzbn": "9429040970714",
+  "status": "accredited"
+ },
  "absolute it": {
   "checked_at": "2026-10-21T14:38:02.442362+00:00",
   "status": "not_listed"
@@ -32,6 +39,10 @@
   "legal_name": "AIR NEW ZEALAND LIMITED",
   "nzbn": "9429040402543",
   "status": "accredited"
+ },
+ "alignerr": {
+  "checked_at": "2026-10-23T02:01:44.879967+00:00",
+  "status": "not_listed"
  },
  "alstef": {
   "checked_at": "2026-10-21T14:38:34.030861+00:00",
@@ -425,6 +436,10 @@
   "checked_at": "2026-10-21T14:37:54.173287+00:00",
   "status": "not_listed"
  },
+ "fire and emergency": {
+  "checked_at": "2026-10-23T02:01:43.678401+00:00",
+  "status": "not_listed"
+ },
  "first focus": {
   "checked_at": "2026-10-21T15:01:34.621528+00:00",
   "expiry": "2028-08-06",
@@ -763,6 +778,13 @@
   "nzbn": "9429037753115",
   "status": "accredited"
  },
+ "open country dairy": {
+  "checked_at": "2026-10-23T02:01:36.620680+00:00",
+  "expiry": "2027-01-23",
+  "legal_name": "OPEN COUNTRY DAIRY LIMITED",
+  "nzbn": "9429033594316",
+  "status": "accredited"
+ },
  "oranga tamariki": {
   "checked_at": "2026-10-21T15:00:48.479158+00:00",
   "expiry": "2028-06-29",
@@ -1006,6 +1028,10 @@
   "nzbn": "9429041038444",
   "status": "accredited"
  },
+ "smart glazier software": {
+  "checked_at": "2026-10-23T02:01:32.655002+00:00",
+  "status": "not_listed"
+ },
  "snowflake": {
   "checked_at": "2026-10-21T15:01:30.469143+00:00",
   "status": "not_listed"
@@ -1196,6 +1222,13 @@
  "unitus": {
   "checked_at": "2026-10-21T15:01:20.442018+00:00",
   "status": "not_listed"
+ },
+ "vector": {
+  "checked_at": "2026-10-23T02:01:35.635522+00:00",
+  "expiry": "2028-05-21",
+  "legal_name": "VECTOR LIMITED",
+  "nzbn": "9429039215109",
+  "status": "accredited"
  },
  "verkada": {
   "checked_at": "2026-10-21T14:37:50.817753+00:00",

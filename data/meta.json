@@ -6,27 +6,27 @@
    "As of 20 October 2026, all places are available."
   ],
   "hash": "713a4f26734c349717cab10e1e330d3db98d9911a5154f9053318da2f30d9188",
-  "checked_at": "2026-10-22T23:37:18+00:00"
+  "checked_at": "2026-10-23T01:57:13+00:00"
  },
- "last_run": "2026-10-22T23:37:18+00:00",
+ "last_run": "2026-10-23T01:57:13+00:00",
  "first_run_at": "2026-10-21T14:22:29+00:00",
- "new_this_run": 3,
+ "new_this_run": 9,
  "emailed_this_run": 0,
  "totals": {
-  "A": 79,
-  "B": 86,
-  "C": 85,
+  "A": 81,
+  "B": 90,
+  "C": 88,
   "blocked": 25
  },
  "errors": [],
- "accreditation_lookups": 2,
- "visa_ready_this_run": 1,
+ "accreditation_lookups": 6,
+ "visa_ready_this_run": 2,
  "profiles": [
   "abhishek",
   "wife"
  ],
  "visa_ready_by_person": {
-  "abhishek": 1,
+  "abhishek": 2,
   "wife": 0
  }
 }
