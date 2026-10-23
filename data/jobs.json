@@ -9787,6 +9787,52 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4481684240",
+   "source": "LinkedIn",
+   "title": "Data Platform Engineer (Mid-level)",
+   "company": "Jobgether",
+   "advertiser": "Jobgether",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481684240/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T11:39:50+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-22T12:31:55.168153+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Data Platform Engineer (Mid-level) based in New Zealand.\n\n In this role, you will help transform an established data and machine learning platform into a scalable, self-service environment that empowers engineering teams to work independently. You will build and impro",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "docker",
+      "jenkins",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 45,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 45,
+   "tier": "B"
+  },
+  {
    "id": "seek:94817031",
    "source": "Seek",
    "title": "Senior Project Manager - Telecommunications Infrastructure",

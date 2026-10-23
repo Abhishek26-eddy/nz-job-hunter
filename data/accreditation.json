@@ -1520,6 +1520,13 @@
   "checked_at": "2026-10-21T15:00:41.714447+00:00",
   "status": "not_listed"
  },
+ "watercare": {
+  "checked_at": "2026-10-23T11:46:19.023806+00:00",
+  "expiry": "2028-04-29",
+  "legal_name": "WATERCARE SERVICES LIMITED",
+  "nzbn": "9429039071552",
+  "status": "accredited"
+ },
  "woolworths": {
   "checked_at": "2026-10-23T07:28:35.788691+00:00",
   "status": "not_listed"
