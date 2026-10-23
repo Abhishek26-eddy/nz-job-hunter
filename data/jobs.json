@@ -6322,6 +6322,61 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4461153047",
+   "source": "LinkedIn",
+   "title": "Head of Product - AI Shared Services",
+   "company": "Xero",
+   "advertiser": "Xero",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4461153047/",
+   "posted_at": "2026-10-16T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:29:22+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4461134932/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-10-23T07:28:32.683387+00:00",
+    "expiry": "2028-06-17",
+    "legal_name": "XERO LIMITED",
+    "nzbn": "9429034042984",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The role / impact\n\n Xero is building the shared platform services that will sit underneath some of our most important product and technology bets. As the Head of Product for AI Shared Services, you will lead the strategy and execution of platform areas such as Eventing, Communications, and Search among others, shaping the next generation of products and standards that teams across Xero rely on.\n\nT",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "product",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 67,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 67,
+   "tier": "A"
+  },
+  {
    "id": "seek:95389992",
    "source": "Seek",
    "title": "Infrastructure Cloud Engineer",
@@ -13924,6 +13979,52 @@
       "risk",
       "stakeholders",
       "vendors"
+     ],
+     "route": "aewv",
+     "score": 35,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 35,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4481161189",
+   "source": "LinkedIn",
+   "title": "Product Lead",
+   "company": "Trimble Inc.",
+   "advertiser": "Trimble Inc.",
+   "location": "Christchurch, Canterbury, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481161189/",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:29:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:44.070295+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Transform Industry Solutions as Field-to-Cloud Product Lead\n\n Ready to revolutionize the construction industry through cutting-edge data interoperability? At Trimble, our Caterpillar Trimble Control Technologies division is seeking a passionate leader to connect machines with cloud applications and transform how the world builds.\n\n About Us\n\n Trimble is an industrial technology company transformin",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "requirements",
+      "risk",
+      "stakeholders"
      ],
      "route": "aewv",
      "score": 35,
