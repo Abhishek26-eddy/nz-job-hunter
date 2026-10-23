@@ -2289,53 +2289,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95446006",
-   "source": "Seek",
-   "title": "Power Platform Engineer",
-   "company": "Vitaco Health",
-   "advertiser": "Vitaco Health Group",
-   "location": "Manukau & East Auckland, Auckland",
-   "url": "https://www.seek.co.nz/job/95446006",
-   "posted_at": "2026-10-22T22:19:49Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Business applications | Automation | Data & analytics | AI Competitive salary, yearly review and flexible work arrangements A day off on your birthday & Great discounts on our products such as Musashi Subsidised on-site caf\u00e9, Free Parking & Access to discounted health insurance",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T23:37:18+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-22T23:41:37.298766+00:00",
-    "legal_name": "VITACO HEALTH (NZ) LIMITED",
-    "nzbn": "9429033702520",
-    "expiry": "2028-10-07"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "The role: \n We are seeking an\nexperienced Power Platform Developer to help build secure, scalable business\nsolutions across the wider Microsoft ecosystem. Power Platform is the core of\nthis role, but the opportunity extends beyond apps and workflows into Microsoft\nFabric, Power BI, Azure, enterprise integration and AI-enabled solutions. You\nwill connect applications, trusted data and intelligent a",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ai"
-     ],
-     "score": 78,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 78,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4474572643",
    "source": "LinkedIn",
    "title": "Core Network DevOps Engineer",
@@ -2629,61 +2582,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95218503",
-   "source": "Seek",
-   "title": "Automation and Control Systems Engineer - Nelson Based",
-   "company": "Industrial Marine Electrical",
-   "advertiser": "Industrial Marine Electrical",
-   "location": "Nelson Central, Tasman",
-   "url": "https://www.seek.co.nz/job/95218503",
-   "posted_at": "2026-10-12T20:27:21Z",
-   "work_type": "Full time",
-   "salary": "$90,000 \u2013 $130,000 per year",
-   "teaser": "Nelson systems integrator seeking an Automation Engineer skilled in Schneider Control Expert & AVEVA System Platform for varied, high-impact projects.",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [
-    {
-     "why": "Relocation support",
-     "quote": "\u2026reporting systems   What We Offer  Competitive renumeration package based on experience   Relocation assistance for those wishing to relocate (within NZ)   Varied, technically rich work across multiple\u2026"
-    }
-   ],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:27:49.555639+00:00",
-    "legal_name": "INDUSTRIAL MARINE ELECTRICAL LIMITED",
-    "nzbn": "9429036967971",
-    "expiry": "2027-08-12"
-   },
-   "has_description": true,
-   "summary": "Industrial Marine Electrical Nelson is seeking an experienced Automation / Control Systems Engineer to join our team, delivering system integration projects across industrial, food & beverage, refrigeration, water treatment, and municipal infrastructure clients in the Nelson/Tasman region.\n This is a great opportunity for an intermediate to senior engineer with a systems integration background to ",
-   "score": 75,
-   "tier": "A",
-   "reasons": [
-    "accredited employer",
-    "relocation support"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 75,
-     "tier": "A",
-     "reasons": [
-      "accredited employer",
-      "relocation support"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95299409",
    "source": "Seek",
    "title": "Data and AI Engineer - Two Year Fixed Term",
@@ -2743,6 +2641,62 @@
      "url": "https://www.linkedin.com/jobs/view/4481189808/"
     }
    ]
+  },
+  {
+   "id": "seek:95454564",
+   "source": "Seek",
+   "title": "Project Manager, Dynamics 365 CRM Implementation",
+   "company": "World Vision",
+   "advertiser": "World Vision NZ",
+   "location": "Penrose, Auckland",
+   "url": "https://www.seek.co.nz/job/95454564",
+   "posted_at": "2026-10-23T03:31:13Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead our Dynamics 365 CRM delivery from design to go-live and adoption. Fixed-term, 12 months+. Help make a difference for children. Creating positive change in the lives of the world's most vulnerable children. Using CRM delivery and data migration skills to build a system our teams trust. Working with an AI-enabled partner on a new CRM to help teams support children.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:10:54.049669+00:00",
+    "legal_name": "WORLD VISION OF NEW ZEALAND TRUST BOARD",
+    "nzbn": "9429042923046",
+    "expiry": "2028-02-02"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u20267.5 hours per week  \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hybrid work  Eligibility   To be eligible for this role you must have current entitlement to work in New Zealand.  Apply Now   We welcome applications from anyone who wants to seek justic\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "It\u2019s not every day that a job comes along where you really can change the world. Keep reading if you want to be part of:\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Creating positive change in the lives of the world's most vulnerable children .\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Using your CRM delivery and data migration skills to help our teams work in a system they trust.\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Working with a fast-paced, AI-enabled partner team on a new CRM that ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "enterprise",
+      "risk"
+     ],
+     "score": 75,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 75,
+   "tier": "A"
   },
   {
    "id": "seek:94931388",
@@ -4041,6 +3995,54 @@
    }
   },
   {
+   "id": "seek:95451265",
+   "source": "Seek",
+   "title": "Digital Solutions Engineer",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland Airport, Auckland",
+   "url": "https://www.seek.co.nz/job/95451265",
+   "posted_at": "2026-10-23T02:03:01Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Develop Node.js applications, build Power Platform solutions and explore AI opportunities with an established NZ business Work across Node.js, Power Platform, Microsoft Copilot and AI Own solutions from development through to deployment and support Established NZ business with great benefits and onsite parking",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:26:37.531128+00:00",
+    "expiry": "2026-11-20",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The magic combo - hands-on developer who enjoys working across traditional software engineering, Microsoft Power Platform and emerging AI technologies.\n We're looking for a versatile Digital Solutions Engineer to join an established New Zealand business investing in modernising its technology environment.\n This is an opportunity to work across a varied technology landscape, combining Node.js appli",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "jenkins"
+     ],
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4480298538",
    "source": "LinkedIn",
    "title": "Platform Engineer",
@@ -4663,96 +4665,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95447577",
-   "source": "Seek",
-   "title": "Senior Power Systems Engineer",
-   "company": "ABB",
-   "advertiser": "ABB LTD",
-   "location": "Napier Central, Hawkes Bay",
-   "url": "https://www.seek.co.nz/job/95447577",
-   "posted_at": "2026-10-22T23:47:40Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join ABB Critical Power in Napier to engineer next-gen UPS, BESS & energy systems driving the clean energy transition Lead innovative power systems R&D projects Join ABB, a global energy technology leader Grow your career with competitive benefits",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T02:01:38.933815+00:00",
-    "legal_name": "ABB LIMITED",
-    "nzbn": "9429040970714",
-    "expiry": "2028-03-06"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "In this role, you'll help run what runs the world, by taking on meaningful work that drives real impact. You will contribute significantly to successful project outcomes within technology, product, and solution development, including associated Intellectual Property (IP). You will act as a key point of expertise in Research & Development, troubleshooting, and product engineering support. You will ",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 60,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95448712",
-   "source": "Seek",
-   "title": "Systems Engineer/Senior Engineer (multiple opportunities)",
-   "company": "Vector",
-   "advertiser": "Vector",
-   "location": "Newmarket, Auckland",
-   "url": "https://www.seek.co.nz/job/95448712",
-   "posted_at": "2026-10-23T00:38:14Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Shape the future of electricity networks through data, analytics and innovation, transforming how critical assets are managed. Competitive salary + free insurances + wellbeing grant + high street discounts Work/life balance - Flexible start/end times + work from home New offices alongside The Domain, subsidised public transport + car parking",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T02:01:35.635522+00:00",
-    "legal_name": "VECTOR LIMITED",
-    "nzbn": "9429039215109",
-    "expiry": "2028-05-21"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job Description \n\n Innovation at the core. Powering a smarter future. \n At Vector, we believe innovation is the key to a cleaner, more connected future. By embracing new ideas, forging strong partnerships and pioneering technologies that make energy more resilient and accessible, we\u2019re setting new standards for our customers, and our industry.\n Learn more about how Vector is reshaping the energy s",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 60,
-   "tier": "A"
-  },
-  {
    "id": "seek:94937299",
    "source": "Seek",
    "title": "Lead DevOps Engineer",
@@ -5124,60 +5036,6 @@
    }
   },
   {
-   "id": "seek:95222251",
-   "source": "Seek",
-   "title": "ADMS Control Systems Engineer",
-   "company": "Northpower",
-   "advertiser": "Northpower Ltd",
-   "location": "Whangarei Central, Northland",
-   "url": "https://www.seek.co.nz/job/95222251",
-   "posted_at": "2026-10-13T00:51:03Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "You'll be responsible for maintaining, supporting, and enhancing the control room's SCADA, Network Management, and Outage Management systems. Competitive remuneration and access to retail discounts Strong commitment to professional development Discounted gym membership",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "linux",
-    "sre"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:27:46.513521+00:00",
-    "legal_name": "NORTHPOWER LIMITED",
-    "nzbn": "9429039052339",
-    "expiry": "2028-05-28"
-   },
-   "has_description": true,
-   "summary": "About the Role \n Reporting to the Control Systems Manager , the ADMS Control Systems Engineer is responsible for maintaining, supporting, and enhancing the control room\u2019s SCADA, Network Management, and Outage Management systems. You\u2019ll work closely with external vendors and contractors, as well as internal Digital Infrastructure, Development, and Network Systems teams.\n Based in the winterless Nor",
-   "score": 56,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "linux",
-      "sre"
-     ],
-     "score": 56,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95390329",
    "source": "Seek",
    "title": "Security Systems Engineer",
@@ -5230,58 +5088,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95396153",
-   "source": "Seek",
-   "title": "Project Manager - Contract",
-   "company": "Luminous Talent",
-   "advertiser": "Luminous Talent",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95396153",
-   "posted_at": "2026-10-21T02:01:46Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Luminous Talent is building a talent pool of experienced contract Project Managers for the wider New Zealand financial services market.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T15:00:53.970893+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Luminous Talent is building a talent pool of experienced contract Project Managers for the wider New Zealand financial services market. This includes some large-scale businesses preparing for significant change and transformation.\n\nThis isn't a single vacancy. It's an invitation to register with us, so we can talk to you about contract opportunities as they come up, often before they go to market.",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "cloud",
-      "data",
-      "methods",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "score": 56,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 56,
-   "tier": "B"
   },
   {
    "id": "seek:95160130",
@@ -6003,116 +5809,6 @@
    }
   },
   {
-   "id": "seek:95336452",
-   "source": "Seek",
-   "title": "Senior Systems Engineer - Timaru",
-   "company": "RWA People",
-   "advertiser": "RWA People",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/95336452",
-   "posted_at": "2026-10-18T22:19:18Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Senior Systems Engineer with NZ MSP experience wanted for a stable, well-regarded MSP in Timaru. Open to candidates relocating. Senior role in a tight-knit team at a respected Southern MSP Strong benefits: health insurance subsidy, on-call pay, training Relocating to South Canterbury? We'd love to talk",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "sre"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:37.531128+00:00",
-    "legal_name": "RWA PEOPLE LIMITED",
-    "nzbn": "9429033198132",
-    "expiry": "2026-11-20"
-   },
-   "has_description": true,
-   "summary": "About the company \n Our client is a well-established MSP with about 90 staff across the South Island. They have a strong reputation and a stable client base, and they\u2019ve been around for a long time. The Timaru office is a small team of seven, including engineers, managers and admin. It\u2019s a team where people back each other, work hard and keep the banter going.\n The role \n You\u2019ll be the senior tech",
-   "score": 53,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "score": 53,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
-   "id": "seek:95337782",
-   "source": "Seek",
-   "title": "Systems Engineer (Intermediate or Senior)",
-   "company": "RWA People",
-   "advertiser": "RWA People",
-   "location": "Timaru, Canterbury",
-   "url": "https://www.seek.co.nz/job/95337782",
-   "posted_at": "2026-10-18T23:49:28Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Intermediate or Senior Systems Engineer wanted for a stable, well-regarded MSP in Timaru. NZ MSP experience required. Local Timaru role, client work close to home Small, tight-knit team at a respected Southern MSP Health insurance subsidy, on-call pay, training and more",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95136325"
-    }
-   ],
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "sre"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:37.531128+00:00",
-    "legal_name": "RWA PEOPLE LIMITED",
-    "nzbn": "9429033198132",
-    "expiry": "2026-11-20"
-   },
-   "has_description": true,
-   "summary": "About the company \n Our client is a well-established MSP with about 90 staff across the South Island and a strong reputation built over many years. The Timaru office is a small team of seven, including engineers, managers and admin. It\u2019s a team where people back each other, work hard and keep the banter going.\n The role \n You\u2019ll look after Timaru\u2019s local business clients, splitting your time betwe",
-   "score": 53,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "score": 53,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95360992",
    "source": "Seek",
    "title": "ICT Systems Engineer - Auckland",
@@ -6208,71 +5904,6 @@
      "reasons": [
       "accredited employer",
       "part time: the visa needs 30h+ a week"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 51,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95400828",
-   "source": "Seek",
-   "title": "Project Manager - CRM & Digital Transformation",
-   "company": "Talent Corp",
-   "advertiser": "Talent",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95400828",
-   "posted_at": "2026-10-21T03:42:55Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead high-impact CRM, data and integration projects in a complex digital environment. Great Auckland opportunity with hybrid working. Permanent Auckland role with genuine end-to-end delivery ownership Auckland CBD - hybrid working, 2 days in office Large, complex environment delivering significant digital transformation and CRM",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4480749820/"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95424220"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:28.327918+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Wants candidates already in NZ",
-     "quote": "\u2026d CV   We are only able to consider those candidates with relevant NZ work rights who are already based in NZ."
-    }
-   ],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Project Manager - CRM & Digital Transformation\n Are you a capable Project Manager who enjoys delivering complex digital systems and working across business, technology and vendor teams?\n We are looking for a hands-on Project Manager to join a well-known Auckland organisation and deliver a varied portfolio of customer and digital transformation initiatives. Experience delivering Salesforce CRM impl",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "cloud",
-      "data",
-      "enterprise",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "score": 51,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
      ]
     }
    },
@@ -6425,54 +6056,6 @@
    }
   },
   {
-   "id": "seek:95247673",
-   "source": "Seek",
-   "title": "Control Systems Engineer",
-   "company": "Arthur D Riley Co Ltd.",
-   "advertiser": "Arthur D Riley  Co Ltd.",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95247673",
-   "posted_at": "2026-10-13T22:59:56Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join ADR and help deliver automation, telemetry and SCADA solutions across New Zealand's water, utility, infrastructure and industrial sectors. Excellent benefits package including bonus opportunities and insurances Grow your skills alongside experienced engineers Proudly NZ owned supportive business with a people-first culture",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:28:09.152258+00:00",
-    "legal_name": "ARTHUR D. RILEY AND COMPANY LIMITED",
-    "nzbn": "9429040827773",
-    "expiry": "2026-10-24"
-   },
-   "has_description": true,
-   "summary": "Since 1909, ADR has helped keep communities and businesses running with utility technology products, services, and expertise. Proudly New Zealand owned, we partner with energy utilities, water authorities, local authorities, manufacturing, farming, and agriculture sectors.\n This is an exciting opportunity to join our Wellington based team!\n \u00a0 About the Role \n As a Control Systems Engineer, you'll ",
-   "score": 50,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 50,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95300628",
    "source": "Seek",
    "title": "Cloud Infrastructure Engineer | Azure & Microsoft 365",
@@ -6579,60 +6162,6 @@
    "for": {
     "abhishek": {
      "fit": "core",
-     "skills": [],
-     "score": 50,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
-   "id": "seek:95335356",
-   "source": "Seek",
-   "title": "Control Systems Deployment Engineer",
-   "company": "Fonterra",
-   "advertiser": "Fonterra Co-operative Group Ltd",
-   "location": "Hamilton Central, Waikato",
-   "url": "https://www.seek.co.nz/job/95335356",
-   "posted_at": "2026-10-18T19:15:50Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "We are looking for a Control Systems Development engineer to join our high performing team. Feel connected here;  When you're part of this, you're part of us. Be inspired here: Join a new generation solving for a better dairy future. Grow here:  We're part of your progress - develop, explore and thrive.",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4480922440/"
-    }
-   ],
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:26:52.260488+00:00",
-    "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
-    "nzbn": "9429036748471",
-    "expiry": "2028-08-06"
-   },
-   "has_description": true,
-   "summary": "Imagine Tomorrow with Us |\u00a0 Ata whakaarohia t\u014d \u0101p\u014dp\u014d At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves.\u00a0 \n Whether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution.\u00a0 \n Owned by New Zealand dairy farmers and supported by a dedicated team, we ",
-   "score": 50,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
      "skills": [],
      "score": 50,
      "tier": "B",
@@ -7273,6 +6802,58 @@
       "methods",
       "risk",
       "sdlc",
+      "stakeholders",
+      "vendors"
+     ],
+     "score": 46,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 46,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95396153",
+   "source": "Seek",
+   "title": "Project Manager - Contract",
+   "company": "Luminous Talent",
+   "advertiser": "Luminous Talent",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95396153",
+   "posted_at": "2026-10-21T02:01:46Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Luminous Talent is building a talent pool of experienced contract Project Managers for the wider New Zealand financial services market.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-21T15:00:53.970893+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Luminous Talent is building a talent pool of experienced contract Project Managers for the wider New Zealand financial services market. This includes some large-scale businesses preparing for significant change and transformation.\n\nThis isn't a single vacancy. It's an invitation to register with us, so we can talk to you about contract opportunities as they come up, often before they go to market.",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "data",
+      "methods",
+      "risk",
       "stakeholders",
       "vendors"
      ],
@@ -8226,6 +7807,50 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4481657029",
+   "source": "LinkedIn",
+   "title": "Project Manager",
+   "company": "SecuritEase",
+   "advertiser": "SecuritEase",
+   "location": "Lower Hutt, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481657029/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:10:56.884499+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are seeking an experienced Project Manager to join our global technology team, delivering complex investment management software solutions across both internal projects and external client implementations.\n\n What You\u2019ll Do\n\n Plan, organise and manage the delivery of various internal projects and external client implementations \n Coordinate cross-functional teams including developers, business a",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "methods",
+      "stakeholders"
+     ],
+     "score": 42,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 42,
+   "tier": "B"
+  },
+  {
    "id": "seek:94817031",
    "source": "Seek",
    "title": "Senior Project Manager - Telecommunications Infrastructure",
@@ -8612,6 +8237,71 @@
    "recruiter": true,
    "has_description": true,
    "summary": "Project Manager \u2013 CRM & Digital Transformation\n\nAre you a capable Project Manager who enjoys delivering complex digital systems and working across business, technology and vendor teams?\n\nWe are looking for a hands-on Project Manager to join a well-known Auckland organisation and deliver a varied portfolio of customer and digital transformation initiatives. Experience delivering Salesforce CRM impl",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "enterprise",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95400828",
+   "source": "Seek",
+   "title": "Project Manager - CRM & Digital Transformation",
+   "company": "Talent Corp",
+   "advertiser": "Talent",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95400828",
+   "posted_at": "2026-10-21T03:42:55Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead high-impact CRM, data and integration projects in a complex digital environment. Great Auckland opportunity with hybrid working. Permanent Auckland role with genuine end-to-end delivery ownership Auckland CBD - hybrid working, 2 days in office Large, complex environment delivering significant digital transformation and CRM",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-21T14:48:01+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4480749820/"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95424220"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-10-21T14:38:28.327918+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026d CV   We are only able to consider those candidates with relevant NZ work rights who are already based in NZ."
+    }
+   ],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Project Manager - CRM & Digital Transformation\n Are you a capable Project Manager who enjoys delivering complex digital systems and working across business, technology and vendor teams?\n We are looking for a hands-on Project Manager to join a well-known Auckland organisation and deliver a varied portfolio of customer and digital transformation initiatives. Experience delivering Salesforce CRM impl",
    "for": {
     "wife": {
      "fit": "core",
@@ -9872,7 +9562,13 @@
    },
    "visa_ready": false,
    "score": 33,
-   "tier": "C"
+   "tier": "C",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4482497669/"
+    }
+   ]
   },
   {
    "id": "seek:94894046",
@@ -11701,55 +11397,6 @@
    }
   },
   {
-   "id": "seek:95126362",
-   "source": "Seek",
-   "title": "AI Engineer - Computer Vision",
-   "company": "Potentia",
-   "advertiser": "Potentia",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95126362",
-   "posted_at": "2026-10-07T22:26:05Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Hands-on AI Developer role with room to shape both the technical work and the way AI is used across the organisation. Computer vision and ML focus From proof-of-concept to production Strong technical and stakeholder influence",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "ai"
-   ],
-   "recruiter": true,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:27:54.190670+00:00"
-   },
-   "has_description": true,
-   "summary": "AI Developer \u2013 Computer Vision & Machine Learning \n\n Why you would like it \n* Real-world AI across engineering and infrastructure\u00a0\n* Strong focus on computer vision and machine learning\u00a0\n* Scope to lead ideas from experiment to production\u00a0\n* Influence how AI is adopted across the business\u00a0\n\n The opportunity \n\nThis is a hands-on AI Developer role with room to shape both the technical work and the w",
-   "score": 23,
-   "tier": "C",
-   "reasons": [
-    "via agency: ask who the employer is"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai"
-     ],
-     "score": 23,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95134432",
    "source": "Seek",
    "title": "Technical Implementation Manager",
@@ -11884,48 +11531,6 @@
    },
    "visa_ready": false,
    "score": 23,
-   "tier": "C"
-  },
-  {
-   "id": "seek:94957130",
-   "source": "Seek",
-   "title": "M365 Power Platform Lead",
-   "company": "H2R Consulting",
-   "advertiser": "H2R Technology Limited",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/94957130",
-   "posted_at": "2026-09-29T21:02:16Z",
-   "work_type": "Full time",
-   "salary": "$190,000",
-   "teaser": "Join a New Zealand based digital consultancy and lead technical delivery across Microsoft Power platform solutions",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T15:01:00.603272+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We are looking for an experienced Senior modern workplace consultant \u00a0to shape solution architecture, lead delivery, and strengthen capability within an established consultancy.\n\n You\u2019ll bring deep, hands-on expertise across Power Apps, Power Automate, and SharePoint integrations , alongside the confidence to guide experienced developers and advise clients. The focus is on building solutions that ",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [],
-     "score": 20,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 20,
    "tier": "C"
   },
   {
@@ -12067,51 +11672,6 @@
    },
    "has_description": true,
    "summary": "Systems Engineer\u00a0 \nTimaru, (relocation required)\n$80,000 to $100,000\n\n A Team That Does Technology Differently \nThis isn\u2019t your average MSP. It\u2019s a tight-knit team of people who love what they do, take pride in their work, and show up every day to make technology work harder for the businesses that depend on it. Relationships sit at the heart of everything: with diverse clients, with colleagues, a",
-   "score": 20,
-   "tier": "C",
-   "reasons": [
-    "via agency: ask who the employer is"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 20,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   }
-  },
-  {
-   "id": "seek:95395112",
-   "source": "Seek",
-   "title": "Milking Systems Engineer",
-   "company": "Jigsaw Staffing",
-   "advertiser": "Jigsaw Staffing Limited",
-   "location": "Hamilton, Waikato",
-   "url": "https://www.seek.co.nz/job/95395112",
-   "posted_at": "2026-10-21T01:31:06Z",
-   "work_type": "Full time",
-   "salary": "Competitive Package",
-   "teaser": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team Well Established Employer Career Advancement Opportunities Great Company Culture",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": true,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:20.278530+00:00"
-   },
-   "has_description": true,
-   "summary": "Our client, a well-established Waikato engineering firm, is looking for a Milking System Engineer to join their team\n\nThis is a full-time, permanent position for a hands-on technical specialist who enjoys being out on farm, solving problems and being the go-to expert for dealers and customers. You'll lead installations, commission complex milking systems and make sure every job is delivered on tim",
    "score": 20,
    "tier": "C",
    "reasons": [
@@ -12596,48 +12156,6 @@
    },
    "visa_ready": false,
    "score": 16,
-   "tier": "C"
-  },
-  {
-   "id": "seek:95447088",
-   "source": "Seek",
-   "title": "Control Systems Engineer",
-   "company": "Joyn",
-   "advertiser": "DRE Systems Limited",
-   "location": "Petone, Wellington",
-   "url": "https://www.seek.co.nz/job/95447088",
-   "posted_at": "2026-10-22T23:24:06Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead control systems design with cutting-edge PLC/SCADA tech. Flexible work, great benefits, career growth.",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-22T23:37:18+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T23:41:39.761137+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the role \n DRE Systems Limited is seeking a talented Control Systems Engineer to join our dynamic team in Petone, Wellington. As a Control Systems Engineer, you will play a crucial role in designing, developing, and maintaining cutting-edge control systems that power our innovative products. This full-time position offers the opportunity to contribute to the strategic objectives of our compa",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 15,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 15,
    "tier": "C"
   },
   {
@@ -13637,51 +13155,6 @@
    }
   },
   {
-   "id": "seek:95106355",
-   "source": "Seek",
-   "title": "Senior Automation Engineer (Projects Lead)",
-   "company": "Peoplelogic",
-   "advertiser": "PeopleLogic",
-   "location": "Mount Maunganui, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95106355",
-   "posted_at": "2026-10-07T03:12:43Z",
-   "work_type": "Full time",
-   "salary": "$130k to $150k package + paid overtime",
-   "teaser": "Run your own projects and lead engineers across dairy, water, and manufacturing. A clear step into project management. Large electrical and automation projects $130k to $150k package, overtime at base rate after 40 hours Solid forward work and a brand new Tauranga office",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:33.064953+00:00"
-   },
-   "has_description": true,
-   "summary": "Plenty of Senior Automation Engineers end up running jobs anyway. You\u2019re the one talking to the client, chasing the contractors/suppliers, and keeping the junior engineers on track, but the title and the pay don\u2019t always reflect it.\n \n\n This role makes leading projects your focus. You\u2019ll own your projects from handover through to commissioning, lead the engineers working on them, and stay close en",
-   "score": 5,
-   "tier": "C",
-   "reasons": [
-    "not on public INZ list"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 5,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95225211",
    "source": "Seek",
    "title": "Senior Automation Engineer",
@@ -13772,51 +13245,6 @@
    }
   },
   {
-   "id": "seek:95285333",
-   "source": "Seek",
-   "title": "Production Engineer",
-   "company": "DMS Progrowers",
-   "advertiser": "DMS Progrowers Ltd",
-   "location": "Te Puna, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95285333",
-   "posted_at": "2026-10-15T04:58:49Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Love fixing things and solving problems? Join DMS as our Production Engineer, with competitive pay and incentivised rates that reward your skills! Incentivised pay rate recognising your industry knowledge and experience Bonuses and health insurance Great work enviroment",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:36.003579+00:00"
-   },
-   "has_description": true,
-   "summary": "The secret to DMS\u2019s success is having passionate growers and a reputation for delivering results that attracts the very best people. Operating two major post-harvest facilities in Te Puke and Te Puna, DMS also manages kiwifruit and avocado orchards on behalf of our growers.\n With more than 30 seasons under our belt, we set the standard high, and that\u2019s why more and more growers refuse to settle fo",
-   "score": 5,
-   "tier": "C",
-   "reasons": [
-    "not on public INZ list"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 5,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   }
-  },
-  {
    "id": "seek:95335648",
    "source": "Seek",
    "title": "Systems Engineer",
@@ -13860,103 +13288,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95336536",
-   "source": "Seek",
-   "title": "Automation Engineer",
-   "company": "Peoplelogic",
-   "advertiser": "PeopleLogic",
-   "location": "Hamilton Central, Waikato",
-   "url": "https://www.seek.co.nz/job/95336536",
-   "posted_at": "2026-10-18T22:29:46Z",
-   "work_type": "Full time",
-   "salary": "$95,000 \u2013 $140,000 per year",
-   "teaser": "A systems integrator with real sector variety and sensible site travel. Process control experience ideal. Hamilton or Auckland. Work across Dairy, Food & Bev, Water, Energy and more, not just one sector Sensible travel, up to a month a year spread across multiple trips Stable, well-established integrator with a full and varied order book",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95336442"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95428359"
-    }
-   ],
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:33.064953+00:00"
-   },
-   "has_description": true,
-   "summary": "If you're an Industrial Automation Engineer doing the same projects on repeat and want more variety and SCADA projects focus, this is for you.\n This is a Hamilton-based role where SCADA development is a key part of the work, alongside PLC and HMI programming. The SCADA side is where the depth is: building the database, pulling data in from PLCs made by other manufacturers, writing scripts, and lay",
-   "score": 5,
-   "tier": "C",
-   "reasons": [
-    "not on public INZ list"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "score": 5,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   }
-  },
-  {
-   "id": "linkedin:4482199516",
-   "source": "LinkedIn",
-   "title": "Senior Machine Learning Engineer",
-   "company": "Alignerr",
-   "advertiser": "Alignerr",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482199516/",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "work_type": "Contract",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T02:01:44.879967+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Senior Machine Learning Engineer (AI Data Trainer)\n\n About The Role\n\n What if your deep expertise in machine learning could directly shape how the world's most advanced AI systems think, plan, and make decisions?\n\nWe're looking for Senior Machine Learning Engineers to work on one of the most intellectually challenging problems in AI right now: teaching large language models how to reason. You'll a",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai"
-     ],
-     "score": 5,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 5,
-   "tier": "C"
   },
   {
    "id": "seek:94986781",
@@ -14682,65 +14013,6 @@
    "visa_ready": false,
    "score": 56,
    "tier": "blocked"
-  },
-  {
-   "id": "seek:95282502",
-   "source": "Seek",
-   "title": "QA Automation Engineer",
-   "company": "Tribe Group",
-   "advertiser": "Tribe (New Zealand) Limited",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95282502",
-   "posted_at": "2026-10-15T03:35:13Z",
-   "work_type": "Full time",
-   "salary": "Hybrid 2\u20133 days in office + CBD location",
-   "teaser": "Build and maintain Playwright automation across web/mobile, improve regression coverage, and partner with devs to lift release confidence during a cha Flexible hybrid (2 to 3 days in office) in Auckland CBD Playwright, Postman, Datadog plus Appium exposure across web and mobile Join during a change phase and help shape automation and quality practices",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [
-    {
-     "why": "NZ citizens/residents only",
-     "quote": "\u2026up.com and quote Job ID: 18668 for a confidential chat.    To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
-    }
-   ],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "jenkins",
-    "observability"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:27:29.493328+00:00",
-    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
-    "nzbn": "9429030268715",
-    "expiry": "2028-06-18"
-   },
-   "has_description": true,
-   "summary": "About the Opportunity \u00a0 \n\nWe\u2019re working with a well-known New Zealand organisation with a strong brand and a genuinely purpose-led culture. Their digital products are used at scale, and they\u2019re in the middle of an interesting period of change across their systems and ways of working.\n\nThey\u2019re looking for a QA Automation Engineer to strengthen automated testing across web and mobile. You\u2019ll sit alo",
-   "score": 56,
-   "tier": "blocked",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "jenkins",
-      "observability"
-     ],
-     "score": 56,
-     "tier": "blocked",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
   },
   {
    "id": "seek:95127182",

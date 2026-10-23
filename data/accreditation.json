@@ -1006,6 +1006,10 @@
   "nzbn": "9429037500924",
   "status": "accredited"
  },
+ "securitease": {
+  "checked_at": "2026-10-23T07:10:56.884499+00:00",
+  "status": "not_listed"
+ },
  "serverworks": {
   "checked_at": "2026-10-22T06:50:35.461955+00:00",
   "status": "not_listed"
@@ -1258,6 +1262,13 @@
   "expiry": "2028-07-07",
   "legal_name": "WORKDAY (NZ) UNLIMITED",
   "nzbn": "9429041438817",
+  "status": "accredited"
+ },
+ "world vision": {
+  "checked_at": "2026-10-23T07:10:54.049669+00:00",
+  "expiry": "2028-02-02",
+  "legal_name": "WORLD VISION OF NEW ZEALAND TRUST BOARD",
+  "nzbn": "9429042923046",
   "status": "accredited"
  },
  "younity": {
