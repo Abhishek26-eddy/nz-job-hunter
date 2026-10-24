@@ -1940,64 +1940,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95445857",
-   "source": "Seek",
-   "title": "Senior Business Analyst",
-   "company": "Natural Hazards Commission - Toka T\u016b Ake",
-   "advertiser": "Natural Hazards Commission - Toka T\u016b Ake",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/95445857",
-   "posted_at": "2026-10-22T22:10:00Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join us as a Senior Business Analyst and bring clarity to complex problems, shaping evidence-led decisions and practical change. Commitment to your professional development Competitive salary + benefits Flexible working arrangements",
-   "seek_class": [
-    "6281",
-    "1210"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95445856"
-    }
-   ],
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:27:40.538922+00:00",
-    "legal_name": "Toka T\u016b Ake \u2013 Natural Hazards Commission",
-    "nzbn": "9429041901618",
-    "expiry": "2026-12-03"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the role | M\u014d te mahi \n\n We are looking for an experienced Senior Business Analyst to join our Business Analysis and Process Design team on a fixed-term basis until the end of June 2027. Reporting to the Manager, Business Analysis and Process Design, you will lead complex discovery and analysis, bringing clarity and structure to ambiguous problems and translating evidence into practical reco",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "data",
-      "product",
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 87,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 87,
-   "tier": "A"
-  },
-  {
    "id": "seek:94992624",
    "source": "Seek",
    "title": "Business Analyst",
@@ -4569,6 +4511,64 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95445857",
+   "source": "Seek",
+   "title": "Senior Business Analyst",
+   "company": "Natural Hazards Commission - Toka T\u016b Ake",
+   "advertiser": "Natural Hazards Commission - Toka T\u016b Ake",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95445857",
+   "posted_at": "2026-10-22T22:10:00Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join us as a Senior Business Analyst and bring clarity to complex problems, shaping evidence-led decisions and practical change. Commitment to your professional development Competitive salary + benefits Flexible working arrangements",
+   "seek_class": [
+    "6281",
+    "1210"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95445856"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:27:40.538922+00:00",
+    "legal_name": "Toka T\u016b Ake \u2013 Natural Hazards Commission",
+    "nzbn": "9429041901618",
+    "expiry": "2026-12-03"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the role | M\u014d te mahi \n\n We are looking for an experienced Senior Business Analyst to join our Business Analysis and Process Design team on a fixed-term basis until the end of June 2027. Reporting to the Manager, Business Analysis and Process Design, you will lead complex discovery and analysis, bringing clarity and structure to ambiguous problems and translating evidence into practical reco",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "product",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 77,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 77,
+   "tier": "A"
   },
   {
    "id": "seek:95199500",
@@ -19804,7 +19804,7 @@
       "stakeholders"
      ],
      "route": "iswv",
-     "score": 74,
+     "score": 64,
      "tier": "blocked",
      "reasons": [
       "accredited employer",
@@ -19813,7 +19813,7 @@
     }
    },
    "visa_ready": false,
-   "score": 74,
+   "score": 64,
    "tier": "blocked"
   },
   {
