@@ -14368,62 +14368,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95438491",
-   "source": "Seek",
-   "title": "Software & AI Engineer Specialist",
-   "company": "AIA",
-   "advertiser": "AIA New Zealand",
-   "location": "Takapuna, Auckland",
-   "url": "https://www.seek.co.nz/job/95438491",
-   "posted_at": "2026-10-22T08:52:21Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Design, build and optimise secure, AI-powered technology solutions, using modern engineering and automation to enhance business performance. A strong culture of innovation with health and wellbeing at its heart Join a high performing team that feels like a family We celebrate the diversity of our people and champion diverse thinking",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T12:27:24+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T12:31:50.391093+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Your Role with Us\n As a Software & AI Engineer Specialist within Core Platforms, you will help shape the technology solutions that keep AIA running smoothly, securely and efficiently. Working closely with engineers, business stakeholders and technology partners, you will design, build, support and continuously improve applications that enable reliable business operations. This role combines modern",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "bash",
-      "jenkins",
-      "python",
-      "security",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 33,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 33,
-   "tier": "C",
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4482497669/"
-    }
-   ]
-  },
-  {
    "id": "linkedin:4482817065",
    "source": "LinkedIn",
    "title": "Azure Platform Consultant",
@@ -17098,6 +17042,62 @@
    "visa_ready": false,
    "score": 23,
    "tier": "C"
+  },
+  {
+   "id": "seek:95438491",
+   "source": "Seek",
+   "title": "Software & AI Engineer Specialist",
+   "company": "AIA",
+   "advertiser": "AIA New Zealand",
+   "location": "Takapuna, Auckland",
+   "url": "https://www.seek.co.nz/job/95438491",
+   "posted_at": "2026-10-22T08:52:21Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Design, build and optimise secure, AI-powered technology solutions, using modern engineering and automation to enhance business performance. A strong culture of innovation with health and wellbeing at its heart Join a high performing team that feels like a family We celebrate the diversity of our people and champion diverse thinking",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T12:27:24+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T12:31:50.391093+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Your Role with Us\n As a Software & AI Engineer Specialist within Core Platforms, you will help shape the technology solutions that keep AIA running smoothly, securely and efficiently. Working closely with engineers, business stakeholders and technology partners, you will design, build, support and continuously improve applications that enable reliable business operations. This role combines modern",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "bash",
+      "jenkins",
+      "python",
+      "security",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 23,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 23,
+   "tier": "C",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4482497669/"
+    }
+   ]
   },
   {
    "id": "seek:94843395",
