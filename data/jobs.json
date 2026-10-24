@@ -17586,51 +17586,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95429689",
-   "source": "Seek",
-   "title": "Systems Engineer",
-   "company": "ServerWorks Ltd",
-   "advertiser": "ServerWorks Ltd",
-   "location": "Riccarton, Canterbury",
-   "url": "https://www.seek.co.nz/job/95429689",
-   "posted_at": "2026-10-22T04:36:36Z",
-   "work_type": "Full time",
-   "salary": "$95,000 \u2013 $105,000 per year",
-   "teaser": "A customer facing Windows/Network engineer role in the service industry - we are looking for a proven track record. Great salary, even better company. A role where you will own and lead a number of responsibilities International travel opportunities. Gadgets included (laptop, phone), car park, awesome coffee....",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T06:46:08+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T06:50:35.461955+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We are all about:\u00a0People. People always come first, not the size of a partition or number of firewall rules but people \u2013 be they our customers, suppliers or you; Ownership and commitment - we go so far out of our way to deliver that our clients keep us a secret;\u00a0Passion for service - serving others is what fills our emotional tank;\u00a0Excellence \u2013 we are proud of what we achieve and make a deal about",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 18,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 18,
-   "tier": "C"
-  },
-  {
    "id": "seek:95449263",
    "source": "Seek",
    "title": "Senior Infrastructure Engineer - Poike or Mokoia",
@@ -18751,6 +18706,51 @@
    "recruiter": false,
    "has_description": true,
    "summary": "What's on offer:\n\n \n Competitive remuneration package\n\n Supportive, collaborative team environment across NZ & AU\n\n Exposure to modern infrastructure, cloud, and enterprise systems\n\n Career progression within a large, nationwide organisation\n\n \n About the Role\n\n We're looking for an experienced IT Systems Engineer - Technician to join our Platform Services team based in Tauranga.\n\n This role is id",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95429689",
+   "source": "Seek",
+   "title": "Systems Engineer",
+   "company": "ServerWorks Ltd",
+   "advertiser": "ServerWorks Ltd",
+   "location": "Riccarton, Canterbury",
+   "url": "https://www.seek.co.nz/job/95429689",
+   "posted_at": "2026-10-22T04:36:36Z",
+   "work_type": "Full time",
+   "salary": "$95,000 \u2013 $105,000 per year",
+   "teaser": "A customer facing Windows/Network engineer role in the service industry - we are looking for a proven track record. Great salary, even better company. A role where you will own and lead a number of responsibilities International travel opportunities. Gadgets included (laptop, phone), car park, awesome coffee....",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:35.461955+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are all about:\u00a0People. People always come first, not the size of a partition or number of firewall rules but people \u2013 be they our customers, suppliers or you; Ownership and commitment - we go so far out of our way to deliver that our clients keep us a secret;\u00a0Passion for service - serving others is what fills our emotional tank;\u00a0Excellence \u2013 we are proud of what we achieve and make a deal about",
    "for": {
     "abhishek": {
      "fit": "adjacent",
