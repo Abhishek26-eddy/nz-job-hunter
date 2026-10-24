@@ -146,215 +146,6 @@
    "tier": "A"
   },
   {
-   "id": "linkedin:4482193648",
-   "source": "LinkedIn",
-   "title": "Business Analyst, Kapua",
-   "company": "Civil Aviation Authority of New Zealand",
-   "advertiser": "Civil Aviation Authority of New Zealand",
-   "location": "Wellington, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482193648/",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:28:39.669610+00:00",
-    "legal_name": "Civil Aviation Authority of New Zealand",
-    "nzbn": "9429041904244",
-    "expiry": "2028-10-09"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job description:\n\n At the Civil Aviation Authority, we don\u2019t just keep New Zealand\u2019s skies safe and secure, we help shape the future of aviation. \n \u00a0\n Drive digital improvements across a complex organisation\n Influence decisions through insight, analysis and collaboration\n Join a team delivering meaningful change for New Zealand\n \u00a0\n About the Role \n As a Business Analyst within our Digital Analysi",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "business",
-      "requirements",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95420983",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Te Runanga o Toa Rangatira",
-   "advertiser": "Te Runanga o Toa Rangatira Inc",
-   "location": "Porirua, Wellington",
-   "url": "https://www.seek.co.nz/job/95420983",
-   "posted_at": "2026-10-22T00:35:58Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Shape meaningful change that creates lasting impact.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:27:44.216436+00:00",
-    "legal_name": "TE RUNANGA O TOA RANGATIRA INCORPORATED",
-    "nzbn": "9429042850960",
-    "expiry": "2026-12-18"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "BUSINESS ANALYST \u2013 PROJECT & PORTFOLIO \n M\u0101tanga Pakihi \n Permanent Opportunity | Porirua \n Successful change starts with understanding people, processes, and outcomes.\n We're looking for an experienced and pragmatic Business Analyst \u2013 Project & Portfolio to help Te R\u016bnanga o Toa Rangatira deliver strategic initiatives, organisational improvements, and transformational change. This is the opportun",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "business",
-      "consulting",
-      "data",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95421501",
-   "source": "Seek",
-   "title": "Business Analyst, Kapua",
-   "company": "Civil Aviation Authority",
-   "advertiser": "Civil Aviation Authority",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/95421501",
-   "posted_at": "2026-10-22T00:55:19Z",
-   "work_type": "Full time",
-   "salary": "$98,689 - $120,941",
-   "teaser": "At the Civil Aviation Authority, we don't just keep New Zealand's skies safe and secure, we help shape the future of aviation. Drive digital improvements across a complex organisation Influence decisions through insight, analysis and collaboration Join a team delivering meaningful change for New Zealand",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:27:41.970108+00:00",
-    "legal_name": "Civil Aviation Authority of New Zealand",
-    "nzbn": "9429041904244",
-    "expiry": "2028-10-09"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "At the Civil Aviation Authority, we don't just keep New Zealand's skies safe and secure, we help shape the future of aviation. \n \n Drive digital improvements across a complex organisation\n Influence decisions through insight, analysis and collaboration\n Join a team delivering meaningful change for New Zealand\n \n About the Role \n As a Business Analyst within our Digital Analysis and Architecture te",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "business",
-      "requirements",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95427070",
-   "source": "Seek",
-   "title": "Technical Business Analyst",
-   "company": "Ministry of Social Development NZ",
-   "advertiser": "Ministry of Social Development",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95427070",
-   "posted_at": "2026-10-22T03:26:03Z",
-   "work_type": "Full time",
-   "salary": "$103,846 - $125,998",
-   "teaser": "Contribute to important initiatives that improve systems, processes, and services for New Zealanders. Work alongside technical experts and stakeholders to solve problems Help improve the technology behind essential public services Collaborate with people from a range of disciplines",
-   "seek_class": [
-    "6281",
-    "1210"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:27:22.104955+00:00",
-    "legal_name": "Ministry of Social Development",
-    "nzbn": "9429000062299",
-    "expiry": "2028-07-03"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Work alongside technical experts and stakeholders to solve problems, shape effective solutions, and see your analysis translate into real outcomes \n Help improve the technology behind essential public services, where the quality of the solutions makes a real difference to New Zealanders \n Collaborate with people from a range of disciplines and backgrounds, sharing knowledge and tackling complex ch",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "methods",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 90,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 90,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4453254925",
    "source": "LinkedIn",
    "title": "Forward Deployed Engineer",
@@ -3225,6 +3016,162 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4482193648",
+   "source": "LinkedIn",
+   "title": "Business Analyst, Kapua",
+   "company": "Civil Aviation Authority of New Zealand",
+   "advertiser": "Civil Aviation Authority of New Zealand",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482193648/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:28:39.669610+00:00",
+    "legal_name": "Civil Aviation Authority of New Zealand",
+    "nzbn": "9429041904244",
+    "expiry": "2028-10-09"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job description:\n\n At the Civil Aviation Authority, we don\u2019t just keep New Zealand\u2019s skies safe and secure, we help shape the future of aviation. \n \u00a0\n Drive digital improvements across a complex organisation\n Influence decisions through insight, analysis and collaboration\n Join a team delivering meaningful change for New Zealand\n \u00a0\n About the Role \n As a Business Analyst within our Digital Analysi",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "business",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95420983",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Te Runanga o Toa Rangatira",
+   "advertiser": "Te Runanga o Toa Rangatira Inc",
+   "location": "Porirua, Wellington",
+   "url": "https://www.seek.co.nz/job/95420983",
+   "posted_at": "2026-10-22T00:35:58Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Shape meaningful change that creates lasting impact.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:27:44.216436+00:00",
+    "legal_name": "TE RUNANGA O TOA RANGATIRA INCORPORATED",
+    "nzbn": "9429042850960",
+    "expiry": "2026-12-18"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "BUSINESS ANALYST \u2013 PROJECT & PORTFOLIO \n M\u0101tanga Pakihi \n Permanent Opportunity | Porirua \n Successful change starts with understanding people, processes, and outcomes.\n We're looking for an experienced and pragmatic Business Analyst \u2013 Project & Portfolio to help Te R\u016bnanga o Toa Rangatira deliver strategic initiatives, organisational improvements, and transformational change. This is the opportun",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "consulting",
+      "data",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95421501",
+   "source": "Seek",
+   "title": "Business Analyst, Kapua",
+   "company": "Civil Aviation Authority",
+   "advertiser": "Civil Aviation Authority",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95421501",
+   "posted_at": "2026-10-22T00:55:19Z",
+   "work_type": "Full time",
+   "salary": "$98,689 - $120,941",
+   "teaser": "At the Civil Aviation Authority, we don't just keep New Zealand's skies safe and secure, we help shape the future of aviation. Drive digital improvements across a complex organisation Influence decisions through insight, analysis and collaboration Join a team delivering meaningful change for New Zealand",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:27:41.970108+00:00",
+    "legal_name": "Civil Aviation Authority of New Zealand",
+    "nzbn": "9429041904244",
+    "expiry": "2028-10-09"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At the Civil Aviation Authority, we don't just keep New Zealand's skies safe and secure, we help shape the future of aviation. \n \n Drive digital improvements across a complex organisation\n Influence decisions through insight, analysis and collaboration\n Join a team delivering meaningful change for New Zealand\n \n About the Role \n As a Business Analyst within our Digital Analysis and Architecture te",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "business",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4451905715",
    "source": "LinkedIn",
    "title": "Senior Product Manager 1",
@@ -4067,52 +4014,51 @@
    "tier": "A"
   },
   {
-   "id": "seek:95426164",
+   "id": "seek:95427070",
    "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Hato Hone St John",
-   "advertiser": "Hato Hone St John",
-   "location": "Mount Wellington, Auckland",
-   "url": "https://www.seek.co.nz/job/95426164",
-   "posted_at": "2026-10-22T03:06:47Z",
-   "work_type": "Contract/Temp",
-   "salary": "Salary plus KS up to 4%",
-   "teaser": "Interface between technical & fundraising team, gathering and aligning requirements for new fundraising platform. 10m contract, mix of office & WFH Impactful & hands-on role supporting important fundraising platform integration Enjoy mix of office and WFH Engage with multiple teams, building relationships org-wide",
+   "title": "Technical Business Analyst",
+   "company": "Ministry of Social Development NZ",
+   "advertiser": "Ministry of Social Development",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95427070",
+   "posted_at": "2026-10-22T03:26:03Z",
+   "work_type": "Full time",
+   "salary": "$103,846 - $125,998",
+   "teaser": "Contribute to important initiatives that improve systems, processes, and services for New Zealanders. Work alongside technical experts and stakeholders to solve problems Help improve the technology behind essential public services Collaborate with people from a range of disciplines",
    "seek_class": [
-    "6281"
+    "6281",
+    "1210"
    ],
    "first_seen": "2026-10-23T07:17:33+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-10-21T15:00:45.182412+00:00",
-    "expiry": "2028-09-04",
-    "legal_name": "THE PRIORY IN NEW ZEALAND OF THE MOST VENERABLE ORDER OF THE HOSPITAL OF ST JOHN OF JERUSALEM",
-    "nzbn": "9429043031801",
-    "status": "accredited"
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:27:22.104955+00:00",
+    "legal_name": "Ministry of Social Development",
+    "nzbn": "9429000062299",
+    "expiry": "2028-07-03"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Company Description \n\n Ko wai m\u0101tou\u00a0- About us: \n Hato Hone St John has been serving New Zealanders since 1885. Today, our 11,000-strong team of kaimahi and volunteers work across Aotearoa to enhance the health and wellbeing of our communities. From responding to 111 calls to supporting people to stay healthy through our mahi in health education, access, and monitoring, we are making life-changing",
+   "summary": "Work alongside technical experts and stakeholders to solve problems, shape effective solutions, and see your analysis translate into real outcomes \n Help improve the technology behind essential public services, where the quality of the solutions makes a real difference to New Zealanders \n Collaborate with people from a range of disciplines and backgrounds, sharing knowledge and tackling complex ch",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
-      "cloud",
-      "data",
-      "enterprise",
+      "agile",
+      "methods",
       "requirements",
-      "stakeholders",
-      "vendors"
+      "risk",
+      "stakeholders"
      ],
      "route": "aewv",
      "score": 80,
      "tier": "A",
      "reasons": [
-      "accredited employer",
-      "contract: needs to be an employee offer"
+      "accredited employer"
      ]
     }
    },
@@ -5993,58 +5939,57 @@
    "tier": "A"
   },
   {
-   "id": "seek:95419211",
+   "id": "seek:95426164",
    "source": "Seek",
-   "title": "Cloud Security Specialist",
-   "company": "Bastion Security Group",
-   "advertiser": "Bastion Security Group",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95419211",
-   "posted_at": "2026-10-21T23:03:15Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "\u2018cloudies\u2019 and cloud security specialists check out Bastion! Fast-paced, varied consulting role, with an exciting range of clients across NZ and afar Advise our clients on how to improve their cloud security posture Surround yourself with some of the best cyber security minds in New Zealand Further develop your technical and consulting skills",
+   "title": "Business Analyst",
+   "company": "Hato Hone St John",
+   "advertiser": "Hato Hone St John",
+   "location": "Mount Wellington, Auckland",
+   "url": "https://www.seek.co.nz/job/95426164",
+   "posted_at": "2026-10-22T03:06:47Z",
+   "work_type": "Contract/Temp",
+   "salary": "Salary plus KS up to 4%",
+   "teaser": "Interface between technical & fundraising team, gathering and aligning requirements for new fundraising platform. 10m contract, mix of office & WFH Impactful & hands-on role supporting important fundraising platform integration Enjoy mix of office and WFH Engage with multiple teams, building relationships org-wide",
    "seek_class": [
     "6281"
    ],
-   "first_seen": "2026-10-22T06:46:08+00:00",
+   "first_seen": "2026-10-23T07:17:33+00:00",
    "needs_detail": false,
    "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-22T06:50:38.435249+00:00",
-    "legal_name": "BASTION SECURITY GROUP LIMITED",
-    "nzbn": "9429051214081",
-    "expiry": "2028-10-08"
+    "checked_at": "2026-10-21T15:00:45.182412+00:00",
+    "expiry": "2028-09-04",
+    "legal_name": "THE PRIORY IN NEW ZEALAND OF THE MOST VENERABLE ORDER OF THE HOSPITAL OF ST JOHN OF JERUSALEM",
+    "nzbn": "9429043031801",
+    "status": "accredited"
    },
    "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Wants candidates already in NZ",
-     "quote": "\u2026njoys engaging with clients and consistently delivers exceptional value. Ideally, you are already based in New Zealand, with a permanent right to work or a valid work visa.  Someone supportive and collaborati\u2026"
-    }
-   ],
+   "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Advise our clients on how to improve their cloud security posture\n\n Surround yourself with some of the best cyber security minds in New Zealand\n\n Further develop your technical and consulting skills\n\n \n\n Calling for \u2018cloudies\u2019 and cloud security specialists to check out Bastion Security Group!\n Our Offensive Security Services (OSS) team is integral to the successful running of our busy cybersecuri",
+   "summary": "Company Description \n\n Ko wai m\u0101tou\u00a0- About us: \n Hato Hone St John has been serving New Zealanders since 1885. Today, our 11,000-strong team of kaimahi and volunteers work across Aotearoa to enhance the health and wellbeing of our communities. From responding to 111 calls to supporting people to stay healthy through our mahi in health education, access, and monitoring, we are making life-changing",
    "for": {
-    "abhishek": {
+    "wife": {
      "fit": "core",
      "skills": [
-      "aws",
-      "docker",
-      "sre"
+      "cloud",
+      "data",
+      "enterprise",
+      "requirements",
+      "stakeholders",
+      "vendors"
      ],
-     "route": "iswv",
-     "score": 69,
+     "route": "aewv",
+     "score": 70,
      "tier": "A",
      "reasons": [
-      "accredited employer"
+      "accredited employer",
+      "contract: needs to be an employee offer"
      ]
     }
    },
-   "visa_ready": false,
-   "score": 69,
+   "visa_ready": true,
+   "score": 70,
    "tier": "A"
   },
   {
@@ -6161,56 +6106,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95423477",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "RWA People",
-   "advertiser": "RWA People",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/95423477",
-   "posted_at": "2026-10-22T01:57:02Z",
-   "work_type": "Contract/Temp",
-   "salary": "$800 per day + GST",
-   "teaser": "Join a major enterprise transformation programme, using your business analysis and process mapping expertise to drive successful delivery. 6-Month Contract + Up to $800 Per Day Process Mapping + Business Analysis + Enterprise Transformation Hybrid Auckland - 3 Days in the Office - Immediate Start",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:26:37.531128+00:00",
-    "expiry": "2026-11-20",
-    "legal_name": "RWA PEOPLE LIMITED",
-    "nzbn": "9429033198132",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the Role \nWe're looking for an experienced Business Analyst to join a large enterprise organisation delivering a high-priority transformation programme.\n\n This is a hands-on BA role with a strong focus on business process analysis, process mapping and documentation. You'll work closely with an experienced Senior Business Analyst and wider delivery teams to understand current processes, ident",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 68,
-     "tier": "A",
-     "reasons": [
-      "accredited employer",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 68,
-   "tier": "A"
   },
   {
    "id": "seek:95191333",
@@ -7196,6 +7091,61 @@
    }
   },
   {
+   "id": "seek:95419211",
+   "source": "Seek",
+   "title": "Cloud Security Specialist",
+   "company": "Bastion Security Group",
+   "advertiser": "Bastion Security Group",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95419211",
+   "posted_at": "2026-10-21T23:03:15Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "\u2018cloudies\u2019 and cloud security specialists check out Bastion! Fast-paced, varied consulting role, with an exciting range of clients across NZ and afar Advise our clients on how to improve their cloud security posture Surround yourself with some of the best cyber security minds in New Zealand Further develop your technical and consulting skills",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-22T06:50:38.435249+00:00",
+    "legal_name": "BASTION SECURITY GROUP LIMITED",
+    "nzbn": "9429051214081",
+    "expiry": "2028-10-08"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026njoys engaging with clients and consistently delivers exceptional value. Ideally, you are already based in New Zealand, with a permanent right to work or a valid work visa.  Someone supportive and collaborati\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Advise our clients on how to improve their cloud security posture\n\n Surround yourself with some of the best cyber security minds in New Zealand\n\n Further develop your technical and consulting skills\n\n \n\n Calling for \u2018cloudies\u2019 and cloud security specialists to check out Bastion Security Group!\n Our Offensive Security Services (OSS) team is integral to the successful running of our busy cybersecuri",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "docker",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 59,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 59,
+   "tier": "B"
+  },
+  {
    "id": "seek:95221959",
    "source": "Seek",
    "title": "Sr. Program Lead and IX Support",
@@ -7233,6 +7183,56 @@
       "stakeholders"
      ],
      "route": "iswv",
+     "score": 58,
+     "tier": "B",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 58,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95423477",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland",
+   "url": "https://www.seek.co.nz/job/95423477",
+   "posted_at": "2026-10-22T01:57:02Z",
+   "work_type": "Contract/Temp",
+   "salary": "$800 per day + GST",
+   "teaser": "Join a major enterprise transformation programme, using your business analysis and process mapping expertise to drive successful delivery. 6-Month Contract + Up to $800 Per Day Process Mapping + Business Analysis + Enterprise Transformation Hybrid Auckland - 3 Days in the Office - Immediate Start",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:26:37.531128+00:00",
+    "expiry": "2026-11-20",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the Role \nWe're looking for an experienced Business Analyst to join a large enterprise organisation delivering a high-priority transformation programme.\n\n This is a hands-on BA role with a strong focus on business process analysis, process mapping and documentation. You'll work closely with an experienced Senior Business Analyst and wider delivery teams to understand current processes, ident",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
      "score": 58,
      "tier": "B",
      "reasons": [
@@ -7663,60 +7663,6 @@
      "reasons": [
       "accredited employer",
       "part time: the visa needs 30h+ a week"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 54,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95418034",
-   "source": "Seek",
-   "title": "Service Delivery Manager - Data",
-   "company": "ICM Asia Pacific",
-   "advertiser": "Adaptiv Integration",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95418034",
-   "posted_at": "2026-10-21T21:04:21Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead data and technology projects, build client relationships and coordinate delivery teams at Adaptiv. Auckland-based with hybrid working Own client delivery across data, cloud and integration projects. Work alongside experienced architects, engineers and consultants. Help shape delivery practices as Adaptiv\u2019s Data Practice grows.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T06:46:08+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T06:50:39.561090+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Join Adaptiv\u2019s Data Practice \n\n At Adaptiv, we help enterprise organisations across Australia and New Zealand connect systems, modernise technology and unlock the value of their data.\n\n We\u2019re looking for a Service Delivery Manager (Data) who enjoys working with clients and technical teams to deliver agreed outcomes.\n\n Why join Adaptiv? \n\n You\u2019ll work alongside experienced consultants, architects a",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "cloud",
-      "consulting",
-      "data",
-      "methods",
-      "requirements",
-      "risk",
-      "tools",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
      ]
     }
    },
@@ -8440,57 +8386,6 @@
    }
   },
   {
-   "id": "seek:95423878",
-   "source": "Seek",
-   "title": "Senior Business Analyst",
-   "company": "OSPRI",
-   "advertiser": "OSPRI",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95423878",
-   "posted_at": "2026-10-22T02:09:07Z",
-   "work_type": "Full time",
-   "salary": "Salary midpoint $129,316",
-   "teaser": "Drive transformative projects at OSPRI as a Senior Business Analyst. Two 18 month fixed-term positions Hybrid work with supportive team Competitive salary + OSPRI days and other benefits",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:27:28.703863+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Ko wai m\u0101tou \u2013 About us \nAt OSPRI, our work is guided by strong values and a clear purpose. We exist to strengthen and protect New Zealand\u2019s livestock industries through excellence in disease management and traceability \u2014 supporting farmers, communities and the primary sector to thrive.\nOur values shape how we work every day:\n\u2022 \u00a0 \u00a0\u0100rahina e te Aronga | Purpose Led \u2013 we stay focused on what matters",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "data",
-      "product",
-      "requirements",
-      "sdlc",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 51,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 51,
-   "tier": "B"
-  },
-  {
    "id": "seek:95450107",
    "source": "Seek",
    "title": "Business Analyst",
@@ -8959,114 +8854,6 @@
    },
    "visa_ready": false,
    "score": 49,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4481325301",
-   "source": "LinkedIn",
-   "title": "Senior Technical Trainer \u2014 AI / DevOps",
-   "company": "Jobgether",
-   "advertiser": "Jobgether",
-   "location": "New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4481325301/",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-22T12:27:24+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T12:31:55.168153+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Trainer \u2014 AI / DevOps based in New Zealand.\n\n As a Senior Technical Trainer, you will combine hands-on DevOps expertise with a passion for teaching to develop practical, engaging courses on AI-powered engineering workflows. You will help engineers under",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ai",
-      "aws",
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "linux"
-     ],
-     "route": "iswv",
-     "score": 48,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 48,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95425369",
-   "source": "Seek",
-   "title": "Technical Business Analyst",
-   "company": "New Zealand Trade and Enterprise",
-   "advertiser": "New Zealand Trade & Enterprise",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95425369",
-   "posted_at": "2026-10-22T02:47:02Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Be the specialist for translating business needs, as it relates to our Customer Way operating model, into clear process, system & data requirements. Hybrid work arrangement Work for a truly global organisation",
-   "seek_class": [
-    "6281",
-    "1210"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95425308"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4481183880/"
-    }
-   ],
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:27:15.397734+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "This role can be based in any of our NZ NZTE offices. \n \n\n Who are we \n At New Zealand Trade and Enterprise (NZTE), our purpose is to grow companies internationally - bigger, better and faster - for the good of New Zealand.\n We\u2019re looking for an experienced Technical Business Analyst to strengthen the systems, processes and customer data that support New Zealand businesses to grow internationally.",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "data",
-      "enterprise",
-      "requirements",
-      "risk",
-      "sdlc",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 48,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 48,
    "tier": "B"
   },
   {
@@ -9735,55 +9522,6 @@
    },
    "visa_ready": false,
    "score": 46,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95425758",
-   "source": "Seek",
-   "title": "Senior Data Platform Engineer",
-   "company": "DOT loves data",
-   "advertiser": "Dot Loves Data",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95425758",
-   "posted_at": "2026-10-22T02:57:59Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Senior Data Platform Engineer building robust, scalable & elegant data systems from Wellington",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T06:46:08+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T06:50:37.256326+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Make your mark from day Dot. We\u2019re hiring a Senior Data Platform Engineer to shape the platforms behind our products and insights. \n About the role \n This is a Wellington-based role on the Dot Platform Team. As a Senior Data Platform Engineer you'll play a key role in delivering our mission by building and running robust, scalable and elegant data systems that embody our philosophy of simple, smar",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "aws",
-      "jenkins",
-      "observability",
-      "python",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 45,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 45,
    "tier": "B"
   },
   {
@@ -11009,6 +10747,60 @@
    "tier": "B"
   },
   {
+   "id": "seek:95418034",
+   "source": "Seek",
+   "title": "Service Delivery Manager - Data",
+   "company": "ICM Asia Pacific",
+   "advertiser": "Adaptiv Integration",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95418034",
+   "posted_at": "2026-10-21T21:04:21Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead data and technology projects, build client relationships and coordinate delivery teams at Adaptiv. Auckland-based with hybrid working Own client delivery across data, cloud and integration projects. Work alongside experienced architects, engineers and consultants. Help shape delivery practices as Adaptiv\u2019s Data Practice grows.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:39.561090+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Join Adaptiv\u2019s Data Practice \n\n At Adaptiv, we help enterprise organisations across Australia and New Zealand connect systems, modernise technology and unlock the value of their data.\n\n We\u2019re looking for a Service Delivery Manager (Data) who enjoys working with clients and technical teams to deliver agreed outcomes.\n\n Why join Adaptiv? \n\n You\u2019ll work alongside experienced consultants, architects a",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "consulting",
+      "data",
+      "methods",
+      "requirements",
+      "risk",
+      "tools",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "B"
+  },
+  {
    "id": "seek:94990429",
    "source": "Seek",
    "title": "Senior Technical Business Analyst",
@@ -11226,96 +11018,6 @@
    },
    "visa_ready": false,
    "score": 43,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4480064926",
-   "source": "LinkedIn",
-   "title": "DevOps Engineer (AI Training)",
-   "company": "DataAnnotation",
-   "advertiser": "DataAnnotation",
-   "location": "New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4480064926/",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-22T20:42:54+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T20:47:02.485809+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Overview\n\n A model will hand you a pipeline and an infrastructure change that apply cleanly and quietly leave a security group open to the world, a state file that will corrupt on the next run, and a rollback path that does not exist. In production those mistakes page someone at 3am. Reasoning about the whole system is the job.\n\nAs a DevOps Engineer you'll evaluate how models handle CI/CD, infrast",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4481618526",
-   "source": "LinkedIn",
-   "title": "Product Manager",
-   "company": "The Access Group",
-   "advertiser": "The Access Group",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4481618526/",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:28:19.547116+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We\u2019re looking for people to join the Access family, who share our passion for believing in better, and who will help us continue to grow. \n \n Love Work. Love Life. Be You. - is central to our success and how we give our customers the freedom to do more of what's important to them. \n \n What does Access offer you?\u202f \n \n We offer a blended approach to office working, encouraging you to collaborate and",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "business",
-      "cloud",
-      "data",
-      "product"
-     ],
-     "route": "aewv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
    "tier": "B"
   },
   {
@@ -12272,6 +11974,57 @@
    "tier": "B"
   },
   {
+   "id": "seek:95423878",
+   "source": "Seek",
+   "title": "Senior Business Analyst",
+   "company": "OSPRI",
+   "advertiser": "OSPRI",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95423878",
+   "posted_at": "2026-10-22T02:09:07Z",
+   "work_type": "Full time",
+   "salary": "Salary midpoint $129,316",
+   "teaser": "Drive transformative projects at OSPRI as a Senior Business Analyst. Two 18 month fixed-term positions Hybrid work with supportive team Competitive salary + OSPRI days and other benefits",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:27:28.703863+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Ko wai m\u0101tou \u2013 About us \nAt OSPRI, our work is guided by strong values and a clear purpose. We exist to strengthen and protect New Zealand\u2019s livestock industries through excellence in disease management and traceability \u2014 supporting farmers, communities and the primary sector to thrive.\nOur values shape how we work every day:\n\u2022 \u00a0 \u00a0\u0100rahina e te Aronga | Purpose Led \u2013 we stay focused on what matters",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "product",
+      "requirements",
+      "sdlc",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
    "id": "linkedin:4480612060",
    "source": "LinkedIn",
    "title": "Security Consultant -DevOps",
@@ -13220,6 +12973,114 @@
    }
   },
   {
+   "id": "linkedin:4481325301",
+   "source": "LinkedIn",
+   "title": "Senior Technical Trainer \u2014 AI / DevOps",
+   "company": "Jobgether",
+   "advertiser": "Jobgether",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481325301/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T12:27:24+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T12:31:55.168153+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Technical Trainer \u2014 AI / DevOps based in New Zealand.\n\n As a Senior Technical Trainer, you will combine hands-on DevOps expertise with a passion for teaching to develop practical, engaging courses on AI-powered engineering workflows. You will help engineers under",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "linux"
+     ],
+     "route": "iswv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95425369",
+   "source": "Seek",
+   "title": "Technical Business Analyst",
+   "company": "New Zealand Trade and Enterprise",
+   "advertiser": "New Zealand Trade & Enterprise",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95425369",
+   "posted_at": "2026-10-22T02:47:02Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Be the specialist for translating business needs, as it relates to our Customer Way operating model, into clear process, system & data requirements. Hybrid work arrangement Work for a truly global organisation",
+   "seek_class": [
+    "6281",
+    "1210"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95425308"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4481183880/"
+    }
+   ],
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:27:15.397734+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This role can be based in any of our NZ NZTE offices. \n \n\n Who are we \n At New Zealand Trade and Enterprise (NZTE), our purpose is to grow companies internationally - bigger, better and faster - for the good of New Zealand.\n We\u2019re looking for an experienced Technical Business Analyst to strengthen the systems, processes and customer data that support New Zealand businesses to grow internationally.",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "enterprise",
+      "requirements",
+      "risk",
+      "sdlc",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:94850159",
    "source": "Seek",
    "title": "Integration Project Manager",
@@ -14118,6 +13979,55 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 35,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 35,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95425758",
+   "source": "Seek",
+   "title": "Senior Data Platform Engineer",
+   "company": "DOT loves data",
+   "advertiser": "Dot Loves Data",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95425758",
+   "posted_at": "2026-10-22T02:57:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Senior Data Platform Engineer building robust, scalable & elegant data systems from Wellington",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:37.256326+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Make your mark from day Dot. We\u2019re hiring a Senior Data Platform Engineer to shape the platforms behind our products and insights. \n About the role \n This is a Wellington-based role on the Dot Platform Team. As a Senior Data Platform Engineer you'll play a key role in delivering our mission by building and running robust, scalable and elegant data systems that embody our philosophy of simple, smar",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "jenkins",
+      "observability",
+      "python",
+      "sre"
+     ],
+     "route": "iswv",
      "score": 35,
      "tier": "B",
      "reasons": [
@@ -15035,6 +14945,96 @@
       "stakeholders"
      ],
      "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4480064926",
+   "source": "LinkedIn",
+   "title": "DevOps Engineer (AI Training)",
+   "company": "DataAnnotation",
+   "advertiser": "DataAnnotation",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480064926/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-22T20:42:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T20:47:02.485809+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Overview\n\n A model will hand you a pipeline and an infrastructure change that apply cleanly and quietly leave a security group open to the world, a state file that will corrupt on the next run, and a rollback path that does not exist. In production those mistakes page someone at 3am. Reasoning about the whole system is the job.\n\nAs a DevOps Engineer you'll evaluate how models handle CI/CD, infrast",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4481618526",
+   "source": "LinkedIn",
+   "title": "Product Manager",
+   "company": "The Access Group",
+   "advertiser": "The Access Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481618526/",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:28:19.547116+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for people to join the Access family, who share our passion for believing in better, and who will help us continue to grow. \n \n Love Work. Love Life. Be You. - is central to our success and how we give our customers the freedom to do more of what's important to them. \n \n What does Access offer you?\u202f \n \n We offer a blended approach to office working, encouraging you to collaborate and",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "cloud",
+      "data",
+      "product"
+     ],
+     "route": "aewv",
      "score": 32,
      "tier": "C",
      "reasons": [
@@ -17586,51 +17586,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95417532",
-   "source": "Seek",
-   "title": "IT Systems Engineer - Technician",
-   "company": "Qube Holdings",
-   "advertiser": "Qube Ports NZ",
-   "location": "Mount Maunganui, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95417532",
-   "posted_at": "2026-10-21T20:02:14Z",
-   "work_type": "Full time",
-   "salary": "Competitive remuneration + Health Insurance",
-   "teaser": "System Engineer wanted to support cloud, infrastructure, and OT systems across a large national business. Work for one of Australasia's leading providers of integrated logistics Supportive, collaborative team environment across NZ & AU Exposure to modern infrastructure, cloud, and enterprise systems",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-22T06:46:08+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-22T06:50:41.868176+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "What's on offer:\n\n \n Competitive remuneration package\n\n Supportive, collaborative team environment across NZ & AU\n\n Exposure to modern infrastructure, cloud, and enterprise systems\n\n Career progression within a large, nationwide organisation\n\n \n About the Role\n\n We're looking for an experienced IT Systems Engineer - Technician to join our Platform Services team based in Tauranga.\n\n This role is id",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 18,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 18,
-   "tier": "C"
-  },
-  {
    "id": "seek:95429689",
    "source": "Seek",
    "title": "Systems Engineer",
@@ -18768,6 +18723,51 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95417532",
+   "source": "Seek",
+   "title": "IT Systems Engineer - Technician",
+   "company": "Qube Holdings",
+   "advertiser": "Qube Ports NZ",
+   "location": "Mount Maunganui, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95417532",
+   "posted_at": "2026-10-21T20:02:14Z",
+   "work_type": "Full time",
+   "salary": "Competitive remuneration + Health Insurance",
+   "teaser": "System Engineer wanted to support cloud, infrastructure, and OT systems across a large national business. Work for one of Australasia's leading providers of integrated logistics Supportive, collaborative team environment across NZ & AU Exposure to modern infrastructure, cloud, and enterprise systems",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-22T06:46:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-22T06:50:41.868176+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "What's on offer:\n\n \n Competitive remuneration package\n\n Supportive, collaborative team environment across NZ & AU\n\n Exposure to modern infrastructure, cloud, and enterprise systems\n\n Career progression within a large, nationwide organisation\n\n \n About the Role\n\n We're looking for an experienced IT Systems Engineer - Technician to join our Platform Services team based in Tauranga.\n\n This role is id",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
   },
   {
    "id": "seek:94819505",
