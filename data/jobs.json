@@ -8857,51 +8857,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95444021",
-   "source": "Seek",
-   "title": "Senior DevOps Engineer - Remote",
-   "company": "Talent Army",
-   "advertiser": "Talent Army \u2013 Winner of Medium Recruitment Agency of the Year 2025",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/95444021",
-   "posted_at": "2026-10-22T18:07:59Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join a fast growing startup and help build a scalable, reliable platform for global growth. Hands-on role with genuine ownership and influence Join a well-funded, high-growth SaaS scale-up expanding internationally Remote role (NZ based)",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-22T20:42:54+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T15:01:11.854033+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Our client is a fast-growing SaaS company expanding across international markets. They're entering an exciting phase of growth, and are investing heavily in their technology, infrastructure and engineering capabilities.\n \n About the Role\n \nWe're looking for a Senior DevOps Engineer to build infrastructure that supports continued global growth.\n \nThis is a predominantly hands-on role that also requ",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "jenkins"
-     ],
-     "route": "iswv",
-     "score": 48,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 48,
-   "tier": "B"
-  },
-  {
    "id": "seek:94825196",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -13073,6 +13028,51 @@
      "tier": "B",
      "reasons": [
       "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95444021",
+   "source": "Seek",
+   "title": "Senior DevOps Engineer - Remote",
+   "company": "Talent Army",
+   "advertiser": "Talent Army \u2013 Winner of Medium Recruitment Agency of the Year 2025",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95444021",
+   "posted_at": "2026-10-22T18:07:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join a fast growing startup and help build a scalable, reliable platform for global growth. Hands-on role with genuine ownership and influence Join a well-funded, high-growth SaaS scale-up expanding internationally Remote role (NZ based)",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-22T20:42:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:11.854033+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Our client is a fast-growing SaaS company expanding across international markets. They're entering an exciting phase of growth, and are investing heavily in their technology, infrastructure and engineering capabilities.\n \n About the Role\n \nWe're looking for a Senior DevOps Engineer to build infrastructure that supports continued global growth.\n \nThis is a predominantly hands-on role that also requ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins"
+     ],
+     "route": "iswv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
      ]
     }
    },
