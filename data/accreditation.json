@@ -1498,6 +1498,10 @@
   "nzbn": "9429039215109",
   "status": "accredited"
  },
+ "veolia": {
+  "checked_at": "2026-10-25T04:42:27.198061+00:00",
+  "status": "not_listed"
+ },
  "verkada": {
   "checked_at": "2026-10-21T14:37:50.817753+00:00",
   "status": "not_listed"

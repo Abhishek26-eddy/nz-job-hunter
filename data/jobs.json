@@ -4129,64 +4129,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95454564",
-   "source": "Seek",
-   "title": "Project Manager, Dynamics 365 CRM Implementation",
-   "company": "World Vision",
-   "advertiser": "World Vision NZ",
-   "location": "Penrose, Auckland",
-   "url": "https://www.seek.co.nz/job/95454564",
-   "posted_at": "2026-10-23T03:31:13Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead our Dynamics 365 CRM delivery from design to go-live and adoption. Fixed-term, 12 months+. Help make a difference for children. Creating positive change in the lives of the world's most vulnerable children. Using CRM delivery and data migration skills to build a system our teams trust. Working with an AI-enabled partner on a new CRM to help teams support children.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:03:56+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:10:54.049669+00:00",
-    "legal_name": "WORLD VISION OF NEW ZEALAND TRUST BOARD",
-    "nzbn": "9429042923046",
-    "expiry": "2028-02-02"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u20267.5 hours per week  \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hybrid work  Eligibility   To be eligible for this role you must have current entitlement to work in New Zealand.  Apply Now   We welcome applications from anyone who wants to seek justic\u2026"
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "It\u2019s not every day that a job comes along where you really can change the world. Keep reading if you want to be part of:\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Creating positive change in the lives of the world's most vulnerable children .\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Using your CRM delivery and data migration skills to help our teams work in a system they trust.\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Working with a fast-paced, AI-enabled partner team on a new CRM that ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "cloud",
-      "data",
-      "enterprise",
-      "product",
-      "risk"
-     ],
-     "route": "iswv",
-     "score": 78,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 78,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4457320155",
    "source": "LinkedIn",
    "title": "Technical Business Analyst",
@@ -6108,6 +6050,64 @@
    }
   },
   {
+   "id": "seek:95454564",
+   "source": "Seek",
+   "title": "Project Manager, Dynamics 365 CRM Implementation",
+   "company": "World Vision",
+   "advertiser": "World Vision NZ",
+   "location": "Penrose, Auckland",
+   "url": "https://www.seek.co.nz/job/95454564",
+   "posted_at": "2026-10-23T03:31:13Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead our Dynamics 365 CRM delivery from design to go-live and adoption. Fixed-term, 12 months+. Help make a difference for children. Creating positive change in the lives of the world's most vulnerable children. Using CRM delivery and data migration skills to build a system our teams trust. Working with an AI-enabled partner on a new CRM to help teams support children.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T07:10:54.049669+00:00",
+    "legal_name": "WORLD VISION OF NEW ZEALAND TRUST BOARD",
+    "nzbn": "9429042923046",
+    "expiry": "2028-02-02"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u20267.5 hours per week  \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hybrid work  Eligibility   To be eligible for this role you must have current entitlement to work in New Zealand.  Apply Now   We welcome applications from anyone who wants to seek justic\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "It\u2019s not every day that a job comes along where you really can change the world. Keep reading if you want to be part of:\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Creating positive change in the lives of the world's most vulnerable children .\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Using your CRM delivery and data migration skills to help our teams work in a system they trust.\n \u2022\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Working with a fast-paced, AI-enabled partner team on a new CRM that ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "enterprise",
+      "product",
+      "risk"
+     ],
+     "route": "iswv",
+     "score": 68,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 68,
+   "tier": "A"
+  },
+  {
    "id": "seek:95191333",
    "source": "Seek",
    "title": "AI Programme Lead",
@@ -6325,55 +6325,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95451265",
-   "source": "Seek",
-   "title": "Digital Solutions Engineer",
-   "company": "RWA People",
-   "advertiser": "RWA People",
-   "location": "Auckland Airport, Auckland",
-   "url": "https://www.seek.co.nz/job/95451265",
-   "posted_at": "2026-10-23T02:03:01Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Develop Node.js applications, build Power Platform solutions and explore AI opportunities with an established NZ business Work across Node.js, Power Platform, Microsoft Copilot and AI Own solutions from development through to deployment and support Established NZ business with great benefits and onsite parking",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:03:56+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:26:37.531128+00:00",
-    "expiry": "2026-11-20",
-    "legal_name": "RWA PEOPLE LIMITED",
-    "nzbn": "9429033198132",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "The magic combo - hands-on developer who enjoys working across traditional software engineering, Microsoft Power Platform and emerging AI technologies.\n We're looking for a versatile Digital Solutions Engineer to join an established New Zealand business investing in modernising its technology environment.\n This is an opportunity to work across a varied technology landscape, combining Node.js appli",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "jenkins"
-     ],
-     "route": "iswv",
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 66,
-   "tier": "A"
   },
   {
    "id": "seek:94812612",
@@ -7548,6 +7499,55 @@
    }
   },
   {
+   "id": "seek:95451265",
+   "source": "Seek",
+   "title": "Digital Solutions Engineer",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland Airport, Auckland",
+   "url": "https://www.seek.co.nz/job/95451265",
+   "posted_at": "2026-10-23T02:03:01Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Develop Node.js applications, build Power Platform solutions and explore AI opportunities with an established NZ business Work across Node.js, Power Platform, Microsoft Copilot and AI Own solutions from development through to deployment and support Established NZ business with great benefits and onsite parking",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:26:37.531128+00:00",
+    "expiry": "2026-11-20",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The magic combo - hands-on developer who enjoys working across traditional software engineering, Microsoft Power Platform and emerging AI technologies.\n We're looking for a versatile Digital Solutions Engineer to join an established New Zealand business investing in modernising its technology environment.\n This is an opportunity to work across a varied technology landscape, combining Node.js appli",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "jenkins"
+     ],
+     "route": "iswv",
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 56,
+   "tier": "B"
+  },
+  {
    "id": "seek:95160130",
    "source": "Seek",
    "title": "Principal Systems Engineer",
@@ -8386,58 +8386,6 @@
    }
   },
   {
-   "id": "seek:95450107",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Potentia",
-   "advertiser": "Potentia",
-   "location": "Otago",
-   "url": "https://www.seek.co.nz/job/95450107",
-   "posted_at": "2026-10-23T01:30:09Z",
-   "work_type": "Full time",
-   "salary": "$75,000 - $85,000 NZD per annum",
-   "teaser": "Exciting opportunity supporting a major banking transformation, focused on process mapping, SOPs, improving processes and stakeholder engagement. Relocate to Invercargill for this opportunity Major banking transformation programme Fixed-term to December 2027",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95449973"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-10-21T14:27:54.190670+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "The opportunity \nWe\u2019re looking for an early career Business Analyst to join a major banking transformation programme based full-time, on-site in Invercargill. Working within a technology and transformation environment, this role is focused on understanding and improving business processes, developing standard operating procedures (SOPs), work instructions, and user guides, and supporting gathering",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 51,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 51,
-   "tier": "B"
-  },
-  {
    "id": "seek:94784747",
    "source": "Seek",
    "title": "IT Systems Engineer",
@@ -8750,58 +8698,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95447963",
-   "source": "Seek",
-   "title": "Head of Reliability Engineering",
-   "company": "Open Country Dairy",
-   "advertiser": "Open Country Dairy",
-   "location": "East Tamaki, Auckland",
-   "url": "https://www.seek.co.nz/job/95447963",
-   "posted_at": "2026-10-23T00:09:11Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead reliability strategy, asset health governance and maintenance standards across Open Country\u2019s manufacturing sites.",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T02:01:36.620680+00:00",
-    "legal_name": "OPEN COUNTRY DAIRY LIMITED",
-    "nzbn": "9429033594316",
-    "expiry": "2027-01-23"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026eduction and maintenance excellence, apply now with your CV and cover letter.\u00a0 Applicants must have the legal right to work in New Zealand.  Applications close 22 November 2026 or on appointment."
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Senior enterprise-wide reliability leadership role across multi-site manufacturing operations.\n Drive downtime reduction, asset performance and long-term lifecycle value.\n Lead through influence across site-based maintenance and automation teams to lift reliability standards, capability and predictive maintenance initiatives.\n About the role \n As Head of Reliability Engineering, you will lead reli",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [],
-     "route": "iswv",
-     "score": 50,
-     "tier": "B",
-     "reasons": [
-      "accredited employer",
-      "title above current level"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 50,
-   "tier": "B"
   },
   {
    "id": "linkedin:4477342496",
@@ -9477,52 +9373,6 @@
    },
    "visa_ready": false,
    "score": 46,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4481684240",
-   "source": "LinkedIn",
-   "title": "Data Platform Engineer (Mid-level)",
-   "company": "Jobgether",
-   "advertiser": "Jobgether",
-   "location": "New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4481684240/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T11:39:50+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-22T12:31:55.168153+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Data Platform Engineer (Mid-level) based in New Zealand.\n\n In this role, you will help transform an established data and machine learning platform into a scalable, self-service environment that empowers engineering teams to work independently. You will build and impro",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ai",
-      "aws",
-      "docker",
-      "jenkins",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 45,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 45,
    "tier": "B"
   },
   {
@@ -10976,189 +10826,6 @@
    "tier": "B"
   },
   {
-   "id": "linkedin:4481657029",
-   "source": "LinkedIn",
-   "title": "Project Manager",
-   "company": "SecuritEase",
-   "advertiser": "SecuritEase",
-   "location": "Lower Hutt, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4481657029/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T07:03:56+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:10:56.884499+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We are seeking an experienced Project Manager to join our global technology team, delivering complex investment management software solutions across both internal projects and external client implementations.\n\n What You\u2019ll Do\n\n Plan, organise and manage the delivery of various internal projects and external client implementations \n Coordinate cross-functional teams including developers, business a",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "methods",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4482803426",
-   "source": "LinkedIn",
-   "title": "Azure Apps & AI Consultant",
-   "company": "Arinco",
-   "advertiser": "Arinco",
-   "location": "Wellington, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482803426/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:03.411101+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Arinco is the Artificial Intelligence Company helping organisations become AI-first. As a specialist Microsoft partner across Australia and New Zealand, and Microsoft\u2019s Australia Partner of the Year 2024, we combine Microsoft innovation, award-winning delivery and our Done Right\u2122 frameworks to take customers from secure cloud and data platforms to production-ready copilots, agents and AI apps. Sin",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "jenkins",
-      "kubernetes",
-      "python",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4482872069",
-   "source": "LinkedIn",
-   "title": "Forward Deployed Engineer, Frontier Engineering",
-   "company": "Snowflake",
-   "advertiser": "Snowflake",
-   "location": "Wellington, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482872069/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T12:01:39+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T15:01:30.469143+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individua",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ai",
-      "aws",
-      "observability",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95447805",
-   "source": "Seek",
-   "title": "Senior Business Analyst- Fixed term",
-   "company": "Careering Options",
-   "advertiser": "Careering Options",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95447805",
-   "posted_at": "2026-10-23T00:01:39Z",
-   "work_type": "Full time",
-   "salary": "$112,766 \u2013 $145,388 per year",
-   "teaser": "Lead a comprehensive cost-benefit analysis and operational impact assessment to drive evidence-based decision-making.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:27:39.192512+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the role \n We are seeking an experienced Senior Business Analyst to lead a comprehensive cost-benefit analysis incorporating operational impact assessments to drive evidence-based decision-making. You'll take ownership of the work from planning through to final recommendations, bringing together research, stakeholder perspectives and detailed evidence to assess effectiveness and identify opp",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "consulting",
-      "data",
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 42,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 42,
-   "tier": "B"
-  },
-  {
    "id": "seek:94814355",
    "source": "Seek",
    "title": "Agentic Delivery Lead",
@@ -11980,48 +11647,50 @@
    "tier": "B"
   },
   {
-   "id": "linkedin:4480612060",
-   "source": "LinkedIn",
-   "title": "Security Consultant -DevOps",
-   "company": "Synechron",
-   "advertiser": "Synechron",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4480612060/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Contract",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T01:57:13+00:00",
+   "id": "seek:95450107",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Potentia",
+   "advertiser": "Potentia",
+   "location": "Otago",
+   "url": "https://www.seek.co.nz/job/95450107",
+   "posted_at": "2026-10-23T01:30:09Z",
+   "work_type": "Full time",
+   "salary": "$75,000 - $85,000 NZD per annum",
+   "teaser": "Exciting opportunity supporting a major banking transformation, focused on process mapping, SOPs, improving processes and stakeholder engagement. Relocate to Invercargill for this opportunity Major banking transformation programme Fixed-term to December 2027",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
    "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95449973"
+    }
+   ],
    "accreditation": {
-    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "checked_at": "2026-10-21T14:27:54.190670+00:00",
     "status": "not_listed"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
-   "recruiter": false,
+   "recruiter": true,
    "has_description": true,
-   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "summary": "The opportunity \nWe\u2019re looking for an early career Business Analyst to join a major banking transformation programme based full-time, on-site in Invercargill. Working within a technology and transformation environment, this role is focused on understanding and improving business processes, developing standard operating procedures (SOPs), work instructions, and user guides, and supporting gathering",
    "for": {
-    "abhishek": {
+    "wife": {
      "fit": "core",
      "skills": [
-      "ansible",
-      "aws",
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "security",
-      "sre",
-      "terraform"
+      "requirements",
+      "stakeholders"
      ],
-     "route": "iswv",
+     "route": "aewv",
      "score": 41,
      "tier": "B",
      "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
+      "via agency: ask who the employer is"
      ]
     }
    },
@@ -12178,6 +11847,58 @@
      "reasons": [
       "via agency: ask who the employer is",
       "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 40,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95447963",
+   "source": "Seek",
+   "title": "Head of Reliability Engineering",
+   "company": "Open Country Dairy",
+   "advertiser": "Open Country Dairy",
+   "location": "East Tamaki, Auckland",
+   "url": "https://www.seek.co.nz/job/95447963",
+   "posted_at": "2026-10-23T00:09:11Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead reliability strategy, asset health governance and maintenance standards across Open Country\u2019s manufacturing sites.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-23T02:01:36.620680+00:00",
+    "legal_name": "OPEN COUNTRY DAIRY LIMITED",
+    "nzbn": "9429033594316",
+    "expiry": "2027-01-23"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026eduction and maintenance excellence, apply now with your CV and cover letter.\u00a0 Applicants must have the legal right to work in New Zealand.  Applications close 22 November 2026 or on appointment."
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior enterprise-wide reliability leadership role across multi-site manufacturing operations.\n Drive downtime reduction, asset performance and long-term lifecycle value.\n Lead through influence across site-based maintenance and automation teams to lift reliability standards, capability and predictive maintenance initiatives.\n About the role \n As Head of Reliability Engineering, you will lead reli",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 40,
+     "tier": "B",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
      ]
     }
    },
@@ -13440,52 +13161,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95449539",
-   "source": "Seek",
-   "title": "Site Reliability Engineer (SRE)",
-   "company": "Smart Glazier Software NZ Limited",
-   "advertiser": "Smart Glazier Software NZ Limited",
-   "location": "Albany, Auckland",
-   "url": "https://www.seek.co.nz/job/95449539",
-   "posted_at": "2026-10-23T01:29:02Z",
-   "work_type": "Full time",
-   "salary": "$110,000 \u2013 $125,000 per year",
-   "teaser": "Take ownership of physical and cloud infrastructure for a global SaaS platform. Partner directly with R&D in this high-impact engineering role.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T02:01:32.655002+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Site Reliability Engineer \n Excited by complex infrastructure and building scalable architecture? \nJoin our technical team and become a key infrastructure expert for a globally used SaaS platform. If you enjoy taking ownership of proprietary systems, bridging the gap between R&D and hosting, and keeping critical platforms online, this role is for you.\n About Us \nWe build specialist software for th",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "jenkins",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 36,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 36,
-   "tier": "B"
-  },
-  {
    "id": "seek:94810878",
    "source": "Seek",
    "title": "Java Fullstack AI Engineer / Developer (LLMs / RAG / MCP/ AWS)",
@@ -14040,21 +13715,21 @@
    "tier": "B"
   },
   {
-   "id": "linkedin:4480089905",
+   "id": "linkedin:4481684240",
    "source": "LinkedIn",
-   "title": "Cloud Security Consultant (AWS)",
-   "company": "Synechron",
-   "advertiser": "Synechron",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4480089905/",
+   "title": "Data Platform Engineer (Mid-level)",
+   "company": "Jobgether",
+   "advertiser": "Jobgether",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481684240/",
    "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Contract",
+   "work_type": "Full-time",
    "salary": "",
    "teaser": "",
-   "first_seen": "2026-10-23T01:57:13+00:00",
+   "first_seen": "2026-10-23T11:39:50+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "checked_at": "2026-10-22T12:31:55.168153+00:00",
     "status": "not_listed"
    },
    "hard_blockers": [],
@@ -14062,24 +13737,22 @@
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "We\u2019re looking for a Cloud Security Consultant (AWS) \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources and solutions to ",
+   "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Data Platform Engineer (Mid-level) based in New Zealand.\n\n In this role, you will help transform an established data and machine learning platform into a scalable, self-service environment that empowers engineering teams to work independently. You will build and impro",
    "for": {
     "abhishek": {
      "fit": "core",
      "skills": [
+      "ai",
       "aws",
       "docker",
       "jenkins",
-      "kubernetes",
-      "security",
-      "terraform"
+      "python"
      ],
      "route": "iswv",
      "score": 35,
      "tier": "B",
      "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
+      "not on public INZ list"
      ]
     }
    },
@@ -14365,48 +14038,6 @@
    },
    "visa_ready": false,
    "score": 34,
-   "tier": "C"
-  },
-  {
-   "id": "linkedin:4482817065",
-   "source": "LinkedIn",
-   "title": "Azure Platform Consultant",
-   "company": "Arinco",
-   "advertiser": "Arinco",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482817065/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:03.411101+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Arinco is the Artificial Intelligence Company helping organisations become AI-first. As a specialist Microsoft partner across Australia and New Zealand, and Microsoft\u2019s Australia Partner of the Year 2024, we combine Microsoft innovation, award-winning delivery and our Done Right\u2122 frameworks to take customers from secure cloud and data platforms to production-ready copilots, agents and AI apps. Sin",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 33,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 33,
    "tier": "C"
   },
   {
@@ -14991,6 +14622,189 @@
    "tier": "C"
   },
   {
+   "id": "linkedin:4481657029",
+   "source": "LinkedIn",
+   "title": "Project Manager",
+   "company": "SecuritEase",
+   "advertiser": "SecuritEase",
+   "location": "Lower Hutt, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481657029/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:03:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:10:56.884499+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are seeking an experienced Project Manager to join our global technology team, delivering complex investment management software solutions across both internal projects and external client implementations.\n\n What You\u2019ll Do\n\n Plan, organise and manage the delivery of various internal projects and external client implementations \n Coordinate cross-functional teams including developers, business a",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "methods",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4482803426",
+   "source": "LinkedIn",
+   "title": "Azure Apps & AI Consultant",
+   "company": "Arinco",
+   "advertiser": "Arinco",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482803426/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:38:03.411101+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Arinco is the Artificial Intelligence Company helping organisations become AI-first. As a specialist Microsoft partner across Australia and New Zealand, and Microsoft\u2019s Australia Partner of the Year 2024, we combine Microsoft innovation, award-winning delivery and our Done Right\u2122 frameworks to take customers from secure cloud and data platforms to production-ready copilots, agents and AI apps. Sin",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "kubernetes",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4482872069",
+   "source": "LinkedIn",
+   "title": "Forward Deployed Engineer, Frontier Engineering",
+   "company": "Snowflake",
+   "advertiser": "Snowflake",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482872069/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T12:01:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:30.469143+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individua",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "observability",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95447805",
+   "source": "Seek",
+   "title": "Senior Business Analyst- Fixed term",
+   "company": "Careering Options",
+   "advertiser": "Careering Options",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95447805",
+   "posted_at": "2026-10-23T00:01:39Z",
+   "work_type": "Full time",
+   "salary": "$112,766 \u2013 $145,388 per year",
+   "teaser": "Lead a comprehensive cost-benefit analysis and operational impact assessment to drive evidence-based decision-making.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T07:27:39.192512+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the role \n We are seeking an experienced Senior Business Analyst to lead a comprehensive cost-benefit analysis incorporating operational impact assessments to drive evidence-based decision-making. You'll take ownership of the work from planning through to final recommendations, bringing together research, stakeholder perspectives and detailed evidence to assess effectiveness and identify opp",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
    "id": "seek:94902957",
    "source": "Seek",
    "title": "Business Analyst",
@@ -15325,6 +15139,56 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4480612060",
+   "source": "LinkedIn",
+   "title": "Security Consultant -DevOps",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480612060/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Information Security Consultants - Cyber/Cloud \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources an",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 31,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 31,
+   "tier": "C"
   },
   {
    "id": "seek:94942289",
@@ -16018,56 +15882,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95449033",
-   "source": "Seek",
-   "title": "Senior Project Manager Public Safety Network \u2013 Fixed Term \u2013 Wellington",
-   "company": "Fire and Emergency New Zealand",
-   "advertiser": "Fire and Emergency New Zealand",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95449033",
-   "posted_at": "2026-10-23T00:52:40Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Be part of a unique project supporting the PSN Programme as it moves through key activities in the lead up to the implementation of the PSN solution. Exciting new role supporting the delivery of the Public Safety Network (PSN) Help deliver critical communications capability Salary range $144,532 - $160,591 (pro rata), dependent on skills & experience",
-   "seek_class": [
-    "6281",
-    "1210"
-   ],
-   "first_seen": "2026-10-23T01:57:13+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T02:01:43.678401+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "M\u014d t\u0113nei t\u016branga - about the role \n\n The Public Safety Network (PSN) is a new communications service being rolled out from 2025 to support New Zealand's frontline emergency services, including Fire and Emergency NZ, New Zealand Police, Hato Hone St John, and Wellington Free Ambulance, with potential expansion to other government agencies in the future.\n\n As the Senior Project Manager, you'll play ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "data",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 29,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 29,
-   "tier": "C"
-  },
-  {
    "id": "seek:94984066",
    "source": "Seek",
    "title": "Senior Business Analyst",
@@ -16750,6 +16564,52 @@
    }
   },
   {
+   "id": "seek:95449539",
+   "source": "Seek",
+   "title": "Site Reliability Engineer (SRE)",
+   "company": "Smart Glazier Software NZ Limited",
+   "advertiser": "Smart Glazier Software NZ Limited",
+   "location": "Albany, Auckland",
+   "url": "https://www.seek.co.nz/job/95449539",
+   "posted_at": "2026-10-23T01:29:02Z",
+   "work_type": "Full time",
+   "salary": "$110,000 \u2013 $125,000 per year",
+   "teaser": "Take ownership of physical and cloud infrastructure for a global SaaS platform. Partner directly with R&D in this high-impact engineering role.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-23T02:01:32.655002+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Site Reliability Engineer \n Excited by complex infrastructure and building scalable architecture? \nJoin our technical team and become a key infrastructure expert for a globally used SaaS platform. If you enjoy taking ownership of proprietary systems, bridging the gap between R&D and hosting, and keeping critical platforms online, this role is for you.\n About Us \nWe build specialist software for th",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 26,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 26,
+   "tier": "C"
+  },
+  {
    "id": "seek:94877767",
    "source": "Seek",
    "title": "Senior Cloud Engineers",
@@ -16800,6 +16660,54 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4480089905",
+   "source": "LinkedIn",
+   "title": "Cloud Security Consultant (AWS)",
+   "company": "Synechron",
+   "advertiser": "Synechron",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4480089905/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:37:59.987031+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Cloud Security Consultant (AWS) \n \n\n Synechron, is a global provider of Information Technology outsourcing services focused on the banking, finance and payments industry. We provide a broad range of IT services and technology solutions that are flexible, cost-effective, efficient and reliable. We pride ourselves on our ability to deliver high quality resources and solutions to ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "security",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 25,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 25,
+   "tier": "C"
   },
   {
    "id": "seek:94913393",
@@ -17098,6 +17006,48 @@
      "url": "https://www.linkedin.com/jobs/view/4482497669/"
     }
    ]
+  },
+  {
+   "id": "linkedin:4482817065",
+   "source": "LinkedIn",
+   "title": "Azure Platform Consultant",
+   "company": "Arinco",
+   "advertiser": "Arinco",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482817065/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T07:17:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:38:03.411101+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Arinco is the Artificial Intelligence Company helping organisations become AI-first. As a specialist Microsoft partner across Australia and New Zealand, and Microsoft\u2019s Australia Partner of the Year 2024, we combine Microsoft innovation, award-winning delivery and our Done Right\u2122 frameworks to take customers from secure cloud and data platforms to production-ready copilots, agents and AI apps. Sin",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 23,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 23,
+   "tier": "C"
   },
   {
    "id": "seek:94843395",
@@ -17586,53 +17536,53 @@
    "tier": "C"
   },
   {
-   "id": "seek:95449263",
+   "id": "seek:95449033",
    "source": "Seek",
-   "title": "Senior Infrastructure Engineer - Poike or Mokoia",
-   "company": "Toi Ohomai",
-   "advertiser": "Toi Ohomai",
-   "location": "Welcome Bay, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95449263",
-   "posted_at": "2026-10-23T01:01:35Z",
-   "work_type": "Full time",
+   "title": "Senior Project Manager Public Safety Network \u2013 Fixed Term \u2013 Wellington",
+   "company": "Fire and Emergency New Zealand",
+   "advertiser": "Fire and Emergency New Zealand",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95449033",
+   "posted_at": "2026-10-23T00:52:40Z",
+   "work_type": "Contract/Temp",
    "salary": "",
-   "teaser": "Lead and modernise Toi Ohomai\u2019s cloud and on-premises infrastructure, strengthening security, reliability and performance. Senior hands-on role with genuine technical influence Work across Azure, Microsoft 365, security and automation Solve complex challenges and help grow technical capability",
+   "teaser": "Be part of a unique project supporting the PSN Programme as it moves through key activities in the lead up to the implementation of the PSN solution. Exciting new role supporting the delivery of the Public Safety Network (PSN) Help deliver critical communications capability Salary range $144,532 - $160,591 (pro rata), dependent on skills & experience",
    "seek_class": [
-    "6281"
+    "6281",
+    "1210"
    ],
    "first_seen": "2026-10-23T01:57:13+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-10-21T15:01:23.509342+00:00",
-    "status": "not_listed"
+    "status": "not_listed",
+    "checked_at": "2026-10-23T02:01:43.678401+00:00"
    },
    "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026ed support during the application process, reach out, we\u2019re here to help.  All applicants must have the legal right to work in New Zealand. \u00a0Toi Ohomai is committed to safeguarding children and vulnerable persons\u2026"
-    }
-   ],
+   "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "M\u014d t\u0113nei t\u016branga mahi | About the Role \n As Senior Infrastructure Engineer, you\u2019ll design, deliver and improve secure, reliable services that support teaching, learning and everyday operations. Bringing technical leadership and hands-on expertise to Toi Ohomai cloud and on-premises infrastructure.\n Our Digital team supports the technology that connects Toi Ohomai people and services. Working with ",
+   "summary": "M\u014d t\u0113nei t\u016branga - about the role \n\n The Public Safety Network (PSN) is a new communications service being rolled out from 2025 to support New Zealand's frontline emergency services, including Fire and Emergency NZ, New Zealand Police, Hato Hone St John, and Wellington Free Ambulance, with potential expansion to other government agencies in the future.\n\n As the Senior Project Manager, you'll play ",
    "for": {
-    "abhishek": {
+    "wife": {
      "fit": "core",
      "skills": [
-      "sre"
+      "data",
+      "risk",
+      "stakeholders",
+      "vendors"
      ],
      "route": "iswv",
-     "score": 18,
+     "score": 19,
      "tier": "C",
      "reasons": [
-      "not on public INZ list"
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
      ]
     }
    },
    "visa_ready": false,
-   "score": 18,
+   "score": 19,
    "tier": "C"
   },
   {
@@ -18754,6 +18704,56 @@
    "for": {
     "abhishek": {
      "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95449263",
+   "source": "Seek",
+   "title": "Senior Infrastructure Engineer - Poike or Mokoia",
+   "company": "Toi Ohomai",
+   "advertiser": "Toi Ohomai",
+   "location": "Welcome Bay, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95449263",
+   "posted_at": "2026-10-23T01:01:35Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead and modernise Toi Ohomai\u2019s cloud and on-premises infrastructure, strengthening security, reliability and performance. Senior hands-on role with genuine technical influence Work across Azure, Microsoft 365, security and automation Solve complex challenges and help grow technical capability",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-23T01:57:13+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:23.509342+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ed support during the application process, reach out, we\u2019re here to help.  All applicants must have the legal right to work in New Zealand. \u00a0Toi Ohomai is committed to safeguarding children and vulnerable persons\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "M\u014d t\u0113nei t\u016branga mahi | About the Role \n As Senior Infrastructure Engineer, you\u2019ll design, deliver and improve secure, reliable services that support teaching, learning and everyday operations. Bringing technical leadership and hands-on expertise to Toi Ohomai cloud and on-premises infrastructure.\n Our Digital team supports the technology that connects Toi Ohomai people and services. Working with ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
      "skills": [
       "sre"
      ],
@@ -20060,58 +20060,6 @@
    }
   },
   {
-   "id": "linkedin:4482813148",
-   "source": "LinkedIn",
-   "title": "Digital Project Manager",
-   "company": "Tribe Group",
-   "advertiser": "Tribe Group",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482813148/",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-23T08:11:30+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:27:29.493328+00:00",
-    "expiry": "2028-06-18",
-    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
-    "nzbn": "9429030268715",
-    "status": "accredited"
-   },
-   "hard_blockers": [
-    {
-     "why": "NZ citizens/residents only",
-     "quote": "\u202637 8380 and quote Job ID: 1 8794 for a confidential chat.  To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
-    }
-   ],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "About The Opportunity\n\n Deliver a pipeline of digital/technology projects across a large, complex organisation\n Bring the right teams together to drive delivery and remove blockers\n Own timelines, risks, dependencies and reporting\n Partner with stakeholders to keep priorities clear and delivery on track\n\n\n What You\u2019ll Bring\n\n Proven experience delivering digital projects end-to-end\n Strong stakeho",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "data",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "blocked",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 54,
-   "tier": "blocked"
-  },
-  {
    "id": "seek:94959639",
    "source": "Seek",
    "title": "Senior Platform Engineer",
@@ -20357,6 +20305,58 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4482813148",
+   "source": "LinkedIn",
+   "title": "Digital Project Manager",
+   "company": "Tribe Group",
+   "advertiser": "Tribe Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482813148/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-23T08:11:30+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:27:29.493328+00:00",
+    "expiry": "2028-06-18",
+    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+    "nzbn": "9429030268715",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u202637 8380 and quote Job ID: 1 8794 for a confidential chat.  To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "About The Opportunity\n\n Deliver a pipeline of digital/technology projects across a large, complex organisation\n Bring the right teams together to drive delivery and remove blockers\n Own timelines, risks, dependencies and reporting\n Partner with stakeholders to keep priorities clear and delivery on track\n\n\n What You\u2019ll Bring\n\n Proven experience delivering digital projects end-to-end\n Strong stakeho",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "blocked",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "blocked"
   },
   {
    "id": "seek:94975566",
@@ -20691,6 +20691,54 @@
    },
    "visa_ready": false,
    "score": 32,
+   "tier": "blocked"
+  },
+  {
+   "id": "seek:95478166",
+   "source": "Seek",
+   "title": "Reliability Engineer",
+   "company": "Veolia",
+   "advertiser": "Veolia",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95478166",
+   "posted_at": "2026-10-24T23:55:12Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "This is an opportunity to make a practical contribution to essential infrastructure.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-25T04:36:04+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-25T04:42:27.198061+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026then hit the apply button now!    THIS STEP IS IMPORTANT   To apply for this vacancy you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company description:\n\n Veolia Environmental Services\n\n\nJob description:\n\n The Opportunity Veolia is seeking a motivated Reliability Engineer to improve the reliability, availability, maintainability and whole-of-life performance of wastewater treatment assets across the Wellington Region.\n This is an opportunity to make a practical contribution to essential infrastructure while working alongside o",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 30,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 30,
    "tier": "blocked"
   },
   {
