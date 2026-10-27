@@ -7,7 +7,7 @@
   "status": "accredited"
  },
  "absolute it": {
-  "checked_at": "2026-10-21T14:38:02.442362+00:00",
+  "checked_at": "2026-10-27T06:35:46.137984+00:00",
   "status": "not_listed"
  },
  "acc": {
@@ -53,7 +53,7 @@
   "status": "accredited"
  },
  "alignerr": {
-  "checked_at": "2026-10-23T02:01:44.879967+00:00",
+  "checked_at": "2026-10-27T06:36:05.916070+00:00",
   "status": "not_listed"
  },
  "alstef": {
@@ -268,6 +268,20 @@
   "nzbn": "9429046246448",
   "status": "accredited"
  },
+ "chubb insurance": {
+  "checked_at": "2026-10-27T06:36:02.017714+00:00",
+  "expiry": "2028-05-12",
+  "legal_name": "CHUBB INSURANCE NEW ZEALAND LIMITED",
+  "nzbn": "9429040398037",
+  "status": "accredited"
+ },
+ "chubb life insurance": {
+  "checked_at": "2026-10-27T06:36:12.237256+00:00",
+  "expiry": "2028-10-23",
+  "legal_name": "CHUBB LIFE INSURANCE NEW ZEALAND LIMITED",
+  "nzbn": "9429040894492",
+  "status": "accredited"
+ },
  "civil aviation authority": {
   "checked_at": "2026-10-23T07:27:41.970108+00:00",
   "expiry": "2028-10-09",
@@ -308,8 +322,15 @@
   "nzbn": "9429049172201",
   "status": "accredited"
  },
+ "connetics": {
+  "checked_at": "2026-10-27T06:35:45.073313+00:00",
+  "expiry": "2028-04-15",
+  "legal_name": "CONNETICS LIMITED",
+  "nzbn": "9429039274380",
+  "status": "accredited"
+ },
  "connexa": {
-  "checked_at": "2026-10-21T15:01:16.743528+00:00",
+  "checked_at": "2026-10-27T06:35:48.058015+00:00",
   "status": "not_listed"
  },
  "consult recruitment": {
@@ -344,7 +365,7 @@
   "status": "not_listed"
  },
  "dataannotation": {
-  "checked_at": "2026-10-22T20:47:02.485809+00:00",
+  "checked_at": "2026-10-27T06:36:08.137518+00:00",
   "status": "not_listed"
  },
  "databricks": {
@@ -539,7 +560,7 @@
   "status": "not_listed"
  },
  "findit recruitment": {
-  "checked_at": "2026-10-21T14:37:54.173287+00:00",
+  "checked_at": "2026-10-27T06:35:43.304152+00:00",
   "status": "not_listed"
  },
  "fire and emergency": {
@@ -591,6 +612,13 @@
  "frogparking": {
   "checked_at": "2026-10-21T14:38:31.191927+00:00",
   "status": "not_listed"
+ },
+ "fuel50": {
+  "checked_at": "2026-10-27T06:35:39.107421+00:00",
+  "expiry": "2027-06-13",
+  "legal_name": "CAREER ENGAGEMENT GROUP LIMITED",
+  "nzbn": "9429036128921",
+  "status": "accredited"
  },
  "fujifilm business innovation": {
   "checked_at": "2026-10-21T14:27:44.655310+00:00",
@@ -693,6 +721,10 @@
   "legal_name": "THE PRIORY IN NEW ZEALAND OF THE MOST VENERABLE ORDER OF THE HOSPITAL OF ST JOHN OF JERUSALEM",
   "nzbn": "9429043031801",
   "status": "accredited"
+ },
+ "hays recruitment": {
+  "checked_at": "2026-10-27T06:35:49.914468+00:00",
+  "status": "not_listed"
  },
  "health": {
   "checked_at": "2026-10-23T07:28:06.232899+00:00",
@@ -815,11 +847,15 @@
   "status": "accredited"
  },
  "kpmg": {
-  "checked_at": "2026-10-21T14:37:15.474988+00:00",
+  "checked_at": "2026-10-27T06:36:13.297922+00:00",
   "status": "not_listed"
  },
  "lab3": {
   "checked_at": "2026-10-21T14:37:56.614944+00:00",
+  "status": "not_listed"
+ },
+ "laminex": {
+  "checked_at": "2026-10-27T06:35:57.470270+00:00",
   "status": "not_listed"
  },
  "les mills": {
@@ -892,6 +928,13 @@
   "nzbn": "9429035559429",
   "status": "accredited"
  },
+ "mercury": {
+  "checked_at": "2026-10-27T06:35:52.463584+00:00",
+  "expiry": "2028-05-07",
+  "legal_name": "MERCURY NZ LIMITED",
+  "nzbn": "9429037705305",
+  "status": "accredited"
+ },
  "mg fresh produce": {
   "checked_at": "2026-10-21T14:38:32.127989+00:00",
   "status": "not_listed"
@@ -912,7 +955,7 @@
   "status": "accredited"
  },
  "mogi i o ott podcast short video apps for you": {
-  "checked_at": "2026-10-23T08:17:28.395652+00:00",
+  "checked_at": "2026-10-27T06:36:15.886748+00:00",
   "status": "not_listed"
  },
  "momentum consulting": {
@@ -935,6 +978,10 @@
   "legal_name": "NORTHPOWER LIMITED",
   "nzbn": "9429039052339",
   "status": "accredited"
+ },
+ "novigi": {
+  "checked_at": "2026-10-27T06:35:51.365993+00:00",
+  "status": "not_listed"
  },
  "nzist whitireia and weltec": {
   "checked_at": "2026-10-21T14:38:30.244107+00:00",
@@ -961,6 +1008,13 @@
  "optimate me": {
   "checked_at": "2026-10-23T07:28:16.889107+00:00",
   "status": "not_listed"
+ },
+ "oracle": {
+  "checked_at": "2026-10-27T06:36:10.071915+00:00",
+  "expiry": "2028-06-16",
+  "legal_name": "ORACLE NEW ZEALAND",
+  "nzbn": "9429039501974",
+  "status": "accredited"
  },
  "oranga tamariki": {
   "checked_at": "2026-10-21T15:00:48.479158+00:00",
@@ -1224,7 +1278,11 @@
   "status": "accredited"
  },
  "securitease": {
-  "checked_at": "2026-10-23T07:10:56.884499+00:00",
+  "checked_at": "2026-10-27T06:36:04.284941+00:00",
+  "status": "not_listed"
+ },
+ "securitease international": {
+  "checked_at": "2026-10-27T06:35:41.305018+00:00",
   "status": "not_listed"
  },
  "seeka": {
@@ -1329,6 +1387,13 @@
   "checked_at": "2026-10-21T14:38:10.183903+00:00",
   "status": "not_listed"
  },
+ "stellar recruitment": {
+  "checked_at": "2026-10-27T06:35:56.146221+00:00",
+  "expiry": "2027-02-19",
+  "legal_name": "STELLAR RECRUITMENT LP",
+  "nzbn": "9429043148097",
+  "status": "accredited"
+ },
  "student volunteer army": {
   "checked_at": "2026-10-23T07:27:24.767482+00:00",
   "status": "not_listed"
@@ -1400,7 +1465,7 @@
   "status": "not_listed"
  },
  "technical recruitment": {
-  "checked_at": "2026-10-24T05:02:37.000332+00:00",
+  "checked_at": "2026-10-27T06:36:00.102521+00:00",
   "status": "not_listed"
  },
  "teltrac communications": {
@@ -1537,6 +1602,13 @@
   "expiry": "2028-04-29",
   "legal_name": "WATERCARE SERVICES LIMITED",
   "nzbn": "9429039071552",
+  "status": "accredited"
+ },
+ "webuild": {
+  "checked_at": "2026-10-27T06:35:58.830141+00:00",
+  "expiry": "2027-05-08",
+  "legal_name": "WEBUILD NZ LIMITED",
+  "nzbn": "9429053009326",
   "status": "accredited"
  },
  "woolworths": {
