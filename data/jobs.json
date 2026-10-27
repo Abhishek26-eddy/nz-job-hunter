@@ -21841,6 +21841,61 @@
    }
   },
   {
+   "id": "seek:95411473",
+   "source": "Seek",
+   "title": "Senior Business Analyst - AML/CFT",
+   "company": "The Johnson Group",
+   "advertiser": "The Johnson Group",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95411473",
+   "posted_at": "2026-10-21T09:15:09Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Opportunity for an experienced Senior Business Analyst to contribute and lead on aspects of a major AML/CFT review programme. Help shape the future of AML/CFT policy and regulations decisions for NZ Contribute to a significant regulatory programme Competitive salary and fixed term contract through to June 2027",
+   "seek_class": [
+    "1203"
+   ],
+   "first_seen": "2026-10-27T14:04:19+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T14:17:48.140821+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026experience (possibly some flexibility for the right candidate)   Eligibility: Applicants must be New Zealand citizens or permanent residents.   If you have the analytical capability and stakeholder skills t\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior Business Analyst \u2013 AML/CFT \n\n Wellington | Fixed-term contract | ASAP start to 25 June 2027\u00a0 \n\n Job Reference Number JAA6620 \n\n Make a difference through evidence-based analysis \n\n Our central government client looking for an experienced Senior Business Analyst to lead a significant review of New Zealand\u2019s Anti-Money Laundering and Countering Financing of Terrorism (AML/CFT) regime.\n\n This ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "consulting",
+      "data",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 22,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 22,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:95478166",
    "source": "Seek",
    "title": "Reliability Engineer",
