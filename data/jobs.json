@@ -16626,6 +16626,50 @@
    "tier": "C"
   },
   {
+   "id": "linkedin:4482803425",
+   "source": "LinkedIn",
+   "title": "Azure Data Consultant",
+   "company": "Arinco",
+   "advertiser": "Arinco",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482803425/",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-27T07:34:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T07:42:07.794166+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Arinco is the Artificial Intelligence Company helping organisations become AI-first. As a specialist Microsoft partner across Australia and New Zealand, and Microsoft\u2019s Australia Partner of the Year 2024, we combine Microsoft innovation, award-winning delivery and our Done Right\u2122 frameworks to take customers from secure cloud and data platforms to production-ready copilots, agents and AI apps. Sin",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 29,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 29,
+   "tier": "C"
+  },
+  {
    "id": "seek:94984066",
    "source": "Seek",
    "title": "Senior Business Analyst",
