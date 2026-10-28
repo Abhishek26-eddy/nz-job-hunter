@@ -2432,6 +2432,54 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4475127431",
+   "source": "LinkedIn",
+   "title": "Technical Project Manager- Data Centres (FIFO/DIDO)",
+   "company": "Turner & Townsend",
+   "advertiser": "Turner & Townsend",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4475127431/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T16:23:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-28T16:29:45.318981+00:00",
+    "legal_name": "TURNER & TOWNSEND PTY LTD",
+    "nzbn": "9429041494493",
+    "expiry": "2028-07-28"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Turner & Townsend is a global professional services company with over 22,000 people in more than 60 countries.\u200b\n\n\n Working with our clients across real estate, infrastructure, energy and natural resources, we transform together delivering outcomes that improve people\u2019s lives. Working in partnership makes it possible to deliver the world\u2019s most impactful projects and programmes as we turn challenge",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "requirements",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 87,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 87,
+   "tier": "A"
+  },
+  {
    "id": "seek:94992624",
    "source": "Seek",
    "title": "Business Analyst",
