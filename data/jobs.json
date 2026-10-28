@@ -5159,6 +5159,55 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4484405799",
+   "source": "LinkedIn",
+   "title": "Core Network DevOps Principal Engineer",
+   "company": "One New Zealand",
+   "advertiser": "One New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484405799/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:31:37.418385+00:00",
+    "expiry": "2028-06-26",
+    "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
+    "nzbn": "9429037753115",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "He aha ai t\u0101tou \u2013 Why us?\n\n At One NZ we\u2019re not just imagining the future, we\u2019re building it. Our purpose? A better-connected Aotearoa New Zealand. Kia renarena te taukaea i Aotearoa New Zealand.\n\n Our ambition? To become the most AI-enabled telco on the planet. This isn\u2019t just about our technology, It\u2019s about you. We\u2019re investing in our people like never before.... empowering them to grow, lead, ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 77,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 77,
+   "tier": "A"
+  },
+  {
    "id": "seek:95199500",
    "source": "Seek",
    "title": "Delivery Lead",
@@ -9811,6 +9860,49 @@
    }
   },
   {
+   "id": "linkedin:4482285083",
+   "source": "LinkedIn",
+   "title": "Technical Product Owner",
+   "company": "AA New Zealand",
+   "advertiser": "AA New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482285083/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "unknown"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi t\u0101tou ki AA\n\n For over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a million Mem",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 50,
+     "tier": "B",
+     "reasons": []
+    }
+   },
+   "visa_ready": false,
+   "score": 50,
+   "tier": "B"
+  },
+  {
    "id": "linkedin:4477342496",
    "source": "LinkedIn",
    "title": "Project Manager - Technology Consulting",
@@ -9861,6 +9953,56 @@
    },
    "visa_ready": false,
    "score": 49,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95544203",
+   "source": "Seek",
+   "title": "Technical Product Owner",
+   "company": "New Zealand Automobile Association",
+   "advertiser": "New Zealand Automobile Association Inc.",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95544203",
+   "posted_at": "2026-10-28T04:37:33Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Own the platform connecting AA's systems, data and partners. Lead integration strategy, engineering teams and innovation. Lead AA's integration platform strategy. Guide and develop a team of engineers. Deliver scalable API and integration solutions.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-28T04:56:02.413667+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi t\u0101tou ki AA \n \n\nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a million M",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 48,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
    "tier": "B"
   },
   {
@@ -19104,6 +19246,51 @@
    },
    "visa_ready": false,
    "score": 19,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95544346",
+   "source": "Seek",
+   "title": "Senior Integration Automation Engineer",
+   "company": "New Zealand Automobile Association",
+   "advertiser": "New Zealand Automobile Association Inc.",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95544346",
+   "posted_at": "2026-10-28T04:41:55Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead automation and quality engineering across AA's integration platform, building reliable, secure and scalable solutions. Build integration automation frameworks. Drive quality through CI/CD pipelines. Lead testing and engineering standards.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-28T04:56:02.413667+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi tatou ki AA \n \n \n \nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a millio",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins"
+     ],
+     "route": "iswv",
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
    "tier": "C"
   },
   {
