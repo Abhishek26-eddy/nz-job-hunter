@@ -21776,6 +21776,59 @@
    }
   },
   {
+   "id": "linkedin:4475165963",
+   "source": "LinkedIn",
+   "title": "AI Engineering Team Lead",
+   "company": "Deloitte",
+   "advertiser": "Deloitte",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4475165963/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T10:36:02+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:31:46.203891+00:00",
+    "expiry": "2028-07-14",
+    "legal_name": "Deloitte Trading Trust",
+    "nzbn": "9429050617173",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026To be considered for this role, you must be legally entitled to work in New Zealand. Visa sponsorship is not available for this position.  For this permanent position you will be rewarded with a competitive s\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company Description\n\n You\u2019ll join Technology & Transformation in Auckland as a AI Engineering Team Lead, where you\u2019ll work with clients to shape, change and influence the way New Zealand's most recognisable companies work.\n\nHere, you\u2019ll do meaningful work with talented people while building a career shaped around your ambitions. As New Zealand's leading professional services firm, we combine local",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "aws",
+      "jenkins",
+      "observability"
+     ],
+     "route": "iswv",
+     "score": 72,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 72,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:95446370",
    "source": "Seek",
    "title": "Product Owner / Project Manager - Geospatial",
