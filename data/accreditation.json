@@ -33,6 +33,10 @@
   "checked_at": "2026-10-21T14:31:15.560629+00:00",
   "status": "not_listed"
  },
+ "advanced management systems": {
+  "checked_at": "2026-10-28T03:32:41.923538+00:00",
+  "status": "not_listed"
+ },
  "adviser platform": {
   "checked_at": "2026-10-21T14:38:42.088530+00:00",
   "status": "not_listed"
@@ -108,6 +112,10 @@
   "legal_name": "APPLE TECHNOLOGY SERVICES",
   "nzbn": "9429046357724",
   "status": "accredited"
+ },
+ "appoint": {
+  "checked_at": "2026-10-28T03:32:37.776238+00:00",
+  "status": "not_listed"
  },
  "archway recruitment": {
   "checked_at": "2026-10-22T06:51:01.507463+00:00",
@@ -501,7 +509,7 @@
   "status": "not_listed"
  },
  "envato": {
-  "checked_at": "2026-10-23T07:28:24.864515+00:00",
+  "checked_at": "2026-10-28T03:32:54.227842+00:00",
   "status": "not_listed"
  },
  "environment canterbury": {
@@ -752,6 +760,10 @@
   "checked_at": "2026-10-21T14:38:29.301920+00:00",
   "status": "not_listed"
  },
+ "humes": {
+  "checked_at": "2026-10-28T03:32:45.077500+00:00",
+  "status": "not_listed"
+ },
  "icm asia pacific": {
   "checked_at": "2026-10-22T06:50:39.561090+00:00",
   "status": "not_listed"
@@ -776,6 +788,10 @@
  },
  "inside recruitment": {
   "checked_at": "2026-10-23T07:28:08.984168+00:00",
+  "status": "not_listed"
+ },
+ "intepeople": {
+  "checked_at": "2026-10-28T03:32:50.371372+00:00",
   "status": "not_listed"
  },
  "inugo": {
@@ -1201,6 +1217,10 @@
   "nzbn": "9429033818122",
   "status": "accredited"
  },
+ "recruitnet consulting": {
+  "checked_at": "2026-10-28T03:32:47.601433+00:00",
+  "status": "not_listed"
+ },
  "red hat": {
   "checked_at": "2026-10-21T14:38:13.630888+00:00",
   "status": "not_listed"
@@ -1223,11 +1243,25 @@
   "nzbn": "9429036154180",
   "status": "accredited"
  },
+ "robotron": {
+  "checked_at": "2026-10-28T03:32:31.278545+00:00",
+  "expiry": "2026-12-13",
+  "legal_name": "ROBOTRON NEW ZEALAND LIMITED",
+  "nzbn": "9429045911835",
+  "status": "accredited"
+ },
  "rocket lab": {
   "checked_at": "2026-10-21T14:28:52.543706+00:00",
   "expiry": "2026-11-30",
   "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
   "nzbn": "9429046593054",
+  "status": "accredited"
+ },
+ "rotorua lakes council": {
+  "checked_at": "2026-10-28T03:32:40.262418+00:00",
+  "expiry": "2028-07-29",
+  "legal_name": "Rotorua Lakes Council",
+  "nzbn": "9429041918388",
   "status": "accredited"
  },
  "rush digital": {
@@ -1368,7 +1402,7 @@
   "status": "accredited"
  },
  "spark": {
-  "checked_at": "2026-10-21T14:26:39.749573+00:00",
+  "checked_at": "2026-10-28T03:32:43.644073+00:00",
   "status": "not_listed"
  },
  "staffroom": {
@@ -1425,6 +1459,10 @@
   "checked_at": "2026-10-21T14:37:59.987031+00:00",
   "status": "not_listed"
  },
+ "tainui": {
+  "checked_at": "2026-10-28T03:32:52.569391+00:00",
+  "status": "not_listed"
+ },
  "talent": {
   "checked_at": "2026-10-21T14:38:28.327918+00:00",
   "status": "not_listed"
@@ -1473,6 +1511,13 @@
   "expiry": "2028-09-11",
   "legal_name": "TELTRAC COMMUNICATIONS LIMITED",
   "nzbn": "9429039126450",
+  "status": "accredited"
+ },
+ "tertiary education commission": {
+  "checked_at": "2026-10-28T03:32:34.195579+00:00",
+  "expiry": "2027-01-28",
+  "legal_name": "Tertiary Education Commission",
+  "nzbn": "9429041920107",
   "status": "accredited"
  },
  "tiaki wai": {
