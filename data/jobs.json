@@ -16422,6 +16422,54 @@
    "tier": "C"
   },
   {
+   "id": "seek:95452107",
+   "source": "Seek",
+   "title": "Project Manager",
+   "company": "SecuritEase International Limited",
+   "advertiser": "SecuritEase International Limited",
+   "location": "Petone, Wellington",
+   "url": "https://www.seek.co.nz/job/95452107",
+   "posted_at": "2026-10-23T02:25:34Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We\u2019re seeking an experienced Project Manager to lead FinTech software projects and client implementations, working with our global teams. Deliver complex FinTech software projects and client implementations. Collaborate with cross-functional teams across the globe. Take ownership of projects from planning through to successful delivery.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-28T12:59:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-27T06:35:41.305018+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are seeking an experienced Project Manager to join our global technology team, delivering complex investment management software solutions across both internal projects and external client implementations.\u00a0\u00a0\n\n \n\n What you\u2019ll do \u00a0\n\n \n\n \n Plan, organise and manage the delivery of various internal projects and external client implementations\u00a0\n\n Coordinate cross-functional teams including developer",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "methods",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "C"
+  },
+  {
    "id": "seek:94902957",
    "source": "Seek",
    "title": "Business Analyst",
