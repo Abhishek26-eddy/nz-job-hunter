@@ -100,7 +100,7 @@
   "status": "accredited"
  },
  "apex water": {
-  "checked_at": "2026-10-21T15:00:29.914095+00:00",
+  "checked_at": "2026-10-28T15:17:41.098393+00:00",
   "expiry": "2027-05-20",
   "legal_name": "APEX WATER LIMITED",
   "nzbn": "9429041844243",
@@ -654,7 +654,7 @@
   "status": "accredited"
  },
  "fulton hogan": {
-  "checked_at": "2026-10-21T15:00:11.014671+00:00",
+  "checked_at": "2026-10-28T15:17:38.774677+00:00",
   "expiry": "2027-03-04",
   "legal_name": "FULTON HOGAN LIMITED",
   "nzbn": "9429040318080",
@@ -1329,6 +1329,10 @@
   "nzbn": "9429037500924",
   "status": "accredited"
  },
+ "science": {
+  "checked_at": "2026-10-28T15:17:45.623273+00:00",
+  "status": "not_listed"
+ },
  "securitease": {
   "checked_at": "2026-10-27T06:36:04.284941+00:00",
   "status": "not_listed"
@@ -1539,7 +1543,7 @@
   "status": "accredited"
  },
  "tiaki wai": {
-  "checked_at": "2026-10-21T15:00:18.618971+00:00",
+  "checked_at": "2026-10-28T15:17:42.506285+00:00",
   "expiry": "2027-06-04",
   "legal_name": "TIAKI WAI LIMITED",
   "nzbn": "9429053224163",
