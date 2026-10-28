@@ -764,6 +764,13 @@
   "checked_at": "2026-10-28T03:32:45.077500+00:00",
   "status": "not_listed"
  },
+ "iag": {
+  "checked_at": "2026-10-28T04:35:16.722680+00:00",
+  "expiry": "2027-05-15",
+  "legal_name": "IAG NEW ZEALAND LIMITED",
+  "nzbn": "9429039302748",
+  "status": "accredited"
+ },
  "icm asia pacific": {
   "checked_at": "2026-10-22T06:50:39.561090+00:00",
   "status": "not_listed"

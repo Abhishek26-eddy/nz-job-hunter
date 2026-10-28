@@ -469,6 +469,65 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4484418189",
+   "source": "LinkedIn",
+   "title": "Iteration Manager",
+   "company": "IAG",
+   "advertiser": "IAG",
+   "location": "Christchurch, Canterbury, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484418189/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T04:29:42+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484415314/"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484402665/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-28T04:35:16.722680+00:00",
+    "legal_name": "IAG NEW ZEALAND LIMITED",
+    "nzbn": "9429039302748",
+    "expiry": "2027-05-15"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At IAG, we\u2019re ready for you. We're the largest general insurance group in Australia and New Zealand. Our family of brands turns the IAG purpose of making your world a safer place into action by helping everyday Aussies and New Zealanders, supporting their ambitions and making insurance accessible.\n\n Shape How Technology Transformation Gets Delivered\n\n Bring your agile leadership skills to a role w",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "product",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4453254925",
    "source": "LinkedIn",
    "title": "Forward Deployed Engineer",
@@ -10073,6 +10132,56 @@
    }
   },
   {
+   "id": "seek:95543721",
+   "source": "Seek",
+   "title": "Agile Delivery Lead",
+   "company": "Absolute IT",
+   "advertiser": "Absolute IT Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95543721",
+   "posted_at": "2026-10-28T04:22:05Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Lead Agile delivery and support a Product Model transformation, driving capability uplift and successful business outcomes. Agile delivery and organisational change focus Azure and Microsoft technology environment Major Product Model transformation programme",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:29:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-27T06:35:46.137984+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "We are seeking an experienced Agile Delivery Lead to join a major business and technology programme on an initial contract through to March 2027.\n\nAs part of an organisation-wide shift to a Product Model, this role will support the adoption of new ways of working that enhance how products are managed, delivered, and continuously improved. The transformation will require changes across people, proc",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "data",
+      "product",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 47,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 47,
+   "tier": "B"
+  },
+  {
    "id": "seek:94989332",
    "source": "Seek",
    "title": "Senior Project Manager - Networks & Infrastructure",
@@ -12891,6 +13000,57 @@
       "tools"
      ],
      "route": "aewv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4484253367",
+   "source": "LinkedIn",
+   "title": "Senior Project Manager - 24 month FTC",
+   "company": "KPMG New Zealand",
+   "advertiser": "KPMG New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484253367/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T04:29:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-27T06:36:13.297922+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The Senior Project Manager leads complex business and technology initiatives from initiation through to delivery, ensuring outcomes are achieved within agreed scope, time, cost and quality expectations. Working across business and technical teams, the role provides strong delivery leadership, governance and stakeholder engagement, proactively manages risks and dependencies, and keeps projects alig",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "business",
+      "data",
+      "enterprise",
+      "methods",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
      "score": 41,
      "tier": "B",
      "reasons": [
