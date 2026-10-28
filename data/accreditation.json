@@ -231,6 +231,13 @@
   "nzbn": "9429041901489",
   "status": "accredited"
  },
+ "beca": {
+  "checked_at": "2026-10-28T12:23:57.442635+00:00",
+  "expiry": "2028-09-01",
+  "legal_name": "BECA GROUP LIMITED",
+  "nzbn": "9429038536540",
+  "status": "accredited"
+ },
  "beyond recruitment": {
   "checked_at": "2026-10-21T14:38:19.384738+00:00",
   "status": "not_listed"

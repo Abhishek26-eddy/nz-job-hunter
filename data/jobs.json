@@ -3815,6 +3815,52 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4475163745",
+   "source": "LinkedIn",
+   "title": "People & Culture Business Analyst",
+   "company": "Beca",
+   "advertiser": "Beca",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4475163745/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T12:18:15+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-28T12:23:57.442635+00:00",
+    "legal_name": "BECA GROUP LIMITED",
+    "nzbn": "9429038536540",
+    "expiry": "2028-09-01"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Te whiwhinga mahi | The opportunity\n\n This role provides the opportunity to contribute to meaningful business and technology initiatives across Beca, helping deliver practical and fit-for-purpose solutions that support our people, clients and business objectives. Working within cross-functional teams, you will apply business analysis approaches, principles and techniques to support the design, del",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 81,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 81,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4471807974",
    "source": "LinkedIn",
    "title": "Intermediate Infrastructure Engineer",
