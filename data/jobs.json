@@ -7130,6 +7130,58 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4483830791",
+   "source": "LinkedIn",
+   "title": "Senior Integration Engineer",
+   "company": "Xero",
+   "advertiser": "Xero",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4483830791/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T05:31:38+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4483832802/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-10-23T07:28:32.683387+00:00",
+    "expiry": "2028-06-17",
+    "legal_name": "XERO LIMITED",
+    "nzbn": "9429034042984",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The role and its impact\n\n We're building a brand-new Integration team to power automation at the heart of Xero. You'll design and build workflows and integrations that solve real business problems, removing genuine friction from how we operate. This is modern engineering work: applying software discipline through low/no-code and AI-native platforms, shipping fast, and seeing measurable impact with",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "observability",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "seek:94812612",
    "source": "Seek",
    "title": "Senior Project Manager",
@@ -13102,59 +13154,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95494737",
-   "source": "Seek",
-   "title": "Senior Business Analyst",
-   "company": "Novigi",
-   "advertiser": "Novigi Pty Ltd",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95494737",
-   "posted_at": "2026-10-26T05:51:36Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Join Novigi today, a growing consultancy delivering business and technology transformation for leading KiwiSaver and financial services organisationsn Diverse transformation projects with genuine client impact Flexible, collaborative culture with opportunities to progress your career Partner with some of New Zealand's most recognised financial services brands",
-   "seek_class": [
-    "1214"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-27T06:35:51.365993+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About Novigi: \n Novigi is the data and technology partner to the Financial Services Industry with offices in Sydney, Melbourne, Wollongong, Brisbane, Auckland and Colombo, Sri Lanka. At our core, we are data-driven transformation and business optimisation experts. We partner with our clients to transform their business functions through the clever use of data and interoperability. We do this by of",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "cloud",
-      "consulting",
-      "data",
-      "methods",
-      "requirements",
-      "stakeholders",
-      "tools"
-     ],
-     "route": "aewv",
-     "score": 41,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 41,
-   "tier": "B"
-  },
-  {
    "id": "linkedin:4484253367",
    "source": "LinkedIn",
    "title": "Senior Project Manager - 24 month FTC",
@@ -16710,6 +16709,59 @@
    "tier": "C"
   },
   {
+   "id": "seek:95494737",
+   "source": "Seek",
+   "title": "Senior Business Analyst",
+   "company": "Novigi",
+   "advertiser": "Novigi Pty Ltd",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95494737",
+   "posted_at": "2026-10-26T05:51:36Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Join Novigi today, a growing consultancy delivering business and technology transformation for leading KiwiSaver and financial services organisationsn Diverse transformation projects with genuine client impact Flexible, collaborative culture with opportunities to progress your career Partner with some of New Zealand's most recognised financial services brands",
+   "seek_class": [
+    "1214"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T06:35:51.365993+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Novigi: \n Novigi is the data and technology partner to the Financial Services Industry with offices in Sydney, Melbourne, Wollongong, Brisbane, Auckland and Colombo, Sri Lanka. At our core, we are data-driven transformation and business optimisation experts. We partner with our clients to transform their business functions through the clever use of data and interoperability. We do this by of",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "consulting",
+      "data",
+      "methods",
+      "requirements",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "aewv",
+     "score": 31,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 31,
+   "tier": "C"
+  },
+  {
    "id": "seek:94942289",
    "source": "Seek",
    "title": "Technical Project Manager \u2013 SharePoint & Microsoft 365",
@@ -18660,6 +18712,45 @@
      "reasons": [
       "not on public INZ list"
      ]
+    }
+   },
+   "visa_ready": false,
+   "score": 23,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4482272657",
+   "source": "LinkedIn",
+   "title": "Senior Integration Automation Engineer",
+   "company": "AA New Zealand",
+   "advertiser": "AA New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482272657/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T05:31:38+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "unknown"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi tatou ki AA\n\n For over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a million Mem",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins"
+     ],
+     "route": "iswv",
+     "score": 23,
+     "tier": "C",
+     "reasons": []
     }
    },
    "visa_ready": false,
