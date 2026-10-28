@@ -7186,6 +7186,55 @@
    "tier": "A"
   },
   {
+   "id": "seek:95543800",
+   "source": "Seek",
+   "title": "Senior Systems Engineer",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95543800",
+   "posted_at": "2026-10-28T04:24:26Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Our Client is looking for a technically strong, hands-on Level 3 engineer to join our Platform Services Team in Auckland Microsoft Servers, Microsoft 365, Azure (CAF/WAF) and modern workplace services AVD, RDS or FSLogix, Hyper-V, Linux, Microsoft Defender, Purview Need someone with MSP experience",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T10:14:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:26:37.531128+00:00",
+    "expiry": "2026-11-20",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Senior Systems Engineer to join a technical team delivering infrastructure support, project implementation and modern workplace services across multiple client hybrid environments.\n\n This is a senior, client-facing technical role combining Level 3 escalations, hands-on project delivery and ongoing platform improvement. You\u2019ll work across Windows Server, Microsoft 365, Azure, vi",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "linux",
+      "security"
+     ],
+     "route": "iswv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "seek:94812612",
    "source": "Seek",
    "title": "Senior Project Manager",
