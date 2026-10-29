@@ -18628,6 +18628,54 @@
    "tier": "C"
   },
   {
+   "id": "seek:95575401",
+   "source": "Seek",
+   "title": "Client Delivery Manager (Fixed term - 6 Months)",
+   "company": "Auxo Software",
+   "advertiser": "Auxo Software",
+   "location": "Penrose, Auckland",
+   "url": "https://www.seek.co.nz/job/95575401",
+   "posted_at": "2026-10-29T05:46:56Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Look after our most important customers in this enterprise customer success role. Keep their plans, projects and updates on track. Penrose, Auckland.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-29T06:37:08+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-29T06:42:29.039550+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Us \n Auxo Software is NZ's leading automotive software company. Our customers are some of the best vehicle workshops and dealerships in the country. We're focused on making every day easier, more efficient and more rewarding for them.\n We need a structured way to manage our high priority customers. This six month fixed term role is a project to build that process, prove it works with our pri",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "enterprise",
+      "risk"
+     ],
+     "route": "iswv",
+     "score": 26,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 26,
+   "tier": "C"
+  },
+  {
    "id": "seek:94877767",
    "source": "Seek",
    "title": "Senior Cloud Engineers",
