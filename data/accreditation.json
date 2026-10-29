@@ -1032,6 +1032,13 @@
   "nzbn": "9429041901618",
   "status": "accredited"
  },
+ "netsafe": {
+  "checked_at": "2026-10-29T13:09:41.892759+00:00",
+  "expiry": "2027-08-06",
+  "legal_name": "NETSAFE INCORPORATED",
+  "nzbn": "9429042994879",
+  "status": "accredited"
+ },
  "northpower": {
   "checked_at": "2026-10-21T14:27:46.513521+00:00",
   "expiry": "2028-05-28",
