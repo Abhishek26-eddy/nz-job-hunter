@@ -146,65 +146,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95521146",
-   "source": "Seek",
-   "title": "Staff Product Manager",
-   "company": "Fuel50",
-   "advertiser": "Fuel50",
-   "location": "Takapuna, Auckland",
-   "url": "https://www.seek.co.nz/job/95521146",
-   "posted_at": "2026-10-27T06:01:42Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Got technical chops & big product ideas? Help companies understand their team better, build skills and enable internal mobility in an AI-driven world. Join a remote-first team with meaningful benefits. Own product vision, strategy & outcomes across a connected set of product areas Senior product role to turn an ambitious vision into real employee outcomes.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4484024137/"
-    }
-   ],
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-27T06:35:39.107421+00:00",
-    "legal_name": "CAREER ENGAGEMENT GROUP LIMITED",
-    "nzbn": "9429036128921",
-    "expiry": "2027-06-13"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take their next step.\u00a0\n We\u2019re looking for a Staff Product Manager to lead our Connected Experiences pod acros",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "consulting",
-      "data",
-      "enterprise",
-      "product",
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4484418189",
    "source": "LinkedIn",
    "title": "Iteration Manager",
@@ -3632,6 +3573,65 @@
       "requirements",
       "stakeholders",
       "tools"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95521146",
+   "source": "Seek",
+   "title": "Staff Product Manager",
+   "company": "Fuel50",
+   "advertiser": "Fuel50",
+   "location": "Takapuna, Auckland",
+   "url": "https://www.seek.co.nz/job/95521146",
+   "posted_at": "2026-10-27T06:01:42Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Got technical chops & big product ideas? Help companies understand their team better, build skills and enable internal mobility in an AI-driven world. Join a remote-first team with meaningful benefits. Own product vision, strategy & outcomes across a connected set of product areas Senior product role to turn an ambitious vision into real employee outcomes.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484024137/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-27T06:35:39.107421+00:00",
+    "legal_name": "CAREER ENGAGEMENT GROUP LIMITED",
+    "nzbn": "9429036128921",
+    "expiry": "2027-06-13"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take their next step.\u00a0\n We\u2019re looking for a Staff Product Manager to lead our Connected Experiences pod acros",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "enterprise",
+      "product",
+      "requirements",
+      "stakeholders"
      ],
      "route": "aewv",
      "score": 83,
