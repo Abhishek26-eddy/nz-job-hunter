@@ -146,212 +146,6 @@
    "tier": "A"
   },
   {
-   "id": "linkedin:4481846535",
-   "source": "LinkedIn",
-   "title": "Consulting Program Manager",
-   "company": "Oracle",
-   "advertiser": "Oracle",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4481846535/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-27T06:36:10.071915+00:00",
-    "legal_name": "ORACLE NEW ZEALAND",
-    "nzbn": "9429039501974",
-    "expiry": "2028-06-16"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job Description\n\n About Customer Success Services\n\nOracle Customer Success Services (CSS) helps customers realise lasting business value from their Oracle investments. CSS brings expertise across the Oracle ecosystem, working with Oracle Product Development and partners to accelerate adoption, improve operations and enable innovation. Its services span the customer lifecycle, from advisory and imp",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "cloud",
-      "consulting",
-      "data",
-      "enterprise",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 99,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 99,
-   "tier": "A"
-  },
-  {
-   "id": "linkedin:4482241627",
-   "source": "LinkedIn",
-   "title": "Senior Platform Engineer (Software Consultant) - Customer Tribe",
-   "company": "ASB Bank",
-   "advertiser": "ASB Bank",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4482241627/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-28T03:22:54+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:29:04.445895+00:00",
-    "expiry": "2028-05-01",
-    "legal_name": "ASB BANK LIMITED",
-    "nzbn": "9429039435743",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Senior Platform Engineer (Software Consultant)\n\n Modern banking relies on technology that is secure, reliable and always available. Behind every customer interaction is a complex ecosystem of platforms, services and infrastructure that must operate seamlessly at scale.\n\nAs a Senior Platform Engineer, you'll play a critical role in strengthening the reliability, security and operational resilience ",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ansible",
-      "jenkins",
-      "kubernetes",
-      "linux",
-      "observability",
-      "python",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 96,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 96,
-   "tier": "A"
-  },
-  {
-   "id": "linkedin:4484018302",
-   "source": "LinkedIn",
-   "title": "Senior Business Analyst",
-   "company": "Chubb Life Insurance New Zealand",
-   "advertiser": "Chubb Life Insurance New Zealand",
-   "location": "Wellington, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4484018302/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-27T06:36:12.237256+00:00",
-    "legal_name": "CHUBB LIFE INSURANCE NEW ZEALAND LIMITED",
-    "nzbn": "9429040894492",
-    "expiry": "2028-10-23"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job Description\n\n The opportunity\n\n If you've spent years as a Business Analyst in complex organisations know your way around technical and process work then read on.\n\nChubb Life is aiming to be New Zealand's number one life insurer, and better processes and systems are a big part of getting there. As Senior Business Analyst, reporting to the Business Analysis Lead, you'll work across several proj",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "data",
-      "product",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95511987",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Connetics",
-   "advertiser": "Connetics",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/95511987",
-   "posted_at": "2026-10-27T01:41:20Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join Connetics' Switch Project as a Business Analyst, gathering requirements, improving processes and supporting successful project delivery. 15 month fixed term opportunity on a key project Work with business and technical teams across Connetics Flexible working and opportunities to develop your skills",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-27T06:35:45.073313+00:00",
-    "legal_name": "CONNETICS LIMITED",
-    "nzbn": "9429039274380",
-    "expiry": "2028-04-15"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About Us \n\n At Connetics, we design, build and maintain electrical infrastructure across Aotearoa. We're committed to delivering energy solutions for our communities and supporting a cleaner, brighter future.\n\n About the Role \n\n We're looking for a Business Analyst to join our Switch Project on a 15-month fixed-term contract. Reporting to the Senior Business Analyst, you'll work with business stak",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "cloud",
-      "data",
-      "enterprise",
-      "requirements",
-      "stakeholders",
-      "tools"
-     ],
-     "route": "aewv",
-     "score": 93,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 93,
-   "tier": "A"
-  },
-  {
    "id": "seek:95521146",
    "source": "Seek",
    "title": "Staff Product Manager",
@@ -408,64 +202,6 @@
    },
    "visa_ready": true,
    "score": 93,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95510259",
-   "source": "Seek",
-   "title": "PMO Lead (R&D) New Zealand",
-   "company": "TOMRA",
-   "advertiser": "TOMRA FOOD",
-   "location": "Mount Wellington, Auckland",
-   "url": "https://www.seek.co.nz/job/95510259",
-   "posted_at": "2026-10-27T00:42:31Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "As PMO Lead, you'll lead complex projects from development to delivery, shaping project management at TOMRA Food in New Zealand. Lead complex projects alongside technical teams and global experts Work closely with R&D to turn great ideas into customer solutions Shape project delivery in NZ with visibility across a global business",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4483796012/"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-10-21T15:01:51.780026+00:00",
-    "expiry": "2027-01-27",
-    "legal_name": "TOMRA FOOD (ANZ) LIMITED",
-    "nzbn": "9429039911582",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Company Description \n\n TOMRA Food\u00a0is a multinational organization and a leading provider of sensor-based sorting, peeling and integrated post-harvest solution for the food industries. Transforming global food production to maximize food safety and minimize food loss by making sure\u00a0 Every Resource Counts\u2122 , has been our strength for over 50 years.\n At TOMRA, we want people to\u00a0 innovate , show\u00a0 pass",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "methods",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 90,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 90,
    "tier": "A"
   },
   {
@@ -2330,46 +2066,47 @@
    "tier": "A"
   },
   {
-   "id": "seek:95510560",
-   "source": "Seek",
-   "title": "Senior Business Analyst",
-   "company": "Chubb Insurance",
-   "advertiser": "Chubb Life",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95510560",
-   "posted_at": "2026-10-27T01:01:22Z",
-   "work_type": "Full time",
-   "salary": "Base salary + KS + bonus + health & life insurance",
-   "teaser": "You've done process and technical BA in complex places. Now own the whole lot in a lean team where your work shows. Process and technical BA, end to end, lean team, roll your sleeves up Financial services experience essential Process and technical BA experience required",
-   "seek_class": [
-    "6281"
-   ],
+   "id": "linkedin:4481846535",
+   "source": "LinkedIn",
+   "title": "Consulting Program Manager",
+   "company": "Oracle",
+   "advertiser": "Oracle",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4481846535/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
    "first_seen": "2026-10-27T06:28:59+00:00",
    "needs_detail": false,
    "accreditation": {
     "status": "accredited",
-    "checked_at": "2026-10-27T06:36:02.017714+00:00",
-    "legal_name": "CHUBB INSURANCE NEW ZEALAND LIMITED",
-    "nzbn": "9429040398037",
-    "expiry": "2028-05-12"
+    "checked_at": "2026-10-27T06:36:10.071915+00:00",
+    "legal_name": "ORACLE NEW ZEALAND",
+    "nzbn": "9429039501974",
+    "expiry": "2028-06-16"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "The opportunity \n Chubb Life is aiming to be New Zealand's number one life insurer, and better processes and systems are a big part of getting there. As Senior Business Analyst, reporting to the Business Analysis Lead, you'll work across several projects at once, from mapping how a process really runs to writing the technical requirements behind the fix.\n We're a lean team. Nobody hands you a stak",
+   "summary": "Job Description\n\n About Customer Success Services\n\nOracle Customer Success Services (CSS) helps customers realise lasting business value from their Oracle investments. CSS brings expertise across the Oracle ecosystem, working with Oracle Product Development and partners to accelerate adoption, improve operations and enable innovation. Its services span the customer lifecycle, from advisory and imp",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
-      "agile",
+      "budget",
+      "cloud",
+      "consulting",
       "data",
+      "enterprise",
       "requirements",
+      "risk",
       "stakeholders"
      ],
-     "route": "aewv",
-     "score": 87,
+     "route": "iswv",
+     "score": 89,
      "tier": "A",
      "reasons": [
       "accredited employer"
@@ -2377,7 +2114,7 @@
     }
    },
    "visa_ready": true,
-   "score": 87,
+   "score": 89,
    "tier": "A"
   },
   {
@@ -2468,6 +2205,54 @@
       "vendors"
      ],
      "route": "iswv",
+     "score": 87,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 87,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4484725900",
+   "source": "LinkedIn",
+   "title": "Business Analyst - Procurement",
+   "company": "Fonterra",
+   "advertiser": "Fonterra",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484725900/",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-29T04:55:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-29T05:04:51.673418+00:00",
+    "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
+    "nzbn": "9429036748471",
+    "expiry": "2028-08-06"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Imagine Tomorrow with Us | Ata whakaarohia t\u014d \u0101p\u014dp\u014d \n At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves. \n \n\n Whether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution. \n \n\n Owned by New Zealand dairy farmers and supported by a dedicated team",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "enterprise",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
      "score": 87,
      "tier": "A",
      "reasons": [
@@ -2978,6 +2763,57 @@
       "requirements",
       "risk",
       "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 86,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 86,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4482241627",
+   "source": "LinkedIn",
+   "title": "Senior Platform Engineer (Software Consultant) - Customer Tribe",
+   "company": "ASB Bank",
+   "advertiser": "ASB Bank",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4482241627/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T03:22:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:29:04.445895+00:00",
+    "expiry": "2028-05-01",
+    "legal_name": "ASB BANK LIMITED",
+    "nzbn": "9429039435743",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior Platform Engineer (Software Consultant)\n\n Modern banking relies on technology that is secure, reliable and always available. Behind every customer interaction is a complex ecosystem of platforms, services and infrastructure that must operate seamlessly at scale.\n\nAs a Senior Platform Engineer, you'll play a critical role in strengthening the reliability, security and operational resilience ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "jenkins",
+      "kubernetes",
+      "linux",
+      "observability",
+      "python",
+      "sre"
      ],
      "route": "iswv",
      "score": 86,
@@ -3707,6 +3543,109 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4484018302",
+   "source": "LinkedIn",
+   "title": "Senior Business Analyst",
+   "company": "Chubb Life Insurance New Zealand",
+   "advertiser": "Chubb Life Insurance New Zealand",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484018302/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-27T06:36:12.237256+00:00",
+    "legal_name": "CHUBB LIFE INSURANCE NEW ZEALAND LIMITED",
+    "nzbn": "9429040894492",
+    "expiry": "2028-10-23"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n The opportunity\n\n If you've spent years as a Business Analyst in complex organisations know your way around technical and process work then read on.\n\nChubb Life is aiming to be New Zealand's number one life insurer, and better processes and systems are a big part of getting there. As Senior Business Analyst, reporting to the Business Analysis Lead, you'll work across several proj",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95511987",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Connetics",
+   "advertiser": "Connetics",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95511987",
+   "posted_at": "2026-10-27T01:41:20Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join Connetics' Switch Project as a Business Analyst, gathering requirements, improving processes and supporting successful project delivery. 15 month fixed term opportunity on a key project Work with business and technical teams across Connetics Flexible working and opportunities to develop your skills",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-27T06:35:45.073313+00:00",
+    "legal_name": "CONNETICS LIMITED",
+    "nzbn": "9429039274380",
+    "expiry": "2028-04-15"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Us \n\n At Connetics, we design, build and maintain electrical infrastructure across Aotearoa. We're committed to delivering energy solutions for our communities and supporting a cleaner, brighter future.\n\n About the Role \n\n We're looking for a Business Analyst to join our Switch Project on a 15-month fixed-term contract. Reporting to the Senior Business Analyst, you'll work with business stak",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "enterprise",
+      "requirements",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4451905715",
    "source": "LinkedIn",
    "title": "Senior Product Manager 1",
@@ -3754,62 +3693,6 @@
     }
    },
    "visa_ready": true,
-   "score": 81,
-   "tier": "A"
-  },
-  {
-   "id": "linkedin:4484287264",
-   "source": "LinkedIn",
-   "title": "Project Manager",
-   "company": "Environment Canterbury",
-   "advertiser": "Environment Canterbury",
-   "location": "Christchurch, Canterbury, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4484287264/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-28T03:22:54+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:27:15.099971+00:00",
-    "expiry": "2028-05-11",
-    "legal_name": "Canterbury Regional Council",
-    "nzbn": "9429041900130",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026e shortened as the process progresses.  To be considered for this opportunity, candidates must have the legal right to work in New Zealand at the time of application and hold work rights that will enable them to f\u2026"
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job Type: Fixed Term | Full Time\n\nLocation: Christchurch, New Zealand\n\nJob Category: Government, Defence & Emergency\n\n Deliver strategic projects across a large and diverse organisation \n Join a values-led regional council making a difference for Canterbury \n Flexible, collaborative environment with genuine development opportunities \n\n\n Kaunihera Taiao ki Waitaha \u2502 About Environment Canterbury\n\n A",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "data",
-      "methods",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 81,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
    "score": 81,
    "tier": "A"
   },
@@ -4753,6 +4636,64 @@
    "tier": "A"
   },
   {
+   "id": "seek:95510259",
+   "source": "Seek",
+   "title": "PMO Lead (R&D) New Zealand",
+   "company": "TOMRA",
+   "advertiser": "TOMRA FOOD",
+   "location": "Mount Wellington, Auckland",
+   "url": "https://www.seek.co.nz/job/95510259",
+   "posted_at": "2026-10-27T00:42:31Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "As PMO Lead, you'll lead complex projects from development to delivery, shaping project management at TOMRA Food in New Zealand. Lead complex projects alongside technical teams and global experts Work closely with R&D to turn great ideas into customer solutions Shape project delivery in NZ with visibility across a global business",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4483796012/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-10-21T15:01:51.780026+00:00",
+    "expiry": "2027-01-27",
+    "legal_name": "TOMRA FOOD (ANZ) LIMITED",
+    "nzbn": "9429039911582",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company Description \n\n TOMRA Food\u00a0is a multinational organization and a leading provider of sensor-based sorting, peeling and integrated post-harvest solution for the food industries. Transforming global food production to maximize food safety and minimize food loss by making sure\u00a0 Every Resource Counts\u2122 , has been our strength for over 50 years.\n At TOMRA, we want people to\u00a0 innovate , show\u00a0 pass",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 80,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 80,
+   "tier": "A"
+  },
+  {
    "id": "seek:94059792",
    "source": "Seek",
    "title": "Programme Director",
@@ -5241,6 +5182,57 @@
      "skills": [
       "data",
       "product",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 77,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 77,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95510560",
+   "source": "Seek",
+   "title": "Senior Business Analyst",
+   "company": "Chubb Insurance",
+   "advertiser": "Chubb Life",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95510560",
+   "posted_at": "2026-10-27T01:01:22Z",
+   "work_type": "Full time",
+   "salary": "Base salary + KS + bonus + health & life insurance",
+   "teaser": "You've done process and technical BA in complex places. Now own the whole lot in a lean team where your work shows. Process and technical BA, end to end, lean team, roll your sleeves up Financial services experience essential Process and technical BA experience required",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-27T06:36:02.017714+00:00",
+    "legal_name": "CHUBB INSURANCE NEW ZEALAND LIMITED",
+    "nzbn": "9429040398037",
+    "expiry": "2028-05-12"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The opportunity \n Chubb Life is aiming to be New Zealand's number one life insurer, and better processes and systems are a big part of getting there. As Senior Business Analyst, reporting to the Business Analysis Lead, you'll work across several projects at once, from mapping how a process really runs to writing the technical requirements behind the fix.\n We're a lean team. Nobody hands you a stak",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
       "requirements",
       "stakeholders"
      ],
@@ -6681,6 +6673,62 @@
    }
   },
   {
+   "id": "linkedin:4484287264",
+   "source": "LinkedIn",
+   "title": "Project Manager",
+   "company": "Environment Canterbury",
+   "advertiser": "Environment Canterbury",
+   "location": "Christchurch, Canterbury, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484287264/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T03:22:54+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:27:15.099971+00:00",
+    "expiry": "2028-05-11",
+    "legal_name": "Canterbury Regional Council",
+    "nzbn": "9429041900130",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026e shortened as the process progresses.  To be considered for this opportunity, candidates must have the legal right to work in New Zealand at the time of application and hold work rights that will enable them to f\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Type: Fixed Term | Full Time\n\nLocation: Christchurch, New Zealand\n\nJob Category: Government, Defence & Emergency\n\n Deliver strategic projects across a large and diverse organisation \n Join a values-led regional council making a difference for Canterbury \n Flexible, collaborative environment with genuine development opportunities \n\n\n Kaunihera Taiao ki Waitaha \u2502 About Environment Canterbury\n\n A",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 71,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 71,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4457451943",
    "source": "LinkedIn",
    "title": "Staff AI Platform Engineer",
@@ -7177,57 +7225,6 @@
    }
   },
   {
-   "id": "seek:95512957",
-   "source": "Seek",
-   "title": "Senior Platform Engineer",
-   "company": "FindIT Recruitment",
-   "advertiser": "Find IT Recruitment",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95512957",
-   "posted_at": "2026-10-27T02:04:02Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "An opportunity for an intermediate or senior Platform Engineer to work across Azure, OpenShift, Linux and infrastructure automation in Wellington. Hands-on engineering across Azure, OpenShift and infrastructure automation. Design, build and improve secure, reliable enterprise platforms. Senior technical role with opportunities to influence platform architecture.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-27T06:35:43.304152+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Platform Engineer | Wellington \n\n Work across Azure, OpenShift and infrastructure automation in a hands-on engineering role.\n \n We're looking for an experienced Platform Engineer to join an established Wellington organisation, helping build, maintain and improve secure, scalable and reliable infrastructure platforms.\n\n This opportunity is suited to an intermediate engineer looking to further devel",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ansible",
-      "argocd",
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "linux",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 66,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4483830791",
    "source": "LinkedIn",
    "title": "Senior Integration Engineer",
@@ -7533,54 +7530,6 @@
    },
    "visa_ready": true,
    "score": 64,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95506516",
-   "source": "Seek",
-   "title": "Senior IT Systems Engineer",
-   "company": "Port of Tauranga",
-   "advertiser": "Port of Tauranga",
-   "location": "Tauranga Central, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95506516",
-   "posted_at": "2026-10-26T19:04:32Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "We\u2019re looking for a highly capable engineer who enjoys both delivering solutions and supporting others to succeed. Work in a critical infrastructure environment with real impact Be part of a capable and supportive Digital Services team Work for NZ's largest port",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-23T07:27:20.541282+00:00",
-    "expiry": "2028-04-10",
-    "legal_name": "PORT OF TAURANGA LIMITED",
-    "nzbn": "9429039540300",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Join New Zealand\u2019s largest port and play a key role in supporting critical infrastructure that keeps trade moving.\n We\u2019re looking for a Senior IT Systems Engineer to join our Digital Services team, where you\u2019ll lead the design, delivery, and ongoing support of our enterprise infrastructure and cloud environment.\n This is a unique opportunity to help shape our technology landscape through key port ",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 63,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 63,
    "tier": "A"
   },
   {
@@ -7952,55 +7901,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95510558",
-   "source": "Seek",
-   "title": "Senior Network & AWS Engineer",
-   "company": "Absolute IT",
-   "advertiser": "Absolute IT Limited",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/95510558",
-   "posted_at": "2026-10-27T00:54:06Z",
-   "work_type": "Full time",
-   "salary": "Up to $150,000",
-   "teaser": "Senior Network & AWS Engineer to design secure enterprise networks, drive AWS cloud transformation and lead automation initiatives in Wellington. Permanent role in Wellington CBD Combine enterprise networking expertise with advanced AWS cloud technology ead network transformation, cloud connectivity and automation initiatives",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-27T06:35:46.137984+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Senior Network & AWS Network Engineer\n\n Wellington CBD | Permanent | Up to $150,000 + benefits\u00a0\n \nAre you a senior network engineer with strong enterprise networking and AWS cloud expertise? Looking for an opportunity to work across complex infrastructure, cloud connectivity and network transformation? We\u2019re looking for a Senior Network & AWS Network Engineer to design, deliver and continuously im",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ansible",
-      "aws",
-      "python",
-      "sre",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 60,
-   "tier": "A"
   },
   {
    "id": "seek:95533622",
@@ -8742,17 +8642,17 @@
    "tier": "B"
   },
   {
-   "id": "seek:95506778",
+   "id": "seek:95512957",
    "source": "Seek",
-   "title": "Site Reliability Engineer - Kafka",
-   "company": "Hays Recruitment",
-   "advertiser": "Hays | Technology",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/95506778",
-   "posted_at": "2026-10-26T20:12:38Z",
-   "work_type": "Contract/Temp",
+   "title": "Senior Platform Engineer",
+   "company": "FindIT Recruitment",
+   "advertiser": "Find IT Recruitment",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95512957",
+   "posted_at": "2026-10-27T02:04:02Z",
+   "work_type": "Full time",
    "salary": "",
-   "teaser": "Contract role for Site Reliability Engineer based in Auckland long term contract Work with modern cloud data technologies Join a collaborative, high-performing team",
+   "teaser": "An opportunity for an intermediate or senior Platform Engineer to work across Azure, OpenShift, Linux and infrastructure automation in Wellington. Hands-on engineering across Azure, OpenShift and infrastructure automation. Design, build and improve secure, reliable enterprise platforms. Senior technical role with opportunities to influence platform architecture.",
    "seek_class": [
     "6281"
    ],
@@ -8760,34 +8660,31 @@
    "needs_detail": false,
    "accreditation": {
     "status": "not_listed",
-    "checked_at": "2026-10-27T06:35:49.914468+00:00"
+    "checked_at": "2026-10-27T06:35:43.304152+00:00"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": true,
    "has_description": true,
-   "summary": "Site Reliability Engineer (SRE) \nAbout the role We're looking for an SRE to keep critical banking platforms reliable, scalable and secure. You will work with engineering and platform teams to improve system reliability, automate operational work and strengthen monitoring across production environments. Kafka is central to the role, so hands-on experience running and supporting it in production is ",
+   "summary": "Platform Engineer | Wellington \n\n Work across Azure, OpenShift and infrastructure automation in a hands-on engineering role.\n \n We're looking for an experienced Platform Engineer to join an established Wellington organisation, helping build, maintain and improve secure, scalable and reliable infrastructure platforms.\n\n This opportunity is suited to an intermediate engineer looking to further devel",
    "for": {
     "abhishek": {
      "fit": "core",
      "skills": [
-      "aws",
-      "bash",
+      "ansible",
+      "argocd",
       "docker",
       "jenkins",
       "kubernetes",
-      "observability",
-      "python",
-      "sre",
+      "linux",
       "terraform"
      ],
      "route": "iswv",
      "score": 56,
      "tier": "B",
      "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
+      "via agency: ask who the employer is"
      ]
     }
    },
@@ -8911,117 +8808,6 @@
      "reasons": [
       "accredited employer",
       "part time: the visa needs 30h+ a week"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 54,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4483610116",
-   "source": "LinkedIn",
-   "title": "Senior DevOps Engineer - NZ",
-   "company": "SecuritEase",
-   "advertiser": "SecuritEase",
-   "location": "Lower Hutt, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4483610116/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-27T06:36:04.284941+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We\u2019re searching for a Senior DevOps Engineer to help scale and automate our cloud infrastructure, software delivery pipelines, and deployment processes across modern cloud-based environments.\n\n What You\u2019ll Do\n\n Build, configure, and maintain production-grade Kubernetes environments from the ground up across cloud and hybrid infrastructure.\n Develop, scale, and maintain robust Infrastructure as Cod",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "aws",
-      "bash",
-      "docker",
-      "helm",
-      "jenkins",
-      "kubernetes",
-      "linux",
-      "observability",
-      "python",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 54,
-   "tier": "B",
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4483804695/"
-    }
-   ]
-  },
-  {
-   "id": "seek:95515993",
-   "source": "Seek",
-   "title": "Senior DevOps Engineer - NZ",
-   "company": "SecuritEase International Limited",
-   "advertiser": "SecuritEase International Limited",
-   "location": "Petone, Wellington",
-   "url": "https://www.seek.co.nz/job/95515993",
-   "posted_at": "2026-10-27T03:22:13Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join SecuritEase as a Senior DevOps Engineer, driving cloud automation, Kubernetes, infrastructure scalability and platform reliability in fintech. Work with modern cloud technologies - Kubernetes, Terraform, AWS and Azure. Make a real impact by driving automation, scalability and platform reliability. Join a global fintech business with opportunities to innovate.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-27T06:28:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-27T06:35:41.305018+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We\u2019re searching for a Senior DevOps Engineer to help scale and automate our cloud infrastructure, software delivery pipelines, and deployment processes across modern cloud-based environments.\n \n What you\u2019ll do: \n \n Build, configure, and maintain production-grade Kubernetes environments from the ground up across cloud and hybrid infrastructure.\n\n Develop, scale, and maintain robust Infrastructure a",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "aws",
-      "bash",
-      "docker",
-      "helm",
-      "jenkins",
-      "kubernetes",
-      "linux",
-      "observability",
-      "python",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
      ]
     }
    },
@@ -9745,6 +9531,100 @@
    }
   },
   {
+   "id": "seek:95506516",
+   "source": "Seek",
+   "title": "Senior IT Systems Engineer",
+   "company": "Port of Tauranga",
+   "advertiser": "Port of Tauranga",
+   "location": "Tauranga Central, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95506516",
+   "posted_at": "2026-10-26T19:04:32Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We\u2019re looking for a highly capable engineer who enjoys both delivering solutions and supporting others to succeed. Work in a critical infrastructure environment with real impact Be part of a capable and supportive Digital Services team Work for NZ's largest port",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-23T07:27:20.541282+00:00",
+    "expiry": "2028-04-10",
+    "legal_name": "PORT OF TAURANGA LIMITED",
+    "nzbn": "9429039540300",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Join New Zealand\u2019s largest port and play a key role in supporting critical infrastructure that keeps trade moving.\n We\u2019re looking for a Senior IT Systems Engineer to join our Digital Services team, where you\u2019ll lead the design, delivery, and ongoing support of our enterprise infrastructure and cloud environment.\n This is a unique opportunity to help shape our technology landscape through key port ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 53,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 53,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95567760",
+   "source": "Seek",
+   "title": "Senior Project Manager - 12 Month FTC",
+   "company": "Sourced IT Recruitment Specialists",
+   "advertiser": "Sourced | IT Recruitment Specialists",
+   "location": "Christchurch, Canterbury",
+   "url": "https://www.seek.co.nz/job/95567760",
+   "posted_at": "2026-10-29T01:58:44Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead a geospatial platform implementation for a high profile organisation within the rural sector. Join a market leader with a growing and maturing PM function Salary circa $170000, great team and culture Hybrid role, Christchurch preferred, open to lower North Island",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-29T04:55:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-29T05:04:46.179541+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Join a market leader with a growing and maturing PM function\n Salary circa $170000, great team and culture\n Hybrid role, Christchurch preferred, open to lower North Island\n Lead a geospatial platform implementation for a high profile organisation within the rural sector.\n\n What our client can offer: \nOur client services the rural sector and maintains a large market share in its domain. With a PMO ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 51,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 51,
+   "tier": "B"
+  },
+  {
    "id": "seek:94784747",
    "source": "Seek",
    "title": "IT Systems Engineer",
@@ -9889,7 +9769,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95562812"
+    }
+   ]
   },
   {
    "id": "seek:95300628",
@@ -10057,6 +9943,55 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95510558",
+   "source": "Seek",
+   "title": "Senior Network & AWS Engineer",
+   "company": "Absolute IT",
+   "advertiser": "Absolute IT Limited",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95510558",
+   "posted_at": "2026-10-27T00:54:06Z",
+   "work_type": "Full time",
+   "salary": "Up to $150,000",
+   "teaser": "Senior Network & AWS Engineer to design secure enterprise networks, drive AWS cloud transformation and lead automation initiatives in Wellington. Permanent role in Wellington CBD Combine enterprise networking expertise with advanced AWS cloud technology ead network transformation, cloud connectivity and automation initiatives",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T06:35:46.137984+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Senior Network & AWS Network Engineer\n\n Wellington CBD | Permanent | Up to $150,000 + benefits\u00a0\n \nAre you a senior network engineer with strong enterprise networking and AWS cloud expertise? Looking for an opportunity to work across complex infrastructure, cloud connectivity and network transformation? We\u2019re looking for a Senior Network & AWS Network Engineer to design, deliver and continuously im",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "aws",
+      "python",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 50,
+   "tier": "B"
   },
   {
    "id": "linkedin:4482285083",
@@ -10309,7 +10244,13 @@
    },
    "visa_ready": false,
    "score": 47,
-   "tier": "B"
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95568123"
+    }
+   ]
   },
   {
    "id": "seek:94937241",
@@ -10863,6 +10804,60 @@
       "risk",
       "stakeholders",
       "vendors"
+     ],
+     "route": "iswv",
+     "score": 46,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 46,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95506778",
+   "source": "Seek",
+   "title": "Site Reliability Engineer - Kafka",
+   "company": "Hays Recruitment",
+   "advertiser": "Hays | Technology",
+   "location": "Auckland",
+   "url": "https://www.seek.co.nz/job/95506778",
+   "posted_at": "2026-10-26T20:12:38Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Contract role for Site Reliability Engineer based in Auckland long term contract Work with modern cloud data technologies Join a collaborative, high-performing team",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T06:35:49.914468+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Site Reliability Engineer (SRE) \nAbout the role We're looking for an SRE to keep critical banking platforms reliable, scalable and secure. You will work with engineering and platform teams to improve system reliability, automate operational work and strengthen monitoring across production environments. Kafka is central to the role, so hands-on experience running and supporting it in production is ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "bash",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "python",
+      "sre",
+      "terraform"
      ],
      "route": "iswv",
      "score": 46,
@@ -12208,6 +12203,117 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4483610116",
+   "source": "LinkedIn",
+   "title": "Senior DevOps Engineer - NZ",
+   "company": "SecuritEase",
+   "advertiser": "SecuritEase",
+   "location": "Lower Hutt, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4483610116/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T06:36:04.284941+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re searching for a Senior DevOps Engineer to help scale and automate our cloud infrastructure, software delivery pipelines, and deployment processes across modern cloud-based environments.\n\n What You\u2019ll Do\n\n Build, configure, and maintain production-grade Kubernetes environments from the ground up across cloud and hybrid infrastructure.\n Develop, scale, and maintain robust Infrastructure as Cod",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "bash",
+      "docker",
+      "helm",
+      "jenkins",
+      "kubernetes",
+      "linux",
+      "observability",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4483804695/"
+    }
+   ]
+  },
+  {
+   "id": "seek:95515993",
+   "source": "Seek",
+   "title": "Senior DevOps Engineer - NZ",
+   "company": "SecuritEase International Limited",
+   "advertiser": "SecuritEase International Limited",
+   "location": "Petone, Wellington",
+   "url": "https://www.seek.co.nz/job/95515993",
+   "posted_at": "2026-10-27T03:22:13Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join SecuritEase as a Senior DevOps Engineer, driving cloud automation, Kubernetes, infrastructure scalability and platform reliability in fintech. Work with modern cloud technologies - Kubernetes, Terraform, AWS and Azure. Make a real impact by driving automation, scalability and platform reliability. Join a global fintech business with opportunities to innovate.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-27T06:28:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-27T06:35:41.305018+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re searching for a Senior DevOps Engineer to help scale and automate our cloud infrastructure, software delivery pipelines, and deployment processes across modern cloud-based environments.\n \n What you\u2019ll do: \n \n Build, configure, and maintain production-grade Kubernetes environments from the ground up across cloud and hybrid infrastructure.\n\n Develop, scale, and maintain robust Infrastructure a",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "bash",
+      "docker",
+      "helm",
+      "jenkins",
+      "kubernetes",
+      "linux",
+      "observability",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "B"
+  },
+  {
    "id": "seek:94990429",
    "source": "Seek",
    "title": "Senior Technical Business Analyst",
@@ -13301,48 +13407,45 @@
    "tier": "B"
   },
   {
-   "id": "linkedin:4484253367",
-   "source": "LinkedIn",
-   "title": "Senior Project Manager - 24 month FTC",
-   "company": "KPMG New Zealand",
-   "advertiser": "KPMG New Zealand",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4484253367/",
-   "posted_at": "2026-10-27T00:00:00Z",
-   "work_type": "Contract",
+   "id": "seek:95568056",
+   "source": "Seek",
+   "title": "Senior Project Manager - Cyber",
+   "company": "Younity",
+   "advertiser": "Younity",
+   "location": "Auckland",
+   "url": "https://www.seek.co.nz/job/95568056",
+   "posted_at": "2026-10-29T02:08:59Z",
+   "work_type": "Contract/Temp",
    "salary": "",
-   "teaser": "",
-   "first_seen": "2026-10-28T04:29:42+00:00",
+   "teaser": "Lead critical cyber security projects in financial services and drive technology initiatives that protect customers and strengthen security. 12 Month Contract Exciting Scope of Work Great Location",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-29T04:55:22+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-10-27T06:36:13.297922+00:00",
-    "status": "not_listed"
+    "status": "not_listed",
+    "checked_at": "2026-10-29T05:04:37.831003+00:00"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
-   "recruiter": false,
+   "recruiter": true,
    "has_description": true,
-   "summary": "The Senior Project Manager leads complex business and technology initiatives from initiation through to delivery, ensuring outcomes are achieved within agreed scope, time, cost and quality expectations. Working across business and technical teams, the role provides strong delivery leadership, governance and stakeholder engagement, proactively manages risks and dependencies, and keeps projects alig",
+   "summary": "Senior Project Manager \u2013 Cyber Security \n Senior Project Manager required to lead cyber security initiatives for a large financial services organisation, driving technology delivery and strengthening security capabilities.\n \nThis is an exciting 12-month contract opportunity for an experienced Project Manager to join a Cyber Security Programme, working with technology teams and key stakeholders to ",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
-      "agile",
-      "budget",
-      "business",
-      "data",
-      "enterprise",
-      "methods",
+      "product",
       "risk",
-      "stakeholders",
-      "vendors"
+      "stakeholders"
      ],
      "route": "iswv",
      "score": 41,
      "tier": "B",
      "reasons": [
-      "not on public INZ list",
+      "via agency: ask who the employer is",
       "contract: needs to be an employee offer"
      ]
     }
@@ -16944,6 +17047,57 @@
       "tools"
      ],
      "route": "aewv",
+     "score": 31,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 31,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4484253367",
+   "source": "LinkedIn",
+   "title": "Senior Project Manager - 24 month FTC",
+   "company": "KPMG New Zealand",
+   "advertiser": "KPMG New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484253367/",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-28T04:29:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-27T06:36:13.297922+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The Senior Project Manager leads complex business and technology initiatives from initiation through to delivery, ensuring outcomes are achieved within agreed scope, time, cost and quality expectations. Working across business and technical teams, the role provides strong delivery leadership, governance and stakeholder engagement, proactively manages risks and dependencies, and keeps projects alig",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "business",
+      "data",
+      "enterprise",
+      "methods",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
      "score": 31,
      "tier": "C",
      "reasons": [
@@ -22916,6 +23070,61 @@
    "tier": "blocked"
   },
   {
+   "id": "seek:95568018",
+   "source": "Seek",
+   "title": "Senior Technical Lead, Cloud Platforms",
+   "company": "Audit New Zealand",
+   "advertiser": "The Audit Office",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95568018",
+   "posted_at": "2026-10-29T02:07:20Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead the way in Azure and Microsoft 365. Design, build and run the cloud platforms supporting our work. Ongoing learning and professional development opportunities. Supportive hybrid working arrangements (flexible hours/days). Health and well-being benefits.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-29T04:55:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-29T05:04:36.211922+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026a Confidential national security clearance for this role. Ordinarily, this means that you must be a New Zealand citizen, be a permanent resident, or hold a current residency class visa and intend to become a c\u2026"
+    },
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026nt process.   For this role you must be able to gain and maintain a Confidential national security clearance for this role. Ordinarily, this means that you must be a New Zealand citizen, be a perman\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Senior Technical Lead, Cloud Platforms \n\n The Audit Office is part of a constitutional framework designed to protect the financial integrity of New Zealand's system of government. It provides independent assurance to Parliament and the public that public organisations are operating and accounting for their performance as Parliament intended.\n\n We're looking for a permanent Senior Technical Lead, C",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 36,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 36,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:95152613",
    "source": "Seek",
    "title": "Technical Business Analyst",
@@ -23009,6 +23218,61 @@
       "data",
       "enterprise",
       "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 32,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 32,
+   "tier": "blocked"
+  },
+  {
+   "id": "seek:95563915",
+   "source": "Seek",
+   "title": "Project Delivery Manager",
+   "company": "Government Communications Security Bureau NZ",
+   "advertiser": "Government Communications Security Bureau",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95563915",
+   "posted_at": "2026-10-28T23:29:53Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Advanced Encryption Programme (AEP) | Encryption Transformation Deliver projects on time, scope and budget Bridge government agencies, tech teams & partners to ensure project success Manage business change",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-29T04:55:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-29T05:04:43.369657+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026Australia for at least 10 years,  AND    Be eligible to obtain a Top Secret Special (TSS) security clearance    Ordinarily, this means you'll have a 15 year checkable background in countries NZSIS V\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Advanced Encryption Programme (AEP) | Encryption Transformation & Strategy \n\n \n Do you want to be part of a team delivering projects that actually matter across government?\n\n Are you driven by the challenge of supporting complex, high-impact solutions, critical to national security?\n\n Do you thrive on building relationships and navigating multifaceted stakeholder needs to ensure success?\n\n \n If yo",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "requirements",
+      "stakeholders",
+      "vendors"
      ],
      "route": "iswv",
      "score": 32,
@@ -23544,7 +23808,13 @@
       "not on public INZ list"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95564086"
+    }
+   ]
   },
   {
    "id": "seek:95298852",
@@ -23565,6 +23835,14 @@
     {
      "source": "Seek",
      "url": "https://www.seek.co.nz/job/95298824"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95564191"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95564140"
     }
    ],
    "fit": "adjacent",

@@ -178,6 +178,10 @@
   "nzbn": "9429041901069",
   "status": "accredited"
  },
+ "audit": {
+  "checked_at": "2026-10-29T05:04:36.211922+00:00",
+  "status": "not_listed"
+ },
  "aura consulting": {
   "checked_at": "2026-10-21T15:00:17.430733+00:00",
   "expiry": "2027-03-19",
@@ -279,6 +283,13 @@
  "careering options": {
   "checked_at": "2026-10-23T07:27:39.192512+00:00",
   "status": "not_listed"
+ },
+ "cassidy construction": {
+  "checked_at": "2026-10-29T05:04:49.892982+00:00",
+  "expiry": "2028-05-29",
+  "legal_name": "CASSIDY CONSTRUCTION LIMITED",
+  "nzbn": "9429037385170",
+  "status": "accredited"
  },
  "centrapay": {
   "checked_at": "2026-10-21T14:31:24.824923+00:00",
@@ -615,7 +626,7 @@
   "status": "accredited"
  },
  "fonterra": {
-  "checked_at": "2026-10-21T14:26:52.260488+00:00",
+  "checked_at": "2026-10-29T05:04:51.673418+00:00",
   "expiry": "2028-08-06",
   "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
   "nzbn": "9429036748471",
@@ -713,7 +724,7 @@
   "status": "accredited"
  },
  "government communications security bureau": {
-  "checked_at": "2026-10-21T14:38:43.065671+00:00",
+  "checked_at": "2026-10-29T05:04:43.369657+00:00",
   "status": "not_listed"
  },
  "h2r consulting": {
@@ -773,6 +784,10 @@
  },
  "humes": {
   "checked_at": "2026-10-28T03:32:45.077500+00:00",
+  "status": "not_listed"
+ },
+ "hynds": {
+  "checked_at": "2026-10-29T05:04:39.878077+00:00",
   "status": "not_listed"
  },
  "iag": {
@@ -978,8 +993,11 @@
   "status": "not_listed"
  },
  "ministry of justice": {
-  "checked_at": "2026-10-21T15:01:13.098151+00:00",
-  "status": "not_listed"
+  "checked_at": "2026-10-29T05:04:47.523288+00:00",
+  "expiry": "2028-10-23",
+  "legal_name": "Ministry of Justice",
+  "nzbn": "9429041908907",
+  "status": "accredited"
  },
  "ministry of social development": {
   "checked_at": "2026-10-23T07:27:22.104955+00:00",
@@ -1392,7 +1410,7 @@
   "status": "not_listed"
  },
  "sourced it recruitment specialists": {
-  "checked_at": "2026-10-21T14:37:51.739511+00:00",
+  "checked_at": "2026-10-29T05:04:46.179541+00:00",
   "status": "not_listed"
  },
  "south taranaki district council": {
@@ -1708,7 +1726,7 @@
   "status": "not_listed"
  },
  "younity": {
-  "checked_at": "2026-10-21T14:38:18.455391+00:00",
+  "checked_at": "2026-10-29T05:04:37.831003+00:00",
   "status": "not_listed"
  },
  "zespri": {
