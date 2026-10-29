@@ -2206,6 +2206,54 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4467183581",
+   "source": "LinkedIn",
+   "title": "Service Delivery Manager",
+   "company": "Deloitte",
+   "advertiser": "Deloitte",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4467183581/",
+   "posted_at": "2026-10-29T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-29T11:42:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-29T11:48:27.026722+00:00",
+    "legal_name": "Deloitte Trading Trust",
+    "nzbn": "9429050617173",
+    "expiry": "2028-07-14"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company Description\n\n Join us. But be you. At Deloitte, you\u2019ll do more than just join something, you\u2019ll add something. You\u2019ve found a place that values your curiosity, passion, and desire to work alongside people on work that matters. There is only one question: What impact do YOU want to make?\n\n The Team You\u2019ll Join\n\n You\u2019ll join Deloitte Technology & Transformation in Auckland as a Manager, Oper",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 87,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 87,
+   "tier": "A"
+  },
+  {
    "id": "seek:94992624",
    "source": "Seek",
    "title": "Business Analyst",
