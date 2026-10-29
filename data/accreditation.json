@@ -483,7 +483,7 @@
   "status": "accredited"
  },
  "downer": {
-  "checked_at": "2026-10-22T06:50:51.221078+00:00",
+  "checked_at": "2026-10-29T07:03:00.309026+00:00",
   "expiry": "2028-06-12",
   "legal_name": "DOWNER NEW ZEALAND LIMITED",
   "nzbn": "9429039194114",
@@ -702,10 +702,10 @@
   "status": "not_listed"
  },
  "gallagher": {
-  "checked_at": "2026-10-22T06:50:58.635922+00:00",
-  "expiry": "2028-09-23",
-  "legal_name": "ARTHUR J. GALLAGHER & CO (NZ) LIMITED",
-  "nzbn": "9429035470076",
+  "checked_at": "2026-10-29T07:02:55.388748+00:00",
+  "expiry": "2028-04-02",
+  "legal_name": "GALLAGHER GROUP LIMITED",
+  "nzbn": "9429040076591",
   "status": "accredited"
  },
  "gallagher security": {
@@ -1152,7 +1152,7 @@
   "status": "accredited"
  },
  "polished concrete": {
-  "checked_at": "2026-10-22T06:50:44.202575+00:00",
+  "checked_at": "2026-10-29T07:02:57.651672+00:00",
   "expiry": "2027-01-19",
   "legal_name": "POLISHED CONCRETE CARE LIMITED",
   "nzbn": "9429046840639",
