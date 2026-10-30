@@ -29,6 +29,10 @@
   "checked_at": "2026-10-23T07:28:19.547116+00:00",
   "status": "not_listed"
  },
+ "access apac": {
+  "checked_at": "2026-10-30T05:47:26.217841+00:00",
+  "status": "not_listed"
+ },
  "aderant": {
   "checked_at": "2026-10-21T14:31:15.560629+00:00",
   "status": "not_listed"
@@ -501,7 +505,7 @@
   "status": "not_listed"
  },
  "dxc": {
-  "checked_at": "2026-10-21T14:27:31.304474+00:00",
+  "checked_at": "2026-10-30T05:47:27.885890+00:00",
   "expiry": "2028-08-18",
   "legal_name": "DXC TECHNOLOGY NZ LIMITED",
   "nzbn": "9429035677499",
@@ -747,7 +751,7 @@
   "status": "not_listed"
  },
  "halter": {
-  "checked_at": "2026-10-21T14:32:20.496467+00:00",
+  "checked_at": "2026-10-30T05:47:23.959789+00:00",
   "expiry": "2028-04-28",
   "legal_name": "HALTER LIMITED",
   "nzbn": "9429042479222",
@@ -796,6 +800,10 @@
   "legal_name": "HIGGINS CONTRACTORS LIMITED",
   "nzbn": "9429040922850",
   "status": "accredited"
+ },
+ "hired": {
+  "checked_at": "2026-10-30T05:47:33.338083+00:00",
+  "status": "not_listed"
  },
  "hr contracting": {
   "checked_at": "2026-10-21T14:38:29.301920+00:00",
@@ -1188,6 +1196,13 @@
   "expiry": "2028-04-10",
   "legal_name": "PORT OF TAURANGA LIMITED",
   "nzbn": "9429039540300",
+  "status": "accredited"
+ },
+ "post": {
+  "checked_at": "2026-10-30T05:47:30.635926+00:00",
+  "expiry": "2027-07-10",
+  "legal_name": "AGM GROUP PVT LIMITED",
+  "nzbn": "9429051254032",
   "status": "accredited"
  },
  "potentia": {

@@ -251,7 +251,13 @@
    },
    "visa_ready": true,
    "score": 99,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4483407844/"
+    }
+   ]
   },
   {
    "id": "seek:95590658",
@@ -305,6 +311,55 @@
    },
    "visa_ready": true,
    "score": 96,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4484807827",
+   "source": "LinkedIn",
+   "title": "Senior Azure Cloud Engineer",
+   "company": "DXC Technology",
+   "advertiser": "DXC Technology",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484807827/",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-30T05:41:51+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-30T05:47:27.885890+00:00",
+    "legal_name": "DXC TECHNOLOGY NZ LIMITED",
+    "nzbn": "9429035677499",
+    "expiry": "2028-08-18"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n Key Responsibilities\n\n Azure Cloud Operations\n\n Operate, support and troubleshoot production Azure environments across compute, storage, networking, identity and PaaS services, including VMs/VMSS, App Service, Azure Functions, API Management, Azure SQL, Storage and Key Vault.\n Execute service requests and changes within defined scope and SLAs, including Azure Front Door / Applica",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "bash",
+      "python",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
    "tier": "A"
   },
   {
@@ -3638,6 +3693,55 @@
       "tools"
      ],
      "route": "aewv",
+     "score": 81,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 81,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95590345",
+   "source": "Seek",
+   "title": "Hardware Delivery Lead",
+   "company": "Halter",
+   "advertiser": "Halter",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95590345",
+   "posted_at": "2026-10-30T04:49:55Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Coordinate hardware delivery programs across cross-functional teams at an agriculture hardware company.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-30T05:41:51+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-30T05:47:23.959789+00:00",
+    "legal_name": "HALTER LIMITED",
+    "nzbn": "9429042479222",
+    "expiry": "2028-04-28"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the role \n Delivery is a new function dedicated to helping engineers and technical teams across Halter do their best work. As the company scales, there is a growing need to keep all the teams working in lock-step with each other. One of the most critical jobs at Halter is to make sure that priorities are aligned and vague, nebulous problems get turned into firm, actionable plans.\n Key respon",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "product",
+      "vendors"
+     ],
+     "route": "iswv",
      "score": 81,
      "tier": "A",
      "reasons": [
@@ -7430,55 +7534,6 @@
    }
   },
   {
-   "id": "seek:95543800",
-   "source": "Seek",
-   "title": "Senior Systems Engineer",
-   "company": "RWA People",
-   "advertiser": "RWA People",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95543800",
-   "posted_at": "2026-10-28T04:24:26Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Our Client is looking for a technically strong, hands-on Level 3 engineer to join our Platform Services Team in Auckland Microsoft Servers, Microsoft 365, Azure (CAF/WAF) and modern workplace services AVD, RDS or FSLogix, Hyper-V, Linux, Microsoft Defender, Purview Need someone with MSP experience",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-28T10:14:39+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:26:37.531128+00:00",
-    "expiry": "2026-11-20",
-    "legal_name": "RWA PEOPLE LIMITED",
-    "nzbn": "9429033198132",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "We\u2019re looking for a Senior Systems Engineer to join a technical team delivering infrastructure support, project implementation and modern workplace services across multiple client hybrid environments.\n\n This is a senior, client-facing technical role combining Level 3 escalations, hands-on project delivery and ongoing platform improvement. You\u2019ll work across Windows Server, Microsoft 365, Azure, vi",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "linux",
-      "security"
-     ],
-     "route": "iswv",
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 66,
-   "tier": "A"
-  },
-  {
    "id": "seek:95588599",
    "source": "Seek",
    "title": "Business Analyst - Implementation",
@@ -7581,7 +7636,13 @@
    },
    "visa_ready": false,
    "score": 66,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484821130/"
+    }
+   ]
   },
   {
    "id": "seek:94812612",
@@ -9005,6 +9066,55 @@
      "skills": [
       "observability",
       "sre"
+     ],
+     "route": "iswv",
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 56,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95543800",
+   "source": "Seek",
+   "title": "Senior Systems Engineer",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95543800",
+   "posted_at": "2026-10-28T04:24:26Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Our Client is looking for a technically strong, hands-on Level 3 engineer to join our Platform Services Team in Auckland Microsoft Servers, Microsoft 365, Azure (CAF/WAF) and modern workplace services AVD, RDS or FSLogix, Hyper-V, Linux, Microsoft Defender, Purview Need someone with MSP experience",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T10:14:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-21T14:26:37.531128+00:00",
+    "expiry": "2026-11-20",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for a Senior Systems Engineer to join a technical team delivering infrastructure support, project implementation and modern workplace services across multiple client hybrid environments.\n\n This is a senior, client-facing technical role combining Level 3 escalations, hands-on project delivery and ongoing platform improvement. You\u2019ll work across Windows Server, Microsoft 365, Azure, vi",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "linux",
+      "security"
      ],
      "route": "iswv",
      "score": 56,
@@ -10561,56 +10671,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95544203",
-   "source": "Seek",
-   "title": "Technical Product Owner",
-   "company": "New Zealand Automobile Association",
-   "advertiser": "New Zealand Automobile Association Inc.",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95544203",
-   "posted_at": "2026-10-28T04:37:33Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Own the platform connecting AA's systems, data and partners. Lead integration strategy, engineering teams and innovation. Lead AA's integration platform strategy. Guide and develop a team of engineers. Deliver scalable API and integration solutions.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-28T04:50:31+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-28T04:56:02.413667+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Working with the AA | Me mahi tahi t\u0101tou ki AA \n \n\nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a million M",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "cloud",
-      "data",
-      "product",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 48,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 48,
-   "tier": "B"
-  },
-  {
    "id": "seek:94825196",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -10887,56 +10947,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95543721",
-   "source": "Seek",
-   "title": "Agile Delivery Lead",
-   "company": "Absolute IT",
-   "advertiser": "Absolute IT Limited",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95543721",
-   "posted_at": "2026-10-28T04:22:05Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Lead Agile delivery and support a Product Model transformation, driving capability uplift and successful business outcomes. Agile delivery and organisational change focus Azure and Microsoft technology environment Major Product Model transformation programme",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-28T04:29:42+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-27T06:35:46.137984+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "We are seeking an experienced Agile Delivery Lead to join a major business and technology programme on an initial contract through to March 2027.\n\nAs part of an organisation-wide shift to a Product Model, this role will support the adoption of new ways of working that enhance how products are managed, delivered, and continuously improved. The transformation will require changes across people, proc",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "cloud",
-      "data",
-      "product",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 47,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 47,
-   "tier": "B"
   },
   {
    "id": "seek:94989332",
@@ -13015,6 +13025,54 @@
    },
    "visa_ready": false,
    "score": 43,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95600954",
+   "source": "Seek",
+   "title": "Product Manager",
+   "company": "Access APAC",
+   "advertiser": "Access APAC",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95600954",
+   "posted_at": "2026-10-30T05:32:15Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Product Manager to work on Tradify, transforming how tradespeople run their businesses. Hybrid working option, based in a central city location Learn and grow in a high energy environment Have fun working in a talented team!",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-30T05:41:51+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-30T05:47:26.217841+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We\u2019re looking for people to join the Access family, who share our passion for believing in better, and who will help us continue to grow.\u00a0\u00a0 \n Love Work. Love Life. Be You. - is central to our success and how we give our customers the freedom to do more of what's important to them.\n What does Access offer you?\u00a0 \n We offer a blended approach to office working, encouraging you to collaborate and conn",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "cloud",
+      "data",
+      "product"
+     ],
+     "route": "aewv",
+     "score": 42,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 42,
    "tier": "B"
   },
   {
@@ -15097,6 +15155,56 @@
    "tier": "B"
   },
   {
+   "id": "seek:95544203",
+   "source": "Seek",
+   "title": "Technical Product Owner",
+   "company": "New Zealand Automobile Association",
+   "advertiser": "New Zealand Automobile Association Inc.",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95544203",
+   "posted_at": "2026-10-28T04:37:33Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Own the platform connecting AA's systems, data and partners. Lead integration strategy, engineering teams and innovation. Lead AA's integration platform strategy. Guide and develop a team of engineers. Deliver scalable API and integration solutions.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-28T04:56:02.413667+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi t\u0101tou ki AA \n \n\nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a million M",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:94850159",
    "source": "Seek",
    "title": "Integration Project Manager",
@@ -15440,6 +15548,56 @@
       "data",
       "product",
       "requirements",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 37,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 37,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95543721",
+   "source": "Seek",
+   "title": "Agile Delivery Lead",
+   "company": "Absolute IT",
+   "advertiser": "Absolute IT Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95543721",
+   "posted_at": "2026-10-28T04:22:05Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Lead Agile delivery and support a Product Model transformation, driving capability uplift and successful business outcomes. Agile delivery and organisational change focus Azure and Microsoft technology environment Major Product Model transformation programme",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:29:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-27T06:35:46.137984+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "We are seeking an experienced Agile Delivery Lead to join a major business and technology programme on an initial contract through to March 2027.\n\nAs part of an organisation-wide shift to a Product Model, this role will support the adoption of new ways of working that enhance how products are managed, delivered, and continuously improved. The transformation will require changes across people, proc",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "data",
+      "product",
       "stakeholders"
      ],
      "route": "iswv",
@@ -20276,51 +20434,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95544346",
-   "source": "Seek",
-   "title": "Senior Integration Automation Engineer",
-   "company": "New Zealand Automobile Association",
-   "advertiser": "New Zealand Automobile Association Inc.",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95544346",
-   "posted_at": "2026-10-28T04:41:55Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead automation and quality engineering across AA's integration platform, building reliable, secure and scalable solutions. Build integration automation frameworks. Drive quality through CI/CD pipelines. Lead testing and engineering standards.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-28T04:50:31+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-28T04:56:02.413667+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Working with the AA | Me mahi tahi tatou ki AA \n \n \n \nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a millio",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "jenkins"
-     ],
-     "route": "iswv",
-     "score": 18,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 18,
-   "tier": "C"
-  },
-  {
    "id": "linkedin:4484597842",
    "source": "LinkedIn",
    "title": "Senior Change Manager",
@@ -21672,6 +21785,51 @@
      "fit": "core",
      "skills": [
       "sre"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95544346",
+   "source": "Seek",
+   "title": "Senior Integration Automation Engineer",
+   "company": "New Zealand Automobile Association",
+   "advertiser": "New Zealand Automobile Association Inc.",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95544346",
+   "posted_at": "2026-10-28T04:41:55Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead automation and quality engineering across AA's integration platform, building reliable, secure and scalable solutions. Build integration automation frameworks. Drive quality through CI/CD pipelines. Lead testing and engineering standards.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-28T04:50:31+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-28T04:56:02.413667+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Working with the AA | Me mahi tahi tatou ki AA \n \n \n \nFor over 120 years the AA have been helping Kiwis on their adventures! Today, we're one of New Zealand's most respected and trusted brands. From our humble beginnings as a motoring enthusiast's club, the New Zealand AA (Automobile Association) has grown into a large, dynamic organisation offering many services and products to more than a millio",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins"
      ],
      "route": "iswv",
      "score": 8,
