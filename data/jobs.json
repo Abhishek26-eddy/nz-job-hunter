@@ -5489,6 +5489,52 @@
    ]
   },
   {
+   "id": "seek:95598312",
+   "source": "Seek",
+   "title": "Cloud Platform Engineer",
+   "company": "Taupo District Council",
+   "advertiser": "Taupo District Council",
+   "location": "Taupo, Waikato",
+   "url": "https://www.seek.co.nz/job/95598312",
+   "posted_at": "2026-10-30T03:57:48Z",
+   "work_type": "Full time",
+   "salary": "Great location",
+   "teaser": "Senior infrastructure role combining hands-on systems expertise with the opportunity to own and drive our growing hybrid environment. Take ownership of a critical environment and help shape what comes next Drive meaningful change and improvements across our organisation Grow your career in a hands-on, Taup\u014d-based role with real impact",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-30T04:09:06+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-30T04:14:42.428957+00:00",
+    "legal_name": "Taupo District Council",
+    "nzbn": "9429000034876",
+    "expiry": "2028-08-11"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This is a Taup\u014d-based role, offering interesting, future-focused work in a great place to call home.\n WHO ARE WE? KO WAI M\u0100TOU? \n Every day brings new opportunities when you are part of our team at Taup\u014d District Council. Our diverse organisation is recognised for its vibrant energy, optimism for the future, ambition to act boldly and willingness to do things differently to secure the best result.",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 75,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 75,
+   "tier": "A"
+  },
+  {
    "id": "seek:94931388",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -20263,6 +20309,48 @@
       "jenkins"
      ],
      "route": "iswv",
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4484597842",
+   "source": "LinkedIn",
+   "title": "Senior Change Manager",
+   "company": "ACC New Zealand",
+   "advertiser": "ACC New Zealand",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4484597842/",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-10-30T04:09:06+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-30T04:14:45.060104+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Shape strategic change across a range of key ACC business initiatives \n \n Join a high-impact team influencing change and delivery outcomes\n \n Flexible working and 9% ACC superannuation contribution \n Permanent | Wellington preferred\n \n About us | M\u014d m\u0101tou\n \nACC is a trusted and high-performing organisation, providing care, supporting recovery and promoting injury prevention, now and into the futur",
+   "for": {
+    "wife": {
+     "fit": "adjacent",
+     "skills": [
+      "stakeholders"
+     ],
+     "route": "aewv",
      "score": 18,
      "tier": "C",
      "reasons": [

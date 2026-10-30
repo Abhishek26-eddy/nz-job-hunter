@@ -11,7 +11,7 @@
   "status": "not_listed"
  },
  "acc": {
-  "checked_at": "2026-10-23T07:27:45.694182+00:00",
+  "checked_at": "2026-10-30T04:14:45.060104+00:00",
   "status": "not_listed"
  },
  "accentuate consulting": {
@@ -1559,6 +1559,13 @@
  "taumata arowai": {
   "checked_at": "2026-10-23T07:27:59.233528+00:00",
   "status": "not_listed"
+ },
+ "taupo district council": {
+  "checked_at": "2026-10-30T04:14:42.428957+00:00",
+  "expiry": "2028-08-11",
+  "legal_name": "Taupo District Council",
+  "nzbn": "9429000034876",
+  "status": "accredited"
  },
  "te nehenehenui trust": {
   "checked_at": "2026-10-21T15:01:14.324053+00:00",
