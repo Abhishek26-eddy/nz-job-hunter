@@ -23351,6 +23351,62 @@
    }
   },
   {
+   "id": "seek:95603939",
+   "source": "Seek",
+   "title": "Oracle ERP Cloud Support Consultant - Contract, NZ Citizen",
+   "company": "James & Monroe",
+   "advertiser": "James & Monroe",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95603939",
+   "posted_at": "2026-10-30T06:57:05Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Oracle ERP Cloud functional support consultant for Wellington-based consulting practice.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-30T07:04:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-10-30T07:10:08.628987+00:00",
+    "legal_name": "JAMES & MONROE NZ PTY. LTD.",
+    "nzbn": "9429031720625",
+    "expiry": "2027-04-02"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026llent business analysis experience together with a passion for ERP systems and concepts   Must be a New Zealand Citizen for security clearance purposes   Degree in business or accounting preferable   About us\u2026"
+    },
+    {
+     "why": "Needs NZ security clearance (usually citizens)",
+     "quote": "\u2026together with a passion for ERP systems and concepts   Must be a New Zealand Citizen for security clearance purposes   Degree in business or accounting preferable   About us   Our culture is unique\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the role \n Due to the growth of J&M ERP consulting practice, we are seeking an experienced Oracle ERP Cloud functional support consultant to join our team in Wellington, New Zealand. The successful candidate will share our vision for looking after unique set of customers, be an active contributor to the team environment, have deep functional knowledge and be able to point to hands-on end-to-",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 47,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 47,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:94959639",
    "source": "Seek",
    "title": "Senior Platform Engineer",
