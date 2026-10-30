@@ -379,7 +379,7 @@
   "status": "accredited"
  },
  "connexa": {
-  "checked_at": "2026-10-27T06:35:48.058015+00:00",
+  "checked_at": "2026-10-30T06:49:23.556228+00:00",
   "status": "not_listed"
  },
  "consult recruitment": {
@@ -414,7 +414,7 @@
   "status": "not_listed"
  },
  "dataannotation": {
-  "checked_at": "2026-10-27T06:36:08.137518+00:00",
+  "checked_at": "2026-10-30T06:49:30.409803+00:00",
   "status": "not_listed"
  },
  "databricks": {
@@ -931,7 +931,7 @@
   "status": "not_listed"
  },
  "laminex": {
-  "checked_at": "2026-10-27T06:35:57.470270+00:00",
+  "checked_at": "2026-10-30T06:49:28.805160+00:00",
   "status": "not_listed"
  },
  "les mills": {
@@ -1602,7 +1602,7 @@
   "status": "not_listed"
  },
  "technical recruitment": {
-  "checked_at": "2026-10-27T06:36:00.102521+00:00",
+  "checked_at": "2026-10-30T06:49:27.032989+00:00",
   "status": "not_listed"
  },
  "teltrac communications": {
