@@ -8,18 +8,18 @@
   "hash": "713a4f26734c349717cab10e1e330d3db98d9911a5154f9053318da2f30d9188",
   "checked_at": "2026-10-23T01:57:13+00:00"
  },
- "last_run": "2026-10-30T03:27:45+00:00",
+ "last_run": "2026-10-30T03:48:16+00:00",
  "first_run_at": "2026-10-21T14:22:29+00:00",
- "new_this_run": 0,
+ "new_this_run": 1,
  "emailed_this_run": 0,
  "totals": {
-  "A": 141,
+  "A": 142,
   "B": 148,
   "C": 119,
   "blocked": 40
  },
  "errors": [],
- "accreditation_lookups": 0,
+ "accreditation_lookups": 2,
  "visa_ready_this_run": 0,
  "profiles": [
   "abhishek",

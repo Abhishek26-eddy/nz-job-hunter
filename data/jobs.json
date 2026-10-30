@@ -7487,6 +7487,57 @@
    "tier": "A"
   },
   {
+   "id": "seek:95597381",
+   "source": "Seek",
+   "title": "Product Manager - Cards and Payments",
+   "company": "Randstad",
+   "advertiser": "Randstad Digital",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95597381",
+   "posted_at": "2026-10-30T03:32:16Z",
+   "work_type": "Full time",
+   "salary": "$150k - $160k p.a., Hybrid Environment, Weekly Pay",
+   "teaser": "12-month FTC in Auckland CBD: Own Business Cards performance, growth, and delivery embedded in a top bank. Requires cards and payments expertise. 12-Month FTC embedded in a top Auckland bank Full ownership of Business Cards growth and performance Proven cards, payments, and banking lifecycle experience",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-10-30T03:48:16+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-10-30T03:53:59.251159+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "The Company \n Our client is an established global payments and financial technology enterprise whose network infrastructure connects consumers, businesses, and institutions across the world. Partnering directly with major retail banks, commercial financial institutions, and corporate enterprises, they deliver end-to-end commercial strategy, operational modernisation, and portfolio optimisation.\n T",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "consulting",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "seek:94812612",
    "source": "Seek",
    "title": "Senior Project Manager",
