@@ -146,6 +146,68 @@
    "tier": "A"
   },
   {
+   "id": "seek:95632513",
+   "source": "Seek",
+   "title": "Delivery Project Manager",
+   "company": "EROAD",
+   "advertiser": "EROAD Limited",
+   "location": "Albany, Auckland",
+   "url": "https://www.seek.co.nz/job/95632513",
+   "posted_at": "2026-11-02T03:41:58Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Own complex delivery end to end and shape how transformation gets done, with real senior exposure Drive multiple workstreams and vendors through real complexity Own RAID, governance and executive reporting across Agile and SAFe Get direct senior exposure and real influence over delivery",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-02T05:09:37+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484318250/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-02T05:20:28.587437+00:00",
+    "legal_name": "EROAD LIMITED",
+    "nzbn": "9429037254377",
+    "expiry": "2028-08-10"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "ABOUT THE COMPANY \nEROAD is a global fleet management technology company, listed on both the NZX and ASX, helping fleet operators run safer and more compliant operations through its connected hardware and software platform. As the business continues to grow, it's looking for a Delivery Project Manager (12 months fixed term) to lead complex technology and transformation initiatives from its Albany ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "methods",
+      "requirements",
+      "risk",
+      "sdlc",
+      "stakeholders",
+      "tools",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 99,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 99,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4484309329",
    "source": "LinkedIn",
    "title": "Product Manager",
@@ -194,6 +256,114 @@
    },
    "visa_ready": true,
    "score": 96,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95633593",
+   "source": "Seek",
+   "title": "ERP Business Analyst (D365)",
+   "company": "EROAD",
+   "advertiser": "EROAD Limited",
+   "location": "Albany, Auckland",
+   "url": "https://www.seek.co.nz/job/95633593",
+   "posted_at": "2026-11-02T04:12:34Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Drive D365 F&O delivery at EROAD, a global fleet tech leader on NZX and ASX. Shape Finance, AR and Billing solutions across real D365 F&O programmes Lead workshops, design functional specs and coordinate UAT with stakeholders Grow inside a BA chapter at a fast-scaling, publicly listed tech company",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-02T05:09:37+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4484305702/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-02T05:20:28.587437+00:00",
+    "legal_name": "EROAD LIMITED",
+    "nzbn": "9429037254377",
+    "expiry": "2028-08-10"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "ABOUT THE COMPANY \nEROAD is a Kiwi success story in fleet management technology, listed on both the NZX and ASX and growing fast across New Zealand, Australia, the Philippines and the USA. We're hiring a Senior Business Analyst / Functional Consultant to bring deep Microsoft Dynamics 365 F&O expertise into our Finance delivery work, reporting into our Business Analyst Chapter Lead.\n\n WHAT YOU'LL D",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "enterprise",
+      "requirements",
+      "sql",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 93,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 93,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4486120273",
+   "source": "LinkedIn",
+   "title": "Data Product Manager",
+   "company": "Fonterra",
+   "advertiser": "Fonterra",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486120273/",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-02T05:09:37+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-29T05:04:51.673418+00:00",
+    "expiry": "2028-08-06",
+    "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
+    "nzbn": "9429036748471",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Imagine Tomorrow with Us | Ata whakaarohia t\u014d \u0101p\u014dp\u014d \n \n\n At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves. \n \n\n Whether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution. \n \n\n Owned by New Zealand dairy farmers and supported by a dedicated t",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "business",
+      "data",
+      "product",
+      "risk"
+     ],
+     "route": "aewv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
    "tier": "A"
   },
   {
@@ -8157,7 +8327,13 @@
    },
    "visa_ready": true,
    "score": 63,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486117435/"
+    }
+   ]
   },
   {
    "id": "seek:94960999",
@@ -8507,6 +8683,49 @@
    "recruiter": false,
    "has_description": true,
    "summary": "Company Description\n\n Join us. But be you. At Deloitte, you\u2019ll do more than just join something, you\u2019ll add something. You\u2019ve found a place that values your curiosity, passion, and desire to work alongside brilliant people on the things that really matter. There really is only one question: What impact do YOU want to make?\n\nOur Oracle team is looking for a senior Oracle Cloud HCM Functional Lead t",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 60,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 60,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4486124102",
+   "source": "LinkedIn",
+   "title": "Systems Engineer (L3 Support)",
+   "company": "First Focus",
+   "advertiser": "First Focus",
+   "location": "Nelson, Nelson, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486124102/",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-02T05:09:37+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-02T05:20:31.849213+00:00",
+    "legal_name": "FIRST FOCUS IT (NZ) LIMITED",
+    "nzbn": "9429033175751",
+    "expiry": "2028-08-06"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Let's be honest. If you've worked in IT support for a while, you've probably discovered that \"just a quick question\" is rarely quick, and \"it's probably nothing\" almost always turns into something.\n\nIf you enjoy solving real problems, building trusted client relationships, and working with a team that actually has your back, you'll probably like it here.\n\n Who we are (and why you might actually li",
    "for": {
     "abhishek": {
      "fit": "adjacent",
@@ -13938,6 +14157,10 @@
     {
      "source": "Seek",
      "url": "https://www.seek.co.nz/job/95630802"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4485430759/"
     }
    ]
   },

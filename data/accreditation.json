@@ -68,7 +68,7 @@
   "status": "accredited"
  },
  "alignerr": {
-  "checked_at": "2026-10-27T06:36:05.916070+00:00",
+  "checked_at": "2026-11-02T05:20:35.648010+00:00",
   "status": "not_listed"
  },
  "alstef": {
@@ -311,6 +311,10 @@
  },
  "careering options": {
   "checked_at": "2026-10-23T07:27:39.192512+00:00",
+  "status": "not_listed"
+ },
+ "carepatron": {
+  "checked_at": "2026-11-02T05:20:34.054681+00:00",
   "status": "not_listed"
  },
  "cassidy construction": {
@@ -601,7 +605,7 @@
   "status": "not_listed"
  },
  "eroad": {
-  "checked_at": "2026-10-21T14:30:36.167854+00:00",
+  "checked_at": "2026-11-02T05:20:28.587437+00:00",
   "expiry": "2028-08-10",
   "legal_name": "EROAD LIMITED",
   "nzbn": "9429037254377",
@@ -649,7 +653,7 @@
   "status": "not_listed"
  },
  "first focus": {
-  "checked_at": "2026-10-21T15:01:34.621528+00:00",
+  "checked_at": "2026-11-02T05:20:31.849213+00:00",
   "expiry": "2028-08-06",
   "legal_name": "FIRST FOCUS IT (NZ) LIMITED",
   "nzbn": "9429033175751",
