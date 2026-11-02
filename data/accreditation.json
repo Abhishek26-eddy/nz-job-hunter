@@ -10,6 +10,10 @@
   "checked_at": "2026-10-27T06:35:46.137984+00:00",
   "status": "not_listed"
  },
+ "ac3": {
+  "checked_at": "2026-11-02T03:50:06.020625+00:00",
+  "status": "not_listed"
+ },
  "acc": {
   "checked_at": "2026-10-30T04:14:45.060104+00:00",
   "status": "not_listed"
@@ -50,8 +54,11 @@
   "status": "not_listed"
  },
  "aia": {
-  "checked_at": "2026-10-22T12:31:50.391093+00:00",
-  "status": "not_listed"
+  "checked_at": "2026-11-02T03:50:02.188482+00:00",
+  "expiry": "2028-10-27",
+  "legal_name": "AIA SERVICES NEW ZEALAND LIMITED",
+  "nzbn": "9429037534295",
+  "status": "accredited"
  },
  "air": {
   "checked_at": "2026-10-21T15:00:26.863849+00:00",
@@ -80,6 +87,13 @@
   "expiry": "2028-10-12",
   "legal_name": "ANDO INSURANCE GROUP LIMITED",
   "nzbn": "9429041788264",
+  "status": "accredited"
+ },
+ "antarctica": {
+  "checked_at": "2026-11-02T03:50:51.146800+00:00",
+  "expiry": "2028-06-16",
+  "legal_name": "New Zealand Antarctic Institute",
+  "nzbn": "9429041909836",
   "status": "accredited"
  },
  "anz": {
@@ -194,7 +208,7 @@
   "status": "accredited"
  },
  "aurora energy": {
-  "checked_at": "2026-10-21T15:01:56.806708+00:00",
+  "checked_at": "2026-11-02T03:50:47.999084+00:00",
   "expiry": "2028-08-03",
   "legal_name": "AURORA ENERGY LIMITED",
   "nzbn": "9429039214270",
@@ -209,7 +223,7 @@
   "status": "not_listed"
  },
  "bank of": {
-  "checked_at": "2026-10-23T07:28:31.202486+00:00",
+  "checked_at": "2026-11-02T03:50:58.111008+00:00",
   "expiry": "2028-10-09",
   "legal_name": "BANK OF NEW ZEALAND",
   "nzbn": "9429039342188",
@@ -251,7 +265,7 @@
   "status": "accredited"
  },
  "beyond recruitment": {
-  "checked_at": "2026-10-30T03:12:21.274792+00:00",
+  "checked_at": "2026-11-02T03:49:53.573201+00:00",
   "status": "not_listed"
  },
  "blood service": {
@@ -357,7 +371,7 @@
   "status": "not_listed"
  },
  "comaea consulting": {
-  "checked_at": "2026-10-29T06:21:17.016760+00:00",
+  "checked_at": "2026-11-02T03:50:52.817193+00:00",
   "status": "not_listed"
  },
  "comspek international": {
@@ -389,6 +403,13 @@
   "nzbn": "9429047259775",
   "status": "accredited"
  },
+ "contact energy": {
+  "checked_at": "2026-11-02T03:50:07.455987+00:00",
+  "expiry": "2028-09-14",
+  "legal_name": "CONTACT ENERGY LIMITED",
+  "nzbn": "9429038549977",
+  "status": "accredited"
+ },
  "convergence partners": {
   "checked_at": "2026-10-21T14:38:09.239132+00:00",
   "status": "not_listed"
@@ -403,6 +424,10 @@
  },
  "crescent consulting": {
   "checked_at": "2026-10-21T14:38:37.453677+00:00",
+  "status": "not_listed"
+ },
+ "customs service": {
+  "checked_at": "2026-11-02T03:50:11.311328+00:00",
   "status": "not_listed"
  },
  "cybercx": {
@@ -437,6 +462,10 @@
   "legal_name": "DIGITAL DATA SYSTEMS LIMITED",
   "nzbn": "9429036076642",
   "status": "accredited"
+ },
+ "defence force": {
+  "checked_at": "2026-11-02T03:49:56.605165+00:00",
+  "status": "not_listed"
  },
  "deloitte": {
   "checked_at": "2026-10-29T11:48:27.026722+00:00",
@@ -546,11 +575,14 @@
   "status": "not_listed"
  },
  "enterprise recruitment": {
-  "checked_at": "2026-10-23T07:27:27.382702+00:00",
-  "status": "not_listed"
+  "checked_at": "2026-11-02T03:50:18.857325+00:00",
+  "expiry": "2027-08-20",
+  "legal_name": "ENTERPRISE RECRUITMENT LIMITED",
+  "nzbn": "9429037765033",
+  "status": "accredited"
  },
  "envato": {
-  "checked_at": "2026-10-28T03:32:54.227842+00:00",
+  "checked_at": "2026-11-02T03:51:00.114302+00:00",
   "status": "not_listed"
  },
  "environment canterbury": {
@@ -643,6 +675,10 @@
   "legal_name": "FLEXITIME LIMITED",
   "nzbn": "9429031861045",
   "status": "accredited"
+ },
+ "fluid construction": {
+  "checked_at": "2026-11-02T03:50:28.354566+00:00",
+  "status": "not_listed"
  },
  "fonterra": {
   "checked_at": "2026-10-29T05:04:51.673418+00:00",
@@ -784,7 +820,7 @@
   "status": "not_listed"
  },
  "health te whatu ora": {
-  "checked_at": "2026-10-22T06:50:55.443219+00:00",
+  "checked_at": "2026-11-02T03:50:25.467764+00:00",
   "expiry": "2028-05-11",
   "legal_name": "Health New Zealand",
   "nzbn": "9429050678402",
@@ -810,11 +846,11 @@
   "status": "not_listed"
  },
  "humes": {
-  "checked_at": "2026-10-28T03:32:45.077500+00:00",
+  "checked_at": "2026-11-02T03:50:21.759577+00:00",
   "status": "not_listed"
  },
  "hynds": {
-  "checked_at": "2026-10-29T05:04:39.878077+00:00",
+  "checked_at": "2026-11-02T03:50:33.126570+00:00",
   "status": "not_listed"
  },
  "iag": {
@@ -838,6 +874,13 @@
  "ignite spark": {
   "checked_at": "2026-10-21T14:38:27.343915+00:00",
   "status": "not_listed"
+ },
+ "immersve": {
+  "checked_at": "2026-11-02T03:50:39.946131+00:00",
+  "expiry": "2027-07-31",
+  "legal_name": "IMMERSVE LIMITED",
+  "nzbn": "9429050083725",
+  "status": "accredited"
  },
  "industrial marine electrical": {
   "checked_at": "2026-10-21T14:27:49.555639+00:00",
@@ -963,7 +1006,7 @@
   "status": "accredited"
  },
  "lexel systems": {
-  "checked_at": "2026-10-21T15:00:13.832284+00:00",
+  "checked_at": "2026-11-02T03:50:09.636983+00:00",
   "expiry": "2027-05-19",
   "legal_name": "LEXEL SYSTEMS LIMITED",
   "nzbn": "9429032259261",
@@ -978,7 +1021,7 @@
   "status": "not_listed"
  },
  "ltimindtree": {
-  "checked_at": "2026-10-21T14:38:44.035966+00:00",
+  "checked_at": "2026-11-02T03:50:44.264663+00:00",
   "status": "not_listed"
  },
  "luminous talent": {
@@ -1045,7 +1088,7 @@
   "status": "not_listed"
  },
  "momentum consulting": {
-  "checked_at": "2026-10-21T14:29:36.189942+00:00",
+  "checked_at": "2026-11-02T03:50:15.226941+00:00",
   "expiry": "2027-04-15",
   "legal_name": "MOMENTUM CONSULTING GROUP LIMITED",
   "nzbn": "9429038335914",
@@ -1081,7 +1124,7 @@
   "status": "not_listed"
  },
  "one": {
-  "checked_at": "2026-10-21T14:31:37.418385+00:00",
+  "checked_at": "2026-11-02T03:50:38.088318+00:00",
   "expiry": "2028-06-26",
   "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
   "nzbn": "9429037753115",
@@ -1213,7 +1256,7 @@
   "status": "accredited"
  },
  "potentia": {
-  "checked_at": "2026-10-21T14:27:54.190670+00:00",
+  "checked_at": "2026-11-02T03:50:16.684212+00:00",
   "status": "not_listed"
  },
  "powerco": {
@@ -1309,7 +1352,7 @@
   "status": "accredited"
  },
  "recruitnet consulting": {
-  "checked_at": "2026-10-28T03:32:47.601433+00:00",
+  "checked_at": "2026-11-02T03:50:34.618169+00:00",
   "status": "not_listed"
  },
  "red hat": {
@@ -1370,7 +1413,7 @@
   "status": "accredited"
  },
  "rwr construction": {
-  "checked_at": "2026-10-30T03:12:23.197512+00:00",
+  "checked_at": "2026-11-02T03:50:30.777975+00:00",
   "status": "not_listed"
  },
  "sailpoint": {
@@ -1407,7 +1450,7 @@
   "status": "accredited"
  },
  "science": {
-  "checked_at": "2026-10-28T15:17:45.623273+00:00",
+  "checked_at": "2026-11-02T03:50:46.349685+00:00",
   "status": "not_listed"
  },
  "securitease": {
@@ -1558,6 +1601,10 @@
   "checked_at": "2026-10-21T14:37:59.987031+00:00",
   "status": "not_listed"
  },
+ "system c": {
+  "checked_at": "2026-11-02T03:50:49.636968+00:00",
+  "status": "not_listed"
+ },
  "tainui": {
   "checked_at": "2026-10-28T03:32:52.569391+00:00",
   "status": "not_listed"
@@ -1656,6 +1703,13 @@
   "checked_at": "2026-10-23T07:27:15.397734+00:00",
   "status": "not_listed"
  },
+ "transport agency waka kotahi": {
+  "checked_at": "2026-11-02T03:50:54.234368+00:00",
+  "expiry": "2028-07-08",
+  "legal_name": "New Zealand Transport Agency",
+  "nzbn": "9429041910085",
+  "status": "accredited"
+ },
  "transpower": {
   "checked_at": "2026-10-30T03:12:18.441797+00:00",
   "expiry": "2028-07-22",
@@ -1707,7 +1761,7 @@
   "status": "accredited"
  },
  "unisys": {
-  "checked_at": "2026-10-21T15:01:32.171556+00:00",
+  "checked_at": "2026-11-02T03:50:41.520902+00:00",
   "status": "not_listed"
  },
  "unitus": {
@@ -1760,6 +1814,13 @@
   "expiry": "2028-04-29",
   "legal_name": "WATERCARE SERVICES LIMITED",
   "nzbn": "9429039071552",
+  "status": "accredited"
+ },
+ "webmad": {
+  "checked_at": "2026-11-02T03:50:36.129096+00:00",
+  "expiry": "2027-03-13",
+  "legal_name": "WEBMAD LIMITED",
+  "nzbn": "9429030728677",
   "status": "accredited"
  },
  "webuild": {
