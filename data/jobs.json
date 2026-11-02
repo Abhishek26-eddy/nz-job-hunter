@@ -12796,7 +12796,13 @@
    },
    "visa_ready": false,
    "score": 44,
-   "tier": "B"
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4478362535/"
+    }
+   ]
   },
   {
    "id": "linkedin:4477281383",
@@ -24420,6 +24426,62 @@
      ]
     }
    }
+  },
+  {
+   "id": "linkedin:4469819703",
+   "source": "LinkedIn",
+   "title": "Senior Project Manager - Data",
+   "company": "Tribe Group",
+   "advertiser": "Tribe Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4469819703/",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-02T13:45:20+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-02T13:52:22.863795+00:00",
+    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+    "nzbn": "9429030268715",
+    "expiry": "2028-06-18"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u202672063431 and quote Job ID: 18571 for a confidential chat.  To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "About The Opportunity\n\n Join a significant AI & Advanced Analytics programme with a strong pipeline of data and technology projects ready to move into delivery. We\u2019re looking for a Senior Project Manager who can lead complex initiatives across the full project lifecycle, from requirements and planning through to implementation.\n\nYou\u2019ll work across a range of data-driven transformation projects, pa",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "requirements",
+      "risk",
+      "sql",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 50,
+     "tier": "blocked",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 50,
+   "tier": "blocked"
   },
   {
    "id": "seek:94959639",
