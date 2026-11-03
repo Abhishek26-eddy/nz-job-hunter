@@ -9021,7 +9021,13 @@
    },
    "visa_ready": false,
    "score": 63,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486001324/"
+    }
+   ]
   },
   {
    "id": "seek:95650302",
@@ -17034,6 +17040,58 @@
    "tier": "B"
   },
   {
+   "id": "seek:95662302",
+   "source": "Seek",
+   "title": "Programme Manager",
+   "company": "Comspek International",
+   "advertiser": "Comspek International Limited",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95662302",
+   "posted_at": "2026-11-03T06:31:08Z",
+   "work_type": "Contract/Temp",
+   "salary": "Great Salary!",
+   "teaser": "We're partnering on a significant, multi-year transformation programme that supports mission-critical public services across New Zealand. This",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T06:41:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T06:48:25.387109+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We're partnering on a significant, multi-year transformation programme that supports mission-critical public services across New Zealand. This programme involves the migration and modernisation of complex technology platforms, integration with telecommunications providers and coordination across a broad stakeholder landscape.\n \nAs the Programme Manager, you will take ownership of end-to-end progra",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:94850159",
    "source": "Seek",
    "title": "Integration Project Manager",
@@ -18130,6 +18188,57 @@
      "tier": "B",
      "reasons": [
       "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 35,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95662428",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "Comspek International",
+   "advertiser": "Comspek International Limited",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95662428",
+   "posted_at": "2026-11-03T06:35:07Z",
+   "work_type": "Contract/Temp",
+   "salary": "Competitive",
+   "teaser": "An exciting opportunity exists for an experienced Senior Project Manager to join a high-profile programme delivering critical technology and",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T06:41:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T06:48:25.387109+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "An exciting opportunity exists for an experienced Senior Project Manager to join a high-profile programme delivering critical technology and operational outcomes through to the end of 2028.\n\n Working across multiple projects and delivery streams, you'll be responsible for developing and maintaining project plans, managing risks and dependencies, coordinating delivery teams and external suppliers, ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 35,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -20646,6 +20755,55 @@
      "tier": "C",
      "reasons": [
       "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 29,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95662513",
+   "source": "Seek",
+   "title": "Senior Technical Business Analyst",
+   "company": "Comspek International",
+   "advertiser": "Comspek International Limited",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95662513",
+   "posted_at": "2026-11-03T06:38:06Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "We are seeking a Senior Technical Business Analyst to play a pivotal role within a major technology transformation programme. This position will act",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T06:41:56+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T06:48:25.387109+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are seeking a Senior Technical Business Analyst to play a pivotal role within a major technology transformation programme. This position will act as the bridge between business stakeholders, delivery teams, architects and vendors to ensure solutions are clearly defined and successfully implemented.\n\n You will lead requirements gathering activities, facilitate workshops, analyse business process",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "requirements",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 29,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
      ]
     }
    },
