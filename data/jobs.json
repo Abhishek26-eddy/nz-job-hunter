@@ -11593,6 +11593,62 @@
    "tier": "B"
   },
   {
+   "id": "seek:95663211",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "FindIT Recruitment",
+   "advertiser": "Find IT Recruitment",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95663211",
+   "posted_at": "2026-11-03T07:04:31Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Critical role as the only accountable delivery lead in the programme team! Two-year fixed-term contract Hybrid working Wellington-based role",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T07:03:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-03T05:43:07.692460+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ence highly advantageous   NB:\u00a0 The candidate must be based in the Wellington region, and must already have the legal right to work in New Zealand.\u00a0   Apply now!  This is an excellent opportunity to contribute heavily to\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Company and role:\u00a0\n Our client is undertaking a significant technology transformation programme. They are seeking a senior project manager to manage multiple workstreams, coordinate external delivery partners and oversee the transition of technology solutions into operational environments.\n\n Duties for the role include, but are not limited to:\u00a0\n -\u00a0 Lead the delivery of complex technology projects,",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "product",
+      "risk",
+      "sdlc",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 51,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 51,
+   "tier": "B"
+  },
+  {
    "id": "seek:94784747",
    "source": "Seek",
    "title": "IT Systems Engineer",
