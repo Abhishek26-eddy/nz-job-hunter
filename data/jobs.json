@@ -265,7 +265,13 @@
    },
    "visa_ready": true,
    "score": 99,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486038263/"
+    }
+   ]
   },
   {
    "id": "linkedin:4484309329",
@@ -2827,7 +2833,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4477988178/"
+    }
+   ]
   },
   {
    "id": "seek:95249989",
@@ -9077,7 +9089,13 @@
    },
    "visa_ready": false,
    "score": 63,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95667001"
+    }
+   ]
   },
   {
    "id": "seek:95651185",
