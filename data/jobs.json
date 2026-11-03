@@ -23144,6 +23144,46 @@
    "tier": "C"
   },
   {
+   "id": "linkedin:4486826688",
+   "source": "LinkedIn",
+   "title": "Cloud Solution Architect - Security",
+   "company": "Penta Consulting",
+   "advertiser": "Penta Consulting",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486826688/",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-03T08:31:39+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T08:38:54.954253+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are currently looking for an Azure cloud and security architect to work with our biggest customer in a Hybrid role in Auckland, New Zealand \n \n\n In this role, you will deliver proactive services and workshops within a defined scope of Azure Infrastructure & Security Services \n \n\n If you are the right fit for this position you will have:\n \n\n Flexibility to travel onsite if required\n Deep knowled",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 15,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 15,
+   "tier": "C"
+  },
+  {
    "id": "seek:95335864",
    "source": "Seek",
    "title": "Wellington-Engineer Level 1-Automation Engineering",
