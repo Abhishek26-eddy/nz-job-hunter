@@ -17443,6 +17443,52 @@
    "tier": "B"
   },
   {
+   "id": "seek:95660907",
+   "source": "Seek",
+   "title": "DevOps Engineer (Intermediate to Senior)",
+   "company": "SiteHost",
+   "advertiser": "SiteHost",
+   "location": "Penrose, Auckland",
+   "url": "https://www.seek.co.nz/job/95660907",
+   "posted_at": "2026-11-03T06:02:31Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We are looking for an experienced DevOps Engineer to join our Product and Automations Team in Penrose, Auckland.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-03T06:20:07+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T06:26:47.891261+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We are SiteHost, a New Zealand-based web hosting company known for our exceptional customer service and clever tech solutions. For over two decades, we\u2019ve built a reputation for being the kind of team people trust with their websites, infrastructure, and problems big or small.\n We're growing and looking for an experienced DevOps Engineer to join our Product and Automations Team .\n This is a role t",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "linux",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 36,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 36,
+   "tier": "B"
+  },
+  {
    "id": "seek:94810878",
    "source": "Seek",
    "title": "Java Fullstack AI Engineer / Developer (LLMs / RAG / MCP/ AWS)",

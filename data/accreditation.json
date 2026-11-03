@@ -1535,6 +1535,10 @@
   "checked_at": "2026-10-21T14:38:22.705179+00:00",
   "status": "not_listed"
  },
+ "sitehost": {
+  "checked_at": "2026-11-03T06:26:47.891261+00:00",
+  "status": "not_listed"
+ },
  "skypoint": {
   "checked_at": "2026-10-21T14:28:26.839101+00:00",
   "expiry": "2027-01-16",
