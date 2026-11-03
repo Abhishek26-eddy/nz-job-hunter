@@ -1,4 +1,8 @@
 {
+ "84 recruitment": {
+  "checked_at": "2026-11-03T05:43:19.510554+00:00",
+  "status": "not_listed"
+ },
  "abb": {
   "checked_at": "2026-10-23T02:01:38.933815+00:00",
   "expiry": "2028-03-06",
@@ -41,6 +45,13 @@
   "checked_at": "2026-10-21T14:31:15.560629+00:00",
   "status": "not_listed"
  },
+ "adt security": {
+  "checked_at": "2026-11-03T05:42:53.675320+00:00",
+  "expiry": "2026-11-25",
+  "legal_name": "ADT SECURITY LIMITED",
+  "nzbn": "9429040916057",
+  "status": "accredited"
+ },
  "advanced management systems": {
   "checked_at": "2026-10-28T03:32:41.923538+00:00",
   "status": "not_listed"
@@ -65,6 +76,13 @@
   "expiry": "2028-05-02",
   "legal_name": "AIR NEW ZEALAND LIMITED",
   "nzbn": "9429040402543",
+  "status": "accredited"
+ },
+ "airways": {
+  "checked_at": "2026-11-03T05:43:11.538953+00:00",
+  "expiry": "2028-09-11",
+  "legal_name": "AIRWAYS CORPORATION OF NEW ZEALAND LIMITED",
+  "nzbn": "9429039650443",
   "status": "accredited"
  },
  "alignerr": {
@@ -154,11 +172,15 @@
   "status": "accredited"
  },
  "asb bank": {
-  "checked_at": "2026-10-21T14:29:04.445895+00:00",
+  "checked_at": "2026-11-03T05:43:29.726215+00:00",
   "expiry": "2028-05-01",
   "legal_name": "ASB BANK LIMITED",
   "nzbn": "9429039435743",
   "status": "accredited"
+ },
+ "ashley cooper construction": {
+  "checked_at": "2026-11-03T05:43:04.637216+00:00",
+  "status": "not_listed"
  },
  "asknicely": {
   "checked_at": "2026-10-23T07:28:00.707737+00:00",
@@ -170,6 +192,13 @@
  "aspeq": {
   "checked_at": "2026-10-23T07:28:04.917542+00:00",
   "status": "not_listed"
+ },
+ "assemble": {
+  "checked_at": "2026-11-03T05:43:16.626202+00:00",
+  "expiry": "2028-10-21",
+  "legal_name": "ASSEMBLE GROUP LIMITED",
+  "nzbn": "9429031778480",
+  "status": "accredited"
  },
  "asset recruitment": {
   "checked_at": "2026-10-21T15:00:23.707597+00:00",
@@ -401,7 +430,7 @@
   "status": "not_listed"
  },
  "consult recruitment": {
-  "checked_at": "2026-10-21T14:26:33.085852+00:00",
+  "checked_at": "2026-11-03T05:43:09.262279+00:00",
   "expiry": "2028-08-27",
   "legal_name": "CONSULT RECRUITMENT LIMITED",
   "nzbn": "9429047259775",
@@ -544,6 +573,13 @@
   "nzbn": "9429035677499",
   "status": "accredited"
  },
+ "ecoportal": {
+  "checked_at": "2026-11-03T05:43:32.988201+00:00",
+  "expiry": "2028-09-11",
+  "legal_name": "TRIPLICS LIMITED",
+  "nzbn": "9429031345217",
+  "status": "accredited"
+ },
  "edmi": {
   "checked_at": "2026-10-21T14:38:14.563269+00:00",
   "status": "not_listed"
@@ -589,12 +625,23 @@
   "checked_at": "2026-11-02T03:51:00.114302+00:00",
   "status": "not_listed"
  },
+ "enviro": {
+  "checked_at": "2026-11-03T05:43:28.148213+00:00",
+  "expiry": "2027-05-22",
+  "legal_name": "ENVIRO NZ SERVICES LIMITED",
+  "nzbn": "9429038549151",
+  "status": "accredited"
+ },
  "environment canterbury": {
   "checked_at": "2026-10-21T14:27:15.099971+00:00",
   "expiry": "2028-05-11",
   "legal_name": "Canterbury Regional Council",
   "nzbn": "9429041900130",
   "status": "accredited"
+ },
+ "environz": {
+  "checked_at": "2026-11-03T05:42:56.872409+00:00",
+  "status": "not_listed"
  },
  "epec": {
   "checked_at": "2026-10-27T15:30:14.680947+00:00",
@@ -616,7 +663,7 @@
   "status": "not_listed"
  },
  "evolve recruitment": {
-  "checked_at": "2026-10-21T14:38:08.280032+00:00",
+  "checked_at": "2026-11-03T05:42:52.073904+00:00",
   "status": "not_listed"
  },
  "expert360": {
@@ -645,7 +692,7 @@
   "status": "not_listed"
  },
  "findit recruitment": {
-  "checked_at": "2026-10-27T06:35:43.304152+00:00",
+  "checked_at": "2026-11-03T05:43:07.692460+00:00",
   "status": "not_listed"
  },
  "fire and emergency": {
@@ -812,7 +859,7 @@
   "status": "accredited"
  },
  "hays recruitment": {
-  "checked_at": "2026-10-27T06:35:49.914468+00:00",
+  "checked_at": "2026-11-03T05:43:13.578608+00:00",
   "status": "not_listed"
  },
  "health": {
@@ -967,7 +1014,7 @@
   "status": "not_listed"
  },
  "kiwibank": {
-  "checked_at": "2026-10-21T14:28:25.322330+00:00",
+  "checked_at": "2026-11-03T05:42:50.784957+00:00",
   "expiry": "2028-06-12",
   "legal_name": "KIWIBANK LIMITED",
   "nzbn": "9429036917211",
@@ -1393,7 +1440,7 @@
   "status": "accredited"
  },
  "rocket lab": {
-  "checked_at": "2026-10-21T14:28:52.543706+00:00",
+  "checked_at": "2026-11-03T05:42:58.320596+00:00",
   "expiry": "2026-11-30",
   "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
   "nzbn": "9429046593054",
@@ -1407,7 +1454,7 @@
   "status": "accredited"
  },
  "rush digital": {
-  "checked_at": "2026-10-21T15:01:21.670646+00:00",
+  "checked_at": "2026-11-03T05:42:55.149052+00:00",
   "expiry": "2026-11-07",
   "legal_name": "RUSH DIGITAL INTERACTIVE LIMITED",
   "nzbn": "9429033200811",
@@ -1531,14 +1578,14 @@
   "status": "accredited"
  },
  "southern cross health insurance": {
-  "checked_at": "2026-10-21T14:32:24.292158+00:00",
+  "checked_at": "2026-11-03T05:43:26.029847+00:00",
   "expiry": "2027-03-24",
   "legal_name": "SOUTHERN CROSS BENEFITS LIMITED",
   "nzbn": "9429032102338",
   "status": "accredited"
  },
  "southern cross health society": {
-  "checked_at": "2026-10-21T14:28:56.750279+00:00",
+  "checked_at": "2026-11-03T05:42:46.477086+00:00",
   "expiry": "2028-06-19",
   "legal_name": "SOUTHERN CROSS MEDICAL CARE SOCIETY",
   "nzbn": "9429043036400",
@@ -1618,7 +1665,7 @@
   "status": "not_listed"
  },
  "talent": {
-  "checked_at": "2026-10-21T14:38:28.327918+00:00",
+  "checked_at": "2026-11-03T05:43:24.432100+00:00",
   "status": "not_listed"
  },
  "talent army": {
@@ -1711,6 +1758,13 @@
   "checked_at": "2026-10-23T07:27:15.397734+00:00",
   "status": "not_listed"
  },
+ "traffic safe": {
+  "checked_at": "2026-11-03T05:43:00.957503+00:00",
+  "expiry": "2028-10-29",
+  "legal_name": "TRAFFIC SAFE NEW ZEALAND LIMITED",
+  "nzbn": "9429041107935",
+  "status": "accredited"
+ },
  "transport agency waka kotahi": {
   "checked_at": "2026-11-02T03:50:54.234368+00:00",
   "expiry": "2028-07-08",
@@ -1735,6 +1789,10 @@
   "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
   "nzbn": "9429030268715",
   "status": "accredited"
+ },
+ "trility": {
+  "checked_at": "2026-11-03T05:43:03.049569+00:00",
+  "status": "not_listed"
  },
  "trimble": {
   "checked_at": "2026-10-21T15:01:44.070295+00:00",
@@ -1838,6 +1896,13 @@
   "nzbn": "9429053009326",
   "status": "accredited"
  },
+ "western bay of plenty district council": {
+  "checked_at": "2026-11-03T05:43:21.319049+00:00",
+  "expiry": "2027-02-05",
+  "legal_name": "Western Bay of Plenty District Council",
+  "nzbn": "9429041923528",
+  "status": "accredited"
+ },
  "woolworths": {
   "checked_at": "2026-10-23T07:28:35.788691+00:00",
   "status": "not_listed"
@@ -1883,6 +1948,13 @@
   "expiry": "2028-09-16",
   "legal_name": "ZESPRI INTERNATIONAL LIMITED",
   "nzbn": "9429038940354",
+  "status": "accredited"
+ },
+ "zeta": {
+  "checked_at": "2026-11-03T05:43:31.304278+00:00",
+  "expiry": "2027-07-17",
+  "legal_name": "ZETA GROUP (NZ) LIMITED",
+  "nzbn": "9429030527140",
   "status": "accredited"
  },
  "zuru": {
