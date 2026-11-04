@@ -3790,7 +3790,13 @@
    },
    "visa_ready": true,
    "score": 83,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95694560"
+    }
+   ]
   },
   {
    "id": "linkedin:4392484310",
