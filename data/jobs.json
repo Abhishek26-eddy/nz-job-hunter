@@ -331,60 +331,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95648408",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Western Bay of Plenty District Council",
-   "advertiser": "Western Bay of Plenty District Council",
-   "location": "Tauranga, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95648408",
-   "posted_at": "2026-11-02T21:45:04Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "We are seeking an experienced and proactive Business Analyst to join us permanently and help shape how Council works. Be part of a programme that modernises how we work. Work with data, reporting and AI to support better decisions. Take our new ERP from implementation to business as usual.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-03T05:43:21.319049+00:00",
-    "legal_name": "Western Bay of Plenty District Council",
-    "nzbn": "9429041923528",
-    "expiry": "2027-02-05"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Come and make a difference with us \n \nAt Western Bay of Plenty District Council, everything we do is about making the everyday better - and helping our communities thrive, now and into the future.\n \nWestern Bay is a District undergoing significant growth and transformation. From planning for future communities to delivering the infrastructure that supports them, we're focused on getting the fundam",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "data",
-      "enterprise",
-      "requirements",
-      "sql",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 96,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 96,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4486088931",
    "source": "LinkedIn",
    "title": "Data Product Owner",
@@ -3500,6 +3446,60 @@
       "requirements",
       "risk",
       "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 86,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 86,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95648408",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Western Bay of Plenty District Council",
+   "advertiser": "Western Bay of Plenty District Council",
+   "location": "Tauranga, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95648408",
+   "posted_at": "2026-11-02T21:45:04Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We are seeking an experienced and proactive Business Analyst to join us permanently and help shape how Council works. Be part of a programme that modernises how we work. Work with data, reporting and AI to support better decisions. Take our new ERP from implementation to business as usual.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-03T05:43:21.319049+00:00",
+    "legal_name": "Western Bay of Plenty District Council",
+    "nzbn": "9429041923528",
+    "expiry": "2027-02-05"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Come and make a difference with us \n \nAt Western Bay of Plenty District Council, everything we do is about making the everyday better - and helping our communities thrive, now and into the future.\n \nWestern Bay is a District undergoing significant growth and transformation. From planning for future communities to delivering the infrastructure that supports them, we're focused on getting the fundam",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "enterprise",
+      "requirements",
+      "sql",
+      "stakeholders",
+      "vendors"
      ],
      "route": "aewv",
      "score": 86,
@@ -6982,58 +6982,6 @@
    ]
   },
   {
-   "id": "seek:95648517",
-   "source": "Seek",
-   "title": "Security Engineer (Cloud and AppSec)",
-   "company": "Rush Digital",
-   "advertiser": "Rush Digital",
-   "location": "Parnell, Auckland",
-   "url": "https://www.seek.co.nz/job/95648517",
-   "posted_at": "2026-11-02T22:00:21Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join RUSH as a Security Engineer and help Make Better Happen. Flexible working Innovation Human Centered Design",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-03T05:42:55.149052+00:00",
-    "legal_name": "RUSH DIGITAL INTERACTIVE LIMITED",
-    "nzbn": "9429033200811",
-    "expiry": "2026-11-07"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "At RUSH, we design, build, and manage purposeful digital experiences that improve people\u2019s lives. \n\n \n\n\n You'll build the security into the systems we design, build and run for clients, in code and infrastructure as code. You'll start on a large greenfield platform on Microsoft Azure for a major New Zealand client, embedded in its delivery team from design through to production.\n\n This is a senior",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "jenkins",
-      "python",
-      "security",
-      "sre",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 75,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 75,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4487229270",
    "source": "LinkedIn",
    "title": "AI Operations Lead",
@@ -9226,6 +9174,54 @@
    }
   },
   {
+   "id": "linkedin:4487544521",
+   "source": "LinkedIn",
+   "title": "Senior Project Manager",
+   "company": "Hays",
+   "advertiser": "Hays",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487544521/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T22:13:48+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T22:19:57.831789+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Drive strategic programmes, influence senior stakeholders, and deliver meaningful business outcomes. \n\n T\u014d kamupene hou | Your new company \n \nOur client is embarking on a significant programme of digital and business transformation, with a strong focus on modernising platforms, improving service delivery, and enabling long-term organisational success. With a diverse portfolio of strategic initiati",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "business",
+      "methods",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "seek:95678146",
    "source": "Seek",
    "title": "Integration Engineer",
@@ -9625,6 +9621,58 @@
       "docker",
       "jenkins",
       "observability"
+     ],
+     "route": "iswv",
+     "score": 65,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 65,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95648517",
+   "source": "Seek",
+   "title": "Security Engineer (Cloud and AppSec)",
+   "company": "Rush Digital",
+   "advertiser": "Rush Digital",
+   "location": "Parnell, Auckland",
+   "url": "https://www.seek.co.nz/job/95648517",
+   "posted_at": "2026-11-02T22:00:21Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join RUSH as a Security Engineer and help Make Better Happen. Flexible working Innovation Human Centered Design",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-03T05:42:55.149052+00:00",
+    "legal_name": "RUSH DIGITAL INTERACTIVE LIMITED",
+    "nzbn": "9429033200811",
+    "expiry": "2026-11-07"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At RUSH, we design, build, and manage purposeful digital experiences that improve people\u2019s lives. \n\n \n\n\n You'll build the security into the systems we design, build and run for clients, in code and infrastructure as code. You'll start on a large greenfield platform on Microsoft Azure for a major New Zealand client, embedded in its delivery team from design through to production.\n\n This is a senior",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins",
+      "python",
+      "security",
+      "sre",
+      "terraform"
      ],
      "route": "iswv",
      "score": 65,
@@ -20033,51 +20081,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95648145",
-   "source": "Seek",
-   "title": "Senior Infrastructure Engineer",
-   "company": "EnviroNZ",
-   "advertiser": "Enviro NZ",
-   "location": "Ellerslie, Auckland",
-   "url": "https://www.seek.co.nz/job/95648145",
-   "posted_at": "2026-11-02T21:36:25Z",
-   "work_type": "Full time",
-   "salary": "Attractive pay reviewed annually",
-   "teaser": "Senior hands-on role across Azure, Microsoft 365, identity & endpoint. Be the go-to technical expert & help shape how our environment evolves. \u2022 Senior hands-on role across Azure, Microsoft 365, identity and endpoint Be the go-to technical expert and help shape how our environment evolves Modern Microsoft stack including Intune, Defender, Sentinel and Purview.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-03T05:42:56.872409+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About Us \n\n \u00a0 At Enviro NZ, we\u2019re making it easier for New Zealanders to shift to a more sustainable way of life.\n\n We are creating a very exciting future, one that is technology enabled and focused on providing exceptional customer outcomes.\n\n The Role \u00a0 \n\n As our Senior Infrastructure Engineer, you\u2019ll be one of the people making that technology work. You\u2019ll bring senior technical expertise acros",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "bash"
-     ],
-     "route": "iswv",
-     "score": 33,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 33,
-   "tier": "C"
-  },
-  {
    "id": "linkedin:4486340618",
    "source": "LinkedIn",
    "title": "Network Deployment Engineer (AI Factory Delivery)",
@@ -23777,6 +23780,51 @@
    "tier": "C"
   },
   {
+   "id": "seek:95648145",
+   "source": "Seek",
+   "title": "Senior Infrastructure Engineer",
+   "company": "EnviroNZ",
+   "advertiser": "Enviro NZ",
+   "location": "Ellerslie, Auckland",
+   "url": "https://www.seek.co.nz/job/95648145",
+   "posted_at": "2026-11-02T21:36:25Z",
+   "work_type": "Full time",
+   "salary": "Attractive pay reviewed annually",
+   "teaser": "Senior hands-on role across Azure, Microsoft 365, identity & endpoint. Be the go-to technical expert & help shape how our environment evolves. \u2022 Senior hands-on role across Azure, Microsoft 365, identity and endpoint Be the go-to technical expert and help shape how our environment evolves Modern Microsoft stack including Intune, Defender, Sentinel and Purview.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T05:42:56.872409+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Us \n\n \u00a0 At Enviro NZ, we\u2019re making it easier for New Zealanders to shift to a more sustainable way of life.\n\n We are creating a very exciting future, one that is technology enabled and focused on providing exceptional customer outcomes.\n\n The Role \u00a0 \n\n As our Senior Infrastructure Engineer, you\u2019ll be one of the people making that technology work. You\u2019ll bring senior technical expertise acros",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "bash"
+     ],
+     "route": "iswv",
+     "score": 23,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 23,
+   "tier": "C"
+  },
+  {
    "id": "seek:94843395",
    "source": "Seek",
    "title": "Snr Business Analyst",
@@ -26096,6 +26144,62 @@
      "tier": "C",
      "reasons": [
       "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95701632",
+   "source": "Seek",
+   "title": "Principal Systems Engineer",
+   "company": "New Zealand Transport Agency",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Palmerston North, Manawatu",
+   "url": "https://www.seek.co.nz/job/95701632",
+   "posted_at": "2026-11-04T22:04:52Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Shape the future of NZTA technology, leading enterprise engineering and growing capability to deliver better outcomes for New Zealanders. Lead technical direction across critical enterprise platforms Mentor engineers and grow organisational capability Drive innovation, automation, and operational excellence",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T22:13:48+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95701575"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95701546"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-04T04:58:45.445888+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead our Engineering Chapter as a Principal Systems Engineer\n Your expertise will contribute to future proofing infrastructural innovation\n Auckland, Palmerston North or Wellington locations\n \nWe are strengthening technical and craft leadership across our Technology Chapters, with greater depth of expertise and stronger support for our people and delivery. These opportunities strengthen technical ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "title above current level"
      ]
     }
    },

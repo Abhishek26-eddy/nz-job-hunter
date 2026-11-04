@@ -884,6 +884,10 @@
   "nzbn": "9429041905104",
   "status": "accredited"
  },
+ "hays": {
+  "checked_at": "2026-11-04T22:19:57.831789+00:00",
+  "status": "not_listed"
+ },
  "hays recruitment": {
   "checked_at": "2026-11-03T05:43:13.578608+00:00",
   "status": "not_listed"
