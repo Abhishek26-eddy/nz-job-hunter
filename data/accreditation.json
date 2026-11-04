@@ -154,7 +154,7 @@
   "status": "not_listed"
  },
  "archway recruitment": {
-  "checked_at": "2026-10-22T06:51:01.507463+00:00",
+  "checked_at": "2026-11-04T04:58:55.166608+00:00",
   "expiry": "2028-05-05",
   "legal_name": "ARCHWAY CONSULTING LIMITED",
   "nzbn": "9429047220874",
@@ -212,7 +212,7 @@
   "status": "accredited"
  },
  "auckland council": {
-  "checked_at": "2026-10-21T15:01:55.588553+00:00",
+  "checked_at": "2026-11-04T04:59:05.735183+00:00",
   "expiry": "2028-06-08",
   "legal_name": "Auckland Council",
   "nzbn": "9429000034753",
@@ -310,7 +310,7 @@
   "status": "not_listed"
  },
  "bnz": {
-  "checked_at": "2026-10-23T07:27:37.370083+00:00",
+  "checked_at": "2026-11-04T04:58:38.198385+00:00",
   "expiry": "2028-10-09",
   "legal_name": "BANK OF NEW ZEALAND",
   "nzbn": "9429039342188",
@@ -333,6 +333,10 @@
   "legal_name": "BROSNAN LIMITED",
   "nzbn": "9429041367919",
   "status": "accredited"
+ },
+ "bureau": {
+  "checked_at": "2026-11-04T04:58:48.644925+00:00",
+  "status": "not_listed"
  },
  "carbonscape": {
   "checked_at": "2026-10-21T14:38:26.394752+00:00",
@@ -406,6 +410,13 @@
  "comaea consulting": {
   "checked_at": "2026-11-02T03:50:52.817193+00:00",
   "status": "not_listed"
+ },
+ "compass": {
+  "checked_at": "2026-11-04T04:59:02.633544+00:00",
+  "expiry": "2027-04-16",
+  "legal_name": "COMPASS GROUP HOLDINGS LIMITED",
+  "nzbn": "9429033223278",
+  "status": "accredited"
  },
  "comspek international": {
   "checked_at": "2026-11-03T06:48:25.387109+00:00",
@@ -573,6 +584,10 @@
   "nzbn": "9429035677499",
   "status": "accredited"
  },
+ "echelon": {
+  "checked_at": "2026-11-04T04:58:53.755084+00:00",
+  "status": "not_listed"
+ },
  "ecoportal": {
   "checked_at": "2026-11-03T05:43:32.988201+00:00",
   "expiry": "2028-09-11",
@@ -714,7 +729,7 @@
   "status": "accredited"
  },
  "fisher and paykel healthcare": {
-  "checked_at": "2026-10-21T14:28:02.761885+00:00",
+  "checked_at": "2026-11-04T04:58:58.118354+00:00",
   "expiry": "2028-03-12",
   "legal_name": "FISHER & PAYKEL HEALTHCARE LIMITED",
   "nzbn": "9429040555720",
@@ -834,7 +849,7 @@
   "status": "not_listed"
  },
  "h2r consulting": {
-  "checked_at": "2026-10-21T15:01:00.603272+00:00",
+  "checked_at": "2026-11-04T04:58:52.301539+00:00",
   "status": "not_listed"
  },
  "halter": {
@@ -882,7 +897,7 @@
   "status": "not_listed"
  },
  "higgins": {
-  "checked_at": "2026-10-21T15:01:53.876980+00:00",
+  "checked_at": "2026-11-04T04:58:51.058249+00:00",
   "expiry": "2028-10-01",
   "legal_name": "HIGGINS CONTRACTORS LIMITED",
   "nzbn": "9429040922850",
@@ -1087,9 +1102,20 @@
   "checked_at": "2026-10-22T06:51:08.524546+00:00",
   "status": "not_listed"
  },
+ "magnetic recruitment": {
+  "checked_at": "2026-11-04T04:58:42.112787+00:00",
+  "status": "not_listed"
+ },
  "manawanui": {
   "checked_at": "2026-10-21T15:00:52.741256+00:00",
   "status": "not_listed"
+ },
+ "manukau institute of and unitec": {
+  "checked_at": "2026-11-04T04:59:01.096419+00:00",
+  "expiry": "2026-12-16",
+  "legal_name": "Manukau Institute of Technology and Unitec",
+  "nzbn": "9429053303370",
+  "status": "accredited"
  },
  "massey university": {
   "checked_at": "2026-10-21T14:26:16.403479+00:00",
@@ -1154,6 +1180,13 @@
   "expiry": "2026-12-03",
   "legal_name": "Toka T\u016b Ake \u2013 Natural Hazards Commission",
   "nzbn": "9429041901618",
+  "status": "accredited"
+ },
+ "nelson city council": {
+  "checked_at": "2026-11-04T04:59:07.185858+00:00",
+  "expiry": "2027-04-23",
+  "legal_name": "Nelson City Council",
+  "nzbn": "9429041909676",
   "status": "accredited"
  },
  "netsafe": {
@@ -1610,6 +1643,10 @@
   "checked_at": "2026-10-28T03:32:43.644073+00:00",
   "status": "not_listed"
  },
+ "spca": {
+  "checked_at": "2026-11-04T04:58:59.488137+00:00",
+  "status": "not_listed"
+ },
  "staffroom": {
   "checked_at": "2026-10-21T14:38:38.446520+00:00",
   "status": "not_listed"
@@ -1653,7 +1690,7 @@
   "status": "accredited"
  },
  "super fund": {
-  "checked_at": "2026-10-21T14:38:21.260455+00:00",
+  "checked_at": "2026-11-04T04:59:03.858165+00:00",
   "status": "not_listed"
  },
  "swr": {
@@ -1666,6 +1703,10 @@
  },
  "system c": {
   "checked_at": "2026-11-02T03:50:49.636968+00:00",
+  "status": "not_listed"
+ },
+ "system solution": {
+  "checked_at": "2026-11-04T04:58:44.027006+00:00",
   "status": "not_listed"
  },
  "tainui": {
@@ -1773,6 +1814,10 @@
   "nzbn": "9429041107935",
   "status": "accredited"
  },
+ "transport agency": {
+  "checked_at": "2026-11-04T04:58:45.445888+00:00",
+  "status": "not_listed"
+ },
  "transport agency waka kotahi": {
   "checked_at": "2026-11-02T03:50:54.234368+00:00",
   "expiry": "2028-07-08",
@@ -1841,6 +1886,13 @@
  "unitus": {
   "checked_at": "2026-10-21T15:01:20.442018+00:00",
   "status": "not_listed"
+ },
+ "university of auckland": {
+  "checked_at": "2026-11-04T04:58:36.060380+00:00",
+  "expiry": "2028-03-31",
+  "legal_name": "University of Auckland",
+  "nzbn": "9429041925300",
+  "status": "accredited"
  },
  "vector": {
   "checked_at": "2026-10-30T03:12:16.641777+00:00",
@@ -1920,6 +1972,13 @@
   "expiry": "2028-07-07",
   "legal_name": "WORKDAY (NZ) UNLIMITED",
   "nzbn": "9429041438817",
+  "status": "accredited"
+ },
+ "worksafe": {
+  "checked_at": "2026-11-04T04:58:40.781176+00:00",
+  "expiry": "2028-09-04",
+  "legal_name": "WorkSafe New Zealand",
+  "nzbn": "9429041926437",
   "status": "accredited"
  },
  "world vision": {
