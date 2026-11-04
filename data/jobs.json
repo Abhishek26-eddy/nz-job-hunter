@@ -12432,6 +12432,54 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4486335739",
+   "source": "LinkedIn",
+   "title": "Product Manager",
+   "company": "Orah",
+   "advertiser": "Orah",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486335739/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T07:09:52+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T07:16:08.958081+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At Orah , we're building technology that helps schools keep students safe and gives parents greater confidence in knowing where their children are. Our platform is growing rapidly, particularly across North America, and we're continuing to build our engineering team to support that growth.\n \n\n What you'll be doing \n \n\n We're hiring a Product Manager to own a development pod end to end: understandi",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "sdlc",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 51,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 51,
+   "tier": "B"
+  },
+  {
    "id": "seek:95677870",
    "source": "Seek",
    "title": "Systems Engineer",
@@ -13082,6 +13130,53 @@
    },
    "visa_ready": false,
    "score": 49,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4487220630",
+   "source": "LinkedIn",
+   "title": "North Island Transport Project Manager",
+   "company": "Woolworths Group",
+   "advertiser": "Woolworths Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487220630/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T07:09:52+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T07:16:06.749158+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead 11 month North Island transport transition\n Drive and execute full end-to-end operational project delivery\n Flexible hybrid role\n\n\n Working with Primary Connect | Te Mahi ki Primary Connect\n\n With over 185 stores and 20,000 team members across Aotearoa, we've made it our mission to make Kiwi lives a little better every day.\n\nWe're friendly, down-to-earth, and energetic - we work hard but we h",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 48,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
    "tier": "B"
   },
   {
@@ -17076,6 +17171,55 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4486350180",
+   "source": "LinkedIn",
+   "title": "Platform Deployment Engineer (AI Factory Delivery)",
+   "company": "Sharon AI, Inc",
+   "advertiser": "Sharon AI, Inc",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486350180/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T07:09:52+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T07:16:04.162630+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "\ud83d\uddd3\ufe0f\u00a0Full-time | Permanent \n \ud83d\udccd\u00a0Remote, in the same time zone as the rest of the squad \n \ud83c\udfe1\u00a0Remote working \n \n\n About Sharon AI \n Sharon AI is an Australian neocloud, delivering trusted AI infrastructure organisations need to build, train and run AI at scale. We support customers across the full AI lifecycle, from training through to inference and agentic AI, drawing on a strong ecosystem of technolog",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "ansible",
+      "bash",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 39,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 39,
+   "tier": "B"
+  },
+  {
    "id": "seek:94790383",
    "source": "Seek",
    "title": "Infrastructure Engineer",
@@ -19752,6 +19896,53 @@
      "fit": "core",
      "skills": [
       "bash"
+     ],
+     "route": "iswv",
+     "score": 33,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 33,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4486340618",
+   "source": "LinkedIn",
+   "title": "Network Deployment Engineer (AI Factory Delivery)",
+   "company": "Sharon AI, Inc",
+   "advertiser": "Sharon AI, Inc",
+   "location": "New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486340618/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T07:09:52+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T07:16:04.162630+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "\ud83d\uddd3\ufe0f\u00a0Full-time | Permanent \n \ud83d\udccd\u00a0Remote, in the same time zone as the rest of the squad \n \ud83c\udfe1\u00a0Remote working \n \n\n About Sharon AI \n Sharon AI is an Australian neocloud, delivering trusted AI infrastructure organisations need to build, train and run AI at scale. We support customers across the full AI lifecycle, from training through to inference and agentic AI, drawing on a strong ecosystem of technolog",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "ansible",
+      "bash",
+      "kubernetes",
+      "python",
+      "terraform"
      ],
      "route": "iswv",
      "score": 33,

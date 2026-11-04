@@ -1247,6 +1247,10 @@
   "nzbn": "9429039501974",
   "status": "accredited"
  },
+ "orah": {
+  "checked_at": "2026-11-04T07:16:08.958081+00:00",
+  "status": "not_listed"
+ },
  "oranga tamariki": {
   "checked_at": "2026-10-21T15:00:48.479158+00:00",
   "expiry": "2028-06-29",
@@ -1559,6 +1563,10 @@
  },
  "serverworks": {
   "checked_at": "2026-10-22T06:50:35.461955+00:00",
+  "status": "not_listed"
+ },
+ "sharon ai": {
+  "checked_at": "2026-11-04T07:16:04.162630+00:00",
   "status": "not_listed"
  },
  "sheffield": {
@@ -1971,7 +1979,7 @@
   "status": "accredited"
  },
  "woolworths": {
-  "checked_at": "2026-10-23T07:28:35.788691+00:00",
+  "checked_at": "2026-11-04T07:16:06.749158+00:00",
   "status": "not_listed"
  },
  "workday": {
