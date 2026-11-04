@@ -877,6 +877,13 @@
   "nzbn": "9429043031801",
   "status": "accredited"
  },
+ "hauraki district council": {
+  "checked_at": "2026-11-04T21:30:08.209548+00:00",
+  "expiry": "2028-05-25",
+  "legal_name": "Hauraki District Council",
+  "nzbn": "9429041905104",
+  "status": "accredited"
+ },
  "hays recruitment": {
   "checked_at": "2026-11-03T05:43:13.578608+00:00",
   "status": "not_listed"
@@ -1881,6 +1888,10 @@
   "legal_name": "TSA RILEY LIMITED",
   "nzbn": "9429031636919",
   "status": "accredited"
+ },
+ "tuapeka gold print": {
+  "checked_at": "2026-11-04T21:30:20.373546+00:00",
+  "status": "not_listed"
  },
  "turbo staff": {
   "checked_at": "2026-10-21T15:00:37.160737+00:00",

@@ -13292,6 +13292,56 @@
    "tier": "B"
   },
   {
+   "id": "seek:95701130",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Tuapeka Gold Print",
+   "advertiser": "Tuapeka Gold Print",
+   "location": "Fairfield, Otago",
+   "url": "https://www.seek.co.nz/job/95701130",
+   "posted_at": "2026-11-04T21:01:36Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Business Analyst to gather and analyse business requirements and drive business transformational change. Build the future: modern core systems, help shape future architecture! Blank-canvas automation: design a brand-new, purpose-built operation Real impact, real numbers: see your work move the dial on profit.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T21:20:19+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T21:30:20.373546+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "TRENDS \u2013 Australasia\u2019s Leading Supplier of Customised Product Solutions \n At TRENDS, we are committed to creating customised product solutions that deliver an outstanding customer experience. As Australasia's leading wholesale supplier of promotional products and business gifts, we set the benchmark for innovation, product reliability, print quality, delivery speed, and exceptional customer servic",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "requirements",
+      "sql",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 48,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
+   "tier": "B"
+  },
+  {
    "id": "seek:94825196",
    "source": "Seek",
    "title": "Site Reliability Engineer",
