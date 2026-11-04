@@ -1280,6 +1280,10 @@
   "nzbn": "9429038867309",
   "status": "accredited"
  },
+ "osf digital": {
+  "checked_at": "2026-11-04T21:05:04.822251+00:00",
+  "status": "not_listed"
+ },
  "ospri": {
   "checked_at": "2026-10-23T07:27:28.703863+00:00",
   "status": "not_listed"
@@ -1949,6 +1953,13 @@
   "expiry": "2028-10-07",
   "legal_name": "VITACO HEALTH (NZ) LIMITED",
   "nzbn": "9429033702520",
+  "status": "accredited"
+ },
+ "vital": {
+  "checked_at": "2026-11-04T21:05:07.063017+00:00",
+  "expiry": "2026-11-20",
+  "legal_name": "VITAL LIMITED",
+  "nzbn": "9429038727528",
   "status": "accredited"
  },
  "walker smith": {

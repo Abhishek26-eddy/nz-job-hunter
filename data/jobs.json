@@ -4613,55 +4613,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95647839",
-   "source": "Seek",
-   "title": "Business Analyst Digital Workspaces",
-   "company": "Fulton Hogan",
-   "advertiser": "Fulton Hogan",
-   "location": "Burnside, Canterbury",
-   "url": "https://www.seek.co.nz/job/95647839",
-   "posted_at": "2026-11-02T20:35:56Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "We are embarking on our most significant Information Technology transformation. Permenant, full-time role Help shape one of our biggest IT transformations and deliver real impact Bring your ideas, influence change, and make your mark.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-28T15:17:38.774677+00:00",
-    "expiry": "2027-03-04",
-    "legal_name": "FULTON HOGAN LIMITED",
-    "nzbn": "9429040318080",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Nau mai, haere mai ki a Fulton Hogan | Join us at Fulton Hogan \n \n \n \n M\u014d te t\u016branga | About the role \n \nWe are embarking on our most significant Information Technology transformation. The Modern Information Programme will achieve strategic objectives by establishing a cohesive source of truth for information and collaboration needs across our Australasian businesses.\n \n \n \nThe programme encompass",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 81,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 81,
-   "tier": "A"
-  },
-  {
    "id": "seek:95674428",
    "source": "Seek",
    "title": "Senior Product Lead - 2x Roles",
@@ -8681,6 +8632,55 @@
    ]
   },
   {
+   "id": "seek:95647839",
+   "source": "Seek",
+   "title": "Business Analyst Digital Workspaces",
+   "company": "Fulton Hogan",
+   "advertiser": "Fulton Hogan",
+   "location": "Burnside, Canterbury",
+   "url": "https://www.seek.co.nz/job/95647839",
+   "posted_at": "2026-11-02T20:35:56Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We are embarking on our most significant Information Technology transformation. Permenant, full-time role Help shape one of our biggest IT transformations and deliver real impact Bring your ideas, influence change, and make your mark.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-28T15:17:38.774677+00:00",
+    "expiry": "2027-03-04",
+    "legal_name": "FULTON HOGAN LIMITED",
+    "nzbn": "9429040318080",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Nau mai, haere mai ki a Fulton Hogan | Join us at Fulton Hogan \n \n \n \n M\u014d te t\u016branga | About the role \n \nWe are embarking on our most significant Information Technology transformation. The Modern Information Programme will achieve strategic objectives by establishing a cohesive source of truth for information and collaboration needs across our Australasian businesses.\n \n \n \nThe programme encompass",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 71,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 71,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4457451943",
    "source": "LinkedIn",
    "title": "Staff AI Platform Engineer",
@@ -9224,57 +9224,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95647934",
-   "source": "Seek",
-   "title": "Programme Manager - Telecommunications & Technology Transition",
-   "company": "FindIT Recruitment",
-   "advertiser": "Find IT Recruitment",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95647934",
-   "posted_at": "2026-11-02T20:55:57Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead a major telecommunications and technology transition programme, managing critical infrastructure, vendors and stakeholders across New Zealand. Lead a complex, high-profile telecommunications and technology transition progra Engage with major technology providers, government agencies and senior stakehold Wellington-based opportunity delivering nationally significant outcomes",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-03T05:43:07.692460+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "The Opportunity \nWe are seeking an experienced Programme Manager to lead a significant technology and service transition programme for an organisation delivering critical infrastructure and communications services across New Zealand.\n\n This is an opportunity to take ownership of a complex, multi-stakeholder programme, transitioning established technology services into a new operating environment w",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "cloud",
-      "data",
-      "requirements",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 66,
-   "tier": "A"
   },
   {
    "id": "seek:95678146",
@@ -9904,6 +9853,54 @@
    "tier": "A"
   },
   {
+   "id": "seek:95701060",
+   "source": "Seek",
+   "title": "Systems Engineer",
+   "company": "Vital",
+   "advertiser": "Vital Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95701060",
+   "posted_at": "2026-11-04T20:48:17Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join a fun team in a face paced, varied multi-vendor environment where you can take ownership and make a difference.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-04T20:58:23+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-04T21:05:07.063017+00:00",
+    "legal_name": "VITAL LIMITED",
+    "nzbn": "9429038727528",
+    "expiry": "2026-11-20"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Systems Engineer \nVital Limited (part of Tait New Zealand) | Tory Street, Wellington | Permanent, Full-Time\n Connecting New Zealand when it matters most \n At Vital, our network keeps New Zealand's emergency services and utilities running. We're looking for a hands-on Systems Engineer to improve, secure, integrate and document our OSS and BSS infrastructure, and to help shape what comes next.\n Vita",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "linux"
+     ],
+     "route": "iswv",
+     "score": 63,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 63,
+   "tier": "A"
+  },
+  {
    "id": "seek:94960999",
    "source": "Seek",
    "title": "Cloud and Solutions Architect",
@@ -10223,52 +10220,6 @@
      ]
     }
    }
-  },
-  {
-   "id": "seek:95647913",
-   "source": "Seek",
-   "title": "Systems Engineer - Configuration",
-   "company": "Rocket Lab",
-   "advertiser": "Rocket Lab",
-   "location": "Mount Wellington, Auckland",
-   "url": "https://www.seek.co.nz/job/95647913",
-   "posted_at": "2026-11-02T20:52:59Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Rocket Lab is a global leader in launch and space systems",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-03T05:42:58.320596+00:00",
-    "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
-    "nzbn": "9429046593054",
-    "expiry": "2026-11-30"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "ABOUT ROCKET LAB: \n Rocket Lab is a global leader in launch and space systems. The rockets and satellites we build and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations. Our Electron rocket has provided reliable access t",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "route": "iswv",
-     "score": 60,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 60,
-   "tier": "A"
   },
   {
    "id": "seek:94937299",
@@ -11237,6 +11188,57 @@
    ]
   },
   {
+   "id": "seek:95647934",
+   "source": "Seek",
+   "title": "Programme Manager - Telecommunications & Technology Transition",
+   "company": "FindIT Recruitment",
+   "advertiser": "Find IT Recruitment",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95647934",
+   "posted_at": "2026-11-02T20:55:57Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead a major telecommunications and technology transition programme, managing critical infrastructure, vendors and stakeholders across New Zealand. Lead a complex, high-profile telecommunications and technology transition progra Engage with major technology providers, government agencies and senior stakehold Wellington-based opportunity delivering nationally significant outcomes",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-03T05:43:07.692460+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "The Opportunity \nWe are seeking an experienced Programme Manager to lead a significant technology and service transition programme for an organisation delivering critical infrastructure and communications services across New Zealand.\n\n This is an opportunity to take ownership of a complex, multi-stakeholder programme, transitioning established technology services into a new operating environment w",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "data",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 56,
+   "tier": "B"
+  },
+  {
    "id": "seek:95160130",
    "source": "Seek",
    "title": "Principal Systems Engineer",
@@ -11406,6 +11408,64 @@
     }
    },
    "visa_ready": true,
+   "score": 54,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95701068",
+   "source": "Seek",
+   "title": "Project Manager",
+   "company": "OSF Digital",
+   "advertiser": "OSF Digital",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95701068",
+   "posted_at": "2026-11-04T20:48:30Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients. Lead and manage project delivery teams Hybrid working options Work with top NZ clients",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T20:58:23+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487537548/"
+    }
+   ],
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T21:05:04.822251+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Role Summary: \n \n\n The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients, delivering projects to a high standard, keeping scope under control and exceeding client expectations. This role involves managing project delivery teams, coordinating with stakeholders, and driving project management best practices.\n \n\n Key Responsib",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "enterprise",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 54,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
    "score": 54,
    "tier": "B"
   },
@@ -13021,6 +13081,52 @@
    "recruiter": false,
    "has_description": true,
    "summary": "Let's be honest. If you've worked in IT support for a while, you've probably discovered that \"just a quick question\" is rarely quick, and \"it's probably nothing\" almost always turns into something.\n\nIf you enjoy solving real problems, building trusted client relationships, and working with a team that actually has your back, you'll probably like it here.\n\n Who we are (and why you might actually li",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 50,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95647913",
+   "source": "Seek",
+   "title": "Systems Engineer - Configuration",
+   "company": "Rocket Lab",
+   "advertiser": "Rocket Lab",
+   "location": "Mount Wellington, Auckland",
+   "url": "https://www.seek.co.nz/job/95647913",
+   "posted_at": "2026-11-02T20:52:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Rocket Lab is a global leader in launch and space systems",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-03T05:42:58.320596+00:00",
+    "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
+    "nzbn": "9429046593054",
+    "expiry": "2026-11-30"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "ABOUT ROCKET LAB: \n Rocket Lab is a global leader in launch and space systems. The rockets and satellites we build and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations. Our Electron rocket has provided reliable access t",
    "for": {
     "abhishek": {
      "fit": "adjacent",
