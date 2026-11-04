@@ -1035,6 +1035,10 @@
   "nzbn": "9429036917211",
   "status": "accredited"
  },
+ "kma": {
+  "checked_at": "2026-11-04T08:20:36.052236+00:00",
+  "status": "not_listed"
+ },
  "kordia": {
   "checked_at": "2026-10-21T14:26:28.749469+00:00",
   "expiry": "2027-05-15",
