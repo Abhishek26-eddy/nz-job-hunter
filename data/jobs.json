@@ -702,6 +702,55 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4485048895",
+   "source": "LinkedIn",
+   "title": "Technical Delivery Lead",
+   "company": "Westpac New Zealand",
+   "advertiser": "Westpac New Zealand",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4485048895/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T06:03:10+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-04T06:10:18.422992+00:00",
+    "legal_name": "WESTPAC NEW ZEALAND LIMITED",
+    "nzbn": "9429034324622",
+    "expiry": "2028-03-17"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "M\u014d te t\u016branga | About the Role \n\n We\u2019re looking for a senior Technical Delivery Lead to guide the work of our Contact Centre Technology squad, supporting critical platforms that help keep customer and colleague channels reliable, secure and continuously improving. This role blends service ownership, delivery leadership and hands-on technical direction across contact centre technology, Microsoft Dy",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "enterprise",
+      "product",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4453254925",
    "source": "LinkedIn",
    "title": "Forward Deployed Engineer",
@@ -7015,6 +7064,49 @@
       "sre",
       "terraform"
      ],
+     "route": "iswv",
+     "score": 75,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 75,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4487229270",
+   "source": "LinkedIn",
+   "title": "AI Operations Lead",
+   "company": "Fonterra",
+   "advertiser": "Fonterra",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487229270/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T06:03:10+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-10-29T05:04:51.673418+00:00",
+    "expiry": "2028-08-06",
+    "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
+    "nzbn": "9429036748471",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Position Description\n\n Imagine Tomorrow with Us | Ata whakaarohia t\u014d \u0101p\u014dp\u014d\n\n At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves.\n\nWhether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution.\n\nOwned by New Zealand dairy farmers and supported by a",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
      "route": "iswv",
      "score": 75,
      "tier": "A",
