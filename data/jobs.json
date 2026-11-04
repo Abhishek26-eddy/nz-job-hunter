@@ -18908,7 +18908,13 @@
    },
    "visa_ready": false,
    "score": 35,
-   "tier": "B"
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95699484"
+    }
+   ]
   },
   {
    "id": "linkedin:4476504233",
@@ -24248,6 +24254,48 @@
    "tier": "C"
   },
   {
+   "id": "linkedin:4470208385",
+   "source": "LinkedIn",
+   "title": "Automation & AI Engineer",
+   "company": "Abano Healthcare Group",
+   "advertiser": "Abano Healthcare Group",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4470208385/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-04T19:34:37+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T19:53:17.592280+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At Abano Healthcare, we are Australasia's largest dental support organisation, supporting clinical excellence and exceptional patient care across our network of dental practices.\n\n\n As part of our ongoing technology transformation, we're investing in automation, artificial intelligence, and modern Microsoft technologies to create smarter, more efficient ways of working across our business. From st",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai"
+     ],
+     "route": "iswv",
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
+   "tier": "C"
+  },
+  {
    "id": "seek:95336814",
    "source": "Seek",
    "title": "Lead AI Engineer",
@@ -26745,70 +26793,6 @@
    "tier": "blocked"
   },
   {
-   "id": "seek:95647327",
-   "source": "Seek",
-   "title": "Software and Applied AI Engineer",
-   "company": "Traffic Safe",
-   "advertiser": "Traffic Safe New Zealand Ltd",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95647327",
-   "posted_at": "2026-11-02T19:11:57Z",
-   "work_type": "Full time",
-   "salary": "$100,000 \u2013 $120,000 per year",
-   "teaser": "Design, build, and support enterprise software systems and AI solutions for a New Zealand company. A leading name 10+ years - Trusted partner in Traffic Management! Proud Winner of the Safety Innovation Award at the Site Safe Awards! Join a company celebrated for its commitment to safety and innovation!",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-03T05:35:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-03T05:43:00.957503+00:00",
-    "legal_name": "TRAFFIC SAFE NEW ZEALAND LIMITED",
-    "nzbn": "9429041107935",
-    "expiry": "2028-10-29"
-   },
-   "hard_blockers": [
-    {
-     "why": "Says no visa sponsorship",
-     "quote": "\u2026ential.  Working Rights  Applicants must already hold valid New Zealand work rights. Visa sponsorship is not available.  How to Apply  Submit your CV and a brief cover letter explaining your interest in the r\u2026"
-    }
-   ],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the Role\n Traffic Safe NZ is a 100% New Zealand owned and operated company that provides temporary traffic management services throughout the North Island.\n We are seeking an experienced Software and Applied AI Engineer to build, enhance and support enterprise software, internal AI tools and practical agentic systems.\n This hands-on individual contributor role combines full-stack development",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "aws",
-      "bash",
-      "docker",
-      "ecs",
-      "jenkins",
-      "kubernetes",
-      "observability",
-      "python",
-      "security",
-      "sre",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 84,
-     "tier": "blocked",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 84,
-   "tier": "blocked"
-  },
-  {
    "id": "seek:94964194",
    "source": "Seek",
    "title": "Programme Manager",
@@ -27104,6 +27088,70 @@
       "data",
       "product",
       "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 74,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 74,
+   "tier": "blocked"
+  },
+  {
+   "id": "seek:95647327",
+   "source": "Seek",
+   "title": "Software and Applied AI Engineer",
+   "company": "Traffic Safe",
+   "advertiser": "Traffic Safe New Zealand Ltd",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95647327",
+   "posted_at": "2026-11-02T19:11:57Z",
+   "work_type": "Full time",
+   "salary": "$100,000 \u2013 $120,000 per year",
+   "teaser": "Design, build, and support enterprise software systems and AI solutions for a New Zealand company. A leading name 10+ years - Trusted partner in Traffic Management! Proud Winner of the Safety Innovation Award at the Site Safe Awards! Join a company celebrated for its commitment to safety and innovation!",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-03T05:35:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-03T05:43:00.957503+00:00",
+    "legal_name": "TRAFFIC SAFE NEW ZEALAND LIMITED",
+    "nzbn": "9429041107935",
+    "expiry": "2028-10-29"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026ential.  Working Rights  Applicants must already hold valid New Zealand work rights. Visa sponsorship is not available.  How to Apply  Submit your CV and a brief cover letter explaining your interest in the r\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About the Role\n Traffic Safe NZ is a 100% New Zealand owned and operated company that provides temporary traffic management services throughout the North Island.\n We are seeking an experienced Software and Applied AI Engineer to build, enhance and support enterprise software, internal AI tools and practical agentic systems.\n This hands-on individual contributor role combines full-stack development",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "aws",
+      "bash",
+      "docker",
+      "ecs",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "python",
+      "security",
+      "sre",
+      "terraform"
      ],
      "route": "iswv",
      "score": 74,

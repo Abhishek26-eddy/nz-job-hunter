@@ -3,6 +3,10 @@
   "checked_at": "2026-11-03T05:43:19.510554+00:00",
   "status": "not_listed"
  },
+ "abano healthcare": {
+  "checked_at": "2026-11-04T19:53:17.592280+00:00",
+  "status": "not_listed"
+ },
  "abb": {
   "checked_at": "2026-10-23T02:01:38.933815+00:00",
   "expiry": "2028-03-06",
@@ -136,7 +140,7 @@
   "status": "accredited"
  },
  "apex water": {
-  "checked_at": "2026-10-28T15:17:41.098393+00:00",
+  "checked_at": "2026-11-04T19:53:24.340592+00:00",
   "expiry": "2027-05-20",
   "legal_name": "APEX WATER LIMITED",
   "nzbn": "9429041844243",
@@ -1771,6 +1775,10 @@
   "checked_at": "2026-10-21T15:00:59.312582+00:00",
   "status": "not_listed"
  },
+ "technical engineering": {
+  "checked_at": "2026-11-04T19:53:14.073459+00:00",
+  "status": "not_listed"
+ },
  "technical recruitment": {
   "checked_at": "2026-11-02T06:56:50.381850+00:00",
   "status": "not_listed"
@@ -1790,7 +1798,7 @@
   "status": "accredited"
  },
  "tiaki wai": {
-  "checked_at": "2026-10-28T15:17:42.506285+00:00",
+  "checked_at": "2026-11-04T19:53:09.390096+00:00",
   "expiry": "2027-06-04",
   "legal_name": "TIAKI WAI LIMITED",
   "nzbn": "9429053224163",
@@ -1878,7 +1886,7 @@
   "status": "accredited"
  },
  "turner and townsend": {
-  "checked_at": "2026-10-28T16:29:45.318981+00:00",
+  "checked_at": "2026-11-04T19:53:21.842976+00:00",
   "expiry": "2028-07-28",
   "legal_name": "TURNER & TOWNSEND PTY LTD",
   "nzbn": "9429041494493",
