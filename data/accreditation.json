@@ -412,7 +412,7 @@
   "status": "not_listed"
  },
  "comaea consulting": {
-  "checked_at": "2026-11-02T03:50:52.817193+00:00",
+  "checked_at": "2026-11-05T03:51:06.568251+00:00",
   "status": "not_listed"
  },
  "compass": {
@@ -747,7 +747,7 @@
   "status": "accredited"
  },
  "fluid construction": {
-  "checked_at": "2026-11-02T03:50:28.354566+00:00",
+  "checked_at": "2026-11-05T03:50:59.870934+00:00",
   "status": "not_listed"
  },
  "fonterra": {
@@ -1449,7 +1449,7 @@
   "status": "not_listed"
  },
  "randstad": {
-  "checked_at": "2026-10-30T03:53:59.251159+00:00",
+  "checked_at": "2026-11-05T03:51:02.208252+00:00",
   "status": "not_listed"
  },
  "reannz": {
@@ -1686,6 +1686,13 @@
   "checked_at": "2026-10-23T07:28:03.501845+00:00",
   "status": "not_listed"
  },
+ "stantec": {
+  "checked_at": "2026-11-05T03:50:54.067320+00:00",
+  "expiry": "2028-06-17",
+  "legal_name": "STANTEC NEW ZEALAND",
+  "nzbn": "9429040356297",
+  "status": "accredited"
+ },
  "starfish consulting": {
   "checked_at": "2026-10-23T07:28:02.112623+00:00",
   "status": "not_listed"
@@ -1919,7 +1926,7 @@
   "status": "accredited"
  },
  "unisys": {
-  "checked_at": "2026-11-02T03:50:41.520902+00:00",
+  "checked_at": "2026-11-05T03:51:04.062913+00:00",
   "status": "not_listed"
  },
  "unitus": {
