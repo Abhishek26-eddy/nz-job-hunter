@@ -15,7 +15,7 @@
   "status": "accredited"
  },
  "absolute it": {
-  "checked_at": "2026-10-27T06:35:46.137984+00:00",
+  "checked_at": "2026-11-05T14:06:55.779045+00:00",
   "status": "not_listed"
  },
  "ac3": {
@@ -68,6 +68,10 @@
   "checked_at": "2026-10-21T14:38:34.967964+00:00",
   "status": "not_listed"
  },
+ "ahwoo": {
+  "checked_at": "2026-11-05T14:06:25.061063+00:00",
+  "status": "not_listed"
+ },
  "aia": {
   "checked_at": "2026-11-02T03:50:02.188482+00:00",
   "expiry": "2028-10-27",
@@ -91,6 +95,10 @@
  },
  "alignerr": {
   "checked_at": "2026-11-02T05:20:35.648010+00:00",
+  "status": "not_listed"
+ },
+ "allerton recruitment": {
+  "checked_at": "2026-11-05T14:06:42.330193+00:00",
   "status": "not_listed"
  },
  "alstef": {
@@ -276,6 +284,10 @@
   "nzbn": "9429047603479",
   "status": "accredited"
  },
+ "bastion cx": {
+  "checked_at": "2026-11-05T14:07:03.244880+00:00",
+  "status": "not_listed"
+ },
  "bastion security": {
   "checked_at": "2026-10-22T06:50:38.435249+00:00",
   "expiry": "2028-10-08",
@@ -296,6 +308,10 @@
   "legal_name": "BECA GROUP LIMITED",
   "nzbn": "9429038536540",
   "status": "accredited"
+ },
+ "bell computer systems": {
+  "checked_at": "2026-11-05T14:06:27.345089+00:00",
+  "status": "not_listed"
  },
  "beyond recruitment": {
   "checked_at": "2026-11-02T03:49:53.573201+00:00",
@@ -351,8 +367,15 @@
   "status": "not_listed"
  },
  "carepatron": {
-  "checked_at": "2026-11-02T05:20:34.054681+00:00",
+  "checked_at": "2026-11-05T14:07:01.152684+00:00",
   "status": "not_listed"
+ },
+ "carlyon industries": {
+  "checked_at": "2026-11-05T14:06:36.556484+00:00",
+  "expiry": "2028-10-09",
+  "legal_name": "CARLYON INDUSTRIES LIMITED",
+  "nzbn": "9429033097343",
+  "status": "accredited"
  },
  "cassidy construction": {
   "checked_at": "2026-10-29T05:04:49.892982+00:00",
@@ -498,7 +521,7 @@
   "status": "accredited"
  },
  "datacom": {
-  "checked_at": "2026-10-21T14:29:30.384126+00:00",
+  "checked_at": "2026-11-05T14:06:24.139020+00:00",
   "expiry": "2028-08-03",
   "legal_name": "DATACOM NEW ZEALAND LIMITED",
   "nzbn": "9429032698626",
@@ -512,7 +535,7 @@
   "status": "accredited"
  },
  "defence force": {
-  "checked_at": "2026-11-02T03:49:56.605165+00:00",
+  "checked_at": "2026-11-05T14:06:45.832492+00:00",
   "status": "not_listed"
  },
  "deloitte": {
@@ -652,7 +675,7 @@
   "status": "accredited"
  },
  "environment canterbury": {
-  "checked_at": "2026-10-21T14:27:15.099971+00:00",
+  "checked_at": "2026-11-05T14:06:57.998262+00:00",
   "expiry": "2028-05-11",
   "legal_name": "Canterbury Regional Council",
   "nzbn": "9429041900130",
@@ -826,7 +849,7 @@
   "status": "accredited"
  },
  "gallagher security": {
-  "checked_at": "2026-10-23T07:28:22.254325+00:00",
+  "checked_at": "2026-11-05T14:07:09.012216+00:00",
   "status": "not_listed"
  },
  "genesis": {
@@ -850,6 +873,10 @@
  },
  "government communications security bureau": {
   "checked_at": "2026-10-29T05:04:43.369657+00:00",
+  "status": "not_listed"
+ },
+ "gpos": {
+  "checked_at": "2026-11-05T14:06:39.377159+00:00",
   "status": "not_listed"
  },
  "h2r consulting": {
@@ -1016,7 +1043,7 @@
   "status": "not_listed"
  },
  "jobgether": {
-  "checked_at": "2026-10-22T12:31:55.168153+00:00",
+  "checked_at": "2026-11-05T14:06:59.839190+00:00",
   "status": "not_listed"
  },
  "johnson": {
@@ -1109,6 +1136,10 @@
   "checked_at": "2026-10-21T15:00:55.153721+00:00",
   "status": "not_listed"
  },
+ "linwood contracting": {
+  "checked_at": "2026-11-05T14:07:07.249742+00:00",
+  "status": "not_listed"
+ },
  "ltimindtree": {
   "checked_at": "2026-11-02T03:50:44.264663+00:00",
   "status": "not_listed"
@@ -1123,6 +1154,10 @@
  },
  "magnetic recruitment": {
   "checked_at": "2026-11-04T04:58:42.112787+00:00",
+  "status": "not_listed"
+ },
+ "manawa recruitment": {
+  "checked_at": "2026-11-05T14:06:32.843363+00:00",
   "status": "not_listed"
  },
  "manawanui": {
@@ -1170,7 +1205,7 @@
   "status": "not_listed"
  },
  "ministry of justice": {
-  "checked_at": "2026-10-29T05:04:47.523288+00:00",
+  "checked_at": "2026-11-05T14:07:05.345546+00:00",
   "expiry": "2028-10-23",
   "legal_name": "Ministry of Justice",
   "nzbn": "9429041908907",
@@ -1209,7 +1244,7 @@
   "status": "accredited"
  },
  "netsafe": {
-  "checked_at": "2026-10-29T13:09:41.892759+00:00",
+  "checked_at": "2026-11-05T14:06:53.133177+00:00",
   "expiry": "2027-08-06",
   "legal_name": "NETSAFE INCORPORATED",
   "nzbn": "9429042994879",
@@ -1419,6 +1454,10 @@
   "nzbn": "9429031763752",
   "status": "accredited"
  },
+ "push projects": {
+  "checked_at": "2026-11-05T14:06:44.546771+00:00",
+  "status": "not_listed"
+ },
  "pushpay": {
   "checked_at": "2026-10-23T07:28:15.602712+00:00",
   "expiry": "2028-05-12",
@@ -1582,6 +1621,10 @@
  },
  "seeka": {
   "checked_at": "2026-10-23T07:27:47.026176+00:00",
+  "status": "not_listed"
+ },
+ "selwyn water": {
+  "checked_at": "2026-11-05T14:06:54.676365+00:00",
   "status": "not_listed"
  },
  "serverworks": {
@@ -1802,7 +1845,7 @@
   "status": "not_listed"
  },
  "technical recruitment": {
-  "checked_at": "2026-11-02T06:56:50.381850+00:00",
+  "checked_at": "2026-11-05T14:06:29.979076+00:00",
   "status": "not_listed"
  },
  "teltrac communications": {
@@ -1843,6 +1886,13 @@
   "expiry": "2027-01-27",
   "legal_name": "TOMRA FOOD (ANZ) LIMITED",
   "nzbn": "9429039911582",
+  "status": "accredited"
+ },
+ "tower insurance": {
+  "checked_at": "2026-11-05T14:06:51.916177+00:00",
+  "expiry": "2028-10-02",
+  "legal_name": "TOWER LIMITED",
+  "nzbn": "9429040323299",
   "status": "accredited"
  },
  "trade and enterprise": {
@@ -1959,6 +2009,10 @@
   "checked_at": "2026-10-21T15:00:20.434438+00:00",
   "status": "not_listed"
  },
+ "vinci energies": {
+  "checked_at": "2026-11-05T14:06:50.656563+00:00",
+  "status": "not_listed"
+ },
  "vip structural steel": {
   "checked_at": "2026-10-25T06:57:48.044063+00:00",
   "status": "not_listed"
@@ -2060,7 +2114,7 @@
   "status": "not_listed"
  },
  "younity": {
-  "checked_at": "2026-10-29T05:04:37.831003+00:00",
+  "checked_at": "2026-11-05T14:06:22.191404+00:00",
   "status": "not_listed"
  },
  "zespri": {
