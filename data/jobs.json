@@ -452,6 +452,62 @@
    "tier": "A"
   },
   {
+   "id": "seek:95734566",
+   "source": "Seek",
+   "title": "ICT Project Manager",
+   "company": "Techwise Solutions Limited",
+   "advertiser": "Techwise Solutions Limited",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95734566",
+   "posted_at": "2026-11-06T02:22:54Z",
+   "work_type": "Full time",
+   "salary": "$72 \u2013 $74 per hour",
+   "teaser": "Lead our NZ client ICT software and integration projects, bridging business needs and technical delivery to deliver successful, on-budget results.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T03:38:09.534158+00:00",
+    "legal_name": "TECHWISE SOLUTIONS LIMITED",
+    "nzbn": "9429051521387",
+    "expiry": "2027-11-05"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company: \u00a0TechWise Solutions Limited\n Location: \u00a0Auckland, New Zealand \n Position: \u00a0ICT Project Manager\n About TechWise Solutions \n TechWise Solutions is an Auckland-based technology partner helping New Zealand businesses move beyond spreadsheets, disconnected systems, and generic software tools. We design and build fit-for-purpose solutions\u2014ranging from custom software and internal business appli",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "cloud",
+      "consulting",
+      "data",
+      "product",
+      "requirements",
+      "sdlc",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 99,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 99,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4486936403",
    "source": "LinkedIn",
    "title": "Senior Delivery Lead",
@@ -496,6 +552,65 @@
       "vendors"
      ],
      "route": "iswv",
+     "score": 93,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 93,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95737180",
+   "source": "Seek",
+   "title": "Open Banking Product Lead",
+   "company": "Kiwibank",
+   "advertiser": "Kiwibank",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95737180",
+   "posted_at": "2026-11-06T03:21:12Z",
+   "work_type": "Full time",
+   "salary": "Excellent salaries and benefits at Kiwibank!",
+   "teaser": "Banking is changing, want to help shape the future of Open Banking in Aotearoa? Shape Kiwibank\u2019s Open Banking strategy and future ecosystem Lead innovative partnerships that make Kiwi better off Manage the regulatory and compliance capabilities that enable Open Banking",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95737114"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-03T05:42:50.784957+00:00",
+    "expiry": "2028-06-12",
+    "legal_name": "KIWIBANK LIMITED",
+    "nzbn": "9429036917211",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Banking is changing, and Kiwibank is moving with it. Our Retail Product teams are shaping how we meet the evolving needs of Kiwi, creating smarter, more connected products and experiences that make banking easier and help our customers thrive into the future.\n K\u014d t\u0101tou t\u0113nei. Hei kawe i ng\u0101 mahi kia tutuki | This is us. Where making an impact matters. \n As our Open Banking Product Lead, you will d",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
      "score": 93,
      "tier": "A",
      "reasons": [
@@ -600,6 +715,58 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95733988",
+   "source": "Seek",
+   "title": "Service Delivery Manager",
+   "company": "Jade Software Corporation",
+   "advertiser": "Jade Software Corporation Ltd",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95733988",
+   "posted_at": "2026-11-06T02:06:17Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Own service outcomes, build trusted customer partnerships and bring teams together to drive improvement across Jade\u2019s Managed Services customers. Build trusted partnerships and deliver great customer outcomes Great Jade benefits, including insurance and enhanced parental leave Be part of Jade\u2019s exciting next chapter of transformation and growth.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T03:38:03.221308+00:00",
+    "legal_name": "JADE SOFTWARE CORPORATION LIMITED",
+    "nzbn": "9429039604873",
+    "expiry": "2028-05-13"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Service Delivery Manager \n\n \n\n\n Jade has been solving complex, real-world problems with technology since 1978. Today, our software is used across more than 25 industries and 70 countries, helping organisations combat financial crime, manage global dairy supply chains and run the critical business operations they rely on every day.\n\n \n\n\n Our portfolio includes ThirdEye, our financial crime preventi",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "product",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
      "score": 90,
      "tier": "A",
      "reasons": [
@@ -3824,6 +3991,56 @@
    "tier": "A"
   },
   {
+   "id": "seek:95736372",
+   "source": "Seek",
+   "title": "Project Manager - EV Charging Systems",
+   "company": "ECL Group",
+   "advertiser": "ECL Group Ltd",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95736372",
+   "posted_at": "2026-11-06T03:03:24Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead complex EV infrastructure projects across New Zealand, ensuring timely, safe delivery and exceptional client satisfaction at ECL Group. Lead transformative EV projects across New Zealand. Join a trusted, safety-first company with a legacy since 1957. Enjoy career growth in a high-performing, supportive team environment.",
+   "seek_class": [
+    "1206"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T03:38:07.994701+00:00",
+    "legal_name": "ECL GROUP LIMITED",
+    "nzbn": "9429047169043",
+    "expiry": "2028-09-24"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Project Manager \n\n \n ECL Group: \n\n At ECL we enable the connections that keep New Zealand moving. We are New Zealand\u2019s oldest, most reliable and trusted infrastructure services business.\n\n Founded in 1957 we install, maintain, protect and repair New Zealand\u2019s critical infrastructure. That\u2019s the stuff that keeps us moving and connected with the stuff that fuels our lives \u2013 Fuel, Technology, EV char",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 84,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 84,
+   "tier": "A"
+  },
+  {
    "id": "seek:95061260",
    "source": "Seek",
    "title": "Site Reliability Engineer",
@@ -6209,6 +6426,60 @@
    "tier": "A"
   },
   {
+   "id": "seek:95734389",
+   "source": "Seek",
+   "title": "Infrastructure Engineer",
+   "company": "PGG Wrightson",
+   "advertiser": "PGG Wrightson",
+   "location": "Dunedin Central, Otago",
+   "url": "https://www.seek.co.nz/job/95734389",
+   "posted_at": "2026-11-06T02:18:05Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Enjoy a varied role balancing operational support, problem-solving and continuous improvement across a large, complex business Help shape the future of technology at PGG Wrightson Support enterprise infrastructure across cloud and hybrid platforms Grow your career in a collaborative team that values development",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95734355"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T03:38:01.169788+00:00",
+    "legal_name": "PGG WRIGHTSON LIMITED",
+    "nzbn": "9429040323497",
+    "expiry": "2027-02-26"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Christchurch and Dunedin \n Join us at a pivotal moment in our technology transformation. \n PGG Wrightson is a leading provider of products and services to the agricultural and horticultural sectors. We are helping grow the country through our knowledge, service and expertise.\n We've refreshed our Technology Strategy and Investment Roadmap and are now investing in several new roles to support the n",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 78,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 78,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4457320155",
    "source": "LinkedIn",
    "title": "Technical Business Analyst",
@@ -7230,7 +7501,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95734504"
+    }
+   ]
   },
   {
    "id": "seek:94943086",
@@ -9874,6 +10151,55 @@
      ]
     }
    }
+  },
+  {
+   "id": "seek:95733412",
+   "source": "Seek",
+   "title": "Domain Architect - Cloud & Infrastructure",
+   "company": "Watercare",
+   "advertiser": "Watercare Services Limited",
+   "location": "Newmarket, Auckland",
+   "url": "https://www.seek.co.nz/job/95733412",
+   "posted_at": "2026-11-06T01:49:34Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We're looking for an experienced Domain Architect - Cloud & Infrastructure Enjoy flexible working options Join a supportive and collaborative team Grow your career through ongoing learning and development",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-06T03:15:20.606738+00:00",
+    "expiry": "2028-04-29",
+    "legal_name": "WATERCARE SERVICES LIMITED",
+    "nzbn": "9429039071552",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "He k\u014drero m\u014d m\u0101tou | About Watercare \n \n Ki te ora te wai, ka ora te whenua, ka ora te tangata\nWhen the water is healthy, the land and the people are healthy\n \n There's never been a better time to join Watercare. We're delivering a $15.2 billion, 10-year capital investment programme, the largest in our history, creating opportunities to work on transformative infrastructure, sustainability and dig",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 66,
+   "tier": "A"
   },
   {
    "id": "seek:94812612",
@@ -29346,6 +29672,68 @@
      "tier": "blocked",
      "reasons": [
       "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 59,
+   "tier": "blocked"
+  },
+  {
+   "id": "seek:95735384",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "RWA People",
+   "advertiser": "RWA People",
+   "location": "Auckland",
+   "url": "https://www.seek.co.nz/job/95735384",
+   "posted_at": "2026-11-06T02:42:22Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Seeking an experienced Senior Project Manager with financial services experience to lead a key wealth management project. Initial 3-month contract. Initial 3-month contract with immediate start Financial services / wealth management project Central location with hybrid working",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T03:30:45+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T03:38:12.003713+00:00",
+    "legal_name": "RWA PEOPLE LIMITED",
+    "nzbn": "9429033198132",
+    "expiry": "2026-11-20"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026currently residing in New Zealand with full legal working rights will be considered. Visa sponsorship is not available for this role."
+    }
+   ],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026our next contract opportunity, we'd love to hear from you.   Please note: Only candidates currently residing in New Zealand with full legal working rights will be considered. Visa sponsorship is not available for\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Full Job Description \n We are seeking an experienced Senior Project Manager to join our client on an initial 3-month contract, delivering a key project within the financial services and wealth management space.\n\n This opportunity requires a hands-on Project Manager who can operate at both a strategic and delivery level, confidently managing senior stakeholders, driving project milestones and ensur",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "product",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 59,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
      ]
     }
    },

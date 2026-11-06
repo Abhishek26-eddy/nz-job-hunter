@@ -412,6 +412,10 @@
   "nzbn": "9429040894492",
   "status": "accredited"
  },
+ "cip constructions": {
+  "checked_at": "2026-11-06T03:38:04.943728+00:00",
+  "status": "not_listed"
+ },
  "civil aviation authority": {
   "checked_at": "2026-10-23T07:27:41.970108+00:00",
   "expiry": "2028-10-09",
@@ -509,6 +513,10 @@
  },
  "crescent consulting": {
   "checked_at": "2026-10-21T14:38:37.453677+00:00",
+  "status": "not_listed"
+ },
+ "csli infrastructure": {
+  "checked_at": "2026-11-06T03:38:10.666663+00:00",
   "status": "not_listed"
  },
  "customs service": {
@@ -628,6 +636,13 @@
  "echelon": {
   "checked_at": "2026-11-04T04:58:53.755084+00:00",
   "status": "not_listed"
+ },
+ "ecl": {
+  "checked_at": "2026-11-06T03:38:07.994701+00:00",
+  "expiry": "2028-09-24",
+  "legal_name": "ECL GROUP LIMITED",
+  "nzbn": "9429047169043",
+  "status": "accredited"
  },
  "ecoportal": {
   "checked_at": "2026-11-03T05:43:32.988201+00:00",
@@ -1035,7 +1050,7 @@
   "status": "accredited"
  },
  "jade software": {
-  "checked_at": "2026-10-21T14:28:45.401289+00:00",
+  "checked_at": "2026-11-06T03:38:03.221308+00:00",
   "expiry": "2028-05-13",
   "legal_name": "JADE SOFTWARE CORPORATION LIMITED",
   "nzbn": "9429039604873",
@@ -1377,6 +1392,13 @@
   "checked_at": "2026-10-27T15:08:01.530666+00:00",
   "status": "not_listed"
  },
+ "pgg wrightson": {
+  "checked_at": "2026-11-06T03:38:01.169788+00:00",
+  "expiry": "2027-02-26",
+  "legal_name": "PGG WRIGHTSON LIMITED",
+  "nzbn": "9429040323497",
+  "status": "accredited"
+ },
  "pilot tech": {
   "checked_at": "2026-10-23T07:28:12.974024+00:00",
   "expiry": "2027-07-23",
@@ -1582,7 +1604,7 @@
   "status": "accredited"
  },
  "rwa people": {
-  "checked_at": "2026-10-21T14:26:37.531128+00:00",
+  "checked_at": "2026-11-06T03:38:12.003713+00:00",
   "expiry": "2026-11-20",
   "legal_name": "RWA PEOPLE LIMITED",
   "nzbn": "9429033198132",
@@ -1876,6 +1898,13 @@
  "technical recruitment": {
   "checked_at": "2026-11-05T14:06:29.979076+00:00",
   "status": "not_listed"
+ },
+ "techwise": {
+  "checked_at": "2026-11-06T03:38:09.534158+00:00",
+  "expiry": "2027-11-05",
+  "legal_name": "TECHWISE SOLUTIONS LIMITED",
+  "nzbn": "9429051521387",
+  "status": "accredited"
  },
  "teltrac communications": {
   "checked_at": "2026-10-21T15:00:33.590262+00:00",
