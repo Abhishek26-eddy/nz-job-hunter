@@ -334,6 +334,58 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4485892957",
+   "source": "LinkedIn",
+   "title": "Project Manager / Delivery Lead",
+   "company": "Westpac New Zealand",
+   "advertiser": "Westpac New Zealand",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4485892957/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T06:57:53+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-04T06:10:18.422992+00:00",
+    "expiry": "2028-03-17",
+    "legal_name": "WESTPAC NEW ZEALAND LIMITED",
+    "nzbn": "9429034324622",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "M\u014d te t\u016branga | About the Role \n\n The Delivery Lead in Transformation and Customer Operations is a key role providing leadership of one of more approved Enterprise Change initiatives or workstreams within one of our Critical Transformation Programmes. The role is to manage enterprise-wide initiative/s within a Programme of work that deliver business and/or technology solutions enabling Westpac to ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 99,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 99,
+   "tier": "A"
+  },
+  {
    "id": "seek:95732593",
    "source": "Seek",
    "title": "Software Product Owner",
@@ -449,6 +501,57 @@
    },
    "visa_ready": true,
    "score": 99,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4488121229",
+   "source": "LinkedIn",
+   "title": "Delivery Lead",
+   "company": "Fonterra",
+   "advertiser": "Fonterra",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4488121229/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T06:57:53+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T07:04:05.779082+00:00",
+    "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
+    "nzbn": "9429036748471",
+    "expiry": "2028-08-06"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Position Description\n\n Imagine Tomorrow with Us | Ata whakaarohia t\u014d \u0101p\u014dp\u014d\n\n At Fonterra Te M\u0101t\u0101puna, we want everyone to feel they can be themselves.\n\nWhether you're early in your career or ready for your next step, Fonterra offers a unique opportunity to grow with a global dairy co-operative that values care, collaboration, and contribution.\n\nOwned by New Zealand dairy farmers and supported by a",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "product",
+      "risk",
+      "sdlc",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "iswv",
+     "score": 96,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 96,
    "tier": "A"
   },
   {
