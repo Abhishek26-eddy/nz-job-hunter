@@ -775,7 +775,13 @@
    },
    "visa_ready": true,
    "score": 90,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4488087085/"
+    }
+   ]
   },
   {
    "id": "seek:95733988",
@@ -2976,6 +2982,59 @@
      "tier": "A",
      "reasons": [
       "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 89,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4486967347",
+   "source": "LinkedIn",
+   "title": "Programme Director(s)",
+   "company": "Health New Zealand | Te Whatu Ora",
+   "advertiser": "Health New Zealand | Te Whatu Ora",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486967347/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T07:55:07+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-02T03:50:25.467764+00:00",
+    "expiry": "2028-05-11",
+    "legal_name": "Health New Zealand",
+    "nzbn": "9429050678402",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Help shape the future of health in New Zealand \n \n\n The Health Digital Investment Plan (HDIP) is a 10-year roadmap to modernise the digital systems and technology that underpin health services across New Zealand.\n \n\n To deliver the plan, Health NZ has established the Centre for Digital Modernisation of Health. The Centre provides the leadership, governance and delivery capability required to coord",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "business",
+      "data",
+      "enterprise",
+      "product",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 89,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
      ]
     }
    },
