@@ -584,6 +584,10 @@
     {
      "source": "Seek",
      "url": "https://www.seek.co.nz/job/95737114"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486950291/"
     }
    ],
    "accreditation": {
@@ -19739,6 +19743,61 @@
    "tier": "B"
   },
   {
+   "id": "seek:95738826",
+   "source": "Seek",
+   "title": "Solution architect - Infrastructure (Cloud & Network)",
+   "company": "Consult Recruitment",
+   "advertiser": "Consult Recruitment - IT & Digital",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95738826",
+   "posted_at": "2026-11-06T04:01:09Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Long term contract role within a leading financial services in NZ. Work across enterprise level projects 12 month contract Auckland or Christchurch location Flexible start date",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T04:18:27+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-03T05:43:09.262279+00:00",
+    "expiry": "2028-08-27",
+    "legal_name": "CONSULT RECRUITMENT LIMITED",
+    "nzbn": "9429047259775",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Job Title: Solution Architect \u2013 Cloud Infrastructure & Network Security\u00a0\n\n\n About the Role: \n\nAn exciting opportunity has arisen for two delivery-embedded Solution Architects to join the Infrastructure & Cloud Services team. You will operate directly inside delivery squads, acting as an enabler to design and embed reusable patterns, guardrails, and implementation-ready backlog items.\n We are activ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "security",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:94850159",
    "source": "Seek",
    "title": "Integration Project Manager",
@@ -23970,55 +24029,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95684759",
-   "source": "Seek",
-   "title": "Business Enablement Project Manager",
-   "company": "H2R Consulting",
-   "advertiser": "H2R Technology Limited",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95684759",
-   "posted_at": "2026-11-04T04:23:28Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Dynamics 365 PM",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-04T04:51:48+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-04T04:58:52.301539+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "H2R Technology are\u00a0looking for a Business Enablement Project Manager to act as the key internal Project Manager for a significant CRM implementation and broader business improvement initiatives.\n\n Working alongside an external implementation partner, you will champion business needs, provide oversight and assurance, coordinate stakeholders, and ensure the solution delivers the outcomes the organis",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "enterprise",
-      "requirements",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 29,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 29,
-   "tier": "C"
-  },
-  {
    "id": "seek:94984066",
    "source": "Seek",
    "title": "Senior Business Analyst",
@@ -26284,6 +26294,55 @@
       "vendors"
      ],
      "route": "aewv",
+     "score": 19,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 19,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95684759",
+   "source": "Seek",
+   "title": "Business Enablement Project Manager",
+   "company": "H2R Consulting",
+   "advertiser": "H2R Technology Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95684759",
+   "posted_at": "2026-11-04T04:23:28Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Dynamics 365 PM",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T04:51:48+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T04:58:52.301539+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "H2R Technology are\u00a0looking for a Business Enablement Project Manager to act as the key internal Project Manager for a significant CRM implementation and broader business improvement initiatives.\n\n Working alongside an external implementation partner, you will champion business needs, provide oversight and assurance, coordinate stakeholders, and ensure the solution delivers the outcomes the organis",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "enterprise",
+      "requirements",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
      "score": 19,
      "tier": "C",
      "reasons": [
