@@ -10426,63 +10426,6 @@
    ]
   },
   {
-   "id": "seek:94812612",
-   "source": "Seek",
-   "title": "Senior Project Manager",
-   "company": "Farmlands Co-Operative",
-   "advertiser": "Farmlands",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/94812612",
-   "posted_at": "2026-09-22T21:58:01Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "You will be responsible for planning, overseeing and leading Farmlands projects from discovery through to completion Join an amazing team with a great culture Work of a variety of exciting projects Kiwi-owned Brand - Aotearoa's largest farming co-operative",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T15:01:26.705799+00:00",
-    "legal_name": "FARMLANDS CO-OPERATIVE SOCIETY LIMITED",
-    "nzbn": "9429042618577",
-    "expiry": "2026-11-20"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026you and know you'll most definitely grow your career - and us - at Farmlands.  Applicants must have the legal right to work in New Zealand.  Please note that the successful candidate will have to go through pre-em\u2026"
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "M\u014d te whai waahi | About the opportunity \n As a Senior Project Manager, you will be responsible for planning, overseeing and leading Farmlands projects from discovery through to completion. You will ensure that project timelines and deliverables are met, in addition to the coordination of business change, transition, IT systems and reporting needs to support Farmlands programmes and projects.\n M\u014dh",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "budget",
-      "data",
-      "enterprise",
-      "requirements",
-      "risk"
-     ],
-     "route": "iswv",
-     "score": 65,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 65,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4480298538",
    "source": "LinkedIn",
    "title": "Platform Engineer",
@@ -10923,54 +10866,6 @@
    },
    "visa_ready": true,
    "score": 64,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95701060",
-   "source": "Seek",
-   "title": "Systems Engineer",
-   "company": "Vital",
-   "advertiser": "Vital Limited",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95701060",
-   "posted_at": "2026-11-04T20:48:17Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join a fun team in a face paced, varied multi-vendor environment where you can take ownership and make a difference.",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-11-04T20:58:23+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-04T21:05:07.063017+00:00",
-    "legal_name": "VITAL LIMITED",
-    "nzbn": "9429038727528",
-    "expiry": "2026-11-20"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Systems Engineer \nVital Limited (part of Tait New Zealand) | Tory Street, Wellington | Permanent, Full-Time\n Connecting New Zealand when it matters most \n At Vital, our network keeps New Zealand's emergency services and utilities running. We're looking for a hands-on Systems Engineer to improve, secure, integrate and document our OSS and BSS infrastructure, and to help shape what comes next.\n Vita",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "linux"
-     ],
-     "route": "iswv",
-     "score": 63,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 63,
    "tier": "A"
   },
   {
@@ -12639,64 +12534,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95701068",
-   "source": "Seek",
-   "title": "Project Manager",
-   "company": "OSF Digital",
-   "advertiser": "OSF Digital",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95701068",
-   "posted_at": "2026-11-04T20:48:30Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients. Lead and manage project delivery teams Hybrid working options Work with top NZ clients",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-04T20:58:23+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4487537548/"
-    }
-   ],
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-04T21:05:04.822251+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Role Summary: \n \n\n The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients, delivering projects to a high standard, keeping scope under control and exceeding client expectations. This role involves managing project delivery teams, coordinating with stakeholders, and driving project management best practices.\n \n\n Key Responsib",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "cloud",
-      "enterprise",
-      "methods",
-      "requirements",
-      "risk",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 54,
-   "tier": "B"
-  },
-  {
    "id": "seek:95704897",
    "source": "Seek",
    "title": "Product Owner - Web and Digital",
@@ -14041,6 +13878,54 @@
    "tier": "B"
   },
   {
+   "id": "seek:95701060",
+   "source": "Seek",
+   "title": "Systems Engineer",
+   "company": "Vital",
+   "advertiser": "Vital Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95701060",
+   "posted_at": "2026-11-04T20:48:17Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join a fun team in a face paced, varied multi-vendor environment where you can take ownership and make a difference.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-04T20:58:23+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-04T21:05:07.063017+00:00",
+    "legal_name": "VITAL LIMITED",
+    "nzbn": "9429038727528",
+    "expiry": "2026-11-20"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Systems Engineer \nVital Limited (part of Tait New Zealand) | Tory Street, Wellington | Permanent, Full-Time\n Connecting New Zealand when it matters most \n At Vital, our network keeps New Zealand's emergency services and utilities running. We're looking for a hands-on Systems Engineer to improve, secure, integrate and document our OSS and BSS infrastructure, and to help shape what comes next.\n Vita",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "linux"
+     ],
+     "route": "iswv",
+     "score": 53,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 53,
+   "tier": "B"
+  },
+  {
    "id": "seek:95703562",
    "source": "Seek",
    "title": "Technical Business Analyst",
@@ -14177,6 +14062,57 @@
       "sdlc",
       "stakeholders",
       "vendors"
+     ],
+     "route": "aewv",
+     "score": 51,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 51,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95753988",
+   "source": "Seek",
+   "title": "Product Owner \u2013 Claims",
+   "company": "FMG Insurance",
+   "advertiser": "FMG",
+   "location": "Palmerston North Central, Manawatu",
+   "url": "https://www.seek.co.nz/job/95753988",
+   "posted_at": "2026-11-06T17:15:09Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "FMG are looking for a Product Owner, Claims - could this be the role for you? Competitive salary + 37.5 hour work week Ongoing development, learning and career progression opportunities Benefits such as wellbeing leave, give back days and more",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T20:00:35+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-06T22:19:20.246190+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "FMG are looking for Product Owner - Claims to join its Claims Strategic Initiatives team.\n About the Role - As Product Owner \u2013 Claims, you\u2019ll own the product vision and roadmap for Claims digital products and capabilities, ensuring they evolve in line with FMG\u2019s Claims strategy and the needs of our clients and people.\n Working across Claims, Digital, Data and Technology, you\u2019ll translate strategic",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "business",
+      "data",
+      "product",
+      "risk",
+      "sdlc",
+      "stakeholders"
      ],
      "route": "aewv",
      "score": 51,
@@ -14793,56 +14729,6 @@
    },
    "visa_ready": false,
    "score": 49,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95701130",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Tuapeka Gold Print",
-   "advertiser": "Tuapeka Gold Print",
-   "location": "Fairfield, Otago",
-   "url": "https://www.seek.co.nz/job/95701130",
-   "posted_at": "2026-11-04T21:01:36Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Business Analyst to gather and analyse business requirements and drive business transformational change. Build the future: modern core systems, help shape future architecture! Blank-canvas automation: design a brand-new, purpose-built operation Real impact, real numbers: see your work move the dial on profit.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-04T21:20:19+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-04T21:30:20.373546+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "TRENDS \u2013 Australasia\u2019s Leading Supplier of Customised Product Solutions \n At TRENDS, we are committed to creating customised product solutions that deliver an outstanding customer experience. As Australasia's leading wholesale supplier of promotional products and business gifts, we set the benchmark for innovation, product reliability, print quality, delivery speed, and exceptional customer servic",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "data",
-      "requirements",
-      "sql",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 48,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 48,
    "tier": "B"
   },
   {
@@ -15776,6 +15662,52 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 45,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 45,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4488125968",
+   "source": "LinkedIn",
+   "title": "Implementation Project Manager",
+   "company": "SELMA SIS",
+   "advertiser": "SELMA SIS",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4488125968/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T20:00:35+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-06T22:19:22.687397+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "SELMA International Limited | Newmarket, Auckland | 12 month fixed term, with a view to extension\n \n\n SELMA is a New Zealand CRM and student information system for higher education and vocational providers, operating across New Zealand, Australia and Singapore. We have three large scale implementation projects running through 2027 and we are hiring a Project Manager to lead that delivery.\n \n\n The ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "enterprise",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
      "score": 45,
      "tier": "B",
      "reasons": [
@@ -17234,6 +17166,64 @@
      "tier": "B",
      "reasons": [
       "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95701068",
+   "source": "Seek",
+   "title": "Project Manager",
+   "company": "OSF Digital",
+   "advertiser": "OSF Digital",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95701068",
+   "posted_at": "2026-11-04T20:48:30Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients. Lead and manage project delivery teams Hybrid working options Work with top NZ clients",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T20:58:23+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487537548/"
+    }
+   ],
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T21:05:04.822251+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Role Summary: \n \n\n The Project Manager within OSF Digital is responsible for overseeing the successful delivery of projects and services to clients, delivering projects to a high standard, keeping scope under control and exceeding client expectations. This role involves managing project delivery teams, coordinating with stakeholders, and driving project management best practices.\n \n\n Key Responsib",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "enterprise",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
      ]
     }
    },
@@ -19958,6 +19948,56 @@
    "tier": "B"
   },
   {
+   "id": "seek:95701130",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "Tuapeka Gold Print",
+   "advertiser": "Tuapeka Gold Print",
+   "location": "Fairfield, Otago",
+   "url": "https://www.seek.co.nz/job/95701130",
+   "posted_at": "2026-11-04T21:01:36Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Business Analyst to gather and analyse business requirements and drive business transformational change. Build the future: modern core systems, help shape future architecture! Blank-canvas automation: design a brand-new, purpose-built operation Real impact, real numbers: see your work move the dial on profit.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T21:20:19+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-04T21:30:20.373546+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "TRENDS \u2013 Australasia\u2019s Leading Supplier of Customised Product Solutions \n At TRENDS, we are committed to creating customised product solutions that deliver an outstanding customer experience. As Australasia's leading wholesale supplier of promotional products and business gifts, we set the benchmark for innovation, product reliability, print quality, delivery speed, and exceptional customer servic",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "requirements",
+      "sql",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:95719636",
    "source": "Seek",
    "title": "Senior Project Manager",
@@ -20529,64 +20569,6 @@
    "visa_ready": false,
    "score": 36,
    "tier": "B"
-  },
-  {
-   "id": "seek:94810878",
-   "source": "Seek",
-   "title": "Java Fullstack AI Engineer / Developer (LLMs / RAG / MCP/ AWS)",
-   "company": "Sunstone Talent",
-   "advertiser": "Sunstone Talent",
-   "location": "Christchurch, Canterbury",
-   "url": "https://www.seek.co.nz/job/94810878",
-   "posted_at": "2026-09-22T18:02:17Z",
-   "work_type": "Full time",
-   "salary": "$100k-$140k+ScaleUp+ModernOffices+Flexible/WFH",
-   "teaser": "Exciting start-up backed by a large, stable, business is looking for an AI Developer to build & scale an AI product getting market ready for launch:-) Build & Scale Cutting-Edge AI: Harden LLM pipelines, boost accuracy/latency Modern Full-Stack Playground: React, TypeScript, Python, LangChain, Prisma, AWS Join a small friendly start-up team backed by a large, stable business",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "ai",
-    "aws",
-    "jenkins",
-    "observability",
-    "python"
-   ],
-   "recruiter": true,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:12.609938+00:00"
-   },
-   "has_description": true,
-   "summary": "A modern cloud-based company is looking for a Java Fullstack AI Engineer / Developer to join a small, high-impact team\n \nWork on an AI product in a flexible, collaborative environment?\n\nThis is an AI product ready to go for market but needs someone to\u00a0\nharden pipelines, improve accuracy and latency, and scale deployments to be used by real customers\u00a0\n\n What you\u2019ll bring: \n \u2022 BSc/BEng in Computer S",
-   "score": 35,
-   "tier": "B",
-   "reasons": [
-    "via agency: ask who the employer is"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "aws",
-      "jenkins",
-      "observability",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 35,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   }
   },
   {
    "id": "seek:94928906",
@@ -24594,6 +24576,109 @@
      "reasons": [
       "not on public INZ list",
       "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 28,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95624069",
+   "source": "Seek",
+   "title": "Programme Delivery Director",
+   "company": "New Zealand Transport Agency",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95624069",
+   "posted_at": "2026-11-01T21:33:17Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Senior leadership opportunity with significant strategic, commercial and delivery influence. Lead the delivery of a large scale, complex service modernisation programme Shape and deliver transformational change across NZTA at an enterprise level Permanent opportunity based in Wellington",
+   "seek_class": [
+    "1204"
+   ],
+   "first_seen": "2026-11-06T20:00:35+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-04T04:58:45.445888+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead the delivery of a large scale, complex service modernisation programme\n Shape and deliver transformational change across NZTA at an enterprise level\n Senior leadership opportunity with significant strategic, commercial and delivery influence\n We have an exciting opportunity for an experienced senior programme leader to join our Service Modernisation function as Programme Delivery Director .\n ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "business",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 28,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 28,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95656524",
+   "source": "Seek",
+   "title": "Digital Engagement Manager",
+   "company": "Randstad",
+   "advertiser": "Randstad Digital",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95656524",
+   "posted_at": "2026-11-03T03:38:31Z",
+   "work_type": "Contract/Temp",
+   "salary": "$155 - $160 p.a. + Weekly pay",
+   "teaser": "Drive personalized in-app journeys & nudges embedded with an enterprise squad - 23-month contract- Auckland CBD - Hybrid work environment. 23-month fixed-term contract - Jan 2027 start Hands-on journey orchestration using modern SaaS tools Lead campaign QA, UAT, and A/B experimentation",
+   "seek_class": [
+    "6008"
+   ],
+   "first_seen": "2026-11-06T20:00:35+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-05T03:51:02.208252+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "The Company\n\n \nOur client is an established payments and financial technology organization that connects consumers, businesses, and financial institutions. Through an embedded delivery model, their implementation specialists work directly alongside client teams to turn digital transformation strategies into scalable, high-impact experiences.\n\n\n The Role\n\n \nIn this hands-on, execution-driven role, ",
+   "for": {
+    "wife": {
+     "fit": "adjacent",
+     "skills": [
+      "cloud",
+      "data",
+      "enterprise",
+      "product",
+      "requirements",
+      "risk",
+      "sdlc"
+     ],
+     "route": "aewv",
+     "score": 28,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -28613,62 +28698,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95701632",
-   "source": "Seek",
-   "title": "Principal Systems Engineer",
-   "company": "New Zealand Transport Agency",
-   "advertiser": "NZ Transport Agency Waka Kotahi",
-   "location": "Palmerston North, Manawatu",
-   "url": "https://www.seek.co.nz/job/95701632",
-   "posted_at": "2026-11-04T22:04:52Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Shape the future of NZTA technology, leading enterprise engineering and growing capability to deliver better outcomes for New Zealanders. Lead technical direction across critical enterprise platforms Mentor engineers and grow organisational capability Drive innovation, automation, and operational excellence",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-04T22:13:48+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95701575"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95701546"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-11-04T04:58:45.445888+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Lead our Engineering Chapter as a Principal Systems Engineer\n Your expertise will contribute to future proofing infrastructural innovation\n Auckland, Palmerston North or Wellington locations\n \nWe are strengthening technical and craft leadership across our Technology Chapters, with greater depth of expertise and stronger support for our people and delivery. These opportunities strengthen technical ",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 8,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list",
-      "title above current level"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 8,
-   "tier": "C"
-  },
-  {
    "id": "seek:94819505",
    "source": "Seek",
    "title": "Technical Systems Engineer",
@@ -29078,6 +29107,62 @@
    },
    "visa_ready": false,
    "score": 0,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95701632",
+   "source": "Seek",
+   "title": "Principal Systems Engineer",
+   "company": "New Zealand Transport Agency",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Palmerston North, Manawatu",
+   "url": "https://www.seek.co.nz/job/95701632",
+   "posted_at": "2026-11-04T22:04:52Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Shape the future of NZTA technology, leading enterprise engineering and growing capability to deliver better outcomes for New Zealanders. Lead technical direction across critical enterprise platforms Mentor engineers and grow organisational capability Drive innovation, automation, and operational excellence",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T22:13:48+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95701575"
+    },
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95701546"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-04T04:58:45.445888+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead our Engineering Chapter as a Principal Systems Engineer\n Your expertise will contribute to future proofing infrastructural innovation\n Auckland, Palmerston North or Wellington locations\n \nWe are strengthening technical and craft leadership across our Technology Chapters, with greater depth of expertise and stronger support for our people and delivery. These opportunities strengthen technical ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": -2,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": -2,
    "tier": "C"
   },
   {

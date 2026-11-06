@@ -802,6 +802,10 @@
   "checked_at": "2026-11-05T03:50:59.870934+00:00",
   "status": "not_listed"
  },
+ "fmg insurance": {
+  "checked_at": "2026-11-06T22:19:20.246190+00:00",
+  "status": "not_listed"
+ },
  "fonterra": {
   "checked_at": "2026-11-06T07:04:05.779082+00:00",
   "expiry": "2028-08-06",
@@ -1665,6 +1669,10 @@
  },
  "seeka": {
   "checked_at": "2026-10-23T07:27:47.026176+00:00",
+  "status": "not_listed"
+ },
+ "selma sis": {
+  "checked_at": "2026-11-06T22:19:22.687397+00:00",
   "status": "not_listed"
  },
  "selwyn water": {
