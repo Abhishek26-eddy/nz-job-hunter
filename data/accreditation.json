@@ -191,7 +191,7 @@
   "status": "accredited"
  },
  "ashley cooper construction": {
-  "checked_at": "2026-11-03T05:43:04.637216+00:00",
+  "checked_at": "2026-11-06T05:54:29.518429+00:00",
   "status": "not_listed"
  },
  "asknicely": {
@@ -1965,6 +1965,13 @@
   "nzbn": "9429040323299",
   "status": "accredited"
  },
+ "tracksuit": {
+  "checked_at": "2026-11-06T05:54:35.162314+00:00",
+  "expiry": "2027-03-04",
+  "legal_name": "TRACKSUIT LIMITED",
+  "nzbn": "9429049451412",
+  "status": "accredited"
+ },
  "trade and enterprise": {
   "checked_at": "2026-10-23T07:27:15.397734+00:00",
   "status": "not_listed"
@@ -2006,7 +2013,7 @@
   "status": "accredited"
  },
  "trility": {
-  "checked_at": "2026-11-03T05:43:03.049569+00:00",
+  "checked_at": "2026-11-06T05:54:31.624972+00:00",
   "status": "not_listed"
  },
  "trimble": {
@@ -2177,7 +2184,7 @@
   "status": "accredited"
  },
  "xero": {
-  "checked_at": "2026-10-23T07:28:32.683387+00:00",
+  "checked_at": "2026-11-06T05:54:33.472769+00:00",
   "expiry": "2028-06-17",
   "legal_name": "XERO LIMITED",
   "nzbn": "9429034042984",

@@ -10157,6 +10157,58 @@
    }
   },
   {
+   "id": "linkedin:4486939909",
+   "source": "LinkedIn",
+   "title": "Engineering Manager - Cloud Networks",
+   "company": "Xero",
+   "advertiser": "Xero",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486939909/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T05:47:57+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486943855/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-06T05:54:33.472769+00:00",
+    "legal_name": "XERO LIMITED",
+    "nzbn": "9429034042984",
+    "expiry": "2028-06-17"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The role & impact\n\n You will run the Networks team in Cloud Capabilities, the group that looks after Xero's cloud network, DNS and CDN. You will set the team's direction, deliver against our Cloud Capabilities goals for the year, grow and support your engineers, and balance roadmap work with support requests and incidents. You will work closely with Product, Security and the other Cloud Capabiliti",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 66,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 66,
+   "tier": "A"
+  },
+  {
    "id": "seek:95733412",
    "source": "Seek",
    "title": "Domain Architect - Cloud & Infrastructure",
