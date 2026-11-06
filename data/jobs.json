@@ -146,62 +146,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:95684984",
-   "source": "Seek",
-   "title": "Senior Project Manager",
-   "company": "Manukau Institute of Technology and Unitec",
-   "advertiser": "Manukau Institute of Technology and Unitec",
-   "location": "Tamaki, Auckland",
-   "url": "https://www.seek.co.nz/job/95684984",
-   "posted_at": "2026-11-04T04:30:06Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead enterprise-wide digital transformation projects that shape the future of vocational education across MIT and Unitec. Lead transformation programmes that shape the future of vocational education Partner with senior leaders to deliver strategic organisational outcomes Join a collaborative team delivering strategic initiatives across MIT and Unitec",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-04T04:51:48+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-04T04:59:01.096419+00:00",
-    "legal_name": "Manukau Institute of Technology and Unitec",
-    "nzbn": "9429053303370",
-    "expiry": "2026-12-16"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Drive large-scale digital and business transformation initiatives\n\n Partner with senior leaders to deliver strategic organisational outcomes\n\n Lead complex programmes that shape the future of vocational education\n\n \n About the Role \n\n We are seeking an experienced Senior Project Manager to lead the delivery of complex digital and business transformation initiatives across MIT and Unitec.\n\n Reporti",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "business",
-      "data",
-      "methods",
-      "requirements",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 99,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 99,
-   "tier": "A"
-  },
-  {
    "id": "seek:95708949",
    "source": "Seek",
    "title": "Project Lead",
@@ -2863,6 +2807,62 @@
       "data",
       "methods",
       "product",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 89,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 89,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95684984",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "Manukau Institute of Technology and Unitec",
+   "advertiser": "Manukau Institute of Technology and Unitec",
+   "location": "Tamaki, Auckland",
+   "url": "https://www.seek.co.nz/job/95684984",
+   "posted_at": "2026-11-04T04:30:06Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead enterprise-wide digital transformation projects that shape the future of vocational education across MIT and Unitec. Lead transformation programmes that shape the future of vocational education Partner with senior leaders to deliver strategic organisational outcomes Join a collaborative team delivering strategic initiatives across MIT and Unitec",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-04T04:51:48+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-04T04:59:01.096419+00:00",
+    "legal_name": "Manukau Institute of Technology and Unitec",
+    "nzbn": "9429053303370",
+    "expiry": "2026-12-16"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Drive large-scale digital and business transformation initiatives\n\n Partner with senior leaders to deliver strategic organisational outcomes\n\n Lead complex programmes that shape the future of vocational education\n\n \n About the Role \n\n We are seeking an experienced Senior Project Manager to lead the delivery of complex digital and business transformation initiatives across MIT and Unitec.\n\n Reporti",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "business",
+      "data",
+      "methods",
       "requirements",
       "risk",
       "stakeholders",
@@ -13858,6 +13858,54 @@
       "sql",
       "stakeholders",
       "tools"
+     ],
+     "route": "aewv",
+     "score": 51,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 51,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4486948449",
+   "source": "LinkedIn",
+   "title": "Senior Business Analyst",
+   "company": "Te Aho o Te Kura Pounamu - The Correspondence School",
+   "advertiser": "Te Aho o Te Kura Pounamu - The Correspondence School",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486948449/",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-06T04:43:43+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-06T04:49:41.207487+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n 2 x positions\n\n Fixed Term (24 months)\n\n Full time FTE 1.0 (40 Hours per week)\n\n Based in our Wellington tari\n\n Ko wai m\u0101tou | About Us\n\n Te Aho o Te Kura Pounamu (Te Kura) is New Zealand's largest school. We provide personalised and authentic learning programmes through distance education from early childhood level to NCEA Level 3, including to young adult and adult learners.\n\nO",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "methods",
+      "requirements",
+      "sdlc",
+      "stakeholders",
+      "vendors"
      ],
      "route": "aewv",
      "score": 51,
@@ -26353,6 +26401,51 @@
    },
    "visa_ready": false,
    "score": 19,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95739637",
+   "source": "Seek",
+   "title": "Integration Engineer",
+   "company": "H2R Consulting",
+   "advertiser": "H2R Technology Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95739637",
+   "posted_at": "2026-11-06T04:24:25Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Put your coding skills to work! Join an established engineering team delivering SFTP, API and enterprise integration solutions.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T04:43:43+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-04T04:58:52.301539+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Are you a hands-on Integration Engineer who enjoys coding, solving technical challenges and working as part of a close-knit engineering team?\n\n We're looking for a Senior Integration Engineer to join an established technology team, with a strong focus on SFTP (Secure File Transfer Protocol) and API Management (APIM).\n\n This is a hands-on, coding-focused opportunity with a healthy mix of project de",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins"
+     ],
+     "route": "iswv",
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
    "tier": "C"
   },
   {
