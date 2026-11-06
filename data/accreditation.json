@@ -384,6 +384,13 @@
   "nzbn": "9429037385170",
   "status": "accredited"
  },
+ "catch design": {
+  "checked_at": "2026-11-06T03:15:24.907433+00:00",
+  "expiry": "2027-02-17",
+  "legal_name": "CATCH DESIGN LIMITED",
+  "nzbn": "9429034641101",
+  "status": "accredited"
+ },
  "centrapay": {
   "checked_at": "2026-10-21T14:31:24.824923+00:00",
   "expiry": "2027-08-07",
@@ -492,6 +499,13 @@
  "corde": {
   "checked_at": "2026-10-25T06:57:42.711575+00:00",
   "status": "not_listed"
+ },
+ "craigs investment partners": {
+  "checked_at": "2026-11-06T03:15:22.625238+00:00",
+  "expiry": "2028-08-03",
+  "legal_name": "CRAIGS INVESTMENT PARTNERS LIMITED",
+  "nzbn": "9429039284167",
+  "status": "accredited"
  },
  "crescent consulting": {
   "checked_at": "2026-10-21T14:38:37.453677+00:00",
@@ -891,7 +905,7 @@
   "status": "accredited"
  },
  "hamilton city council": {
-  "checked_at": "2026-10-23T07:27:57.885878+00:00",
+  "checked_at": "2026-11-06T03:15:16.453447+00:00",
   "expiry": "2028-05-22",
   "legal_name": "Hamilton City Council",
   "nzbn": "9429041903582",
@@ -1172,14 +1186,14 @@
   "status": "accredited"
  },
  "massey university": {
-  "checked_at": "2026-10-21T14:26:16.403479+00:00",
+  "checked_at": "2026-11-06T03:15:19.616587+00:00",
   "expiry": "2028-07-14",
   "legal_name": "Massey University",
   "nzbn": "9429041911723",
   "status": "accredited"
  },
  "massey university te kunenga ki p rehuroa": {
-  "checked_at": "2026-10-21T14:31:40.595838+00:00",
+  "checked_at": "2026-11-06T03:15:30.613614+00:00",
   "status": "not_listed"
  },
  "mckechnie aluminium": {
@@ -1425,7 +1439,7 @@
   "status": "not_listed"
  },
  "presto resourcing": {
-  "checked_at": "2026-10-21T14:38:06.377630+00:00",
+  "checked_at": "2026-11-06T03:15:11.055172+00:00",
   "status": "not_listed"
  },
  "procare personnel": {
@@ -1471,6 +1485,10 @@
   "legal_name": "QBE INSURANCE (AUSTRALIA) LIMITED",
   "nzbn": "9429042054160",
   "status": "accredited"
+ },
+ "qualifications authority": {
+  "checked_at": "2026-11-06T03:15:05.941585+00:00",
+  "status": "not_listed"
  },
  "quantifi photonics": {
   "checked_at": "2026-10-21T14:28:18.793062+00:00",
@@ -1522,7 +1540,7 @@
   "status": "not_listed"
  },
  "robert half": {
-  "checked_at": "2026-10-30T03:12:27.492241+00:00",
+  "checked_at": "2026-11-06T03:15:12.652075+00:00",
   "expiry": "2028-05-21",
   "legal_name": "ROBERT HALF NEW ZEALAND LIMITED",
   "nzbn": "9429037089917",
@@ -1655,6 +1673,13 @@
   "expiry": "2027-01-16",
   "legal_name": "SKYPOINT TECHNOLOGIES LIMITED",
   "nzbn": "9429041038444",
+  "status": "accredited"
+ },
+ "slalom": {
+  "checked_at": "2026-11-06T03:15:28.131368+00:00",
+  "expiry": "2028-10-21",
+  "legal_name": "SLALOM NEW ZEALAND LIMITED",
+  "nzbn": "9429049946963",
   "status": "accredited"
  },
  "smart glazier software": {
@@ -1799,7 +1824,7 @@
   "status": "not_listed"
  },
  "talent army": {
-  "checked_at": "2026-10-21T15:01:11.854033+00:00",
+  "checked_at": "2026-11-06T03:15:13.693219+00:00",
   "status": "not_listed"
  },
  "taska360": {
@@ -1820,6 +1845,10 @@
   "legal_name": "Taupo District Council",
   "nzbn": "9429000034876",
   "status": "accredited"
+ },
+ "te aho o te kura pounamu": {
+  "checked_at": "2026-11-06T03:15:18.402600+00:00",
+  "status": "not_listed"
  },
  "te nehenehenui trust": {
   "checked_at": "2026-10-21T15:01:14.324053+00:00",
@@ -1861,6 +1890,10 @@
   "legal_name": "Tertiary Education Commission",
   "nzbn": "9429041920107",
   "status": "accredited"
+ },
+ "thames coromandel district council": {
+  "checked_at": "2026-11-06T03:15:29.369219+00:00",
+  "status": "not_listed"
  },
  "tiaki wai": {
   "checked_at": "2026-11-04T19:53:09.390096+00:00",
@@ -2043,7 +2076,7 @@
   "status": "not_listed"
  },
  "watercare": {
-  "checked_at": "2026-10-23T11:46:19.023806+00:00",
+  "checked_at": "2026-11-06T03:15:20.606738+00:00",
   "expiry": "2028-04-29",
   "legal_name": "WATERCARE SERVICES LIMITED",
   "nzbn": "9429039071552",
@@ -2076,6 +2109,10 @@
   "legal_name": "WESTPAC NEW ZEALAND LIMITED",
   "nzbn": "9429034324622",
   "status": "accredited"
+ },
+ "westpac bank": {
+  "checked_at": "2026-11-06T03:15:26.870516+00:00",
+  "status": "not_listed"
  },
  "woolworths": {
   "checked_at": "2026-11-04T07:16:06.749158+00:00",
