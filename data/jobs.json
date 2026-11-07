@@ -14562,64 +14562,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:94827071",
-   "source": "Seek",
-   "title": "Service Delivery Lead",
-   "company": "Talent Corp",
-   "advertiser": "Talent",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/94827071",
-   "posted_at": "2026-09-23T05:52:56Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Ready to take the lead? Bring your ITIL and Microsoft expertise together to keep IT services running smoothly and stakeholders connected. Auckland CBD location Opportunities to learn and grow Hybrid working environment",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:28.327918+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Opportunity knocks: \n We are looking for a Service Delivery Lead to coordinate day-to-day IT services, keep stakeholders informed, and help the team meet its service commitments.\n This role would suit someone with around 5 years of IT experience who has spent a couple of years in service delivery or coordination position and is ready to take the next step into a lead role.\n Key responsibilities:\n ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "cloud",
-      "requirements",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 47,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 47,
-   "tier": "B",
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95568123"
-    },
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4484171013/"
-    }
-   ]
-  },
-  {
    "id": "seek:94937241",
    "source": "Seek",
    "title": "Business Analyst - ERP",
@@ -18321,59 +18263,6 @@
      "tier": "B",
      "reasons": [
       "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 41,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95715775",
-   "source": "Seek",
-   "title": "Project Manager (PMO) - Fixed Term until 1 July 2027",
-   "company": "Selwyn Water Limited",
-   "advertiser": "Selwyn Water Limited",
-   "location": "Rolleston, Canterbury",
-   "url": "https://www.seek.co.nz/job/95715775",
-   "posted_at": "2026-11-05T06:08:40Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Lead impactful projects at Selwyn Water, ensuring safe, reliable water services for a growing community. Drive change and deliver results by July 2027 Lead concurrent projects within our Project Management Office Potential hybrid working for flexibility and balance Work with key stakeholders to deliver to positive outcomes for our community",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-05T13:30:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-05T14:06:54.676365+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Selwyn Water is a council-controlled organisation delivering drinking water and wastewater services across Waikirikiri Selwyn. We support a growing district with safe, reliable and affordable services, protecting the wellbeing of our communities now and for future generations.\n\n \n\n\n The role \n\n Reporting to the Director Organisational Enablement, you will deliver assigned projects end-to-end withi",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "business",
-      "data",
-      "methods",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 41,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list",
-      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -23151,6 +23040,59 @@
       "enterprise",
       "methods",
       "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 31,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 31,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95715775",
+   "source": "Seek",
+   "title": "Project Manager (PMO) - Fixed Term until 1 July 2027",
+   "company": "Selwyn Water Limited",
+   "advertiser": "Selwyn Water Limited",
+   "location": "Rolleston, Canterbury",
+   "url": "https://www.seek.co.nz/job/95715775",
+   "posted_at": "2026-11-05T06:08:40Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Lead impactful projects at Selwyn Water, ensuring safe, reliable water services for a growing community. Drive change and deliver results by July 2027 Lead concurrent projects within our Project Management Office Potential hybrid working for flexibility and balance Work with key stakeholders to deliver to positive outcomes for our community",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-05T13:30:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-05T14:06:54.676365+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Selwyn Water is a council-controlled organisation delivering drinking water and wastewater services across Waikirikiri Selwyn. We support a growing district with safe, reliable and affordable services, protecting the wellbeing of our communities now and for future generations.\n\n \n\n\n The role \n\n Reporting to the Director Organisational Enablement, you will deliver assigned projects end-to-end withi",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "business",
+      "data",
+      "methods",
       "risk",
       "stakeholders",
       "vendors"
