@@ -592,6 +592,13 @@
   "nzbn": "9429038173691",
   "status": "accredited"
  },
+ "dicker data": {
+  "checked_at": "2026-11-07T11:44:21.710654+00:00",
+  "expiry": "2027-05-27",
+  "legal_name": "DICKER DATA NZ LIMITED",
+  "nzbn": "9429038460227",
+  "status": "accredited"
+ },
  "digital garage": {
   "checked_at": "2026-10-21T15:01:17.984230+00:00",
   "status": "not_listed"

@@ -2991,6 +2991,54 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4488721167",
+   "source": "LinkedIn",
+   "title": "Consumer Product Manager",
+   "company": "Dicker Data NZ",
+   "advertiser": "Dicker Data NZ",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4488721167/",
+   "posted_at": "2026-11-07T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-07T11:38:42+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-07T11:44:21.710654+00:00",
+    "legal_name": "DICKER DATA NZ LIMITED",
+    "nzbn": "9429038460227",
+    "expiry": "2027-05-27"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This is a standout opportunity to step into a high-impact Product Manager role within Dicker Data's Consumer Division, managing a number of leading tech brands. You'll own the full product lifecycle-shaping strategy, driving go\u2011to\u2011market execution, and delivering commercial performance, while working closely with global vendors and internal sales, marketing, and logistics teams.\n\nWith a strong foc",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "product",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 87,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 87,
+   "tier": "A"
+  },
+  {
    "id": "seek:94992624",
    "source": "Seek",
    "title": "Business Analyst",
@@ -12923,7 +12971,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95758843"
+    }
+   ]
   },
   {
    "id": "seek:95152442",
@@ -14296,7 +14350,13 @@
    },
    "visa_ready": true,
    "score": 50,
-   "tier": "B"
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4441470331/"
+    }
+   ]
   },
   {
    "id": "linkedin:4486124102",
