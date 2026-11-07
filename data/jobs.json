@@ -11542,79 +11542,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:94831874",
-   "source": "Seek",
-   "title": "Senior / Tech Lead AI Engineer",
-   "company": "Datacom",
-   "advertiser": "Datacom",
-   "location": "Tauranga Central, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/94831874",
-   "posted_at": "2026-09-23T08:13:24Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "About UsDatacom is leading the charge in delivering Intelligent Applications to our customers in New Zealand and Australia. Career Progression and Growth Dynamic and Supportive work culture The opportunity to work in a leading ANZ company",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/94831814"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/94831557"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/94831483"
-    },
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/94831385"
-    }
-   ],
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "ai",
-    "python"
-   ],
-   "recruiter": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T14:29:30.384126+00:00",
-    "legal_name": "DATACOM NEW ZEALAND LIMITED",
-    "nzbn": "9429032698626",
-    "expiry": "2028-08-03"
-   },
-   "has_description": true,
-   "summary": "About Us \n Datacom is leading the charge in delivering Intelligent Applications to our customers in New Zealand and Australia. We are tackling interesting new cases across a range of domains and technologies and we\u2019re looking for highly capable AI Engineers to join our team.\n About the Role (your why) \n The way we work and our customer needs are changing! We are going through a significant AI upli",
-   "score": 56,
-   "tier": "B",
-   "reasons": [
-    "accredited employer"
-   ],
-   "visa_ready": true,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 56,
-     "tier": "B",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   }
-  },
-  {
    "id": "linkedin:4474223840",
    "source": "LinkedIn",
    "title": "DevOps Lead",
@@ -19667,59 +19594,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95719636",
-   "source": "Seek",
-   "title": "Senior Project Manager",
-   "company": "Randstad",
-   "advertiser": "Randstad Digital",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95719636",
-   "posted_at": "2026-11-05T08:15:58Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "A Senior Project Manager who will be responsible for the day to day running of the project working closely with all stakeholders. Large Government Organisation Experienced Project Manager Wellington based contract role till June 2027",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-05T13:30:33+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4486703173/"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-11-05T03:51:02.208252+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Senior Project Manager - Contract Role \n Our client is looking to hire a Senior Project Manager who will be responsible for the day to day running of the project working closely with all stakeholders. They will create and maintain an overarching project schedule that includes deliverables from all Project Managers and Business Partners to ensure everything is being delivered while managing scope, ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "product",
-      "stakeholders"
-     ],
-     "route": "iswv",
-     "score": 38,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 38,
-   "tier": "B"
-  },
-  {
    "id": "seek:95738826",
    "source": "Seek",
    "title": "Solution architect - Infrastructure (Cloud & Network)",
@@ -24264,6 +24138,59 @@
    "tier": "C"
   },
   {
+   "id": "seek:95719636",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "Randstad",
+   "advertiser": "Randstad Digital",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95719636",
+   "posted_at": "2026-11-05T08:15:58Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "A Senior Project Manager who will be responsible for the day to day running of the project working closely with all stakeholders. Large Government Organisation Experienced Project Manager Wellington based contract role till June 2027",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-05T13:30:33+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486703173/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-05T03:51:02.208252+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Senior Project Manager - Contract Role \n Our client is looking to hire a Senior Project Manager who will be responsible for the day to day running of the project working closely with all stakeholders. They will create and maintain an overarching project schedule that includes deliverables from all Project Managers and Business Partners to ensure everything is being delivered while managing scope, ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "product",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 28,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 28,
+   "tier": "C"
+  },
+  {
    "id": "linkedin:4472320667",
    "source": "LinkedIn",
    "title": "DevOps Engineer",
@@ -28383,52 +28310,6 @@
    "visa_ready": false,
    "score": 8,
    "tier": "C"
-  },
-  {
-   "id": "seek:94831984",
-   "source": "Seek",
-   "title": "Senior Business Systems Engineer",
-   "company": "MG Fresh Produce Group",
-   "advertiser": "MG Fresh Produce Group",
-   "location": "Hornby, Canterbury",
-   "url": "https://www.seek.co.nz/job/94831984",
-   "posted_at": "2026-09-23T08:20:39Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Senior Business Systems Engineer managing systems maintenance, technical development, and AI integration. Join a team with a supportive and positive work culture! Be part of a high performing business and contribute to the continued growth Enjoy a fast paced and dynamic environment",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [],
-   "recruiter": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:32.127989+00:00"
-   },
-   "has_description": true,
-   "summary": "Senior Business Systems Engineer - Full Time \n MG Group is an established produce industry leader in New Zealand, with a remarkable 103-year history of innovation and success. MG represents over 400 grower shareholders and is a leading supplier of locally grown and imported fresh produce within NZ.\n We work closely with NZ retail chains, independent outlets and the food service industry to provide",
-   "score": 5,
-   "tier": "C",
-   "reasons": [
-    "not on public INZ list"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "route": "iswv",
-     "score": 5,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   }
   },
   {
    "id": "seek:94839684",
