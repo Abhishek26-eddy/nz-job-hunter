@@ -21074,52 +21074,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95717591",
-   "source": "Seek",
-   "title": "Senior Infrastructure Engineer",
-   "company": "FindIT Recruitment",
-   "advertiser": "Find IT Recruitment",
-   "location": "Tauranga, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95717591",
-   "posted_at": "2026-11-05T07:06:38Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Contract opportunity delivering enterprise infrastructure integration across corporate and generation environments. Tauranga preferred, with nationwide travel to generation sites Hands-on VMware, servers, storage, networking and automation Now until June 2027",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-05T13:30:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-11-03T05:43:07.692460+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Your new company \nOur client is a leading New Zealand energy organisation undertaking a significant technology integration programme. This is an opportunity to contribute to a complex infrastructure transformation across corporate and operational environments.\n\n Your new role \nWe're seeking an experienced Infrastructure Engineer to support a major integration programme, starting as soon as possibl",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ansible"
-     ],
-     "route": "iswv",
-     "score": 35,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 35,
-   "tier": "B"
-  },
-  {
    "id": "seek:94853397",
    "source": "Seek",
    "title": "Senior Business Analyst",
@@ -25106,6 +25060,52 @@
    "recruiter": true,
    "has_description": true,
    "summary": "We're working with a leading NZ company looking for an experienced Infrastructure Engineer to support a major technology integration programme.\n\n You'll join an established infrastructure team, contributing to a significant programme of work while supporting the ongoing reliability and performance of critical infrastructure.\n\n What You'll Be Doing Support the integration and transition of infrastr",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible"
+     ],
+     "route": "iswv",
+     "score": 25,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 25,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95717591",
+   "source": "Seek",
+   "title": "Senior Infrastructure Engineer",
+   "company": "FindIT Recruitment",
+   "advertiser": "Find IT Recruitment",
+   "location": "Tauranga, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95717591",
+   "posted_at": "2026-11-05T07:06:38Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Contract opportunity delivering enterprise infrastructure integration across corporate and generation environments. Tauranga preferred, with nationwide travel to generation sites Hands-on VMware, servers, storage, networking and automation Now until June 2027",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-05T13:30:33+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-03T05:43:07.692460+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Your new company \nOur client is a leading New Zealand energy organisation undertaking a significant technology integration programme. This is an opportunity to contribute to a complex infrastructure transformation across corporate and operational environments.\n\n Your new role \nWe're seeking an experienced Infrastructure Engineer to support a major integration programme, starting as soon as possibl",
    "for": {
     "abhishek": {
      "fit": "core",
