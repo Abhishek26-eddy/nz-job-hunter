@@ -14342,6 +14342,49 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4441468373",
+   "source": "LinkedIn",
+   "title": "Oracle Cloud ERP Functional Lead",
+   "company": "Deloitte",
+   "advertiser": "Deloitte",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4441468373/",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-07T10:16:00+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-07T10:21:36.079856+00:00",
+    "legal_name": "Deloitte Trading Trust",
+    "nzbn": "9429050617173",
+    "expiry": "2028-07-14"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company Description\n\n Join us. But be you. At Deloitte, you\u2019ll do more than just join something, you\u2019ll add something. You\u2019ve found a place that values your curiosity, passion, and desire to work alongside brilliant people on the things that really matter. There really is only one question: What impact do YOU want to make?\n\nOur Oracle team is looking for a senior Oracle Cloud ERP Functional Lead t",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 50,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 50,
+   "tier": "B"
+  },
+  {
    "id": "seek:95647913",
    "source": "Seek",
    "title": "Systems Engineer - Configuration",
