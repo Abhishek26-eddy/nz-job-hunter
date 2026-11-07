@@ -634,7 +634,7 @@
   "status": "accredited"
  },
  "echelon": {
-  "checked_at": "2026-11-04T04:58:53.755084+00:00",
+  "checked_at": "2026-11-07T05:17:55.026233+00:00",
   "status": "not_listed"
  },
  "ecl": {
@@ -891,6 +891,10 @@
  },
  "genesis recruitment": {
   "checked_at": "2026-10-21T15:01:02.420526+00:00",
+  "status": "not_listed"
+ },
+ "gentec": {
+  "checked_at": "2026-11-07T05:17:50.048252+00:00",
   "status": "not_listed"
  },
  "global dairy trade": {
@@ -1992,7 +1996,7 @@
   "status": "accredited"
  },
  "transport agency": {
-  "checked_at": "2026-11-04T04:58:45.445888+00:00",
+  "checked_at": "2026-11-07T05:17:51.650554+00:00",
   "status": "not_listed"
  },
  "transport agency waka kotahi": {
