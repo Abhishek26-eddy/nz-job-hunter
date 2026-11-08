@@ -21246,51 +21246,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95741049",
-   "source": "Seek",
-   "title": "Cloud Support Engineer",
-   "company": "Fuse IT Recruitment",
-   "advertiser": "Fuse IT Recruitment",
-   "location": "Hamilton Central, Waikato",
-   "url": "https://www.seek.co.nz/job/95741049",
-   "posted_at": "2026-11-06T05:04:51Z",
-   "work_type": "Full time",
-   "salary": "$75,000 \u2013 $90,000 per year",
-   "teaser": "Cloud Support Wizz needed by large MSP who value their people and customers. Hamilton Growing national organisation with career opportunity Collaborative and friendly environment. Fast paced, fantastic career opportunity.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-06T05:04:48+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-06T05:11:18.399513+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Cloud Support Engineer (L2) \u2013 Mentoring & Career Growth \u2013 Hamilton\n Ready to level up your career in Cloud IT services? Join my client\u2019s dynamic team as a Cloud Support Engineer in Hamilton . They\u2019re a rapidly growing company offering an engaging work environment, real technical leadership opportunities, and a clear path for career progression.\n What You'll Do: \n As a Cloud Support Engineer , you\u2019",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 33,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 33,
-   "tier": "C"
-  },
-  {
    "id": "seek:94894046",
    "source": "Seek",
    "title": "Data Platform Engineer",
@@ -25449,6 +25404,51 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 23,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 23,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95741049",
+   "source": "Seek",
+   "title": "Cloud Support Engineer",
+   "company": "Fuse IT Recruitment",
+   "advertiser": "Fuse IT Recruitment",
+   "location": "Hamilton Central, Waikato",
+   "url": "https://www.seek.co.nz/job/95741049",
+   "posted_at": "2026-11-06T05:04:51Z",
+   "work_type": "Full time",
+   "salary": "$75,000 \u2013 $90,000 per year",
+   "teaser": "Cloud Support Wizz needed by large MSP who value their people and customers. Hamilton Growing national organisation with career opportunity Collaborative and friendly environment. Fast paced, fantastic career opportunity.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T05:04:48+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-06T05:11:18.399513+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Cloud Support Engineer (L2) \u2013 Mentoring & Career Growth \u2013 Hamilton\n Ready to level up your career in Cloud IT services? Join my client\u2019s dynamic team as a Cloud Support Engineer in Hamilton . They\u2019re a rapidly growing company offering an engaging work environment, real technical leadership opportunities, and a clear path for career progression.\n What You'll Do: \n As a Cloud Support Engineer , you\u2019",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
      "score": 23,
      "tier": "C",
      "reasons": [
