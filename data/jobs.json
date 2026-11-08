@@ -20815,55 +20815,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:94853397",
-   "source": "Seek",
-   "title": "Senior Business Analyst",
-   "company": "Absolute IT",
-   "advertiser": "Absolute IT Limited",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/94853397",
-   "posted_at": "2026-09-24T05:29:10Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Drive ICT transformation by shaping future services, improving processes, and supporting business change across a major programme. Be part of a significant ICT transformation journey 12-month fixed-term role Work with a collaborative team",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-10-21T14:38:02.442362+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "We're looking for an experienced Senior Business Analyst to join a 12-month fixed-term opportunity supporting a strategic ICT programme. This role offers the chance to work across business and technology teams, helping drive service improvements, support business change, and contribute to key initiatives that will influence how technology services are delivered across the organisation.\n\n You will ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "requirements",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 34,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 34,
-   "tier": "C"
-  },
-  {
    "id": "seek:94906808",
    "source": "Seek",
    "title": "PROJECT MANAGER | CHANGE & TRANSFORMATION",
