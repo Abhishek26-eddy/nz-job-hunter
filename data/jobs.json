@@ -26225,51 +26225,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95739637",
-   "source": "Seek",
-   "title": "Integration Engineer",
-   "company": "H2R Consulting",
-   "advertiser": "H2R Technology Limited",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95739637",
-   "posted_at": "2026-11-06T04:24:25Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Put your coding skills to work! Join an established engineering team delivering SFTP, API and enterprise integration solutions.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-06T04:43:43+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-11-04T04:58:52.301539+00:00",
-    "status": "not_listed"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Are you a hands-on Integration Engineer who enjoys coding, solving technical challenges and working as part of a close-knit engineering team?\n\n We're looking for a Senior Integration Engineer to join an established technology team, with a strong focus on SFTP (Secure File Transfer Protocol) and API Management (APIM).\n\n This is a hands-on, coding-focused opportunity with a healthy mix of project de",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "jenkins"
-     ],
-     "route": "iswv",
-     "score": 18,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 18,
-   "tier": "C"
-  },
-  {
    "id": "seek:95336814",
    "source": "Seek",
    "title": "Lead AI Engineer",
@@ -28070,6 +28025,51 @@
      "fit": "adjacent",
      "skills": [
       "ai"
+     ],
+     "route": "iswv",
+     "score": 8,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 8,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95739637",
+   "source": "Seek",
+   "title": "Integration Engineer",
+   "company": "H2R Consulting",
+   "advertiser": "H2R Technology Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95739637",
+   "posted_at": "2026-11-06T04:24:25Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Put your coding skills to work! Join an established engineering team delivering SFTP, API and enterprise integration solutions.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-06T04:43:43+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-04T04:58:52.301539+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Are you a hands-on Integration Engineer who enjoys coding, solving technical challenges and working as part of a close-knit engineering team?\n\n We're looking for a Senior Integration Engineer to join an established technology team, with a strong focus on SFTP (Secure File Transfer Protocol) and API Management (APIM).\n\n This is a hands-on, coding-focused opportunity with a healthy mix of project de",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "jenkins"
      ],
      "route": "iswv",
      "score": 8,
