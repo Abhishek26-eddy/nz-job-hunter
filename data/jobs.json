@@ -18433,61 +18433,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:94849603",
-   "source": "Seek",
-   "title": "Product Owner",
-   "company": "INSIDE Recruitment",
-   "advertiser": "INSIDE Recruitment",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/94849603",
-   "posted_at": "2026-09-24T03:38:18Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Shape B2B products for the US market. Partner with Product leaders and deliver solutions that create lasting customer value. Work in an established product practice with proven tools and frameworks. Partner with Product leaders to influence strategy and product growth Turn customer insights into products that deliver measurable value",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-23T07:28:08.984168+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026business where product innovation and customer value are core to success.      Applicants must already hold the legal right to work in New Zealand and be Wellington-based. Please note this is not a remote position."
-    }
-   ],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Work in an established product practice with proven tools and frameworks.\u00a0\n\n Partner with Product leaders to influence strategy and product growth.\n\n Turn customer insights into products that deliver measurable value.\n\n \n\n\n IN SIDE is pleased to partner with PartsTrader, a global market leader transforming the collision repair industry through innovative technology solutions. PartsTrader connects ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "data",
-      "product",
-      "requirements",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 38,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 38,
-   "tier": "B"
-  },
-  {
    "id": "seek:94868153",
    "source": "Seek",
    "title": "Platform Engineer",
@@ -19630,59 +19575,6 @@
    },
    "visa_ready": false,
    "score": 38,
-   "tier": "B"
-  },
-  {
-   "id": "seek:94850159",
-   "source": "Seek",
-   "title": "Integration Project Manager",
-   "company": "Recruit IT",
-   "advertiser": "Recruit I.T. Auckland",
-   "location": "Auckland",
-   "url": "https://www.seek.co.nz/job/94850159",
-   "posted_at": "2026-09-24T03:52:06Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Are you an Integration focused Project Manager available to jump into your next role? 6-month contract, Auckland Central 3 days onsite per week Immediate start",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-21T14:48:01+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-21T15:00:38.855298+00:00",
-    "legal_name": "RECRUIT IT GROUP LIMITED",
-    "nzbn": "9429033818122",
-    "expiry": "2027-05-25"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Technical Project Manager\n 6-month contract, Auckland Central\n 3 days onsite per week\n Quick start\n Our client is mid-flight on a major integration programme and needs an experienced Project Manager to pick it up and carry it through to operational handover. The platform is in place and interface development is well underway, with around 80 integrations in the process of being built. This is a del",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "cloud",
-      "data",
-      "methods"
-     ],
-     "route": "iswv",
-     "score": 37,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 37,
    "tier": "B"
   },
   {
