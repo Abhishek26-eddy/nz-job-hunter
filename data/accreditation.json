@@ -98,7 +98,7 @@
   "status": "not_listed"
  },
  "allerton recruitment": {
-  "checked_at": "2026-11-05T14:06:42.330193+00:00",
+  "checked_at": "2026-11-09T05:12:59.458583+00:00",
   "status": "not_listed"
  },
  "alstef": {
@@ -264,7 +264,7 @@
   "status": "not_listed"
  },
  "bank of": {
-  "checked_at": "2026-11-02T03:50:58.111008+00:00",
+  "checked_at": "2026-11-09T05:13:14.580828+00:00",
   "expiry": "2028-10-09",
   "legal_name": "BANK OF NEW ZEALAND",
   "nzbn": "9429039342188",
@@ -285,7 +285,7 @@
   "status": "accredited"
  },
  "bastion cx": {
-  "checked_at": "2026-11-05T14:07:03.244880+00:00",
+  "checked_at": "2026-11-09T05:13:09.798681+00:00",
   "status": "not_listed"
  },
  "bastion security": {
@@ -413,7 +413,7 @@
   "status": "accredited"
  },
  "cip constructions": {
-  "checked_at": "2026-11-06T03:38:04.943728+00:00",
+  "checked_at": "2026-11-09T05:12:48.677596+00:00",
   "status": "not_listed"
  },
  "civil aviation authority": {
@@ -516,7 +516,7 @@
   "status": "not_listed"
  },
  "csli infrastructure": {
-  "checked_at": "2026-11-06T03:38:10.666663+00:00",
+  "checked_at": "2026-11-09T05:12:56.534814+00:00",
   "status": "not_listed"
  },
  "customs service": {
@@ -557,7 +557,7 @@
   "status": "accredited"
  },
  "defence force": {
-  "checked_at": "2026-11-05T14:06:45.832492+00:00",
+  "checked_at": "2026-11-09T05:13:02.078135+00:00",
   "status": "not_listed"
  },
  "deloitte": {
@@ -923,6 +923,13 @@
   "checked_at": "2026-11-05T14:06:39.377159+00:00",
   "status": "not_listed"
  },
+ "groundline engineering": {
+  "checked_at": "2026-11-09T05:12:55.360406+00:00",
+  "expiry": "2028-10-22",
+  "legal_name": "GROUNDLINE LIMITED",
+  "nzbn": "9429033015521",
+  "status": "accredited"
+ },
  "h2r consulting": {
   "checked_at": "2026-11-04T04:58:52.301539+00:00",
   "status": "not_listed"
@@ -956,7 +963,7 @@
   "status": "accredited"
  },
  "hays": {
-  "checked_at": "2026-11-04T22:19:57.831789+00:00",
+  "checked_at": "2026-11-09T05:13:08.499335+00:00",
   "status": "not_listed"
  },
  "hays recruitment": {
@@ -972,7 +979,7 @@
   "status": "not_listed"
  },
  "health te whatu ora": {
-  "checked_at": "2026-11-02T03:50:25.467764+00:00",
+  "checked_at": "2026-11-09T05:13:06.522745+00:00",
   "expiry": "2028-05-11",
   "legal_name": "Health New Zealand",
   "nzbn": "9429050678402",
@@ -1098,6 +1105,10 @@
   "checked_at": "2026-10-22T23:41:39.761137+00:00",
   "status": "not_listed"
  },
+ "jwe": {
+  "checked_at": "2026-11-09T04:57:10.102721+00:00",
+  "status": "not_listed"
+ },
  "k inga ora homes and communities": {
   "checked_at": "2026-10-21T14:38:17.463084+00:00",
   "status": "not_listed"
@@ -1134,6 +1145,10 @@
  },
  "kpmg": {
   "checked_at": "2026-10-27T06:36:13.297922+00:00",
+  "status": "not_listed"
+ },
+ "la aldea": {
+  "checked_at": "2026-11-09T04:57:08.840050+00:00",
   "status": "not_listed"
  },
  "lab3": {
@@ -1184,6 +1199,13 @@
   "checked_at": "2026-11-05T14:07:07.249742+00:00",
   "status": "not_listed"
  },
+ "livestock improvement": {
+  "checked_at": "2026-11-09T05:12:54.095687+00:00",
+  "expiry": "2028-06-22",
+  "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
+  "nzbn": "9429039566119",
+  "status": "accredited"
+ },
  "ltimindtree": {
   "checked_at": "2026-11-02T03:50:44.264663+00:00",
   "status": "not_listed"
@@ -1201,7 +1223,7 @@
   "status": "not_listed"
  },
  "manawa recruitment": {
-  "checked_at": "2026-11-05T14:06:32.843363+00:00",
+  "checked_at": "2026-11-09T05:12:52.446502+00:00",
   "status": "not_listed"
  },
  "manawanui": {
@@ -1277,6 +1299,13 @@
   "checked_at": "2026-11-06T05:32:49.762902+00:00",
   "status": "not_listed"
  },
+ "narrative": {
+  "checked_at": "2026-11-09T05:13:05.239697+00:00",
+  "expiry": "2028-10-27",
+  "legal_name": "SOFTWARE LIMITED",
+  "nzbn": "9429046174697",
+  "status": "accredited"
+ },
  "natural hazards commission toka t ake": {
   "checked_at": "2026-10-23T07:27:40.538922+00:00",
   "expiry": "2026-12-03",
@@ -1311,6 +1340,10 @@
  },
  "nzist whitireia and weltec": {
   "checked_at": "2026-10-21T14:38:30.244107+00:00",
+  "status": "not_listed"
+ },
+ "ocean it recruitment": {
+  "checked_at": "2026-11-09T04:57:04.838167+00:00",
   "status": "not_listed"
  },
  "one": {
@@ -1457,6 +1490,13 @@
   "nzbn": "9429039540300",
   "status": "accredited"
  },
+ "port otago": {
+  "checked_at": "2026-11-09T04:57:07.395546+00:00",
+  "expiry": "2027-03-01",
+  "legal_name": "PORT OTAGO LIMITED",
+  "nzbn": "9429039444233",
+  "status": "accredited"
+ },
  "post": {
   "checked_at": "2026-11-08T06:09:10.687293+00:00",
   "expiry": "2027-07-10",
@@ -1465,7 +1505,7 @@
   "status": "accredited"
  },
  "potentia": {
-  "checked_at": "2026-11-02T03:50:16.684212+00:00",
+  "checked_at": "2026-11-09T04:57:06.187147+00:00",
   "status": "not_listed"
  },
  "powerco": {
@@ -1510,7 +1550,7 @@
   "status": "accredited"
  },
  "push projects": {
-  "checked_at": "2026-11-05T14:06:44.546771+00:00",
+  "checked_at": "2026-11-09T05:13:00.751033+00:00",
   "status": "not_listed"
  },
  "pushpay": {
@@ -1865,7 +1905,7 @@
   "status": "not_listed"
  },
  "talent": {
-  "checked_at": "2026-11-03T05:43:24.432100+00:00",
+  "checked_at": "2026-11-09T04:57:01.799222+00:00",
   "status": "not_listed"
  },
  "talent army": {
@@ -1948,7 +1988,7 @@
   "status": "accredited"
  },
  "thames coromandel district council": {
-  "checked_at": "2026-11-06T03:15:29.369219+00:00",
+  "checked_at": "2026-11-09T05:12:57.827694+00:00",
   "status": "not_listed"
  },
  "tiaki wai": {
@@ -1967,7 +2007,7 @@
   "status": "not_listed"
  },
  "toi ohomai": {
-  "checked_at": "2026-10-21T15:01:23.509342+00:00",
+  "checked_at": "2026-11-09T04:56:59.985681+00:00",
   "status": "not_listed"
  },
  "tomra": {
@@ -2007,7 +2047,7 @@
   "status": "not_listed"
  },
  "transport agency waka kotahi": {
-  "checked_at": "2026-11-02T03:50:54.234368+00:00",
+  "checked_at": "2026-11-09T05:13:11.137807+00:00",
   "expiry": "2028-07-08",
   "legal_name": "New Zealand Transport Agency",
   "nzbn": "9429041910085",
@@ -2134,8 +2174,12 @@
   "nzbn": "9429038727528",
   "status": "accredited"
  },
+ "waimakariri district council": {
+  "checked_at": "2026-11-09T05:12:50.537215+00:00",
+  "status": "not_listed"
+ },
  "walker smith": {
-  "checked_at": "2026-10-21T15:00:41.714447+00:00",
+  "checked_at": "2026-11-09T04:57:03.066230+00:00",
   "status": "not_listed"
  },
  "watercare": {
