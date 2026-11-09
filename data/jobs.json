@@ -2092,6 +2092,61 @@
    ]
   },
   {
+   "id": "seek:95630242",
+   "source": "Seek",
+   "title": "Product Portfolio Manager",
+   "company": "FUJIFILM Business Innovation",
+   "advertiser": "FUJIFILM Business Innovation New Zealand Limited",
+   "location": "Mount Eden, Auckland",
+   "url": "https://www.seek.co.nz/job/95630242",
+   "posted_at": "2026-11-02T02:45:58Z",
+   "work_type": "Full time",
+   "salary": "Competitive Salary + Bonus + Health Insurance",
+   "teaser": "Lead strategic technology portfolios and drive commercial growth across New Zealand. Lead go-to-market strategy across high-growth technology portfolios Drive revenue growth and commercial performance Permanent, full-time position, excellent staff benefits",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T06:02:27+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-09T06:08:58.094350+00:00",
+    "legal_name": "FUJIFILM BUSINESS INNOVATION NEW ZEALAND LIMITED",
+    "nzbn": "9429040663906",
+    "expiry": "2028-06-25"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Permanent, full-time position\n\n Auckland-based role with national scope\n\n Own the strategy, growth, and commercial performance of key technology solution portfolios\n\n \n\n About CodeBlue, the Managed IT Services sector of Fujifilm Business Innovation New Zealand \n At FUJIFILM Business Innovation (FBNZ), our commitment to empowering Kiwis to harness the power of technology is unwavering: \u201cWe never st",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "business",
+      "cloud",
+      "consulting",
+      "data",
+      "product",
+      "requirements",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 89,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 89,
+   "tier": "A"
+  },
+  {
    "id": "seek:95632513",
    "source": "Seek",
    "title": "Delivery Project Manager",
@@ -9602,7 +9657,13 @@
       "accredited employer"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95776109"
+    }
+   ]
   },
   {
    "id": "linkedin:4477370060",
