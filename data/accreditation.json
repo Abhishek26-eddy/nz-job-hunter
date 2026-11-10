@@ -682,7 +682,7 @@
   "status": "not_listed"
  },
  "echelon": {
-  "checked_at": "2026-11-07T05:17:55.026233+00:00",
+  "checked_at": "2026-11-10T15:12:01.615726+00:00",
   "status": "not_listed"
  },
  "ecl": {
@@ -1403,6 +1403,13 @@
   "expiry": "2027-08-06",
   "legal_name": "NETSAFE INCORPORATED",
   "nzbn": "9429042994879",
+  "status": "accredited"
+ },
+ "new plymouth district council": {
+  "checked_at": "2026-11-10T15:12:03.310244+00:00",
+  "expiry": "2028-06-23",
+  "legal_name": "New Plymouth District Council",
+  "nzbn": "9429000119030",
   "status": "accredited"
  },
  "northpower": {

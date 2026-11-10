@@ -2798,7 +2798,13 @@
    },
    "visa_ready": true,
    "score": 89,
-   "tier": "A"
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4488081122/"
+    }
+   ]
   },
   {
    "id": "linkedin:4485892957",
@@ -5077,6 +5083,59 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95729025",
+   "source": "Seek",
+   "title": "ERP Delivery Lead",
+   "company": "New Plymouth District Council",
+   "advertiser": "New Plymouth District Council",
+   "location": "New Plymouth Central, Taranaki",
+   "url": "https://www.seek.co.nz/job/95729025",
+   "posted_at": "2026-11-05T22:18:02Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We are seeking an ERP Delivery Lead on a 3-year fixed-term basis, reporting directly to the ERP Programme Manager. 3-year fixed-term Pivotal leadership role within our ERP transformation programme Apply now!",
+   "seek_class": [
+    "1210"
+   ],
+   "first_seen": "2026-11-10T15:03:22+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-10T15:12:03.310244+00:00",
+    "legal_name": "New Plymouth District Council",
+    "nzbn": "9429000119030",
+    "expiry": "2028-06-23"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Join Us at New Plymouth District Council! \n T\u016bhono mai ki Te Kaunihera-\u0101-Rohe o Ng\u0101motu! \n Who are we? - Ko wai m\u0101tou? \n Te Kaunihera-\u0101-Rohe o Ng\u0101motu - New Plymouth District Council (NPDC) is shaping the future of our district. We're here to serve our community and create a place where people love to live, work and visit. Guided by the principles of Te Tiriti o Waitangi , we're committed to build",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "cloud",
+      "data",
+      "enterprise",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
      "score": 83,
      "tier": "A",
      "reasons": [
