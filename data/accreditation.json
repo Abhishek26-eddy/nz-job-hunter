@@ -1,4 +1,8 @@
 {
+ "323 recruitment": {
+  "checked_at": "2026-11-10T04:36:20.543830+00:00",
+  "status": "not_listed"
+ },
  "84 recruitment": {
   "checked_at": "2026-11-03T05:43:19.510554+00:00",
   "status": "not_listed"
@@ -94,12 +98,19 @@
   "status": "accredited"
  },
  "alignerr": {
-  "checked_at": "2026-11-02T05:20:35.648010+00:00",
+  "checked_at": "2026-11-10T04:36:32.800164+00:00",
   "status": "not_listed"
  },
  "allerton recruitment": {
   "checked_at": "2026-11-09T05:12:59.458583+00:00",
   "status": "not_listed"
+ },
+ "allevia hospitals": {
+  "checked_at": "2026-11-10T04:36:14.533310+00:00",
+  "expiry": "2028-07-13",
+  "legal_name": "THE ASCOT HOSPITAL & CLINICS LIMITED",
+  "nzbn": "9429038041945",
+  "status": "accredited"
  },
  "alstef": {
   "checked_at": "2026-10-21T14:38:34.030861+00:00",
@@ -153,6 +164,10 @@
   "legal_name": "APEX WATER LIMITED",
   "nzbn": "9429041844243",
   "status": "accredited"
+ },
+ "aply": {
+  "checked_at": "2026-11-10T04:36:27.243299+00:00",
+  "status": "not_listed"
  },
  "apple": {
   "checked_at": "2026-11-04T09:19:03.913008+00:00",
@@ -228,6 +243,13 @@
   "expiry": "2028-06-08",
   "legal_name": "Auckland Council",
   "nzbn": "9429000034753",
+  "status": "accredited"
+ },
+ "auckland transport": {
+  "checked_at": "2026-11-10T04:36:28.646028+00:00",
+  "expiry": "2028-06-04",
+  "legal_name": "Auckland Transport",
+  "nzbn": "9429047815698",
   "status": "accredited"
  },
  "auckland university of": {
@@ -342,6 +364,10 @@
   "legal_name": "BOUNDARY VISUALISATION APAC LIMITED",
   "nzbn": "9429035755715",
   "status": "accredited"
+ },
+ "brian perry civil": {
+  "checked_at": "2026-11-10T04:36:17.464750+00:00",
+  "status": "not_listed"
  },
  "brightspark recruitment": {
   "checked_at": "2026-10-21T14:38:04.422685+00:00",
@@ -574,6 +600,13 @@
   "nzbn": "9429000028295",
   "status": "accredited"
  },
+ "department of corrections": {
+  "checked_at": "2026-11-10T04:36:06.144241+00:00",
+  "expiry": "2028-06-03",
+  "legal_name": "Department of Corrections",
+  "nzbn": "9429041904909",
+  "status": "accredited"
+ },
  "department of internal affairs": {
   "checked_at": "2026-10-23T07:27:55.427032+00:00",
   "expiry": "2028-09-01",
@@ -639,6 +672,10 @@
   "legal_name": "DXC TECHNOLOGY NZ LIMITED",
   "nzbn": "9429035677499",
   "status": "accredited"
+ },
+ "dxc australia and": {
+  "checked_at": "2026-11-10T04:36:31.446668+00:00",
+  "status": "not_listed"
  },
  "echelon": {
   "checked_at": "2026-11-07T05:17:55.026233+00:00",
@@ -798,6 +835,10 @@
   "nzbn": "9429040555720",
   "status": "accredited"
  },
+ "fleetodesk": {
+  "checked_at": "2026-11-10T04:36:35.624909+00:00",
+  "status": "not_listed"
+ },
  "flexitime": {
   "checked_at": "2026-10-23T07:28:14.307514+00:00",
   "expiry": "2027-03-26",
@@ -827,6 +868,13 @@
   "nzbn": "9429030602366",
   "status": "accredited"
  },
+ "foundry lab": {
+  "checked_at": "2026-11-10T04:36:07.959678+00:00",
+  "expiry": "2028-05-04",
+  "legal_name": "FOUNDRY LAB LIMITED",
+  "nzbn": "9429046898272",
+  "status": "accredited"
+ },
  "frogparking": {
   "checked_at": "2026-10-21T14:38:31.191927+00:00",
   "status": "not_listed"
@@ -853,7 +901,7 @@
   "status": "accredited"
  },
  "fulton hogan": {
-  "checked_at": "2026-10-28T15:17:38.774677+00:00",
+  "checked_at": "2026-11-10T04:36:22.344867+00:00",
   "expiry": "2027-03-04",
   "legal_name": "FULTON HOGAN LIMITED",
   "nzbn": "9429040318080",
@@ -931,11 +979,11 @@
   "status": "accredited"
  },
  "h2r consulting": {
-  "checked_at": "2026-11-04T04:58:52.301539+00:00",
+  "checked_at": "2026-11-10T04:36:10.169860+00:00",
   "status": "not_listed"
  },
  "halter": {
-  "checked_at": "2026-10-30T05:47:23.959789+00:00",
+  "checked_at": "2026-11-10T04:36:03.684635+00:00",
   "expiry": "2028-04-28",
   "legal_name": "HALTER LIMITED",
   "nzbn": "9429042479222",
@@ -1125,6 +1173,10 @@
   "checked_at": "2026-10-23T07:27:36.010868+00:00",
   "status": "not_listed"
  },
+ "kin": {
+  "checked_at": "2026-11-10T04:36:11.293541+00:00",
+  "status": "not_listed"
+ },
  "kiwibank": {
   "checked_at": "2026-11-03T05:42:50.784957+00:00",
   "expiry": "2028-06-12",
@@ -1206,6 +1258,10 @@
   "nzbn": "9429039566119",
   "status": "accredited"
  },
+ "loop": {
+  "checked_at": "2026-11-10T04:36:15.994689+00:00",
+  "status": "not_listed"
+ },
  "ltimindtree": {
   "checked_at": "2026-11-02T03:50:44.264663+00:00",
   "status": "not_listed"
@@ -1270,6 +1326,13 @@
   "checked_at": "2026-10-24T15:14:46.596814+00:00",
   "status": "not_listed"
  },
+ "ministry for primary industries": {
+  "checked_at": "2026-11-10T04:36:24.242721+00:00",
+  "expiry": "2028-05-28",
+  "legal_name": "Ministry for Primary Industries",
+  "nzbn": "9429000096157",
+  "status": "accredited"
+ },
  "ministry of justice": {
   "checked_at": "2026-11-05T14:07:05.345546+00:00",
   "expiry": "2028-10-23",
@@ -1289,7 +1352,7 @@
   "status": "not_listed"
  },
  "momentum consulting": {
-  "checked_at": "2026-11-02T03:50:15.226941+00:00",
+  "checked_at": "2026-11-10T04:36:25.824043+00:00",
   "expiry": "2027-04-15",
   "legal_name": "MOMENTUM CONSULTING GROUP LIMITED",
   "nzbn": "9429038335914",
@@ -1305,6 +1368,10 @@
   "legal_name": "SOFTWARE LIMITED",
   "nzbn": "9429046174697",
   "status": "accredited"
+ },
+ "national hauora coalition": {
+  "checked_at": "2026-11-10T04:36:01.466316+00:00",
+  "status": "not_listed"
  },
  "natural hazards commission toka t ake": {
   "checked_at": "2026-10-23T07:27:40.538922+00:00",
@@ -1467,6 +1534,10 @@
  },
  "planit testing": {
   "checked_at": "2026-10-22T06:50:43.036328+00:00",
+  "status": "not_listed"
+ },
+ "platinum recruitment": {
+  "checked_at": "2026-11-10T04:36:30.007989+00:00",
   "status": "not_listed"
  },
  "podcom": {
@@ -1959,7 +2030,7 @@
   "status": "not_listed"
  },
  "technical engineering": {
-  "checked_at": "2026-11-04T19:53:14.073459+00:00",
+  "checked_at": "2026-11-10T04:36:18.967731+00:00",
   "status": "not_listed"
  },
  "technical recruitment": {
@@ -2065,7 +2136,7 @@
   "status": "not_listed"
  },
  "tribe": {
-  "checked_at": "2026-11-02T13:52:22.863795+00:00",
+  "checked_at": "2026-11-10T04:36:34.273830+00:00",
   "expiry": "2028-06-18",
   "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
   "nzbn": "9429030268715",
