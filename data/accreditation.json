@@ -181,7 +181,7 @@
   "status": "not_listed"
  },
  "archway recruitment": {
-  "checked_at": "2026-11-04T04:58:55.166608+00:00",
+  "checked_at": "2026-11-11T05:01:50.568491+00:00",
   "expiry": "2028-05-05",
   "legal_name": "ARCHWAY CONSULTING LIMITED",
   "nzbn": "9429047220874",
@@ -199,7 +199,7 @@
   "status": "accredited"
  },
  "asb bank": {
-  "checked_at": "2026-11-03T05:43:29.726215+00:00",
+  "checked_at": "2026-11-11T05:02:05.090553+00:00",
   "expiry": "2028-05-01",
   "legal_name": "ASB BANK LIMITED",
   "nzbn": "9429039435743",
@@ -239,7 +239,7 @@
   "status": "accredited"
  },
  "auckland council": {
-  "checked_at": "2026-11-04T04:59:05.735183+00:00",
+  "checked_at": "2026-11-11T05:02:00.894900+00:00",
   "expiry": "2028-06-08",
   "legal_name": "Auckland Council",
   "nzbn": "9429000034753",
@@ -311,7 +311,7 @@
   "status": "not_listed"
  },
  "bastion security": {
-  "checked_at": "2026-10-22T06:50:38.435249+00:00",
+  "checked_at": "2026-11-11T05:01:43.567265+00:00",
   "expiry": "2028-10-08",
   "legal_name": "BASTION SECURITY GROUP LIMITED",
   "nzbn": "9429051214081",
@@ -382,6 +382,10 @@
  },
  "bureau": {
   "checked_at": "2026-11-04T04:58:48.644925+00:00",
+  "status": "not_listed"
+ },
+ "canonical": {
+  "checked_at": "2026-11-11T05:01:59.145374+00:00",
   "status": "not_listed"
  },
  "carbonscape": {
@@ -483,7 +487,7 @@
   "status": "accredited"
  },
  "comspek international": {
-  "checked_at": "2026-11-03T06:48:25.387109+00:00",
+  "checked_at": "2026-11-11T05:01:34.077992+00:00",
   "status": "not_listed"
  },
  "coninnova": {
@@ -832,6 +836,13 @@
   "nzbn": "9429033175751",
   "status": "accredited"
  },
+ "fisher and paykel appliances": {
+  "checked_at": "2026-11-11T05:02:06.522204+00:00",
+  "expiry": "2028-03-24",
+  "legal_name": "FISHER & PAYKEL APPLIANCES LIMITED",
+  "nzbn": "9429040747378",
+  "status": "accredited"
+ },
  "fisher and paykel healthcare": {
   "checked_at": "2026-11-04T04:58:58.118354+00:00",
   "expiry": "2028-03-12",
@@ -1042,11 +1053,15 @@
   "status": "not_listed"
  },
  "higgins": {
-  "checked_at": "2026-11-04T04:58:51.058249+00:00",
+  "checked_at": "2026-11-11T05:01:47.354571+00:00",
   "expiry": "2028-10-01",
   "legal_name": "HIGGINS CONTRACTORS LIMITED",
   "nzbn": "9429040922850",
   "status": "accredited"
+ },
+ "higgins concrete": {
+  "checked_at": "2026-11-11T05:01:54.248843+00:00",
+  "status": "not_listed"
  },
  "hired": {
   "checked_at": "2026-11-02T05:47:53.440234+00:00",
@@ -1150,7 +1165,7 @@
   "status": "not_listed"
  },
  "johnson": {
-  "checked_at": "2026-10-27T14:17:48.140821+00:00",
+  "checked_at": "2026-11-11T05:01:46.056706+00:00",
   "status": "not_listed"
  },
  "joyn": {
@@ -1297,6 +1312,10 @@
   "nzbn": "9429053303370",
   "status": "accredited"
  },
+ "manulife": {
+  "checked_at": "2026-11-11T05:01:57.400788+00:00",
+  "status": "not_listed"
+ },
  "massey university": {
   "checked_at": "2026-11-06T03:15:19.616587+00:00",
   "expiry": "2028-07-14",
@@ -1367,6 +1386,13 @@
   "expiry": "2027-04-15",
   "legal_name": "MOMENTUM CONSULTING GROUP LIMITED",
   "nzbn": "9429038335914",
+  "status": "accredited"
+ },
+ "morgan project": {
+  "checked_at": "2026-11-11T05:01:44.621807+00:00",
+  "expiry": "2027-08-28",
+  "legal_name": "MORGAN PROJECT SERVICES (NZ) LIMITED",
+  "nzbn": "9429046741752",
   "status": "accredited"
  },
  "morson edge": {
@@ -1564,6 +1590,10 @@
   "legal_name": "PODCOM LIMITED",
   "nzbn": "9429036921249",
   "status": "accredited"
+ },
+ "police": {
+  "checked_at": "2026-11-11T05:01:37.878042+00:00",
+  "status": "not_listed"
  },
  "polished concrete": {
   "checked_at": "2026-10-29T07:02:57.651672+00:00",
@@ -1905,6 +1935,13 @@
   "nzbn": "9429043036400",
   "status": "accredited"
  },
+ "southern cross healthcare": {
+  "checked_at": "2026-11-11T05:02:02.241115+00:00",
+  "expiry": "2028-05-01",
+  "legal_name": "SOUTHERN CROSS HEALTHCARE LIMITED",
+  "nzbn": "9429033027180",
+  "status": "accredited"
+ },
  "southern cross travel insurance": {
   "checked_at": "2026-10-21T14:27:36.206219+00:00",
   "expiry": "2027-03-24",
@@ -1988,6 +2025,13 @@
  "system solution": {
   "checked_at": "2026-11-04T04:58:44.027006+00:00",
   "status": "not_listed"
+ },
+ "systems advisory": {
+  "checked_at": "2026-11-11T05:01:49.202689+00:00",
+  "expiry": "2028-08-14",
+  "legal_name": "SYSTEMS ADVISORY SERVICES LIMITED",
+  "nzbn": "9429040502625",
+  "status": "accredited"
  },
  "tainui": {
   "checked_at": "2026-10-28T03:32:52.569391+00:00",
@@ -2079,6 +2123,13 @@
  "thames coromandel district council": {
   "checked_at": "2026-11-09T05:12:57.827694+00:00",
   "status": "not_listed"
+ },
+ "theta": {
+  "checked_at": "2026-11-11T05:01:36.028282+00:00",
+  "expiry": "2028-05-12",
+  "legal_name": "THETA SYSTEMS LIMITED",
+  "nzbn": "9429038461446",
+  "status": "accredited"
  },
  "tiaki wai": {
   "checked_at": "2026-11-04T19:53:09.390096+00:00",
@@ -2322,7 +2373,7 @@
   "status": "accredited"
  },
  "worksafe": {
-  "checked_at": "2026-11-04T04:58:40.781176+00:00",
+  "checked_at": "2026-11-11T05:01:56.101873+00:00",
   "expiry": "2028-09-04",
   "legal_name": "WorkSafe New Zealand",
   "nzbn": "9429041926437",
@@ -2333,6 +2384,13 @@
   "expiry": "2028-02-02",
   "legal_name": "WORLD VISION OF NEW ZEALAND TRUST BOARD",
   "nzbn": "9429042923046",
+  "status": "accredited"
+ },
+ "wsp": {
+  "checked_at": "2026-11-11T05:01:52.496806+00:00",
+  "expiry": "2028-08-12",
+  "legal_name": "WSP NEW ZEALAND LIMITED",
+  "nzbn": "9429039194640",
   "status": "accredited"
  },
  "xero": {

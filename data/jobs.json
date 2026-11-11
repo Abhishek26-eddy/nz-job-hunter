@@ -81,6 +81,80 @@
    }
   },
   {
+   "id": "seek:95820936",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "Theta",
+   "advertiser": "Theta",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95820936",
+   "posted_at": "2026-11-11T02:26:59Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead complex business application and software development projects, advise senior stakeholders and coach Agile teams. Hybrid working at Theta. Be a trusted advisor to senior stakeholders on complex digital transformation Excellent benefits, flexible hybrid working model, superb company culture Work alongside some of the industry's brightest minds",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4489676930/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:01:36.028282+00:00",
+    "legal_name": "THETA SYSTEMS LIMITED",
+    "nzbn": "9429038461446",
+    "expiry": "2028-05-12"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026nistry of Justice check.\u00a0 We   We are only accepting applications from candidates who are\u202fcurrently residing in NZ\u202fand have the relevant visas.\u00a0  Apply now | Tono in\u0101ianei\u00a0   Ready to take your career to\u2026"
+    }
+   ],
+   "positives": [
+    {
+     "why": "Mentions accredited employer",
+     "quote": "\u2026offee machine, wide selection of teas and biscuits in all of our offices\u00a0  We are also an accredited employer with INZ\u00a0  Please note: Potential employees will be required to consent to a Ministry of\u2026"
+    }
+   ],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About this Role | M\u014d t\u0113nei t\u016branga mahi\u00a0 \n We have an exciting new opportunity for a Senior Project Manager to lead high-performing teams and deliver impactful business application and software development projects, all aligned with Theta\u2019s proven delivery standards and methodology. This role blends hands-on project management with Agile leadership and coaching. You will be supporting our customer",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "consulting",
+      "enterprise",
+      "methods",
+      "risk",
+      "sdlc",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "iswv",
+     "score": 109,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "mentions accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 109,
+   "tier": "A"
+  },
+  {
    "id": "seek:95362849",
    "source": "Seek",
    "title": "Project Manager",
@@ -146,110 +220,46 @@
    "tier": "A"
   },
   {
-   "id": "seek:95770590",
-   "source": "Seek",
-   "title": "Senior Product Manager",
-   "company": "Narrative",
-   "advertiser": "Narrative",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95770590",
-   "posted_at": "2026-11-09T02:19:07Z",
-   "work_type": "Full time",
+   "id": "linkedin:4487821906",
+   "source": "LinkedIn",
+   "title": "Product Owner - Modern Integration",
+   "company": "ASB Bank",
+   "advertiser": "ASB Bank",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487821906/",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "work_type": "Full-time",
    "salary": "",
-   "teaser": "Build and ship high-quality features for Narrative\u2019s core products, collaborating across teams while growing autonomy, technical depth, and impact.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
+   "teaser": "",
+   "first_seen": "2026-11-11T03:36:09+00:00",
    "needs_detail": false,
    "accreditation": {
     "status": "accredited",
-    "checked_at": "2026-11-09T05:13:05.239697+00:00",
-    "legal_name": "SOFTWARE LIMITED",
-    "nzbn": "9429046174697",
-    "expiry": "2028-10-27"
+    "checked_at": "2026-11-11T05:02:05.090553+00:00",
+    "legal_name": "ASB BANK LIMITED",
+    "nzbn": "9429039435743",
+    "expiry": "2028-05-01"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "About Narrative \n Narrative is one of NZ\u2019s fastest growing software-as-a-service (SaaS) companies. We build products that cater to a market of millions of professional photographers worldwide, working to significantly reduce their processing time by supporting a better daily workflow with AI powered tools. Our AI-powered tools help professional photographers from more than 160 countries improve th",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "consulting",
-      "data",
-      "product",
-      "requirements",
-      "sdlc",
-      "sql",
-      "stakeholders",
-      "tools"
-     ],
-     "route": "aewv",
-     "score": 99,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 99,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95775128",
-   "source": "Seek",
-   "title": "Senior Project Manager",
-   "company": "Datacom",
-   "advertiser": "Datacom",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95775128",
-   "posted_at": "2026-11-09T04:25:32Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead complex tech projects with ownership of delivery, budget & stakeholder success. Career growth in dynamic team. Flexible Work Arrangements and Work From Home Make your mark at one of ANZ's largest and most complex technology businesses Grow in a flexible, people-first culture with real career development",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4488817513/"
-    }
-   ],
-   "accreditation": {
-    "checked_at": "2026-11-05T14:06:24.139020+00:00",
-    "expiry": "2028-08-03",
-    "legal_name": "DATACOM NEW ZEALAND LIMITED",
-    "nzbn": "9429032698626",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Our Why\u00a0 \n\n Datacom works with organisations and communities across Australia and New Zealand to make a difference in people\u2019s lives and help organisations use the power of tech to innovate and grow.\u00a0\n\n About the role (your why)\u00a0 \n\n As a Senior Project Manager, you will lead large and complex technology projects from initiation through to successful closure. You will take ownership of project plan",
+   "summary": "M\u014d M\u0101tou | About Us\n\n At ASB, we are more than a bank. We are a purpose\u2011led organisation that helps people, communities and our environment thrive together. Guided by our values of Care, Courage and Curiosity, we challenge the status quo, genuinely care for those we work with and serve, and continuously look for better ways of doing things.\n\nAs one of Aotearoa\u2019s most trusted banking partners, we o",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
       "agile",
-      "budget",
+      "cloud",
       "data",
-      "methods",
-      "requirements",
+      "enterprise",
+      "product",
       "risk",
-      "stakeholders",
-      "vendors"
+      "sdlc",
+      "stakeholders"
      ],
-     "route": "iswv",
+     "route": "aewv",
      "score": 99,
      "tier": "A",
      "reasons": [
@@ -320,43 +330,43 @@
    "tier": "A"
   },
   {
-   "id": "linkedin:4487656913",
+   "id": "linkedin:4487832798",
    "source": "LinkedIn",
-   "title": "PMO Lead",
+   "title": "Delivery Lead",
    "company": "NZ Transport Agency Waka Kotahi",
    "advertiser": "NZ Transport Agency Waka Kotahi",
    "location": "Wellington, Wellington, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4487656913/",
-   "posted_at": "2026-11-09T00:00:00Z",
+   "url": "https://www.linkedin.com/jobs/view/4487832798/",
+   "posted_at": "2026-11-10T00:00:00Z",
    "work_type": "Full-time",
    "salary": "",
    "teaser": "",
-   "first_seen": "2026-11-09T04:40:59+00:00",
+   "first_seen": "2026-11-11T03:36:09+00:00",
    "needs_detail": false,
    "accreditation": {
-    "status": "accredited",
     "checked_at": "2026-11-09T05:13:11.137807+00:00",
+    "expiry": "2028-07-08",
     "legal_name": "New Zealand Transport Agency",
     "nzbn": "9429041910085",
-    "expiry": "2028-07-08"
+    "status": "accredited"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Establish and maintain programme governance and control for Service Modernisation\n Lead dependency management across a complex, enterprise-wide modernisation programme\n Bring clarity, coordination and confidence to integrated planning and delivery\n\n\n Te Whiwhinga mahi | The opportunity\n\n We are looking for an experienced PMO Lead to establish and maintain programme governance, strengthen delivery ",
+   "summary": "Lead complex service modernisation projects that deliver tangible customer outcomes\n Work across digital, regulatory, operational and customer environments\n Turn strategy into action and drive delivery across multidisciplinary teams\n\n\n We have an exciting opportunity for an experienced delivery professional to join our Service Modernisation function as Delivery Lead.\n\nThis is a key delivery role r",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
-      "budget",
-      "business",
+      "agile",
       "data",
-      "product",
+      "methods",
       "requirements",
       "risk",
-      "stakeholders"
+      "stakeholders",
+      "vendors"
      ],
      "route": "iswv",
      "score": 96,
@@ -432,45 +442,49 @@
    "tier": "A"
   },
   {
-   "id": "linkedin:4487151123",
-   "source": "LinkedIn",
-   "title": "Software Consultant (Senior Platform Engineer)",
-   "company": "ASB Bank",
-   "advertiser": "ASB Bank",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4487151123/",
-   "posted_at": "2026-11-09T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-11-10T01:39:23+00:00",
+   "id": "seek:95816476",
+   "source": "Seek",
+   "title": "Delivery Lead, Data & Insights and AI Business Governance",
+   "company": "WorkSafe New Zealand",
+   "advertiser": "WorkSafe New Zealand",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95816476",
+   "posted_at": "2026-11-10T23:36:08Z",
+   "work_type": "Full time",
+   "salary": "Expected appointment salary $130,588 - $144,295",
+   "teaser": "Help deliver Data & Insights initiatives and coordinate AI Business Governance, bringing people together to support effective delivery. Coordinate delivery of Data & Insights initiatives Lead day-to-day AI Business Governance at WorkSafe 12-month fixed-term role based at any WorkSafe location",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-11-03T05:43:29.726215+00:00",
-    "expiry": "2028-05-01",
-    "legal_name": "ASB BANK LIMITED",
-    "nzbn": "9429039435743",
-    "status": "accredited"
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:01:56.101873+00:00",
+    "legal_name": "WorkSafe New Zealand",
+    "nzbn": "9429041926437",
+    "expiry": "2028-09-04"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Kia ora, Talofa lava, Kia Orana, Malo e lelei, Fakalofa lahi atu, Bula Vinaka and Namaste!\n\n Location: Albany \u2013 T\u0101maki Makaurau/Auckland\n\n M\u014d M\u0101tou | About us\n\n At ASB, we believe progress is more than just financial. It is about helping New Zealanders, communities and our environment thrive together. We are a purpose-led organisation with a proud history and a clear vision: to support Kiwis in ge",
+   "summary": "Coordinate delivery of Data & Insights initiatives\u00a0\n\n Lead day-to-day AI Business Governance at WorkSafe\n\n Connect business and technical teams to support responsible AI adoption\n\n 12-month fixed-term role based at any WorkSafe location\u00a0\n\n \n \u00a0\n\n About Us - Mo tatou \u00a0\n\n He aha te mea nui o t\u0113nei ao? He tangata, he tangata, he tangata.\n\n Hello, Kia ora, Noa'ia, Talofa lava, Mauri, M\u0101l\u014d e leleSti, T\u0101",
    "for": {
-    "abhishek": {
+    "wife": {
      "fit": "core",
      "skills": [
-      "aws",
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "observability",
-      "terraform"
+      "agile",
+      "data",
+      "methods",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
      ],
      "route": "iswv",
-     "score": 93,
+     "score": 96,
      "tier": "A",
      "reasons": [
       "accredited employer"
@@ -478,7 +492,7 @@
     }
    },
    "visa_ready": true,
-   "score": 93,
+   "score": 96,
    "tier": "A"
   },
   {
@@ -518,6 +532,59 @@
       "linux",
       "observability",
       "terraform"
+     ],
+     "route": "iswv",
+     "score": 93,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 93,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95820456",
+   "source": "Seek",
+   "title": "Service Delivery Manager",
+   "company": "Systems Advisory Services Ltd",
+   "advertiser": "Systems Advisory Services Ltd",
+   "location": "Greenlane, Auckland",
+   "url": "https://www.seek.co.nz/job/95820456",
+   "posted_at": "2026-11-11T02:14:16Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Systems Advisory Services (SAS) is seeking an experienced Service Delivery Manager to lead service delivery across some of our key strategic customers 12- month Fixed Term contract Great team and culture Wellbeing benefits and ongoing professional development",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:01:49.202689+00:00",
+    "legal_name": "SYSTEMS ADVISORY SERVICES LIMITED",
+    "nzbn": "9429040502625",
+    "expiry": "2028-08-14"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "12-month Fixed Term Agreement \n Systems Advisory Services (SAS) is seeking an experienced Service Delivery Manager to lead service delivery across some of our key strategic customers, ensuring exceptional customer experiences, strong operational performance and long-term partnerships. This is a 12-month Fixed Term opportunity.\n This is a hands-on, customer-facing role for someone who thrives on bu",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "consulting",
+      "data",
+      "risk",
+      "stakeholders",
+      "vendors"
      ],
      "route": "iswv",
      "score": 93,
@@ -2977,6 +3044,170 @@
    "tier": "A"
   },
   {
+   "id": "seek:95770590",
+   "source": "Seek",
+   "title": "Senior Product Manager",
+   "company": "Narrative",
+   "advertiser": "Narrative",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95770590",
+   "posted_at": "2026-11-09T02:19:07Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Build and ship high-quality features for Narrative\u2019s core products, collaborating across teams while growing autonomy, technical depth, and impact.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-09T05:13:05.239697+00:00",
+    "legal_name": "SOFTWARE LIMITED",
+    "nzbn": "9429046174697",
+    "expiry": "2028-10-27"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About Narrative \n Narrative is one of NZ\u2019s fastest growing software-as-a-service (SaaS) companies. We build products that cater to a market of millions of professional photographers worldwide, working to significantly reduce their processing time by supporting a better daily workflow with AI powered tools. Our AI-powered tools help professional photographers from more than 160 countries improve th",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "product",
+      "requirements",
+      "sdlc",
+      "sql",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "aewv",
+     "score": 89,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 89,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95775128",
+   "source": "Seek",
+   "title": "Senior Project Manager",
+   "company": "Datacom",
+   "advertiser": "Datacom",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95775128",
+   "posted_at": "2026-11-09T04:25:32Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead complex tech projects with ownership of delivery, budget & stakeholder success. Career growth in dynamic team. Flexible Work Arrangements and Work From Home Make your mark at one of ANZ's largest and most complex technology businesses Grow in a flexible, people-first culture with real career development",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4488817513/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-05T14:06:24.139020+00:00",
+    "expiry": "2028-08-03",
+    "legal_name": "DATACOM NEW ZEALAND LIMITED",
+    "nzbn": "9429032698626",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Our Why\u00a0 \n\n Datacom works with organisations and communities across Australia and New Zealand to make a difference in people\u2019s lives and help organisations use the power of tech to innovate and grow.\u00a0\n\n About the role (your why)\u00a0 \n\n As a Senior Project Manager, you will lead large and complex technology projects from initiation through to successful closure. You will take ownership of project plan",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 89,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 89,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4489489962",
+   "source": "LinkedIn",
+   "title": "Digital Product Manager",
+   "company": "Fisher & Paykel Appliances",
+   "advertiser": "Fisher & Paykel Appliances",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4489489962/",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:02:06.522204+00:00",
+    "legal_name": "FISHER & PAYKEL APPLIANCES LIMITED",
+    "nzbn": "9429040747378",
+    "expiry": "2028-03-24"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The Role\n\n Fisher & Paykel is one of New Zealand's best-known brands, a global company with a strong heritage and ambitious plans. Our New Zealand origins, curious nature and passion to develop luxury products designed around people are core elements that make us unique.\n\n Driven by our brand values of being trusted, sustainably minded, innovative, generous and curious, as a team we take a collabo",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "product",
+      "requirements",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 87,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 87,
+   "tier": "A"
+  },
+  {
    "id": "seek:94992624",
    "source": "Seek",
    "title": "Business Analyst",
@@ -3975,123 +4206,49 @@
    "tier": "A"
   },
   {
-   "id": "seek:95770815",
-   "source": "Seek",
-   "title": "Project Manager - Cyber Supply Chain & Security Uplift (12m Contract)",
-   "company": "Livestock Improvement Corporation",
-   "advertiser": "Livestock Improvement Corporation",
-   "location": "Auckland Airport, Auckland",
-   "url": "https://www.seek.co.nz/job/95770815",
-   "posted_at": "2026-11-09T02:26:27Z",
-   "work_type": "Contract/Temp",
-   "salary": "Work in the sector that powers the NZ economy!",
-   "teaser": "Project Manager position with true purpose - make a difference in the biggest sector of NZ and support NZ farmers in the process. Hybrid work options available Be part of the industry that powers the NZ economy High profile project",
-   "seek_class": [
-    "6281"
-   ],
+   "id": "linkedin:4487656913",
+   "source": "LinkedIn",
+   "title": "PMO Lead",
+   "company": "NZ Transport Agency Waka Kotahi",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487656913/",
+   "posted_at": "2026-11-09T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
    "first_seen": "2026-11-09T04:40:59+00:00",
    "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95770782"
-    }
-   ],
    "accreditation": {
     "status": "accredited",
-    "checked_at": "2026-11-09T05:12:54.095687+00:00",
-    "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
-    "nzbn": "9429039566119",
-    "expiry": "2028-06-22"
+    "checked_at": "2026-11-09T05:13:11.137807+00:00",
+    "legal_name": "New Zealand Transport Agency",
+    "nzbn": "9429041910085",
+    "expiry": "2028-07-08"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "LIC is a farmer-owned co-operative that\u2019s been supporting herd improvement in New Zealand\u2019s dairy sector for more than 115 years. We\u2019re focused on providing superior genetics, reliable testing and diagnostics, integrated on-farm software, and great customer service, all designed to help farmers make smarter decisions every day.\n As a proud generational co-operative, we\u2019re here for farmers, their f",
+   "summary": "Establish and maintain programme governance and control for Service Modernisation\n Lead dependency management across a complex, enterprise-wide modernisation programme\n Bring clarity, coordination and confidence to integrated planning and delivery\n\n\n Te Whiwhinga mahi | The opportunity\n\n We are looking for an experienced PMO Lead to establish and maintain programme governance, strengthen delivery ",
    "for": {
     "wife": {
      "fit": "core",
      "skills": [
-      "agile",
       "budget",
+      "business",
       "data",
-      "methods",
       "product",
+      "requirements",
       "risk",
-      "stakeholders",
-      "vendors"
+      "stakeholders"
      ],
      "route": "iswv",
      "score": 86,
      "tier": "A",
      "reasons": [
-      "accredited employer",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 86,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95771241",
-   "source": "Seek",
-   "title": "Project Manager - Asset Mgmnt & App Rationalisation (12m Contract)",
-   "company": "Livestock Improvement Corporation",
-   "advertiser": "Livestock Improvement Corporation",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95771241",
-   "posted_at": "2026-11-09T02:39:47Z",
-   "work_type": "Contract/Temp",
-   "salary": "Work in the sector that powers the NZ economy !",
-   "teaser": "Lead critical cyber and technology projects that strengthen LIC's digital future, build resilience, and support New Zealand farmers every day. Drive high-impact cyber security projects Grow your career with a market leader in the dairy sector Hybrid work options available",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "also_on": [
-    {
-     "source": "Seek",
-     "url": "https://www.seek.co.nz/job/95771120"
-    }
-   ],
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-09T05:12:54.095687+00:00",
-    "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
-    "nzbn": "9429039566119",
-    "expiry": "2028-06-22"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "LIC is a farmer-owned co-operative that\u2019s been supporting herd improvement in New Zealand\u2019s dairy sector for more than 115 years. We\u2019re focused on providing superior genetics, reliable testing and diagnostics, integrated on-farm software, and great customer service, all designed to help farmers make smarter decisions every day.\n As a proud generational co-operative, we\u2019re here for farmers, their f",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "budget",
-      "cloud",
-      "data",
-      "methods",
-      "product",
-      "risk",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "iswv",
-     "score": 86,
-     "tier": "A",
-     "reasons": [
-      "accredited employer",
-      "contract: needs to be an employee offer"
+      "accredited employer"
      ]
     }
    },
@@ -5267,6 +5424,56 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4487151123",
+   "source": "LinkedIn",
+   "title": "Software Consultant (Senior Platform Engineer)",
+   "company": "ASB Bank",
+   "advertiser": "ASB Bank",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487151123/",
+   "posted_at": "2026-11-09T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-10T01:39:23+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-03T05:43:29.726215+00:00",
+    "expiry": "2028-05-01",
+    "legal_name": "ASB BANK LIMITED",
+    "nzbn": "9429039435743",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Kia ora, Talofa lava, Kia Orana, Malo e lelei, Fakalofa lahi atu, Bula Vinaka and Namaste!\n\n Location: Albany \u2013 T\u0101maki Makaurau/Auckland\n\n M\u014d M\u0101tou | About us\n\n At ASB, we believe progress is more than just financial. It is about helping New Zealanders, communities and our environment thrive together. We are a purpose-led organisation with a proud history and a clear vision: to support Kiwis in ge",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "aws",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 83,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 83,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4451905715",
    "source": "LinkedIn",
    "title": "Senior Product Manager 1",
@@ -5316,61 +5523,6 @@
    "visa_ready": true,
    "score": 81,
    "tier": "A"
-  },
-  {
-   "id": "seek:95771192",
-   "source": "Seek",
-   "title": "Platform Specialist - Generation & Wholesale Markets",
-   "company": "Mercury",
-   "advertiser": "Mercury",
-   "location": "Hamilton Central, Waikato",
-   "url": "https://www.seek.co.nz/job/95771192",
-   "posted_at": "2026-11-09T02:38:09Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Provide technical expertise, design, support, maintenance, and subject matter expertise for Mercury's Generation Site Platform Applications. Flexibility to be based in Hamilton or Rotorua Join a diverse workplace where your unique abilities will be valued Dive into a role that offers strong opportunity for growth and impact",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-11-03T06:48:28.815151+00:00",
-    "expiry": "2028-05-07",
-    "legal_name": "MERCURY NZ LIMITED",
-    "nzbn": "9429037705305",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "He whakahaere aronga-anamata a Mercury, e tuku ana i te p\u016bngao me ng\u0101 whitimamao ki te mahi a tangata o Aotearoa, \u0101, he nui ake i t\u0101 \u0113tahi atu. Waihoki, e para ana i te huarahi m\u0101 te p\u016bngao whakahou me te whai i t\u0113tahi anamata toit\u016b. Kei te iho ko t\u014d m\u0101tou koronga. Tiakina te anamata, m\u0101 te t\u016bhono i ng\u0101 t\u0101ngata me ng\u0101 w\u0101hi o te inamata. He \u0101ki t\u0113nei i a t\u0101tou ki te whakapau kaha kia hua ake ai he ",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "python",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 81,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 81,
-   "tier": "A",
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4487128467/"
-    }
-   ]
   },
   {
    "id": "seek:94906719",
@@ -7699,6 +7851,131 @@
    "tier": "A"
   },
   {
+   "id": "seek:95770815",
+   "source": "Seek",
+   "title": "Project Manager - Cyber Supply Chain & Security Uplift (12m Contract)",
+   "company": "Livestock Improvement Corporation",
+   "advertiser": "Livestock Improvement Corporation",
+   "location": "Auckland Airport, Auckland",
+   "url": "https://www.seek.co.nz/job/95770815",
+   "posted_at": "2026-11-09T02:26:27Z",
+   "work_type": "Contract/Temp",
+   "salary": "Work in the sector that powers the NZ economy!",
+   "teaser": "Project Manager position with true purpose - make a difference in the biggest sector of NZ and support NZ farmers in the process. Hybrid work options available Be part of the industry that powers the NZ economy High profile project",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95770782"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-09T05:12:54.095687+00:00",
+    "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
+    "nzbn": "9429039566119",
+    "expiry": "2028-06-22"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "LIC is a farmer-owned co-operative that\u2019s been supporting herd improvement in New Zealand\u2019s dairy sector for more than 115 years. We\u2019re focused on providing superior genetics, reliable testing and diagnostics, integrated on-farm software, and great customer service, all designed to help farmers make smarter decisions every day.\n As a proud generational co-operative, we\u2019re here for farmers, their f",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "methods",
+      "product",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 76,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 76,
+   "tier": "A"
+  },
+  {
+   "id": "seek:95771241",
+   "source": "Seek",
+   "title": "Project Manager - Asset Mgmnt & App Rationalisation (12m Contract)",
+   "company": "Livestock Improvement Corporation",
+   "advertiser": "Livestock Improvement Corporation",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95771241",
+   "posted_at": "2026-11-09T02:39:47Z",
+   "work_type": "Contract/Temp",
+   "salary": "Work in the sector that powers the NZ economy !",
+   "teaser": "Lead critical cyber and technology projects that strengthen LIC's digital future, build resilience, and support New Zealand farmers every day. Drive high-impact cyber security projects Grow your career with a market leader in the dairy sector Hybrid work options available",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95771120"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-09T05:12:54.095687+00:00",
+    "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
+    "nzbn": "9429039566119",
+    "expiry": "2028-06-22"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "LIC is a farmer-owned co-operative that\u2019s been supporting herd improvement in New Zealand\u2019s dairy sector for more than 115 years. We\u2019re focused on providing superior genetics, reliable testing and diagnostics, integrated on-farm software, and great customer service, all designed to help farmers make smarter decisions every day.\n As a proud generational co-operative, we\u2019re here for farmers, their f",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "cloud",
+      "data",
+      "methods",
+      "product",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 76,
+     "tier": "A",
+     "reasons": [
+      "accredited employer",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 76,
+   "tier": "A"
+  },
+  {
    "id": "seek:95299409",
    "source": "Seek",
    "title": "Data and AI Engineer - Two Year Fixed Term",
@@ -9755,6 +10032,61 @@
    "tier": "A"
   },
   {
+   "id": "seek:95771192",
+   "source": "Seek",
+   "title": "Platform Specialist - Generation & Wholesale Markets",
+   "company": "Mercury",
+   "advertiser": "Mercury",
+   "location": "Hamilton Central, Waikato",
+   "url": "https://www.seek.co.nz/job/95771192",
+   "posted_at": "2026-11-09T02:38:09Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Provide technical expertise, design, support, maintenance, and subject matter expertise for Mercury's Generation Site Platform Applications. Flexibility to be based in Hamilton or Rotorua Join a diverse workplace where your unique abilities will be valued Dive into a role that offers strong opportunity for growth and impact",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-03T06:48:28.815151+00:00",
+    "expiry": "2028-05-07",
+    "legal_name": "MERCURY NZ LIMITED",
+    "nzbn": "9429037705305",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "He whakahaere aronga-anamata a Mercury, e tuku ana i te p\u016bngao me ng\u0101 whitimamao ki te mahi a tangata o Aotearoa, \u0101, he nui ake i t\u0101 \u0113tahi atu. Waihoki, e para ana i te huarahi m\u0101 te p\u016bngao whakahou me te whai i t\u0113tahi anamata toit\u016b. Kei te iho ko t\u014d m\u0101tou koronga. Tiakina te anamata, m\u0101 te t\u016bhono i ng\u0101 t\u0101ngata me ng\u0101 w\u0101hi o te inamata. He \u0101ki t\u0113nei i a t\u0101tou ki te whakapau kaha kia hua ake ai he ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "python",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 71,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 71,
+   "tier": "A",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487128467/"
+    }
+   ]
+  },
+  {
    "id": "linkedin:4457451943",
    "source": "LinkedIn",
    "title": "Staff AI Platform Engineer",
@@ -10684,55 +11016,6 @@
    }
   },
   {
-   "id": "seek:95764006",
-   "source": "Seek",
-   "title": "Systems Engineer",
-   "company": "Port Otago",
-   "advertiser": "Port Otago",
-   "location": "Port Chalmers, Otago",
-   "url": "https://www.seek.co.nz/job/95764006",
-   "posted_at": "2026-11-08T21:10:06Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Join Port Otago's IT team as a Systems Engineer, delivering innovative, secure and reliable technology solutions across the business. Make a difference in a business where technology drives success 7% employer superannuation and comprehensive health insurance Enjoy career growth, great benefits and stunning harbour views",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-11-09T04:57:07.395546+00:00",
-    "legal_name": "PORT OTAGO LIMITED",
-    "nzbn": "9429039444233",
-    "expiry": "2027-03-01"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Port Otago Group\u2019s business comprises a regional container terminal, bulk port activities, cruise, and property investment and development. Based out of Port Chalmers (Dunedin), we service South Canterbury, Otago, and Southland, working with customers to streamline their supply chains. Our culture is hands-on; safety focused and encourages continuous improvement.\n Our diverse portfolio means there",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "docker",
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 66,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 66,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4480298538",
    "source": "LinkedIn",
    "title": "Platform Engineer",
@@ -11265,54 +11548,6 @@
    },
    "visa_ready": true,
    "score": 64,
-   "tier": "A"
-  },
-  {
-   "id": "seek:95764030",
-   "source": "Seek",
-   "title": "Senior Propulsion Automation & Test Systems Engineer",
-   "company": "Rocket Lab",
-   "advertiser": "Rocket Lab",
-   "location": "Waikato",
-   "url": "https://www.seek.co.nz/job/95764030",
-   "posted_at": "2026-11-08T21:14:15Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "If you're excited by hands-on engineering, and taking ownership of mission-critical test infrastructure that directly enables spaceflight.",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "checked_at": "2026-11-03T05:42:58.320596+00:00",
-    "expiry": "2026-11-30",
-    "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
-    "nzbn": "9429046593054",
-    "status": "accredited"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "ABOUT ROCKET LAB \n \n Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more - all with the goal of opening access to space. The rockets and satellites we build and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observ",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "python"
-     ],
-     "route": "iswv",
-     "score": 63,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 63,
    "tier": "A"
   },
   {
@@ -13129,6 +13364,55 @@
    ]
   },
   {
+   "id": "seek:95764006",
+   "source": "Seek",
+   "title": "Systems Engineer",
+   "company": "Port Otago",
+   "advertiser": "Port Otago",
+   "location": "Port Chalmers, Otago",
+   "url": "https://www.seek.co.nz/job/95764006",
+   "posted_at": "2026-11-08T21:10:06Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join Port Otago's IT team as a Systems Engineer, delivering innovative, secure and reliable technology solutions across the business. Make a difference in a business where technology drives success 7% employer superannuation and comprehensive health insurance Enjoy career growth, great benefits and stunning harbour views",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-09T04:57:07.395546+00:00",
+    "legal_name": "PORT OTAGO LIMITED",
+    "nzbn": "9429039444233",
+    "expiry": "2027-03-01"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Port Otago Group\u2019s business comprises a regional container terminal, bulk port activities, cruise, and property investment and development. Based out of Port Chalmers (Dunedin), we service South Canterbury, Otago, and Southland, working with customers to streamline their supply chains. Our culture is hands-on; safety focused and encourages continuous improvement.\n Our diverse portfolio means there",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "docker",
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 56,
+   "tier": "B"
+  },
+  {
    "id": "seek:95160130",
    "source": "Seek",
    "title": "Principal Systems Engineer",
@@ -13298,55 +13582,6 @@
     }
    },
    "visa_ready": true,
-   "score": 54,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4489100624",
-   "source": "LinkedIn",
-   "title": "Senior Azure Cloud Engineer",
-   "company": "DXC Technology - Australia and New Zealand",
-   "advertiser": "DXC Technology - Australia and New Zealand",
-   "location": "Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4489100624/",
-   "posted_at": "2026-11-09T00:00:00Z",
-   "work_type": "Full-time",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-11-10T01:39:23+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-10T04:36:31.446668+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Experience level Senior : \n typically 5+ years in infrastructure or cloud operations, including 3+ years supporting production Microsoft Azure environments\n Primary streams : Azure Cloud Operations (run) and continuous improvement\n Technology focus : Microsoft Azure, Azure networking and identity, PowerShell/Azure CLI automation, Terraform/Bicep, Azure DevOps and Azure Monitor/KQL\n Support model :",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "bash",
-      "docker",
-      "jenkins",
-      "kubernetes",
-      "python",
-      "security",
-      "sre",
-      "terraform"
-     ],
-     "route": "iswv",
-     "score": 54,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
    "score": 54,
    "tier": "B"
   },
@@ -14484,43 +14719,88 @@
    "tier": "B"
   },
   {
-   "id": "seek:95766597",
+   "id": "seek:95764030",
    "source": "Seek",
-   "title": "PMO Lead",
-   "company": "New Zealand Transport Agency",
-   "advertiser": "NZ Transport Agency Waka Kotahi",
-   "location": "Wellington",
-   "url": "https://www.seek.co.nz/job/95766597",
-   "posted_at": "2026-11-08T23:53:13Z",
+   "title": "Senior Propulsion Automation & Test Systems Engineer",
+   "company": "Rocket Lab",
+   "advertiser": "Rocket Lab",
+   "location": "Waikato",
+   "url": "https://www.seek.co.nz/job/95764030",
+   "posted_at": "2026-11-08T21:14:15Z",
    "work_type": "Full time",
    "salary": "",
-   "teaser": "Lead dependency management across a complex, enterprise-wide modernisation programme. Establish programme governance and control for Service Modernisation Lead dependency management across a complex programme Bring clarity, coordination and confidence",
+   "teaser": "If you're excited by hands-on engineering, and taking ownership of mission-critical test infrastructure that directly enables spaceflight.",
    "seek_class": [
-    "1210"
+    "1209"
    ],
    "first_seen": "2026-11-09T04:40:59+00:00",
    "needs_detail": false,
    "accreditation": {
-    "checked_at": "2026-11-07T05:17:51.650554+00:00",
-    "status": "not_listed"
+    "checked_at": "2026-11-03T05:42:58.320596+00:00",
+    "expiry": "2026-11-30",
+    "legal_name": "ROCKET LAB GLOBAL SERVICES, LLC",
+    "nzbn": "9429046593054",
+    "status": "accredited"
    },
    "hard_blockers": [],
    "soft_blockers": [],
    "positives": [],
    "recruiter": false,
    "has_description": true,
-   "summary": "Establish and maintain programme governance and control for Service Modernisation\n Lead dependency management across a complex, enterprise-wide modernisation programme\n Bring clarity, coordination and confidence to integrated planning and delivery\n Te Whiwhinga mahi | The opportunity \nWe are looking for an experienced PMO Lead to establish and maintain programme governance, strengthen delivery con",
+   "summary": "ABOUT ROCKET LAB \n \n Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more - all with the goal of opening access to space. The rockets and satellites we build and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observ",
    "for": {
-    "wife": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "python"
+     ],
+     "route": "iswv",
+     "score": 53,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 53,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4489644116",
+   "source": "LinkedIn",
+   "title": "Senior Site Reliability / Gitops Engineer",
+   "company": "Canonical",
+   "advertiser": "Canonical",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4489644116/",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:59.145374+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The",
+   "for": {
+    "abhishek": {
      "fit": "core",
      "skills": [
-      "budget",
-      "business",
-      "data",
-      "product",
-      "requirements",
-      "risk",
-      "stakeholders"
+      "argocd",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "linux",
+      "observability",
+      "python"
      ],
      "route": "iswv",
      "score": 51,
@@ -14533,64 +14813,6 @@
    "visa_ready": false,
    "score": 51,
    "tier": "B"
-  },
-  {
-   "id": "seek:95770537",
-   "source": "Seek",
-   "title": "Technical Business Analyst",
-   "company": "Waimakariri District Council",
-   "advertiser": "Waimakariri District Council",
-   "location": "Rangiora, Canterbury",
-   "url": "https://www.seek.co.nz/job/95770537",
-   "posted_at": "2026-11-09T02:17:28Z",
-   "work_type": "Full time",
-   "salary": "Competitive remuneration",
-   "teaser": "The Council is seeking an experienced Technical Business Analyst to join our Business and Technology Solutions team in Rangiora. Competitive remuneration and employee benefits Flexible working arrangements to support work-life-balance Friendly and supportive team environment",
-   "seek_class": [
-    "6281",
-    "1210"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T05:12:50.537215+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Permanent | Full time \n Help shape the future of digital services at Waimakariri District Council \n Want to play a key role in optimising and enhancing a newly implemented SaaS enterprise platform?\n\n Enjoy solving complex business and technical challenges while working closely with stakeholders and vendors?\n\n Looking for an opportunity where your ideas, expertise and initiative can make a genuine ",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "data",
-      "enterprise",
-      "product",
-      "requirements",
-      "sdlc",
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 51,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 51,
-   "tier": "B",
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4487930032/"
-    }
-   ]
   },
   {
    "id": "seek:95795349",
@@ -16111,6 +16333,101 @@
       "stakeholders"
      ],
      "route": "aewv",
+     "score": 45,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 45,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4487871249",
+   "source": "LinkedIn",
+   "title": "Senior Site Reliability Engineer",
+   "company": "Canonical",
+   "advertiser": "Canonical",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487871249/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:59.145374+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The ",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "docker",
+      "kubernetes",
+      "linux",
+      "python",
+      "security"
+     ],
+     "route": "iswv",
+     "score": 45,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 45,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95821460",
+   "source": "Seek",
+   "title": "Senior AWS Network Engineer",
+   "company": "Comspek International",
+   "advertiser": "Comspek International Limited",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95821460",
+   "posted_at": "2026-11-11T02:41:05Z",
+   "work_type": "Full time",
+   "salary": "NZD 130000 - 150000 per annum",
+   "teaser": "Seeking an experienced Senior AWS Network Engineer to design, implement, operate, and continuously improve enterprise networking infrastructure Cisco / AWS / LAN / WAN / SD-WAN Permanent / Work Life Balance Strong Package / Hybrid / Wellington Based",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:34.077992+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We're looking for an experienced Senior Network Engineer to lead the design, implementation and ongoing optimisation of enterprise network infrastructure across both on-premises and AWS cloud environments. This role combines hands-on technical expertise with architectural leadership, supporting critical business systems and cloud transformation initiatives.\n\n What you'll be doing: \n Design and sup",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "aws",
+      "python",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
      "score": 45,
      "tier": "B",
      "reasons": [
@@ -17842,6 +18159,55 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4489100624",
+   "source": "LinkedIn",
+   "title": "Senior Azure Cloud Engineer",
+   "company": "DXC Technology - Australia and New Zealand",
+   "advertiser": "DXC Technology - Australia and New Zealand",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4489100624/",
+   "posted_at": "2026-11-09T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-10T01:39:23+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-10T04:36:31.446668+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Experience level Senior : \n typically 5+ years in infrastructure or cloud operations, including 3+ years supporting production Microsoft Azure environments\n Primary streams : Azure Cloud Operations (run) and continuous improvement\n Technology focus : Microsoft Azure, Azure networking and identity, PowerShell/Azure CLI automation, Terraform/Bicep, Azure DevOps and Azure Monitor/KQL\n Support model :",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "bash",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "python",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 44,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "B"
+  },
+  {
    "id": "seek:94990429",
    "source": "Seek",
    "title": "Senior Technical Business Analyst",
@@ -19259,6 +19625,115 @@
    "tier": "B"
   },
   {
+   "id": "seek:95766597",
+   "source": "Seek",
+   "title": "PMO Lead",
+   "company": "New Zealand Transport Agency",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95766597",
+   "posted_at": "2026-11-08T23:53:13Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead dependency management across a complex, enterprise-wide modernisation programme. Establish programme governance and control for Service Modernisation Lead dependency management across a complex programme Bring clarity, coordination and confidence",
+   "seek_class": [
+    "1210"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-07T05:17:51.650554+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Establish and maintain programme governance and control for Service Modernisation\n Lead dependency management across a complex, enterprise-wide modernisation programme\n Bring clarity, coordination and confidence to integrated planning and delivery\n Te Whiwhinga mahi | The opportunity \nWe are looking for an experienced PMO Lead to establish and maintain programme governance, strengthen delivery con",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "business",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95770537",
+   "source": "Seek",
+   "title": "Technical Business Analyst",
+   "company": "Waimakariri District Council",
+   "advertiser": "Waimakariri District Council",
+   "location": "Rangiora, Canterbury",
+   "url": "https://www.seek.co.nz/job/95770537",
+   "posted_at": "2026-11-09T02:17:28Z",
+   "work_type": "Full time",
+   "salary": "Competitive remuneration",
+   "teaser": "The Council is seeking an experienced Technical Business Analyst to join our Business and Technology Solutions team in Rangiora. Competitive remuneration and employee benefits Flexible working arrangements to support work-life-balance Friendly and supportive team environment",
+   "seek_class": [
+    "6281",
+    "1210"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T05:12:50.537215+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Permanent | Full time \n Help shape the future of digital services at Waimakariri District Council \n Want to play a key role in optimising and enhancing a newly implemented SaaS enterprise platform?\n\n Enjoy solving complex business and technical challenges while working closely with stakeholders and vendors?\n\n Looking for an opportunity where your ideas, expertise and initiative can make a genuine ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "enterprise",
+      "product",
+      "requirements",
+      "sdlc",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487930032/"
+    }
+   ]
+  },
+  {
    "id": "seek:94957629",
    "source": "Seek",
    "title": "Product Owner",
@@ -19510,53 +19985,6 @@
    "tier": "B"
   },
   {
-   "id": "seek:95765396",
-   "source": "Seek",
-   "title": "Lead Cloud Engineer",
-   "company": "Walker Smith",
-   "advertiser": "Walker Smith",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/95765396",
-   "posted_at": "2026-11-08T23:22:17Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Lead a small team at Herd-i building computer vision and cloud systems for dairy. Hands-on Python, AWS and React, with Claude Code at the core. Shape the architecture of a growing dairy-tech platform Work with ML, IoT and operations teams to ship real systems Own the technical direction of a small, ambitious team",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:03.066230+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "The Company \n\n Herd-i builds computer vision and analytics systems for the dairy industry. Its platform processes video and sensor data to deliver insights into animal health, welfare and farm performance. The work brings together edge computing, machine learning and cloud systems to solve practical problems on farms. This is a growing business where you stay close to the technology and have a dir",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "ai",
-      "aws",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 39,
-     "tier": "B",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 39,
-   "tier": "B"
-  },
-  {
    "id": "seek:95795714",
    "source": "Seek",
    "title": "DevOps Engineer",
@@ -19592,6 +20020,111 @@
       "terraform"
      ],
      "route": "iswv",
+     "score": 39,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 39,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95814337",
+   "source": "Seek",
+   "title": "GIS Business Analyst",
+   "company": "Manulife",
+   "advertiser": "Manulife Investment Management Forest Management (NZ) Limited",
+   "location": "Rotorua Central, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95814337",
+   "posted_at": "2026-11-10T20:30:24Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Bring your GIS expertise to a role with real influence across a major NZ forestry estate. Join one of NZ\u2019s largest, sustainability\u2011focused forest managers Use your experience to shape solutions, guide priorities and help others grow. Great fun team environment with flexibility and numerous benefits",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:57.400788+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Our Business \n Manulife Investment Management Forest Management (NZ) Limited (MFM (NZ)) has been managing forests in Aotearoa since 2004 on behalf of Manulife Investment Management Timberland and Agriculture Inc\u2019s (MIMTA) clients. MIMTA is one of the world\u2019s largest and most experienced timberland investment managers and is part of Manulife\u2019s Global Wealth and Asset Management business. \u00a0\n Spatial",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "data",
+      "sql",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 39,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 39,
+   "tier": "B"
+  },
+  {
+   "id": "seek:95815612",
+   "source": "Seek",
+   "title": "Technical Product Owner - Corporate Serv",
+   "company": "New Zealand Police",
+   "advertiser": "New Zealand Police",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95815612",
+   "posted_at": "2026-11-10T22:35:27Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Join NZ Police and help create safer futures for our communities.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:37.878042+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ions must be submitted online and will not be accepted directly via email. All applicants must have the right to work in New Zealand.       If you are an internal applicant, you must apply internally through\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Company description:\n\n New Zealand Police is working with the community to make New Zealanders be safe and feel safe. With over 13,000 staff, we provide policing services 24 hours a day, every day. We operate by land, sea and air, manage over 860,000 emergency calls a year and are always actively preventing crime and crashes.\n\nWe're working towards specific goals and targets that highlight our int",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "consulting",
+      "enterprise",
+      "methods",
+      "product",
+      "requirements",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
      "score": 39,
      "tier": "B",
      "reasons": [
@@ -20491,6 +21024,59 @@
    "tier": "B"
   },
   {
+   "id": "seek:95680814",
+   "source": "Seek",
+   "title": "Onboarding Security /Deployment Engineer \u2013 Wellington or Auckland office based",
+   "company": "Bastion Security Group",
+   "advertiser": "Bastion Security Group",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95680814",
+   "posted_at": "2026-11-04T02:47:44Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Use your Sentinel configuration and Defender EDR experience to implement and design solutions for medium to enterprise-level customers. Exceptional team in New Zealand and Australia Implement and design solutions for medium to enterprise-level customers Minimum 2-years Sentinel configuration and Defender EDR experience",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:01:43.567265+00:00",
+    "legal_name": "BASTION SECURITY GROUP LIMITED",
+    "nzbn": "9429051214081",
+    "expiry": "2028-10-08"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026organisation, are results orientated, and add value to the clients you work with. You are already based in New Zealand, with a valid work visa or permanent right to work.\u202fWe are not accepting applications fro\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Exceptional team in New Zealand and Australia\u00a0\n\n Implement and design solutions for medium to enterprise-level customers\u00a0\n\n Minimum 2-years Sentinel configuration and Defender EDR experience\u00a0\n\n \n\n The role \n As our onboarding /deployment Security Engineer you are responsible for managing the enablement of various Bastion Managed Security Services and products, including but not limited to: designi",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 38,
+     "tier": "B",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 38,
+   "tier": "B"
+  },
+  {
    "id": "seek:95701130",
    "source": "Seek",
    "title": "Business Analyst",
@@ -20630,97 +21216,6 @@
      "tier": "B",
      "reasons": [
       "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 38,
-   "tier": "B"
-  },
-  {
-   "id": "seek:95764536",
-   "source": "Seek",
-   "title": "Business Analyst - Billing Systems",
-   "company": "Potentia",
-   "advertiser": "Potentia",
-   "location": "Manawatu",
-   "url": "https://www.seek.co.nz/job/95764536",
-   "posted_at": "2026-11-08T22:15:06Z",
-   "work_type": "Contract/Temp",
-   "salary": "NZD 112.50 per hour",
-   "teaser": "A Palmerston North contract for someone with billing, customer experience and vendor management experience. Palmerston North-based role with real ownership on the ground Work across billing, customer experience, vendor management and stakeholders Support a meaningful local government service environment",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:06.187147+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Deliverables / Purpose \n \n This role is about being the local, hands-on link between the business, vendor and key stakeholders across billing and customer experience systems.\n \n This role is based in Palmerston North (Hybrid), working closely with teams in a local government environment to support day-to-day system activity, manage vendor interactions, and help ensure billing and customer processe",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "stakeholders",
-      "vendors"
-     ],
-     "route": "aewv",
-     "score": 38,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 38,
-   "tier": "B"
-  },
-  {
-   "id": "linkedin:4488815581",
-   "source": "LinkedIn",
-   "title": "AI DevSecOps Engineer",
-   "company": "Hays",
-   "advertiser": "Hays",
-   "location": "Auckland, Auckland, New Zealand",
-   "url": "https://www.linkedin.com/jobs/view/4488815581/",
-   "posted_at": "2026-11-09T00:00:00Z",
-   "work_type": "Contract",
-   "salary": "",
-   "teaser": "",
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T05:13:08.499335+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "About the Role\n We are looking for 2 experienced AI DevSecOps Engineers to join a fast-moving technology team. This is a hands-on role requiring strong technical capability across the full software development lifecycle (SDLC), with a focus on secure development, testing, deployment and AI enablement.\nWe're looking for people who are proactive, practical problem solvers and can work effectively wi",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [
-      "jenkins",
-      "security"
-     ],
-     "route": "iswv",
-     "score": 38,
-     "tier": "B",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
      ]
     }
    },
@@ -23162,50 +23657,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95764774",
-   "source": "Seek",
-   "title": "Azure Databricks Consultant/Engineer - Contract",
-   "company": "Ocean IT Recruitment",
-   "advertiser": "Ocean IT Recruitment Limited",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/95764774",
-   "posted_at": "2026-11-08T22:35:18Z",
-   "work_type": "Contract/Temp",
-   "salary": "up to $115 per hour + GST",
-   "teaser": "Contract in Wellington or Auckland - very much a specialist Azure Databricks requirement with a leading Data Consultancy. $90 - 115 per hour + GST Hybrid working Initial 3 months + extensions (a large project)",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:04.838167+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Very specialist MS Azure Databricks x2\u00a0 \n Auckland OR Wellington City location \n Rates between $90 - 115 per hour + GST \n Initial 3 month with extensions \u00a0\n \u00a0\n Your new Employer: \n Our client is a 'home grown' success story who have literally exploded their size and capability within the past 20 years. .\n \u00a0\n The company is owned and operated by several better known NZ experts in the Data, Business",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [],
-     "route": "iswv",
-     "score": 32,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 32,
-   "tier": "C"
-  },
-  {
    "id": "seek:94902957",
    "source": "Seek",
    "title": "Business Analyst",
@@ -24641,6 +25092,53 @@
    "tier": "C"
   },
   {
+   "id": "seek:95765396",
+   "source": "Seek",
+   "title": "Lead Cloud Engineer",
+   "company": "Walker Smith",
+   "advertiser": "Walker Smith",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95765396",
+   "posted_at": "2026-11-08T23:22:17Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead a small team at Herd-i building computer vision and cloud systems for dairy. Hands-on Python, AWS and React, with Claude Code at the core. Shape the architecture of a growing dairy-tech platform Work with ML, IoT and operations teams to ship real systems Own the technical direction of a small, ambitious team",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:03.066230+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The Company \n\n Herd-i builds computer vision and analytics systems for the dairy industry. Its platform processes video and sensor data to deliver insights into animal health, welfare and farm performance. The work brings together edge computing, machine learning and cloud systems to solve practical problems on farms. This is a growing business where you stay close to the technology and have a dir",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ai",
+      "aws",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 29,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 29,
+   "tier": "C"
+  },
+  {
    "id": "seek:94984066",
    "source": "Seek",
    "title": "Senior Business Analyst",
@@ -25161,6 +25659,142 @@
    },
    "visa_ready": false,
    "score": 28,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95764536",
+   "source": "Seek",
+   "title": "Business Analyst - Billing Systems",
+   "company": "Potentia",
+   "advertiser": "Potentia",
+   "location": "Manawatu",
+   "url": "https://www.seek.co.nz/job/95764536",
+   "posted_at": "2026-11-08T22:15:06Z",
+   "work_type": "Contract/Temp",
+   "salary": "NZD 112.50 per hour",
+   "teaser": "A Palmerston North contract for someone with billing, customer experience and vendor management experience. Palmerston North-based role with real ownership on the ground Work across billing, customer experience, vendor management and stakeholders Support a meaningful local government service environment",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:06.187147+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Deliverables / Purpose \n \n This role is about being the local, hands-on link between the business, vendor and key stakeholders across billing and customer experience systems.\n \n This role is based in Palmerston North (Hybrid), working closely with teams in a local government environment to support day-to-day system activity, manage vendor interactions, and help ensure billing and customer processe",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "aewv",
+     "score": 28,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 28,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4488815581",
+   "source": "LinkedIn",
+   "title": "AI DevSecOps Engineer",
+   "company": "Hays",
+   "advertiser": "Hays",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4488815581/",
+   "posted_at": "2026-11-09T00:00:00Z",
+   "work_type": "Contract",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T05:13:08.499335+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "About the Role\n We are looking for 2 experienced AI DevSecOps Engineers to join a fast-moving technology team. This is a hands-on role requiring strong technical capability across the full software development lifecycle (SDLC), with a focus on secure development, testing, deployment and AI enablement.\nWe're looking for people who are proactive, practical problem solvers and can work effectively wi",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "security"
+     ],
+     "route": "iswv",
+     "score": 28,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 28,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4487880063",
+   "source": "LinkedIn",
+   "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+   "company": "Canonical",
+   "advertiser": "Canonical",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487880063/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:01:59.145374+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world\u2019s most widely used Linux desktop and server, for the latest silicon.\n\nOur teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.\n\nThis is an excellent opportunity f",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "docker",
+      "kubernetes",
+      "linux",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 27,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 27,
    "tier": "C"
   },
   {
@@ -26708,6 +27342,101 @@
    "tier": "C"
   },
   {
+   "id": "seek:95764774",
+   "source": "Seek",
+   "title": "Azure Databricks Consultant/Engineer - Contract",
+   "company": "Ocean IT Recruitment",
+   "advertiser": "Ocean IT Recruitment Limited",
+   "location": "Auckland CBD, Auckland",
+   "url": "https://www.seek.co.nz/job/95764774",
+   "posted_at": "2026-11-08T22:35:18Z",
+   "work_type": "Contract/Temp",
+   "salary": "up to $115 per hour + GST",
+   "teaser": "Contract in Wellington or Auckland - very much a specialist Azure Databricks requirement with a leading Data Consultancy. $90 - 115 per hour + GST Hybrid working Initial 3 months + extensions (a large project)",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:04.838167+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Very specialist MS Azure Databricks x2\u00a0 \n Auckland OR Wellington City location \n Rates between $90 - 115 per hour + GST \n Initial 3 month with extensions \u00a0\n \u00a0\n Your new Employer: \n Our client is a 'home grown' success story who have literally exploded their size and capability within the past 20 years. .\n \u00a0\n The company is owned and operated by several better known NZ experts in the Data, Business",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 22,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 22,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95817634",
+   "source": "Seek",
+   "title": "DevOps Engineering Lead",
+   "company": "H2R Consulting",
+   "advertiser": "H2R Technology Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95817634",
+   "posted_at": "2026-11-11T00:40:33Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Help teams deliver more effectively through automation, modern tooling, and better ways of working",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-10T04:36:10.169860+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Wants candidates already in NZ",
+     "quote": "\u2026ping engineering capability  Strong stakeholder engagement and communication skills   You must be based in New Zealand with valid working rights for this opportunity.  For further information please call Mare\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "DevOps Engineering Lead\u00a0\n Permanent Opportunity\n Wellington | Hybrid Working (2 Days in Office)\u00a0\n We're looking for a Senior DevOps Leader who is passionate about improving DevOps technology teams work. This is an opportunity to influence engineering practices across a large organisation, helping teams deliver more effectively through automation, modern tooling, and better ways of working.\u00a0\n\n You'",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "security"
+     ],
+     "route": "iswv",
+     "score": 21,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 21,
+   "tier": "C"
+  },
+  {
    "id": "linkedin:4477281208",
    "source": "LinkedIn",
    "title": "Cloud & Security Engineer",
@@ -26763,7 +27492,13 @@
       "not on public INZ list"
      ]
     }
-   }
+   },
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487839917/"
+    }
+   ]
   },
   {
    "id": "seek:95307767",
@@ -26953,58 +27688,6 @@
    "visa_ready": false,
    "score": 20,
    "tier": "C"
-  },
-  {
-   "id": "seek:95769113",
-   "source": "Seek",
-   "title": "Platform Owner - Genesys Cloud",
-   "company": "Talent Corp",
-   "advertiser": "Talent",
-   "location": "Wellington Central, Wellington",
-   "url": "https://www.seek.co.nz/job/95769113",
-   "posted_at": "2026-11-09T01:25:28Z",
-   "work_type": "Contract/Temp",
-   "salary": "",
-   "teaser": "Own Genesys Cloud, resolve technical issues and improve contact centre systems. 18-month contract based in Auckland or Wellington. 18-month contract based in Auckland Own the day-to-day technical direction of Genesys Cloud and core contact centre Make practical improvements to platform stability, releases and support processe",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:01.799222+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": true,
-   "has_description": true,
-   "summary": "Platform Owner - Genesys Cloud \n 18-month contract | Auckland based \n We're looking for a Platform Owner to provide day-to-day technical leadership and support for a National Contact Centre's core technology platforms, with a particular focus on Genesys Cloud.\n You'll be the main technical point of contact, working with business users, internal technology teams and support vendors to resolve issue",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "sre"
-     ],
-     "route": "iswv",
-     "score": 20,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is",
-      "contract: needs to be an employee offer"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 20,
-   "tier": "C",
-   "also_on": [
-    {
-     "source": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4487674358/"
-    }
-   ]
   },
   {
    "id": "seek:94907508",
@@ -27888,97 +28571,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95763707",
-   "source": "Seek",
-   "title": "Superstar Automation Engineer",
-   "company": "JWE (2026) Limited",
-   "advertiser": "JWE (2026) Limited",
-   "location": "Tauranga Central, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95763707",
-   "posted_at": "2026-11-08T19:51:15Z",
-   "work_type": "Full time",
-   "salary": "$110,000 \u2013 $140,000 per year",
-   "teaser": "Solve real plant problems, own automation solutions end-to-end, and help build JWE\u2019s growing automation capability across industrial sites.",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:10.102721+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Good at solving the problems that don\u2019t come with an instruction manual? \n o\u00a0\u00a0 Variety without being stuck in one lane. Machinery, packhouses, process plant, fault-finding, upgrades and commissioning.\n o\u00a0\u00a0 Help build something. Join JWE as we grow our automation capability across the Bay of Plenty, with genuine opportunity to grow with it.\n o\u00a0\u00a0 Just straight talk, good banter, no politics, Just go",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "route": "iswv",
-     "score": 15,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 15,
-   "tier": "C"
-  },
-  {
-   "id": "seek:95769355",
-   "source": "Seek",
-   "title": "Infrastructure Engineer",
-   "company": "Toi Ohomai",
-   "advertiser": "Toi Ohomai",
-   "location": "Welcome Bay, Bay of Plenty",
-   "url": "https://www.seek.co.nz/job/95769355",
-   "posted_at": "2026-11-09T01:35:13Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Infrastructure Engineer Lead modern cloud & device management Make a real impact across campuses Work with cutting-edge Microsoft tools",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:56:59.985681+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026ed support during the application process, reach out, we\u2019re here to help.  All applicants must have the legal right to work in New Zealand. \u00a0Toi Ohomai is committed to safeguarding children and vulnerable persons\u2026"
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "M\u014d t\u0113nei t\u016branga mahi | About the Role \n As Infrastructure Engineer, you'll keep Toi Ohomai's infrastructure, cloud and Microsoft 365 services secure and reliable, with a focus on modern device management across Windows and Apple, identity and secure access, so \u0101konga and kaimahi can work and learn successfully.\n Our Digital team supports the technology that connects Toi Ohomai's people and servic",
-   "for": {
-    "abhishek": {
-     "fit": "core",
-     "skills": [],
-     "route": "iswv",
-     "score": 15,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 15,
-   "tier": "C"
-  },
-  {
    "id": "seek:95798738",
    "source": "Seek",
    "title": "Customer Solutions Engineer",
@@ -28493,59 +29085,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:95765473",
-   "source": "Seek",
-   "title": "Machine Learning Engineer",
-   "company": "Walker Smith",
-   "advertiser": "Walker Smith",
-   "location": "Christchurch Central, Canterbury",
-   "url": "https://www.seek.co.nz/job/95765473",
-   "posted_at": "2026-11-08T23:26:24Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Apply computer vision to a real animal-health problem. Join Herd-i\u2019s ML team in Christchurch and own the models and MLOps pipeline behind them. Real computer vision on real farms, not a lab project Own the MLOps pipeline from training to monitoring Genuine autonomy in a close-knit team",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-11-09T04:40:59+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-09T04:57:03.066230+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [
-    {
-     "why": "Asks for existing right to work",
-     "quote": "\u2026nd defined pathways for career growth    This is an on-site role in Christchurch, and you must have the right to work in New Zealand. To find out more or to have a confidential discussion, apply now."
-    }
-   ],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "The Company \n\n Herd-i is a Christchurch-based Agritech company building AI products for dairy farmers. Its camera-based locomotion scoring system uses computer vision to assess cow health from video, giving farmers an early read on lameness and herd performance, and it\u2019s in use on commercial dairy farms. It\u2019s a growing team of around 20 in Christchurch, with software engineers, testers, DevOps and",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "ai",
-      "docker",
-      "jenkins",
-      "python"
-     ],
-     "route": "iswv",
-     "score": 12,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 12,
-   "tier": "C"
-  },
-  {
    "id": "seek:95533455",
    "source": "Seek",
    "title": "AI Engineering Lead",
@@ -28841,6 +29380,58 @@
    "visa_ready": false,
    "score": 10,
    "tier": "C"
+  },
+  {
+   "id": "seek:95769113",
+   "source": "Seek",
+   "title": "Platform Owner - Genesys Cloud",
+   "company": "Talent Corp",
+   "advertiser": "Talent",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95769113",
+   "posted_at": "2026-11-09T01:25:28Z",
+   "work_type": "Contract/Temp",
+   "salary": "",
+   "teaser": "Own Genesys Cloud, resolve technical issues and improve contact centre systems. 18-month contract based in Auckland or Wellington. 18-month contract based in Auckland Own the day-to-day technical direction of Genesys Cloud and core contact centre Make practical improvements to platform stability, releases and support processe",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:01.799222+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "Platform Owner - Genesys Cloud \n 18-month contract | Auckland based \n We're looking for a Platform Owner to provide day-to-day technical leadership and support for a National Contact Centre's core technology platforms, with a particular focus on Genesys Cloud.\n You'll be the main technical point of contact, working with business users, internal technology teams and support vendors to resolve issue",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 10,
+     "tier": "C",
+     "reasons": [
+      "via agency: ask who the employer is",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 10,
+   "tier": "C",
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4487674358/"
+    }
+   ]
   },
   {
    "id": "linkedin:4472482662",
@@ -29628,6 +30219,150 @@
    "tier": "C"
   },
   {
+   "id": "seek:95763707",
+   "source": "Seek",
+   "title": "Superstar Automation Engineer",
+   "company": "JWE (2026) Limited",
+   "advertiser": "JWE (2026) Limited",
+   "location": "Tauranga Central, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95763707",
+   "posted_at": "2026-11-08T19:51:15Z",
+   "work_type": "Full time",
+   "salary": "$110,000 \u2013 $140,000 per year",
+   "teaser": "Solve real plant problems, own automation solutions end-to-end, and help build JWE\u2019s growing automation capability across industrial sites.",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:10.102721+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Good at solving the problems that don\u2019t come with an instruction manual? \n o\u00a0\u00a0 Variety without being stuck in one lane. Machinery, packhouses, process plant, fault-finding, upgrades and commissioning.\n o\u00a0\u00a0 Help build something. Join JWE as we grow our automation capability across the Bay of Plenty, with genuine opportunity to grow with it.\n o\u00a0\u00a0 Just straight talk, good banter, no politics, Just go",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 5,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 5,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95769355",
+   "source": "Seek",
+   "title": "Infrastructure Engineer",
+   "company": "Toi Ohomai",
+   "advertiser": "Toi Ohomai",
+   "location": "Welcome Bay, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95769355",
+   "posted_at": "2026-11-09T01:35:13Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Infrastructure Engineer Lead modern cloud & device management Make a real impact across campuses Work with cutting-edge Microsoft tools",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:56:59.985681+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ed support during the application process, reach out, we\u2019re here to help.  All applicants must have the legal right to work in New Zealand. \u00a0Toi Ohomai is committed to safeguarding children and vulnerable persons\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "M\u014d t\u0113nei t\u016branga mahi | About the Role \n As Infrastructure Engineer, you'll keep Toi Ohomai's infrastructure, cloud and Microsoft 365 services secure and reliable, with a focus on modern device management across Windows and Apple, identity and secure access, so \u0101konga and kaimahi can work and learn successfully.\n Our Digital team supports the technology that connects Toi Ohomai's people and servic",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 5,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 5,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95765473",
+   "source": "Seek",
+   "title": "Machine Learning Engineer",
+   "company": "Walker Smith",
+   "advertiser": "Walker Smith",
+   "location": "Christchurch Central, Canterbury",
+   "url": "https://www.seek.co.nz/job/95765473",
+   "posted_at": "2026-11-08T23:26:24Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Apply computer vision to a real animal-health problem. Join Herd-i\u2019s ML team in Christchurch and own the models and MLOps pipeline behind them. Real computer vision on real farms, not a lab project Own the MLOps pipeline from training to monitoring Genuine autonomy in a close-knit team",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-09T04:40:59+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-09T04:57:03.066230+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026nd defined pathways for career growth    This is an on-site role in Christchurch, and you must have the right to work in New Zealand. To find out more or to have a confidential discussion, apply now."
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "The Company \n\n Herd-i is a Christchurch-based Agritech company building AI products for dairy farmers. Its camera-based locomotion scoring system uses computer vision to assess cow health from video, giving farmers an early read on lameness and herd performance, and it\u2019s in use on commercial dairy farms. It\u2019s a growing team of around 20 in Christchurch, with software engineers, testers, DevOps and",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "ai",
+      "docker",
+      "jenkins",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 2,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 2,
+   "tier": "C"
+  },
+  {
    "id": "linkedin:4486746038",
    "source": "LinkedIn",
    "title": "Staff AI Engineer",
@@ -29974,6 +30709,66 @@
    "visa_ready": false,
    "score": -8,
    "tier": "C"
+  },
+  {
+   "id": "seek:95818594",
+   "source": "Seek",
+   "title": "Project Manager (Technology)",
+   "company": "Tribe Group",
+   "advertiser": "Tribe (New Zealand) Limited",
+   "location": "Queenstown, Otago",
+   "url": "https://www.seek.co.nz/job/95818594",
+   "posted_at": "2026-11-11T01:17:53Z",
+   "work_type": "Full time",
+   "salary": "150k base + Queenstown lifestyle + purpose",
+   "teaser": "Lead hands-on tech projects at RealNZ in Queenstown, delivering ERP, cyber and AI initiatives through to adoption in a purpose-led, low-ego team. $150k base salary + permanent, full-time role (40 hrs guaranteed) Queenstown based (3 days on-site), lifestyle + purpose-led organisation Broad portfolio: ERP delivery, cyber uplift, AI enablement + upgrades",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T03:36:09+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-10T04:36:34.273830+00:00",
+    "expiry": "2028-06-18",
+    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+    "nzbn": "9429030268715",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026tions will be reviewed as they are received.    Important: To apply for this vacancy, you must be a New Zealand citizen, resident, or already hold the right to work in New Zealand and therefore hold a valid vi\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "About RealNZ \n\n\n\nRealNZ is a purpose-led South Island organisation creating extraordinary nature-based experiences that help the world fall in love with conservation. Based in Queenstown and operating across key southern locations including Queenstown, Te Anau, Milford Sound and Manapouri, RealNZ combines tourism with hands-on conservation and sustainability initiatives to protect the places they ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "enterprise",
+      "methods",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 99,
+     "tier": "blocked",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 99,
+   "tier": "blocked"
   },
   {
    "id": "seek:95046072",
