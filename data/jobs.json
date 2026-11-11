@@ -20338,6 +20338,50 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4487882997",
+   "source": "LinkedIn",
+   "title": "Site Reliability Engineer",
+   "company": "Cyncly",
+   "advertiser": "Cyncly",
+   "location": "Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4487882997/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T06:29:04+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T06:45:04.600091+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Title: Site Reliability Engineer \n Location: Auckland, New Zealand (Hybrid) \n Permanent - Full time \n \n\n About Us \n Cyncly is a global technology powerhouse with 2,400+ employees and 70,000+ customers across 100+ countries. Cyncly transforms the way customizable products and spaces are imagined, designed, sold, managed and made. Our end-to-end software solutions connect professional designers,",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "jenkins",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 39,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 39,
+   "tier": "B"
+  },
+  {
    "id": "seek:95009448",
    "source": "Seek",
    "title": "Programme Manager",
