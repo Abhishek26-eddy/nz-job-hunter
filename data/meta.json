@@ -8,25 +8,25 @@
   "hash": "713a4f26734c349717cab10e1e330d3db98d9911a5154f9053318da2f30d9188",
   "checked_at": "2026-10-23T01:57:13+00:00"
  },
- "last_run": "2026-11-11T03:36:09+00:00",
+ "last_run": "2026-11-11T05:17:17+00:00",
  "first_run_at": "2026-10-21T14:22:29+00:00",
- "new_this_run": 15,
+ "new_this_run": 5,
  "emailed_this_run": 0,
  "totals": {
-  "A": 215,
-  "B": 195,
-  "C": 164,
+  "A": 217,
+  "B": 197,
+  "C": 165,
   "blocked": 47
  },
  "errors": [],
- "accreditation_lookups": 18,
- "visa_ready_this_run": 5,
+ "accreditation_lookups": 6,
+ "visa_ready_this_run": 4,
  "profiles": [
   "abhishek",
   "wife"
  ],
  "visa_ready_by_person": {
-  "abhishek": 0,
-  "wife": 5
+  "abhishek": 3,
+  "wife": 1
  }
 }

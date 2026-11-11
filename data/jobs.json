@@ -599,6 +599,55 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4488643858",
+   "source": "LinkedIn",
+   "title": "Project Manager",
+   "company": "Auckland Council",
+   "advertiser": "Auckland Council",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4488643858/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T05:17:17+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-11T05:02:00.894900+00:00",
+    "expiry": "2028-06-08",
+    "legal_name": "Auckland Council",
+    "nzbn": "9429000034753",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Permanent, full-time opportunity\n Deliver strategic projects that support outcomes for T\u0101maki Makaurau Auckland\n Be part of a driven, collaborative and outcomes-focused team\n\n\n\n T\u0101taki Auckland Unlimited (TAU) is looking for an experienced Project Manager to plan and deliver strategic projects, coordinate project teams and turn agreed priorities into practical results. You will bring a structured,",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "budget",
+      "data",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
    "id": "seek:94933998",
    "source": "Seek",
    "title": "Senior Delivery Manager",
@@ -7012,6 +7061,59 @@
    "tier": "A"
   },
   {
+   "id": "seek:95824559",
+   "source": "Seek",
+   "title": "Intermediate QA Automation Engineer (Embedded Devices)",
+   "company": "EROAD",
+   "advertiser": "EROAD Limited",
+   "location": "Albany, Auckland",
+   "url": "https://www.seek.co.nz/job/95824559",
+   "posted_at": "2026-11-11T04:05:31Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Help test technology that saves lives, from connected telematics hardware and firmware through to the cloud at EROAD Build BDD and automation coverage across telematics hardware and firmware Work hands-on with serial protocols, Linux and CI/CD pipelines daily Take on meaningful challenges and grow your career with a global tech business",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T05:17:17+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:26:33.267301+00:00",
+    "legal_name": "EROAD LIMITED",
+    "nzbn": "9429037254377",
+    "expiry": "2028-08-10"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "ABOUT THE COMPANY \n\nEROAD is a Kiwi-born global fleet management technology company, delivering GPS tracking, video telematics, compliance automation and driver safety tools to fleet operators across New Zealand, Australia and North America through an integrated hardware-and-software platform. The Devices Team is growing to keep pace with demand for connected hardware and services, and we're hirin",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "bash",
+      "jenkins",
+      "linux",
+      "observability",
+      "python"
+     ],
+     "route": "iswv",
+     "score": 78,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 78,
+   "tier": "A"
+  },
+  {
    "id": "linkedin:4457320155",
    "source": "LinkedIn",
    "title": "Technical Business Analyst",
@@ -13413,6 +13515,53 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4489692635",
+   "source": "LinkedIn",
+   "title": "Principal Architect - Cloud and Infrastructure Platforms",
+   "company": "One New Zealand",
+   "advertiser": "One New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4489692635/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T05:17:17+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-11T05:26:37.188446+00:00",
+    "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
+    "nzbn": "9429037753115",
+    "expiry": "2028-06-26"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "He aha ai t\u0101tou \u2013 Why us?\n\n At One NZ we\u2019re not just imagining the future, we\u2019re building it. Our purpose? A better-connected Aotearoa New Zealand. Kia renarena te taukaea i Aotearoa New Zealand.\n\n Our ambition? To become the most AI-enabled telco on the planet. This isn\u2019t just about our technology, It\u2019s about you. We\u2019re investing in our people like never before.... empowering them to grow, lead, ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "docker"
+     ],
+     "route": "iswv",
+     "score": 56,
+     "tier": "B",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 56,
+   "tier": "B"
+  },
+  {
    "id": "seek:95160130",
    "source": "Seek",
    "title": "Principal Systems Engineer",
@@ -18424,6 +18573,58 @@
     }
    },
    "visa_ready": false,
+   "score": 43,
+   "tier": "B"
+  },
+  {
+   "id": "linkedin:4486543274",
+   "source": "LinkedIn",
+   "title": "Principal Systems Engineer",
+   "company": "NZ Transport Agency Waka Kotahi",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4486543274/",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T05:17:17+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4486543272/"
+    }
+   ],
+   "accreditation": {
+    "checked_at": "2026-11-09T05:13:11.137807+00:00",
+    "expiry": "2028-07-08",
+    "legal_name": "New Zealand Transport Agency",
+    "nzbn": "9429041910085",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead our Engineering Chapter as a Principal Systems Engineer\n Your expertise will contribute to future proofing infrastructural innovation\n Auckland, Palmerston North or Wellington locations\n\n\n We are strengthening technical and craft leadership across our Technology Chapters, with greater depth of expertise and stronger support for our people and delivery. These opportunities strengthen technical",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 43,
+     "tier": "B",
+     "reasons": [
+      "accredited employer",
+      "title above current level"
+     ]
+    }
+   },
+   "visa_ready": true,
    "score": 43,
    "tier": "B"
   },
@@ -25896,7 +26097,13 @@
    },
    "visa_ready": false,
    "score": 26,
-   "tier": "C"
+   "tier": "C",
+   "also_on": [
+    {
+     "source": "Seek",
+     "url": "https://www.seek.co.nz/job/95824156"
+    }
+   ]
   },
   {
    "id": "seek:95134432",
@@ -30449,6 +30656,51 @@
      "reasons": [
       "not on public INZ list",
       "part time: the visa needs 30h+ a week"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 0,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4489684686",
+   "source": "LinkedIn",
+   "title": "Solutions Engineer (Microsoft Stack)",
+   "company": "Pax8",
+   "advertiser": "Pax8",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4489684686/",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-11T05:17:17+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T05:26:39.232977+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [
+    {
+     "why": "Asks for existing right to work",
+     "quote": "\u2026ectives, inclusive hiring and sharing your transferrable skills. To fulfil this role, you must hold valid right to work in New Zealand.  Pax8\u2019s current advert guidance specifically encourages applications from\u2026"
+    }
+   ],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "\ud83c\udfc6 Solutions Engineer (Microsoft Stack) | Auckland, New Zealand | Hybrid\n\n Pax8 is hiring a Solutions Engineer (Microsoft Stack) in Auckland, New Zealand , to help managed service providers turn Microsoft cloud technology into secure, scalable solutions that deliver real business value.\n\n \ud83d\ude80 Build cloud solutions that make an impact\n\n This is a chance to sit at the intersection of technology, commer",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [],
+     "route": "iswv",
+     "score": 0,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
      ]
     }
    },

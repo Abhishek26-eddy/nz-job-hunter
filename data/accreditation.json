@@ -522,6 +522,10 @@
   "nzbn": "9429038549977",
   "status": "accredited"
  },
+ "contacx": {
+  "checked_at": "2026-11-11T05:26:43.056754+00:00",
+  "status": "not_listed"
+ },
  "convergence partners": {
   "checked_at": "2026-10-21T14:38:09.239132+00:00",
   "status": "not_listed"
@@ -775,7 +779,7 @@
   "status": "not_listed"
  },
  "eroad": {
-  "checked_at": "2026-11-02T05:20:28.587437+00:00",
+  "checked_at": "2026-11-11T05:26:33.267301+00:00",
   "expiry": "2028-08-10",
   "legal_name": "EROAD LIMITED",
   "nzbn": "9429037254377",
@@ -1458,7 +1462,7 @@
   "status": "not_listed"
  },
  "one": {
-  "checked_at": "2026-11-02T03:50:38.088318+00:00",
+  "checked_at": "2026-11-11T05:26:37.188446+00:00",
   "expiry": "2028-06-26",
   "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
   "nzbn": "9429037753115",
@@ -1539,6 +1543,10 @@
   "legal_name": "PARTLY GROUP LIMITED",
   "nzbn": "9429048482516",
   "status": "accredited"
+ },
+ "pax8": {
+  "checked_at": "2026-11-11T05:26:39.232977+00:00",
+  "status": "not_listed"
  },
  "pegasus health": {
   "checked_at": "2026-10-21T14:26:24.816610+00:00",
@@ -2392,6 +2400,14 @@
   "legal_name": "WSP NEW ZEALAND LIMITED",
   "nzbn": "9429039194640",
   "status": "accredited"
+ },
+ "wsp in": {
+  "checked_at": "2026-11-11T05:26:41.210591+00:00",
+  "status": "not_listed"
+ },
+ "x4 construction": {
+  "checked_at": "2026-11-11T05:26:35.550100+00:00",
+  "status": "not_listed"
  },
  "xero": {
   "checked_at": "2026-11-06T05:54:33.472769+00:00",
