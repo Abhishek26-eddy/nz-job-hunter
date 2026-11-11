@@ -26724,6 +26724,54 @@
    "tier": "C"
   },
   {
+   "id": "seek:95831949",
+   "source": "Seek",
+   "title": "Business Analyst",
+   "company": "First Light Consulting",
+   "advertiser": "First Light Consulting",
+   "location": "Tauranga Central, Bay of Plenty",
+   "url": "https://www.seek.co.nz/job/95831949",
+   "posted_at": "2026-11-11T08:07:18Z",
+   "work_type": "Contract/Temp",
+   "salary": "$100 \u2013 $130 per hour",
+   "teaser": "Build accurate BPMN process maps by uncovering how people really work across New Zealand.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-11T09:02:24+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-11T09:10:14.616476+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "2-3 month contract, starts 18 November\n\n BPMN process mapping for a freight and logistics client\n\n Paid travel to sites around NZ\n\n About us\n First Light Consulting helps New Zealand businesses find where they lose time and money on manual work. We then fix the problems with automation and custom software. We are based in the Bay of Plenty.\n The project\n We are mapping how work and data move throu",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "consulting",
+      "data",
+      "requirements"
+     ],
+     "route": "aewv",
+     "score": 26,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list",
+      "contract: needs to be an employee offer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 26,
+   "tier": "C"
+  },
+  {
    "id": "linkedin:4480089905",
    "source": "LinkedIn",
    "title": "Cloud Security Consultant (AWS)",

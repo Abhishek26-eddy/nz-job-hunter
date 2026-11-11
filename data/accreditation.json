@@ -844,6 +844,10 @@
   "nzbn": "9429033175751",
   "status": "accredited"
  },
+ "first light consulting": {
+  "checked_at": "2026-11-11T09:10:14.616476+00:00",
+  "status": "not_listed"
+ },
  "fisher and paykel appliances": {
   "checked_at": "2026-11-11T05:02:06.522204+00:00",
   "expiry": "2028-03-24",
@@ -2028,6 +2032,10 @@
  },
  "synechron": {
   "checked_at": "2026-10-21T14:37:59.987031+00:00",
+  "status": "not_listed"
+ },
+ "synlait": {
+  "checked_at": "2026-11-11T09:10:11.757574+00:00",
   "status": "not_listed"
  },
  "system c": {
