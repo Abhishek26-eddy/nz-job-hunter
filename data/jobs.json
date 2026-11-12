@@ -6563,6 +6563,14 @@
     {
      "source": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4484406513/"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4490076662/"
+    },
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4490085401/"
     }
    ],
    "accreditation": {
@@ -27068,56 +27076,6 @@
    "tier": "C"
   },
   {
-   "id": "seek:94913393",
-   "source": "Seek",
-   "title": "Technical Consultant & Senior Systems Engineer | Cloud",
-   "company": "Fuse IT Recruitment",
-   "advertiser": "Fuse IT Recruitment",
-   "location": "Hamilton Central, Waikato",
-   "url": "https://www.seek.co.nz/job/94913393",
-   "posted_at": "2026-09-28T04:25:10Z",
-   "work_type": "Full time",
-   "salary": "$120,000 \u2013 $170,000 per year",
-   "teaser": "Hamilton or Tauranga: Technical Consultant to lead cloud engagements end to end, and a Senior Systems Engineer to implement and support MS Cloud.. Collaborative, close knit team Challenging Work: Solve complex problems and help deliver impactful projects. Fast paced, fantastic career opportunity.",
-   "first_seen": "2026-10-21T14:22:29+00:00",
-   "last_seen": "2026-10-21T14:22:29+00:00",
-   "needs_detail": false,
-   "fit": "adjacent",
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "skills": [
-    "bash"
-   ],
-   "recruiter": true,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-10-21T14:38:25.385214+00:00"
-   },
-   "has_description": true,
-   "summary": "About the Roles \n My client has two positions available in their cloud team, based in either Hamilton or Tauranga : a Senior Technical Consultant to lead cloud engagements end to end, and a Senior Systems Engineer to implement and support the solutions they design. Both roles work across the same Microsoft cloud stack but differ in seniority and scope. If you're unsure which fits you best, apply a",
-   "score": 23,
-   "tier": "C",
-   "reasons": [
-    "via agency: ask who the employer is"
-   ],
-   "visa_ready": false,
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [
-      "bash"
-     ],
-     "route": "iswv",
-     "score": 23,
-     "tier": "C",
-     "reasons": [
-      "via agency: ask who the employer is"
-     ]
-    }
-   }
-  },
-  {
    "id": "linkedin:4475522815",
    "source": "LinkedIn",
    "title": "Senior Cloud Engineer",
@@ -28880,49 +28838,6 @@
    },
    "visa_ready": false,
    "score": 16,
-   "tier": "C"
-  },
-  {
-   "id": "seek:95798738",
-   "source": "Seek",
-   "title": "Customer Solutions Engineer",
-   "company": "Loop Technologies",
-   "advertiser": "Loop Technologies",
-   "location": "Te Rapa, Waikato",
-   "url": "https://www.seek.co.nz/job/95798738",
-   "posted_at": "2026-11-10T04:18:35Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "We are looking for an engineering professional with a passion for electronics to join our Hamilton-based team in early Challenging technical facilitation role Flexible work arrangements Innovative NZ company",
-   "seek_class": [
-    "1209"
-   ],
-   "first_seen": "2026-11-10T01:39:23+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "not_listed",
-    "checked_at": "2026-11-10T04:36:15.994689+00:00"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "Job summary \n We are looking for an engineering professional with a passion for electronics to join our Hamilton-based team in early 2027 to provide engineering and project management support, process management, quality control and some technical trouble shooting primarily in 2way radio support.\n About Loop Technologies \n Based in the beautiful river-city of Hamilton, we are an agile and dynamic ",
-   "for": {
-    "abhishek": {
-     "fit": "adjacent",
-     "skills": [],
-     "route": "iswv",
-     "score": 15,
-     "tier": "C",
-     "reasons": [
-      "not on public INZ list"
-     ]
-    }
-   },
-   "visa_ready": false,
-   "score": 15,
    "tier": "C"
   },
   {
@@ -30746,6 +30661,49 @@
    "for": {
     "abhishek": {
      "fit": "core",
+     "skills": [],
+     "route": "iswv",
+     "score": 5,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 5,
+   "tier": "C"
+  },
+  {
+   "id": "seek:95798738",
+   "source": "Seek",
+   "title": "Customer Solutions Engineer",
+   "company": "Loop Technologies",
+   "advertiser": "Loop Technologies",
+   "location": "Te Rapa, Waikato",
+   "url": "https://www.seek.co.nz/job/95798738",
+   "posted_at": "2026-11-10T04:18:35Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "We are looking for an engineering professional with a passion for electronics to join our Hamilton-based team in early Challenging technical facilitation role Flexible work arrangements Innovative NZ company",
+   "seek_class": [
+    "1209"
+   ],
+   "first_seen": "2026-11-10T01:39:23+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-10T04:36:15.994689+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job summary \n We are looking for an engineering professional with a passion for electronics to join our Hamilton-based team in early 2027 to provide engineering and project management support, process management, quality control and some technical trouble shooting primarily in 2way radio support.\n About Loop Technologies \n Based in the beautiful river-city of Hamilton, we are an agile and dynamic ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
      "skills": [],
      "route": "iswv",
      "score": 5,
