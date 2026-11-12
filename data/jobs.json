@@ -376,6 +376,110 @@
    "tier": "A"
   },
   {
+   "id": "linkedin:4490087330",
+   "source": "LinkedIn",
+   "title": "Data & AI Delivery Manager",
+   "company": "IAG",
+   "advertiser": "IAG",
+   "location": "Christchurch, Canterbury, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4490087330/",
+   "posted_at": "2026-11-12T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-12T05:08:26+00:00",
+   "needs_detail": false,
+   "also_on": [
+    {
+     "source": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4490095001/"
+    }
+   ],
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-12T05:15:09.638065+00:00",
+    "legal_name": "IAG NEW ZEALAND LIMITED",
+    "nzbn": "9429039302748",
+    "expiry": "2027-05-15"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At IAG, we\u2019re ready for you. We're the largest general insurance group in Australia and New Zealand. Our family of brands turns the IAG purpose of making your world a safer place into action by helping everyday Aussies and New Zealanders, supporting their ambitions and making insurance accessible.\n\n Build the future of Data & AI delivery at IAG\n\n Join us at a pivotal moment as we reshape how Data ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "cloud",
+      "data",
+      "sdlc",
+      "stakeholders"
+     ],
+     "route": "iswv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4490090463",
+   "source": "LinkedIn",
+   "title": "Delivery Lead",
+   "company": "One New Zealand",
+   "advertiser": "One New Zealand",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4490090463/",
+   "posted_at": "2026-11-12T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-12T05:08:26+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-11T05:26:37.188446+00:00",
+    "expiry": "2028-06-26",
+    "legal_name": "ONE NEW ZEALAND GROUP LIMITED",
+    "nzbn": "9429037753115",
+    "status": "accredited"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "He aha ai t\u0101tou \u2013 Why us?\n\n At One NZ we\u2019re not just imagining the future, we\u2019re building it. Our purpose? A better-connected Aotearoa New Zealand. Kia renarena te taukaea i Aotearoa New Zealand.\n\n Our ambition? To become the most AI-enabled telco on the planet. This isn\u2019t just about our technology, It\u2019s about you. We\u2019re investing in our people like never before.... empowering them to grow, lead, ",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "data",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 90,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 90,
+   "tier": "A"
+  },
+  {
    "id": "seek:94933998",
    "source": "Seek",
    "title": "Senior Delivery Manager",
@@ -32268,6 +32372,58 @@
    },
    "visa_ready": false,
    "score": 49,
+   "tier": "blocked"
+  },
+  {
+   "id": "linkedin:4490079805",
+   "source": "LinkedIn",
+   "title": "Engineering Project Manager",
+   "company": "Caterpillar Inc.",
+   "advertiser": "Caterpillar Inc.",
+   "location": "Christchurch, Canterbury, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4490079805/",
+   "posted_at": "2026-11-12T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-12T05:08:26+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-12T05:15:12.008780+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026ww.Caterpillar.com/Careers  This position requires working onsite five days a week.  Visa Sponsorship is not available for this position.   Posting Dates   November 12, 2026 - November 26, 2026  Caterpillar i\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Career Area\n\n Engineering\n\n Job Description\n\n Your Work Shapes the World at Caterpillar Inc. \n\n When you join Caterpillar, you're joining a global team who cares not just about the work we do \u2013 but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here \u2013 we m",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "enterprise",
+      "product",
+      "requirements",
+      "sdlc"
+     ],
+     "route": "iswv",
+     "score": 48,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 48,
    "tier": "blocked"
   },
   {
