@@ -1,6 +1,6 @@
 {
  "323 recruitment": {
-  "checked_at": "2026-11-10T04:36:20.543830+00:00",
+  "checked_at": "2026-11-14T11:36:32.281625+00:00",
   "status": "not_listed"
  },
  "84 recruitment": {
@@ -42,7 +42,7 @@
   "status": "accredited"
  },
  "access": {
-  "checked_at": "2026-10-23T07:28:19.547116+00:00",
+  "checked_at": "2026-11-14T11:36:44.753338+00:00",
   "status": "not_listed"
  },
  "access apac": {
@@ -381,7 +381,7 @@
   "status": "accredited"
  },
  "brian perry civil": {
-  "checked_at": "2026-11-10T04:36:17.464750+00:00",
+  "checked_at": "2026-11-14T11:36:30.972392+00:00",
   "status": "not_listed"
  },
  "brightspark recruitment": {
@@ -528,7 +528,7 @@
   "status": "not_listed"
  },
  "consult recruitment": {
-  "checked_at": "2026-11-03T05:43:09.262279+00:00",
+  "checked_at": "2026-11-14T11:36:13.019517+00:00",
   "expiry": "2028-08-27",
   "legal_name": "CONSULT RECRUITMENT LIMITED",
   "nzbn": "9429047259775",
@@ -542,7 +542,7 @@
   "status": "accredited"
  },
  "contacx": {
-  "checked_at": "2026-11-11T05:26:43.056754+00:00",
+  "checked_at": "2026-11-14T11:36:36.878589+00:00",
   "status": "not_listed"
  },
  "convergence partners": {
@@ -550,7 +550,7 @@
   "status": "not_listed"
  },
  "convergint": {
-  "checked_at": "2026-11-10T05:46:55.003085+00:00",
+  "checked_at": "2026-11-14T11:36:38.248512+00:00",
   "status": "not_listed"
  },
  "convergint asia pacific": {
@@ -608,7 +608,7 @@
   "status": "accredited"
  },
  "datacom": {
-  "checked_at": "2026-11-05T14:06:24.139020+00:00",
+  "checked_at": "2026-11-14T11:36:11.536093+00:00",
   "expiry": "2028-08-03",
   "legal_name": "DATACOM NEW ZEALAND LIMITED",
   "nzbn": "9429032698626",
@@ -672,7 +672,7 @@
   "status": "accredited"
  },
  "digital garage": {
-  "checked_at": "2026-10-21T15:01:17.984230+00:00",
+  "checked_at": "2026-11-14T11:36:19.702539+00:00",
   "status": "not_listed"
  },
  "dms progrowers": {
@@ -958,7 +958,7 @@
   "status": "accredited"
  },
  "fuse it recruitment": {
-  "checked_at": "2026-11-06T05:11:18.399513+00:00",
+  "checked_at": "2026-11-14T11:36:24.293663+00:00",
   "status": "not_listed"
  },
  "fusion networks": {
@@ -980,10 +980,10 @@
   "status": "not_listed"
  },
  "gallagher": {
-  "checked_at": "2026-10-29T07:02:55.388748+00:00",
-  "expiry": "2028-04-02",
-  "legal_name": "GALLAGHER GROUP LIMITED",
-  "nzbn": "9429040076591",
+  "checked_at": "2026-11-14T11:36:42.481078+00:00",
+  "expiry": "2028-09-23",
+  "legal_name": "ARTHUR J. GALLAGHER & CO (NZ) LIMITED",
+  "nzbn": "9429035470076",
   "status": "accredited"
  },
  "gallagher security": {
@@ -999,7 +999,7 @@
   "status": "not_listed"
  },
  "gentec": {
-  "checked_at": "2026-11-10T05:23:36.113347+00:00",
+  "checked_at": "2026-11-14T11:36:33.619184+00:00",
   "status": "not_listed"
  },
  "global dairy trade": {
@@ -1095,7 +1095,7 @@
   "status": "accredited"
  },
  "higgins concrete": {
-  "checked_at": "2026-11-11T05:01:54.248843+00:00",
+  "checked_at": "2026-11-14T11:36:29.683530+00:00",
   "status": "not_listed"
  },
  "hired": {
@@ -1158,6 +1158,13 @@
   "checked_at": "2026-10-23T07:28:08.984168+00:00",
   "status": "not_listed"
  },
+ "instillery": {
+  "checked_at": "2026-11-14T11:36:15.763259+00:00",
+  "expiry": "2028-05-26",
+  "legal_name": "THE INSTILLERY GROUP LIMITED",
+  "nzbn": "9429041131305",
+  "status": "accredited"
+ },
  "intepeople": {
   "checked_at": "2026-10-28T03:32:50.371372+00:00",
   "status": "not_listed"
@@ -1204,7 +1211,7 @@
   "status": "not_listed"
  },
  "johnson": {
-  "checked_at": "2026-11-11T05:01:46.056706+00:00",
+  "checked_at": "2026-11-14T11:36:22.218777+00:00",
   "status": "not_listed"
  },
  "joyn": {
@@ -1617,7 +1624,7 @@
   "status": "not_listed"
  },
  "peoplelogic": {
-  "checked_at": "2026-10-27T15:08:01.530666+00:00",
+  "checked_at": "2026-11-14T11:36:25.620210+00:00",
   "status": "not_listed"
  },
  "perpetual guardian": {
@@ -1884,6 +1891,10 @@
   "checked_at": "2026-10-21T14:29:11.403877+00:00",
   "status": "not_listed"
  },
+ "sato asia pacific": {
+  "checked_at": "2026-11-14T11:36:18.369868+00:00",
+  "status": "not_listed"
+ },
  "sbs bank": {
   "checked_at": "2026-10-21T15:00:58.082729+00:00",
   "expiry": "2027-12-19",
@@ -2037,6 +2048,10 @@
   "checked_at": "2026-11-04T04:58:59.488137+00:00",
   "status": "not_listed"
  },
+ "sprout": {
+  "checked_at": "2026-11-14T11:36:26.896112+00:00",
+  "status": "not_listed"
+ },
  "staffroom": {
   "checked_at": "2026-10-21T14:38:38.446520+00:00",
   "status": "not_listed"
@@ -2103,8 +2118,15 @@
   "status": "not_listed"
  },
  "synlait": {
-  "checked_at": "2026-11-11T09:10:11.757574+00:00",
+  "checked_at": "2026-11-14T11:36:28.340722+00:00",
   "status": "not_listed"
+ },
+ "syos aerospace": {
+  "checked_at": "2026-11-14T11:36:39.624488+00:00",
+  "expiry": "2028-10-13",
+  "legal_name": "SYOS AEROSPACE LIMITED",
+  "nzbn": "9429048930901",
+  "status": "accredited"
  },
  "system c": {
   "checked_at": "2026-11-02T03:50:49.636968+00:00",
@@ -2282,7 +2304,7 @@
   "status": "accredited"
  },
  "transpower": {
-  "checked_at": "2026-11-06T06:16:23.656224+00:00",
+  "checked_at": "2026-11-14T11:36:43.515345+00:00",
   "expiry": "2028-07-22",
   "legal_name": "TRANSPOWER NEW ZEALAND LIMITED",
   "nzbn": "9429039514226",
@@ -2456,6 +2478,17 @@
   "checked_at": "2026-11-06T03:15:26.870516+00:00",
   "status": "not_listed"
  },
+ "whitecliffe": {
+  "checked_at": "2026-11-14T11:36:17.067237+00:00",
+  "status": "not_listed"
+ },
+ "whitecliffe college": {
+  "checked_at": "2026-11-14T11:36:35.655459+00:00",
+  "expiry": "2028-11-03",
+  "legal_name": "WHITECLIFFE EDUCATION LIMITED",
+  "nzbn": "9429039899958",
+  "status": "accredited"
+ },
  "woolworths": {
   "checked_at": "2026-11-04T07:16:06.749158+00:00",
   "status": "not_listed"
@@ -2489,11 +2522,11 @@
   "status": "accredited"
  },
  "wsp in": {
-  "checked_at": "2026-11-11T05:26:41.210591+00:00",
+  "checked_at": "2026-11-14T11:36:41.266820+00:00",
   "status": "not_listed"
  },
  "x4 construction": {
-  "checked_at": "2026-11-11T05:26:35.550100+00:00",
+  "checked_at": "2026-11-14T11:36:20.946401+00:00",
   "status": "not_listed"
  },
  "xero": {
