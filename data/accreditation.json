@@ -944,7 +944,7 @@
   "status": "accredited"
  },
  "fujitsu": {
-  "checked_at": "2026-10-21T14:28:54.947456+00:00",
+  "checked_at": "2026-11-14T11:58:05.687354+00:00",
   "expiry": "2028-09-09",
   "legal_name": "FUJITSU NEW ZEALAND LIMITED",
   "nzbn": "9429040786070",
@@ -2494,7 +2494,7 @@
   "status": "not_listed"
  },
  "workday": {
-  "checked_at": "2026-10-21T14:30:38.926969+00:00",
+  "checked_at": "2026-11-14T11:58:07.219411+00:00",
   "expiry": "2028-07-07",
   "legal_name": "WORKDAY (NZ) UNLIMITED",
   "nzbn": "9429041438817",

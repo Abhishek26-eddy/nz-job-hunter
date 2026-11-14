@@ -9134,6 +9134,61 @@
    "tier": "A"
   },
   {
+   "id": "seek:95773277",
+   "source": "Seek",
+   "title": "Senior Domain Architect Multi-Cloud",
+   "company": "Fujitsu",
+   "advertiser": "Fujitsu Australia Limited",
+   "location": "Wellington Central, Wellington",
+   "url": "https://www.seek.co.nz/job/95773277",
+   "posted_at": "2026-11-09T03:33:16Z",
+   "work_type": "Full time",
+   "salary": "Unlock potential with Fujitsu\u2014fuelling innovation!",
+   "teaser": "You will provide senior technical leadership across Azure and hybrid cloud environments, shaping customer strategy and delivering secure Join a company where Purpose, Sustainability & Innovation thrive. Inclusive workplace that values diversity and empowers everyone to succeed. Grow confidently in a supportive workplace that invests in your success.",
+   "seek_class": [
+    "6281"
+   ],
+   "first_seen": "2026-11-14T11:52:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-14T11:58:05.687354+00:00",
+    "legal_name": "FUJITSU NEW ZEALAND LIMITED",
+    "nzbn": "9429040786070",
+    "expiry": "2028-09-09"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "We Are Fujitsu \n We use technology to make happier lives. We are a global leader in technology and business solutions that transform organizations and the world around us. We have a long heritage of bringing innovation and expertise, continuously working to contribute to the growth of society and our customers.\n Location: Wellington, New Zealand \n Work Type: Hybrid (2-3 days on site) \n Employment ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "cost",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "linux",
+      "python",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 74,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 74,
+   "tier": "A"
+  },
+  {
    "id": "seek:95840225",
    "source": "Seek",
    "title": "Rostering Business Analyst",
@@ -9227,6 +9282,60 @@
       "jenkins",
       "kubernetes",
       "observability"
+     ],
+     "route": "iswv",
+     "score": 74,
+     "tier": "A",
+     "reasons": [
+      "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": true,
+   "score": 74,
+   "tier": "A"
+  },
+  {
+   "id": "linkedin:4472193051",
+   "source": "LinkedIn",
+   "title": "Sr Distributed Systems Engineer (Python/Typescript)",
+   "company": "Workday",
+   "advertiser": "Workday",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4472193051/",
+   "posted_at": "2026-11-12T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-14T11:52:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "accredited",
+    "checked_at": "2026-11-14T11:58:07.219411+00:00",
+    "legal_name": "WORKDAY (NZ) UNLIMITED",
+    "nzbn": "9429041438817",
+    "expiry": "2028-07-07"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Your work days are brighter here.\n\n We\u2019re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we\u2019re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you\u2019ll feel it. Not just in the products we build,",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "aws",
+      "bash",
+      "deploys",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "python",
+      "sre",
+      "terraform"
      ],
      "route": "iswv",
      "score": 74,
@@ -31421,6 +31530,61 @@
      "tier": "blocked",
      "reasons": [
       "accredited employer"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 53,
+   "tier": "blocked"
+  },
+  {
+   "id": "linkedin:4473583894",
+   "source": "LinkedIn",
+   "title": "Programme Manager",
+   "company": "Tribe Group",
+   "advertiser": "Tribe Group",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4473583894/",
+   "posted_at": "2026-11-12T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-14T11:52:01+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-10T04:36:34.273830+00:00",
+    "expiry": "2028-06-18",
+    "legal_name": "TRIBE (NEW ZEALAND) LIMITED",
+    "nzbn": "9429030268715",
+    "status": "accredited"
+   },
+   "hard_blockers": [
+    {
+     "why": "NZ citizens/residents only",
+     "quote": "\u2026337 8380 and quote Job ID: 18661 for a confidential chat.  To apply for this vacancy, you MUST be a New Zealand citizen, resident, or have already secured the right to work in New Zealand and therefore hold a\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": true,
+   "has_description": true,
+   "summary": "About The Opportunity\n\n Lead ICT delivery for a major, high-profile national infrastructure programme\n Own the integrated programme plan across multiple technology workstreams\n Coordinate delivery partners including vendors, OEMs and specialist suppliers\n Drive outcomes across dependencies, changing requirements and complexity\n Ensure readiness for safe entry into service and operational transitio",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 53,
+     "tier": "blocked",
+     "reasons": [
+      "via agency: ask who the employer is"
      ]
     }
    },
