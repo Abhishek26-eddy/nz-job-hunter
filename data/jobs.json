@@ -2826,60 +2826,6 @@
    "tier": "A"
   },
   {
-   "id": "seek:94992624",
-   "source": "Seek",
-   "title": "Business Analyst",
-   "company": "Pilot Tech Limited",
-   "advertiser": "Pilot Tech Limited",
-   "location": "Auckland CBD, Auckland",
-   "url": "https://www.seek.co.nz/job/94992624",
-   "posted_at": "2026-10-01T05:33:53Z",
-   "work_type": "Full time",
-   "salary": "",
-   "teaser": "Turn client business needs into clear, prioritised requirements, and prove the value delivered, at a growing Auckland technology consultancy.",
-   "seek_class": [
-    "6281"
-   ],
-   "first_seen": "2026-10-23T07:17:33+00:00",
-   "needs_detail": false,
-   "accreditation": {
-    "status": "accredited",
-    "checked_at": "2026-10-23T07:28:12.974024+00:00",
-    "legal_name": "PILOT TECH LIMITED",
-    "nzbn": "9429051759568",
-    "expiry": "2027-07-23"
-   },
-   "hard_blockers": [],
-   "soft_blockers": [],
-   "positives": [],
-   "recruiter": false,
-   "has_description": true,
-   "summary": "About the role \n You'll be the bridge between our clients' business teams and our delivery engineers. You'll keep a clear line of sight between what the business needs, what's been committed to, and what's being built. You'll own the requirements backlog from first capture through to acceptance, so requirements are understood and agreed before development begins. Then you'll track whether the prom",
-   "for": {
-    "wife": {
-     "fit": "core",
-     "skills": [
-      "agile",
-      "business",
-      "consulting",
-      "data",
-      "product",
-      "requirements",
-      "stakeholders"
-     ],
-     "route": "aewv",
-     "score": 86,
-     "tier": "A",
-     "reasons": [
-      "accredited employer"
-     ]
-    }
-   },
-   "visa_ready": true,
-   "score": 86,
-   "tier": "A"
-  },
-  {
    "id": "linkedin:4423325840",
    "source": "LinkedIn",
    "title": "Technical Program Manager",
