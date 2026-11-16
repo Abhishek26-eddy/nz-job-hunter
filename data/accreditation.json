@@ -4,7 +4,7 @@
   "status": "not_listed"
  },
  "84 recruitment": {
-  "checked_at": "2026-11-03T05:43:19.510554+00:00",
+  "checked_at": "2026-11-16T06:24:38.945181+00:00",
   "status": "not_listed"
  },
  "abano healthcare": {
@@ -202,6 +202,13 @@
   "nzbn": "9429040827773",
   "status": "accredited"
  },
+ "asahi beverages": {
+  "checked_at": "2026-11-16T06:24:51.927550+00:00",
+  "expiry": "2026-12-12",
+  "legal_name": "ASAHI BEVERAGES (NZ) LIMITED",
+  "nzbn": "9429039576514",
+  "status": "accredited"
+ },
  "asb bank": {
   "checked_at": "2026-11-11T05:02:05.090553+00:00",
   "expiry": "2028-05-01",
@@ -380,6 +387,10 @@
   "nzbn": "9429035755715",
   "status": "accredited"
  },
+ "bremca": {
+  "checked_at": "2026-11-16T06:24:50.765398+00:00",
+  "status": "not_listed"
+ },
  "brian perry civil": {
   "checked_at": "2026-11-14T11:36:30.972392+00:00",
   "status": "not_listed"
@@ -535,7 +546,7 @@
   "status": "accredited"
  },
  "contact energy": {
-  "checked_at": "2026-11-02T03:50:07.455987+00:00",
+  "checked_at": "2026-11-16T06:24:53.177639+00:00",
   "expiry": "2028-09-14",
   "legal_name": "CONTACT ENERGY LIMITED",
   "nzbn": "9429038549977",
@@ -905,7 +916,7 @@
   "status": "not_listed"
  },
  "fonterra": {
-  "checked_at": "2026-11-06T07:04:05.779082+00:00",
+  "checked_at": "2026-11-16T06:25:01.498793+00:00",
   "expiry": "2028-08-06",
   "legal_name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
   "nzbn": "9429036748471",
@@ -1061,7 +1072,7 @@
   "status": "accredited"
  },
  "hays": {
-  "checked_at": "2026-11-09T05:13:08.499335+00:00",
+  "checked_at": "2026-11-16T06:25:00.249261+00:00",
   "status": "not_listed"
  },
  "hays recruitment": {
@@ -1077,7 +1088,7 @@
   "status": "not_listed"
  },
  "health te whatu ora": {
-  "checked_at": "2026-11-09T05:13:06.522745+00:00",
+  "checked_at": "2026-11-16T06:24:43.614577+00:00",
   "expiry": "2028-05-11",
   "legal_name": "Health New Zealand",
   "nzbn": "9429050678402",
@@ -1223,7 +1234,7 @@
   "status": "not_listed"
  },
  "k inga ora homes and communities": {
-  "checked_at": "2026-10-21T14:38:17.463084+00:00",
+  "checked_at": "2026-11-16T06:24:56.598985+00:00",
   "status": "not_listed"
  },
  "kainga ora": {
@@ -1317,7 +1328,7 @@
   "status": "not_listed"
  },
  "livestock improvement": {
-  "checked_at": "2026-11-09T05:12:54.095687+00:00",
+  "checked_at": "2026-11-16T06:24:46.005485+00:00",
   "expiry": "2028-06-22",
   "legal_name": "LIVESTOCK IMPROVEMENT CORPORATION LIMITED",
   "nzbn": "9429039566119",
@@ -1434,6 +1445,13 @@
   "nzbn": "9429000062299",
   "status": "accredited"
  },
+ "mitech": {
+  "checked_at": "2026-11-16T06:24:49.513100+00:00",
+  "expiry": "2028-01-22",
+  "legal_name": "MITECH GROUP LIMITED",
+  "nzbn": "9429051789336",
+  "status": "accredited"
+ },
  "mogi i o ott podcast short video apps for you": {
   "checked_at": "2026-10-27T06:36:15.886748+00:00",
   "status": "not_listed"
@@ -1514,7 +1532,7 @@
   "status": "accredited"
  },
  "novigi": {
-  "checked_at": "2026-10-27T06:35:51.365993+00:00",
+  "checked_at": "2026-11-16T06:24:48.461404+00:00",
   "status": "not_listed"
  },
  "nzist whitireia and weltec": {
@@ -1648,6 +1666,13 @@
   "nzbn": "9429051759568",
   "status": "accredited"
  },
+ "placemakers": {
+  "checked_at": "2026-11-16T06:24:42.434001+00:00",
+  "expiry": "2027-08-05",
+  "legal_name": "BUILDING PREFABRICATION SOLUTIONS LIMITED",
+  "nzbn": "9429030220805",
+  "status": "accredited"
+ },
  "placeme it recruitment": {
   "checked_at": "2026-10-30T03:12:13.644518+00:00",
   "expiry": "2027-10-16",
@@ -1660,7 +1685,7 @@
   "status": "not_listed"
  },
  "platinum recruitment": {
-  "checked_at": "2026-11-10T04:36:30.007989+00:00",
+  "checked_at": "2026-11-16T06:24:44.787754+00:00",
   "status": "not_listed"
  },
  "podcom": {
@@ -1671,7 +1696,7 @@
   "status": "accredited"
  },
  "police": {
-  "checked_at": "2026-11-11T05:01:37.878042+00:00",
+  "checked_at": "2026-11-16T06:24:54.289177+00:00",
   "status": "not_listed"
  },
  "polished concrete": {
@@ -1811,7 +1836,7 @@
   "status": "accredited"
  },
  "recruitnet consulting": {
-  "checked_at": "2026-11-02T03:50:34.618169+00:00",
+  "checked_at": "2026-11-16T06:24:47.185827+00:00",
   "status": "not_listed"
  },
  "red hat": {
@@ -2143,6 +2168,13 @@
   "nzbn": "9429040502625",
   "status": "accredited"
  },
+ "t and g global": {
+  "checked_at": "2026-11-16T06:24:57.660725+00:00",
+  "expiry": "2028-09-11",
+  "legal_name": "TURNERS & GROWERS NEW ZEALAND LIMITED",
+  "nzbn": "9429030068841",
+  "status": "accredited"
+ },
  "tainui": {
   "checked_at": "2026-10-28T03:32:52.569391+00:00",
   "status": "not_listed"
@@ -2376,6 +2408,13 @@
   "nzbn": "9429041925300",
   "status": "accredited"
  },
+ "university of waikato": {
+  "checked_at": "2026-11-16T06:24:41.291202+00:00",
+  "expiry": "2028-04-20",
+  "legal_name": "University of Waikato",
+  "nzbn": "9429041925331",
+  "status": "accredited"
+ },
  "vector": {
   "checked_at": "2026-10-30T03:12:16.641777+00:00",
   "expiry": "2028-05-21",
@@ -2458,6 +2497,13 @@
   "expiry": "2027-05-08",
   "legal_name": "WEBUILD NZ LIMITED",
   "nzbn": "9429053009326",
+  "status": "accredited"
+ },
+ "wellington free ambulance": {
+  "checked_at": "2026-11-16T06:24:58.951601+00:00",
+  "expiry": "2028-07-24",
+  "legal_name": "THE WELLINGTON FREE AMBULANCE SERVICE (INCORPORATED)",
+  "nzbn": "9429042838708",
   "status": "accredited"
  },
  "western bay of plenty district council": {
