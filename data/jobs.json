@@ -19566,6 +19566,54 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4463428996",
+   "source": "LinkedIn",
+   "title": "Senior Product Manager",
+   "company": "Publicis Sapient",
+   "advertiser": "Publicis Sapient",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4463428996/",
+   "posted_at": "2026-11-14T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-16T07:03:16+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-16T07:08:55.751647+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n As an experienced Product Manager in our Digital Consulting practice, you will act as a trusted advisor to clients, driving digital business transformation and delivering measurable value through iterative, customer-centric solutions. You will lead cross-functional teams, shape product strategies, and ensure successful delivery in complex corporate environments.\n\nYou bring togeth",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "consulting",
+      "data",
+      "product",
+      "requirements",
+      "risk",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
    "id": "seek:95273748",
    "source": "Seek",
    "title": "Technical Business Analyst",
@@ -32002,6 +32050,59 @@
      "tier": "blocked",
      "reasons": [
       "via agency: ask who the employer is"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "blocked"
+  },
+  {
+   "id": "linkedin:4444175582",
+   "source": "LinkedIn",
+   "title": "Delivery Lead",
+   "company": "Publicis Sapient",
+   "advertiser": "Publicis Sapient",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4444175582/",
+   "posted_at": "2026-11-14T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-16T07:03:16+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-16T07:08:55.751647+00:00"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026eligible for this role, you ll need to have full working rights in New Zealand, as we are unable to offer sponsorship now.   Additional Information   As part of our dedication to an inclusive and diverse\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n Your Impact\n\n We re growing our presence in New Zealand and looking for an experienced leader who is excited by the opportunity to help organisations navigate meaningful digital and AI led transformation. As our New Zealand Delivery Lead, you ll help establish and grow Publicis Sapient s local presence, bringing together global expertise and local market insight to deliver except",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "budget",
+      "consulting",
+      "data",
+      "risk",
+      "stakeholders",
+      "tools"
+     ],
+     "route": "iswv",
+     "score": 41,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list"
      ]
     }
    },
