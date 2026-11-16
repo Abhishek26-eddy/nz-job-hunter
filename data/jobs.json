@@ -19515,6 +19515,57 @@
    "tier": "B"
   },
   {
+   "id": "seek:95814271",
+   "source": "Seek",
+   "title": "Delivery Lead",
+   "company": "New Zealand Transport Agency",
+   "advertiser": "NZ Transport Agency Waka Kotahi",
+   "location": "Wellington",
+   "url": "https://www.seek.co.nz/job/95814271",
+   "posted_at": "2026-11-10T20:15:56Z",
+   "work_type": "Full time",
+   "salary": "",
+   "teaser": "Lead complex service modernisation projects that deliver tangible customer outcomes. Lead complex service modernisation projects Work across digital, regulatory, operational and customer environments Turn strategy into action and drive delivery across multidisciplinary teams",
+   "seek_class": [
+    "1210"
+   ],
+   "first_seen": "2026-11-16T13:04:20+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-16T13:11:05.138409+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Lead complex service modernisation projects that deliver tangible customer outcomes\n Work across digital, regulatory, operational and customer environments\n Turn strategy into action and drive delivery across multidisciplinary teams\n We have an exciting opportunity for an experienced delivery professional to join our Service Modernisation function as Delivery Lead.\n \nThis is a key delivery role re",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "data",
+      "methods",
+      "requirements",
+      "risk",
+      "stakeholders",
+      "vendors"
+     ],
+     "route": "iswv",
+     "score": 41,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 41,
+   "tier": "B"
+  },
+  {
    "id": "seek:95868115",
    "source": "Seek",
    "title": "Lecturer \u2013 IT (Dev Ops, Cloud & AI)",
@@ -27841,6 +27892,48 @@
    },
    "visa_ready": false,
    "score": 19,
+   "tier": "C"
+  },
+  {
+   "id": "linkedin:4490619115",
+   "source": "LinkedIn",
+   "title": "Senior HPC & AI Deployment Engineer",
+   "company": "Hewlett Packard Enterprise",
+   "advertiser": "Hewlett Packard Enterprise",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4490619115/",
+   "posted_at": "2026-11-16T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-16T13:04:20+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-16T13:11:10.248219+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "This role has been designed as \u2018\u2019Onsite\u2019 with an expectation that you will primarily work from an HPE partner/customer office.\n\n Who We Are\n\n Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into ",
+   "for": {
+    "abhishek": {
+     "fit": "adjacent",
+     "skills": [
+      "sre"
+     ],
+     "route": "iswv",
+     "score": 18,
+     "tier": "C",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 18,
    "tier": "C"
   },
   {
