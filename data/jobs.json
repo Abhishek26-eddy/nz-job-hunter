@@ -14649,6 +14649,59 @@
    "tier": "B"
   },
   {
+   "id": "linkedin:4490199926",
+   "source": "LinkedIn",
+   "title": "Cloud Platform Engineer",
+   "company": "GNS Science",
+   "advertiser": "GNS Science",
+   "location": "Wellington, Wellington, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4490199926/",
+   "posted_at": "2026-11-17T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-17T08:36:10+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "status": "not_listed",
+    "checked_at": "2026-11-17T08:43:12.554877+00:00"
+   },
+   "hard_blockers": [],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "At Earth Sciences New Zealand, we're bringing together exceptional science, technology and people to address the environmental, climate and natural hazard challenges facing Aotearoa New Zealand. As a collaborative and purpose-driven organisation, we're committed to delivering science that creates meaningful impact for communities, industry and the environment, while partnering with M\u0101ori, supporti",
+   "for": {
+    "abhishek": {
+     "fit": "core",
+     "skills": [
+      "ansible",
+      "aws",
+      "bash",
+      "cost",
+      "docker",
+      "jenkins",
+      "kubernetes",
+      "observability",
+      "python",
+      "security",
+      "sre",
+      "terraform"
+     ],
+     "route": "iswv",
+     "score": 54,
+     "tier": "B",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 54,
+   "tier": "B"
+  },
+  {
    "id": "seek:95047042",
    "source": "Seek",
    "title": "IT Systems Engineer",

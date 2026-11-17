@@ -1039,6 +1039,10 @@
   "nzbn": "9429041216323",
   "status": "accredited"
  },
+ "gns science": {
+  "checked_at": "2026-11-17T08:43:12.554877+00:00",
+  "status": "not_listed"
+ },
  "government communications security bureau": {
   "checked_at": "2026-10-29T05:04:43.369657+00:00",
   "status": "not_listed"
