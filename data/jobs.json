@@ -33164,6 +33164,60 @@
    ]
   },
   {
+   "id": "linkedin:4444173556",
+   "source": "LinkedIn",
+   "title": "Business Analyst",
+   "company": "Publicis Sapient",
+   "advertiser": "Publicis Sapient",
+   "location": "Auckland, Auckland, New Zealand",
+   "url": "https://www.linkedin.com/jobs/view/4444173556/",
+   "posted_at": "2026-11-15T00:00:00Z",
+   "work_type": "Full-time",
+   "salary": "",
+   "teaser": "",
+   "first_seen": "2026-11-17T06:45:07+00:00",
+   "needs_detail": false,
+   "accreditation": {
+    "checked_at": "2026-11-16T07:08:55.751647+00:00",
+    "status": "not_listed"
+   },
+   "hard_blockers": [
+    {
+     "why": "Says no visa sponsorship",
+     "quote": "\u2026rrently reside in New Zealand and hold unrestricted working rights. Unfortunately, we are unable to provide visa sponsorship or consider overseas applications for this role at this time. If you re available to\u2026"
+    }
+   ],
+   "soft_blockers": [],
+   "positives": [],
+   "recruiter": false,
+   "has_description": true,
+   "summary": "Job Description\n\n As a Business Analyst within our Digital Consulting practice, you will be the critical link between business stakeholders and delivery teams, ensuring digital products and solutions are designed, configured and implemented to achieve meaningful business outcomes.\n\nThis is more than requirements gathering. You ll work at the intersection of business strategy, customer needs and te",
+   "for": {
+    "wife": {
+     "fit": "core",
+     "skills": [
+      "agile",
+      "consulting",
+      "data",
+      "enterprise",
+      "product",
+      "requirements",
+      "sdlc",
+      "stakeholders"
+     ],
+     "route": "aewv",
+     "score": 44,
+     "tier": "blocked",
+     "reasons": [
+      "not on public INZ list"
+     ]
+    }
+   },
+   "visa_ready": false,
+   "score": 44,
+   "tier": "blocked"
+  },
+  {
    "id": "seek:95074345",
    "source": "Seek",
    "title": "Business Analyst - Fixed term (6 months from start date)",
