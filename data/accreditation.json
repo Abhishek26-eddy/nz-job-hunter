@@ -120,6 +120,13 @@
   "nzbn": "9429038041945",
   "status": "accredited"
  },
+ "allied media": {
+  "checked_at": "2026-11-17T06:29:31.179024+00:00",
+  "expiry": "2028-07-01",
+  "legal_name": "ALLIED PRESS LIMITED",
+  "nzbn": "9429034064733",
+  "status": "accredited"
+ },
  "alstef": {
   "checked_at": "2026-10-21T14:38:34.030861+00:00",
   "status": "not_listed"
@@ -662,7 +669,7 @@
   "status": "accredited"
  },
  "department of internal affairs": {
-  "checked_at": "2026-10-23T07:27:55.427032+00:00",
+  "checked_at": "2026-11-17T06:29:44.081271+00:00",
   "expiry": "2028-09-01",
   "legal_name": "Department of Internal Affairs",
   "nzbn": "9429041904916",
@@ -919,6 +926,10 @@
   "checked_at": "2026-11-06T22:19:20.246190+00:00",
   "status": "not_listed"
  },
+ "focus digital security": {
+  "checked_at": "2026-11-17T06:29:39.051951+00:00",
+  "status": "not_listed"
+ },
  "fonterra": {
   "checked_at": "2026-11-16T06:25:01.498793+00:00",
   "expiry": "2028-08-06",
@@ -966,7 +977,7 @@
   "status": "accredited"
  },
  "fulton hogan": {
-  "checked_at": "2026-11-10T04:36:22.344867+00:00",
+  "checked_at": "2026-11-17T06:29:37.012869+00:00",
   "expiry": "2027-03-04",
   "legal_name": "FULTON HOGAN LIMITED",
   "nzbn": "9429040318080",
@@ -1047,6 +1058,10 @@
   "checked_at": "2026-11-10T04:36:10.169860+00:00",
   "status": "not_listed"
  },
+ "halcyon knights": {
+  "checked_at": "2026-11-17T06:29:24.057326+00:00",
+  "status": "not_listed"
+ },
  "halter": {
   "checked_at": "2026-11-10T04:36:03.684635+00:00",
   "expiry": "2028-04-28",
@@ -1062,7 +1077,7 @@
   "status": "accredited"
  },
  "hato hone st john": {
-  "checked_at": "2026-10-21T15:00:45.182412+00:00",
+  "checked_at": "2026-11-17T06:29:33.701208+00:00",
   "expiry": "2028-09-04",
   "legal_name": "THE PRIORY IN NEW ZEALAND OF THE MOST VENERABLE ORDER OF THE HOSPITAL OF ST JOHN OF JERUSALEM",
   "nzbn": "9429043031801",
@@ -1080,7 +1095,7 @@
   "status": "not_listed"
  },
  "hays recruitment": {
-  "checked_at": "2026-11-03T05:43:13.578608+00:00",
+  "checked_at": "2026-11-17T06:29:21.550282+00:00",
   "status": "not_listed"
  },
  "health": {
@@ -1180,6 +1195,10 @@
   "nzbn": "9429041131305",
   "status": "accredited"
  },
+ "institute for earth science": {
+  "checked_at": "2026-11-17T06:29:26.460231+00:00",
+  "status": "not_listed"
+ },
  "intepeople": {
   "checked_at": "2026-10-28T03:32:50.371372+00:00",
   "status": "not_listed"
@@ -1214,7 +1233,7 @@
   "status": "accredited"
  },
  "jb hi fi": {
-  "checked_at": "2026-11-05T15:14:06.739291+00:00",
+  "checked_at": "2026-11-17T06:29:51.302484+00:00",
   "status": "not_listed"
  },
  "jigsaw staffing": {
@@ -1242,8 +1261,15 @@
   "status": "not_listed"
  },
  "kainga ora": {
-  "checked_at": "2026-10-21T14:27:42.943427+00:00",
+  "checked_at": "2026-11-17T06:29:22.866990+00:00",
   "status": "not_listed"
+ },
+ "kauri park nurseries": {
+  "checked_at": "2026-11-17T06:29:17.710106+00:00",
+  "expiry": "2026-11-25",
+  "legal_name": "KAURI PARK NURSERIES LIMITED",
+  "nzbn": "9429035143536",
+  "status": "accredited"
  },
  "kernel": {
   "checked_at": "2026-10-23T07:28:20.920417+00:00",
@@ -1403,7 +1429,7 @@
   "status": "accredited"
  },
  "meridian energy": {
-  "checked_at": "2026-11-10T05:46:56.215702+00:00",
+  "checked_at": "2026-11-17T06:29:49.595416+00:00",
   "expiry": "2028-08-13",
   "legal_name": "MERIDIAN ENERGY LIMITED",
   "nzbn": "9429037696863",
@@ -1429,7 +1455,7 @@
   "status": "accredited"
  },
  "ministry for primary industries": {
-  "checked_at": "2026-11-10T04:36:24.242721+00:00",
+  "checked_at": "2026-11-17T06:29:32.519780+00:00",
   "expiry": "2028-05-28",
   "legal_name": "Ministry for Primary Industries",
   "nzbn": "9429000096157",
@@ -1711,7 +1737,7 @@
   "status": "accredited"
  },
  "port of tauranga": {
-  "checked_at": "2026-10-23T07:27:20.541282+00:00",
+  "checked_at": "2026-11-17T06:29:30.001321+00:00",
   "expiry": "2028-04-10",
   "legal_name": "PORT OF TAURANGA LIMITED",
   "nzbn": "9429039540300",
@@ -1821,6 +1847,10 @@
   "checked_at": "2026-11-05T03:51:02.208252+00:00",
   "status": "not_listed"
  },
+ "rangitikei district council": {
+  "checked_at": "2026-11-17T06:29:40.626875+00:00",
+  "status": "not_listed"
+ },
  "reannz": {
   "checked_at": "2026-10-21T14:38:01.437818+00:00",
   "status": "not_listed"
@@ -1863,6 +1893,13 @@
   "expiry": "2028-03-31",
   "legal_name": "ROBERT WALTERS NEW ZEALAND LIMITED",
   "nzbn": "9429036154180",
+  "status": "accredited"
+ },
+ "roblawmax recruitment": {
+  "checked_at": "2026-11-17T06:29:34.994733+00:00",
+  "expiry": "2027-10-28",
+  "legal_name": "ROBLAWMAX RECRUITMENT LIMITED",
+  "nzbn": "9429036840427",
   "status": "accredited"
  },
  "robotron": {
@@ -1958,7 +1995,7 @@
   "status": "not_listed"
  },
  "seeka": {
-  "checked_at": "2026-10-23T07:27:47.026176+00:00",
+  "checked_at": "2026-11-17T06:29:28.852064+00:00",
   "status": "not_listed"
  },
  "selma sis": {
@@ -2184,7 +2221,7 @@
   "status": "not_listed"
  },
  "talent": {
-  "checked_at": "2026-11-09T04:57:01.799222+00:00",
+  "checked_at": "2026-11-17T06:29:42.920303+00:00",
   "status": "not_listed"
  },
  "talent army": {
@@ -2539,8 +2576,12 @@
   "nzbn": "9429039899958",
   "status": "accredited"
  },
+ "witt te pukenga": {
+  "checked_at": "2026-11-17T06:29:46.202024+00:00",
+  "status": "not_listed"
+ },
  "woolworths": {
-  "checked_at": "2026-11-04T07:16:06.749158+00:00",
+  "checked_at": "2026-11-17T06:29:48.317760+00:00",
   "status": "not_listed"
  },
  "workday": {
@@ -2591,7 +2632,7 @@
   "status": "not_listed"
  },
  "younity": {
-  "checked_at": "2026-11-05T14:06:22.191404+00:00",
+  "checked_at": "2026-11-17T06:29:25.243457+00:00",
   "status": "not_listed"
  },
  "zespri": {
